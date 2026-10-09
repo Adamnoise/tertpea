@@ -1,0 +1,38 @@
+{
+  "angol": {
+    "fulham": "Fulham",
+    "chelsea": "Chelsea",
+    "crystal palace": "Crystal Palace",
+    "brighton": "Brighton",
+    "aston oroszlan": "Aston Oroszlán",
+    "west ham": "West Ham",
+    "tottenham": "Tottenham",
+    "manchester kek": "Manchester Kék",
+    "nottingham": "Nottingham",
+    "brentford": "Brentford",
+    "wolverhampton": "Wolverhampton",
+    "everton": "Everton",
+    "london agyuk": "London Ágyúk",
+    "liverpool": "Liverpool",
+    "newcastle": "Newcastle",
+    "voros ordogok": "Vörös Ördögök"
+  },
+  "spanyol": {
+    "madrid piros": "Madrid Piros",
+    "san sebastian": "San Sebastian",
+    "madrid feher": "Madrid Fehér",
+    "sevilla piros": "Sevilla Piros",
+    "girona": "Girona",
+    "elche": "Elche",
+    "mallorca": "Mallorca",
+    "villarreal": "Villarreal",
+    "bilbao": "Bilbao",
+    "alaves": "Alaves",
+    "vigo": "Vigo",
+    "valencia": "Valencia",
+    "getafe": "Getafe",
+    "osasuna": "Osasuna",
+    "sevilla zold": "Sevilla Zöld",
+    "barcelona": "Barcelona"
+  }
+}

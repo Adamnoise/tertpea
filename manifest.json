@@ -1,0 +1,3260 @@
+{
+  "tool": "WinMix-adatbontó",
+  "version": "1.0.0",
+  "status": "complete",
+  "created_at_utc": "2026-10-09T19:06:27.398446+00:00",
+  "source": {
+    "name": "winmix_pipeline_db_v2_2026-09-15.md",
+    "bytes": 105827132,
+    "sha256": "572ecb5128220c5e05e2c56aefbae0f1592f2fc93d717de390073cab7e9da925"
+  },
+  "options": {
+    "chunk_size": 1000,
+    "csv": true,
+    "delimiter": ";",
+    "decimal": ","
+  },
+  "counts": {
+    "seasons": 103,
+    "matches": 24720,
+    "pipeline_present": 24720,
+    "ht_valid": 19200,
+    "ht_missing": 5520,
+    "ft_valid": 24720,
+    "kickoff_missing": 24720
+  },
+  "raw_index": {
+    "top_fields": [
+      {
+        "key": "schemaVersion",
+        "path": "08_eredeti/gyokermezok/01_schemaVersion_dd1a021ec1.json"
+      },
+      {
+        "key": "exportedAt",
+        "path": "08_eredeti/gyokermezok/02_exportedAt_f8fd8ee188.json"
+      },
+      {
+        "key": "settings",
+        "path": "08_eredeti/gyokermezok/03_settings_aeda63a77f.json"
+      },
+      {
+        "key": "calibration",
+        "path": "08_eredeti/gyokermezok/04_calibration_0963c5bdf9.json"
+      },
+      {
+        "key": "teamWeights",
+        "path": "08_eredeti/gyokermezok/05_teamWeights_ea350eefdc.json"
+      },
+      {
+        "key": "teamAliasMap",
+        "path": "08_eredeti/gyokermezok/06_teamAliasMap_131a98f127.json"
+      },
+      {
+        "key": "seasonCounters",
+        "path": "08_eredeti/gyokermezok/07_seasonCounters_d3b4666b04.json"
+      }
+    ],
+    "seasons": [
+      {
+        "source_index": 1,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0001_Angol_bajnoksag_1.json",
+        "matches": 240
+      },
+      {
+        "source_index": 2,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0002_Angol_bajnoksag_2.json",
+        "matches": 240
+      },
+      {
+        "source_index": 3,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0003_Angol_bajnoksag_3.json",
+        "matches": 240
+      },
+      {
+        "source_index": 4,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0004_Angol_bajnoksag_4.json",
+        "matches": 240
+      },
+      {
+        "source_index": 5,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0005_Angol_bajnoksag_5.json",
+        "matches": 240
+      },
+      {
+        "source_index": 6,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0006_Angol_bajnoksag_6.json",
+        "matches": 240
+      },
+      {
+        "source_index": 7,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0007_Angol_bajnoksag_7.json",
+        "matches": 240
+      },
+      {
+        "source_index": 8,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0008_Angol_bajnoksag_8.json",
+        "matches": 240
+      },
+      {
+        "source_index": 9,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0009_Angol_bajnoksag_9.json",
+        "matches": 240
+      },
+      {
+        "source_index": 10,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0010_Angol_bajnoksag_10.json",
+        "matches": 240
+      },
+      {
+        "source_index": 11,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0011_Angol_bajnoksag_11.json",
+        "matches": 240
+      },
+      {
+        "source_index": 12,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0012_Angol_bajnoksag_12.json",
+        "matches": 240
+      },
+      {
+        "source_index": 13,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0013_Angol_bajnoksag_13.json",
+        "matches": 240
+      },
+      {
+        "source_index": 14,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0014_Angol_bajnoksag_14.json",
+        "matches": 240
+      },
+      {
+        "source_index": 15,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0015_Angol_bajnoksag_15.json",
+        "matches": 240
+      },
+      {
+        "source_index": 16,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0016_Angol_bajnoksag_16.json",
+        "matches": 240
+      },
+      {
+        "source_index": 17,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0017_Angol_bajnoksag_17.json",
+        "matches": 240
+      },
+      {
+        "source_index": 18,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0018_Angol_bajnoksag_18.json",
+        "matches": 240
+      },
+      {
+        "source_index": 19,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0019_Spanyol_bajnoksag_1.json",
+        "matches": 240
+      },
+      {
+        "source_index": 20,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0020_Spanyol_bajnoksag_2.json",
+        "matches": 240
+      },
+      {
+        "source_index": 21,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0021_Spanyol_bajnoksag_3.json",
+        "matches": 240
+      },
+      {
+        "source_index": 22,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0022_Spanyol_bajnoksag_4.json",
+        "matches": 240
+      },
+      {
+        "source_index": 23,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0023_Spanyol_bajnoksag_5.json",
+        "matches": 240
+      },
+      {
+        "source_index": 24,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0024_Spanyol_bajnoksag_6.json",
+        "matches": 240
+      },
+      {
+        "source_index": 25,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0025_Spanyol_bajnoksag_7.json",
+        "matches": 240
+      },
+      {
+        "source_index": 26,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0026_Spanyol_bajnoksag_8.json",
+        "matches": 240
+      },
+      {
+        "source_index": 27,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0027_Spanyol_bajnoksag_9.json",
+        "matches": 240
+      },
+      {
+        "source_index": 28,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0028_Spanyol_bajnoksag_10.json",
+        "matches": 240
+      },
+      {
+        "source_index": 29,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0029_Spanyol_bajnoksag_11.json",
+        "matches": 240
+      },
+      {
+        "source_index": 30,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0030_Spanyol_bajnoksag_12.json",
+        "matches": 240
+      },
+      {
+        "source_index": 31,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0031_Spanyol_bajnoksag_13.json",
+        "matches": 240
+      },
+      {
+        "source_index": 32,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0032_Spanyol_bajnoksag_14.json",
+        "matches": 240
+      },
+      {
+        "source_index": 33,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0033_Spanyol_bajnoksag_15.json",
+        "matches": 240
+      },
+      {
+        "source_index": 34,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0034_Spanyol_bajnoksag_16.json",
+        "matches": 240
+      },
+      {
+        "source_index": 35,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0035_Spanyol_bajnoksag_17.json",
+        "matches": 240
+      },
+      {
+        "source_index": 36,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0036_Spanyol_bajnoksag_18.json",
+        "matches": 240
+      },
+      {
+        "source_index": 37,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0037_Angol_bajnoksag_19.json",
+        "matches": 240
+      },
+      {
+        "source_index": 38,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0038_Angol_bajnoksag_20.json",
+        "matches": 240
+      },
+      {
+        "source_index": 39,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0039_Angol_bajnoksag_21.json",
+        "matches": 240
+      },
+      {
+        "source_index": 40,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0040_Angol_bajnoksag_22.json",
+        "matches": 240
+      },
+      {
+        "source_index": 41,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0041_Angol_bajnoksag_23.json",
+        "matches": 240
+      },
+      {
+        "source_index": 42,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0042_Angol_bajnoksag_24.json",
+        "matches": 240
+      },
+      {
+        "source_index": 43,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0043_Angol_bajnoksag_25.json",
+        "matches": 240
+      },
+      {
+        "source_index": 44,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0044_Angol_bajnoksag_26.json",
+        "matches": 240
+      },
+      {
+        "source_index": 45,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0045_Angol_bajnoksag_27.json",
+        "matches": 240
+      },
+      {
+        "source_index": 46,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0046_Angol_bajnoksag_28.json",
+        "matches": 240
+      },
+      {
+        "source_index": 47,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0047_Angol_bajnoksag_29.json",
+        "matches": 240
+      },
+      {
+        "source_index": 48,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0048_Angol_bajnoksag_30.json",
+        "matches": 240
+      },
+      {
+        "source_index": 49,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0049_Angol_bajnoksag_31.json",
+        "matches": 240
+      },
+      {
+        "source_index": 50,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0050_Angol_bajnoksag_32.json",
+        "matches": 240
+      },
+      {
+        "source_index": 51,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0051_Angol_bajnoksag_33.json",
+        "matches": 240
+      },
+      {
+        "source_index": 52,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0052_Angol_bajnoksag_34.json",
+        "matches": 240
+      },
+      {
+        "source_index": 53,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0053_Angol_bajnoksag_35.json",
+        "matches": 240
+      },
+      {
+        "source_index": 54,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0054_Angol_bajnoksag_36.json",
+        "matches": 240
+      },
+      {
+        "source_index": 55,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0055_Angol_bajnoksag_37.json",
+        "matches": 240
+      },
+      {
+        "source_index": 56,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0056_Angol_bajnoksag_38.json",
+        "matches": 240
+      },
+      {
+        "source_index": 57,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0057_Angol_bajnoksag_39.json",
+        "matches": 240
+      },
+      {
+        "source_index": 58,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0058_Angol_bajnoksag_40.json",
+        "matches": 240
+      },
+      {
+        "source_index": 59,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0059_Angol_bajnoksag_41.json",
+        "matches": 240
+      },
+      {
+        "source_index": 60,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0060_Angol_bajnoksag_42.json",
+        "matches": 240
+      },
+      {
+        "source_index": 61,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0061_Angol_bajnoksag_43.json",
+        "matches": 240
+      },
+      {
+        "source_index": 62,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0062_Angol_bajnoksag_44.json",
+        "matches": 240
+      },
+      {
+        "source_index": 63,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0063_Angol_bajnoksag_45.json",
+        "matches": 240
+      },
+      {
+        "source_index": 64,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0064_Angol_bajnoksag_46.json",
+        "matches": 240
+      },
+      {
+        "source_index": 65,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0065_Angol_bajnoksag_47.json",
+        "matches": 240
+      },
+      {
+        "source_index": 66,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0066_Angol_bajnoksag_48.json",
+        "matches": 240
+      },
+      {
+        "source_index": 67,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0067_Angol_bajnoksag_49.json",
+        "matches": 240
+      },
+      {
+        "source_index": 68,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0068_Angol_bajnoksag_50.json",
+        "matches": 240
+      },
+      {
+        "source_index": 69,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0069_Angol_bajnoksag_51.json",
+        "matches": 240
+      },
+      {
+        "source_index": 70,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0070_Angol_bajnoksag_52.json",
+        "matches": 240
+      },
+      {
+        "source_index": 71,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0071_Angol_bajnoksag_53.json",
+        "matches": 240
+      },
+      {
+        "source_index": 72,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0072_Angol_bajnoksag_54.json",
+        "matches": 240
+      },
+      {
+        "source_index": 73,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0073_Angol_bajnoksag_55.json",
+        "matches": 240
+      },
+      {
+        "source_index": 74,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0074_Angol_bajnoksag_56.json",
+        "matches": 240
+      },
+      {
+        "source_index": 75,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0075_Angol_bajnoksag_57.json",
+        "matches": 240
+      },
+      {
+        "source_index": 76,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0076_Angol_bajnoksag_58.json",
+        "matches": 240
+      },
+      {
+        "source_index": 77,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0077_Angol_bajnoksag_59.json",
+        "matches": 240
+      },
+      {
+        "source_index": 78,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0078_Angol_bajnoksag_60.json",
+        "matches": 240
+      },
+      {
+        "source_index": 79,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0079_Angol_bajnoksag_61.json",
+        "matches": 240
+      },
+      {
+        "source_index": 80,
+        "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0080_Angol_bajnoksag_62.json",
+        "matches": 240
+      },
+      {
+        "source_index": 81,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0081_Spanyol_bajnoksag_19.json",
+        "matches": 240
+      },
+      {
+        "source_index": 82,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0082_Spanyol_bajnoksag_20.json",
+        "matches": 240
+      },
+      {
+        "source_index": 83,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0083_Spanyol_bajnoksag_21.json",
+        "matches": 240
+      },
+      {
+        "source_index": 84,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0084_Spanyol_bajnoksag_22.json",
+        "matches": 240
+      },
+      {
+        "source_index": 85,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0085_Spanyol_bajnoksag_23.json",
+        "matches": 240
+      },
+      {
+        "source_index": 86,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0086_Spanyol_bajnoksag_24.json",
+        "matches": 240
+      },
+      {
+        "source_index": 87,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0087_Spanyol_bajnoksag_25.json",
+        "matches": 240
+      },
+      {
+        "source_index": 88,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0088_Spanyol_bajnoksag_26.json",
+        "matches": 240
+      },
+      {
+        "source_index": 89,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0089_Spanyol_bajnoksag_27.json",
+        "matches": 240
+      },
+      {
+        "source_index": 90,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0090_Spanyol_bajnoksag_28.json",
+        "matches": 240
+      },
+      {
+        "source_index": 91,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0091_Spanyol_bajnoksag_29.json",
+        "matches": 240
+      },
+      {
+        "source_index": 92,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0092_Spanyol_bajnoksag_30.json",
+        "matches": 240
+      },
+      {
+        "source_index": 93,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0093_Spanyol_bajnoksag_31.json",
+        "matches": 240
+      },
+      {
+        "source_index": 94,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0094_Spanyol_bajnoksag_32.json",
+        "matches": 240
+      },
+      {
+        "source_index": 95,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0095_Spanyol_bajnoksag_33.json",
+        "matches": 240
+      },
+      {
+        "source_index": 96,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0096_Spanyol_bajnoksag_34.json",
+        "matches": 240
+      },
+      {
+        "source_index": 97,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0097_Spanyol_bajnoksag_35.json",
+        "matches": 240
+      },
+      {
+        "source_index": 98,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0098_Spanyol_bajnoksag_36.json",
+        "matches": 240
+      },
+      {
+        "source_index": 99,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0099_Spanyol_bajnoksag_37.json",
+        "matches": 240
+      },
+      {
+        "source_index": 100,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0100_Spanyol_bajnoksag_38.json",
+        "matches": 240
+      },
+      {
+        "source_index": 101,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0101_Spanyol_bajnoksag_39.json",
+        "matches": 240
+      },
+      {
+        "source_index": 102,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0102_Spanyol_bajnoksag_40.json",
+        "matches": 240
+      },
+      {
+        "source_index": 103,
+        "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0103_Spanyol_bajnoksag_41.json",
+        "matches": 240
+      }
+    ],
+    "root_key_order": [
+      "schemaVersion",
+      "exportedAt",
+      "settings",
+      "calibration",
+      "teamWeights",
+      "teamAliasMap",
+      "seasonCounters",
+      "seasons"
+    ]
+  },
+  "tables": {
+    "04_merkozesek/angol_ad7f94aa67/merkozesek": {
+      "rows": 14880,
+      "json_parts": [
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0001.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0002.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0003.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0004.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0005.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0006.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0007.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0008.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0009.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0010.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0011.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0012.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0013.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0014.json",
+        "04_merkozesek/angol_ad7f94aa67/merkozesek_0015.json"
+      ],
+      "csv": "04_merkozesek/angol_ad7f94aa67/merkozesek.csv"
+    },
+    "05_pipeline/angol_ad7f94aa67/dontesek": {
+      "rows": 14880,
+      "json_parts": [
+        "05_pipeline/angol_ad7f94aa67/dontesek_0001.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0002.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0003.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0004.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0005.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0006.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0007.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0008.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0009.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0010.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0011.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0012.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0013.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0014.json",
+        "05_pipeline/angol_ad7f94aa67/dontesek_0015.json"
+      ],
+      "csv": "05_pipeline/angol_ad7f94aa67/dontesek.csv"
+    },
+    "05_pipeline/angol_ad7f94aa67/modellek": {
+      "rows": 14880,
+      "json_parts": [
+        "05_pipeline/angol_ad7f94aa67/modellek_0001.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0002.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0003.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0004.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0005.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0006.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0007.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0008.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0009.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0010.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0011.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0012.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0013.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0014.json",
+        "05_pipeline/angol_ad7f94aa67/modellek_0015.json"
+      ],
+      "csv": "05_pipeline/angol_ad7f94aa67/modellek.csv"
+    },
+    "05_pipeline/angol_ad7f94aa67/jellemzok": {
+      "rows": 14880,
+      "json_parts": [
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0001.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0002.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0003.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0004.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0005.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0006.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0007.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0008.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0009.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0010.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0011.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0012.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0013.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0014.json",
+        "05_pipeline/angol_ad7f94aa67/jellemzok_0015.json"
+      ],
+      "csv": "05_pipeline/angol_ad7f94aa67/jellemzok.csv"
+    },
+    "05_pipeline/angol_ad7f94aa67/reconciliation": {
+      "rows": 14880,
+      "json_parts": [
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0001.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0002.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0003.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0004.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0005.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0006.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0007.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0008.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0009.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0010.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0011.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0012.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0013.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0014.json",
+        "05_pipeline/angol_ad7f94aa67/reconciliation_0015.json"
+      ],
+      "csv": "05_pipeline/angol_ad7f94aa67/reconciliation.csv"
+    },
+    "06_piacok/angol_ad7f94aa67/masodlagos_piacok": {
+      "rows": 14880,
+      "json_parts": [
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0001.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0002.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0003.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0004.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0005.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0006.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0007.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0008.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0009.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0010.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0011.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0012.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0013.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0014.json",
+        "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0015.json"
+      ],
+      "csv": "06_piacok/angol_ad7f94aa67/masodlagos_piacok.csv"
+    },
+    "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek": {
+      "rows": 74400,
+      "json_parts": [
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0001.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0002.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0003.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0004.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0005.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0006.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0007.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0008.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0009.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0010.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0011.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0012.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0013.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0014.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0015.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0016.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0017.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0018.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0019.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0020.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0021.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0022.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0023.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0024.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0025.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0026.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0027.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0028.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0029.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0030.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0031.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0032.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0033.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0034.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0035.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0036.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0037.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0038.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0039.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0040.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0041.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0042.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0043.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0044.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0045.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0046.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0047.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0048.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0049.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0050.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0051.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0052.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0053.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0054.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0055.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0056.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0057.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0058.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0059.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0060.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0061.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0062.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0063.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0064.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0065.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0066.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0067.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0068.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0069.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0070.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0071.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0072.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0073.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0074.json",
+        "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0075.json"
+      ],
+      "csv": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek.csv"
+    },
+    "03_szezonok/szezonok": {
+      "rows": 103,
+      "json_parts": [
+        "03_szezonok/szezonok_0001.json"
+      ],
+      "csv": "03_szezonok/szezonok.csv"
+    },
+    "04_merkozesek/spanyol_85883d77d1/merkozesek": {
+      "rows": 9840,
+      "json_parts": [
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0001.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0002.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0003.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0004.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0005.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0006.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0007.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0008.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0009.json",
+        "04_merkozesek/spanyol_85883d77d1/merkozesek_0010.json"
+      ],
+      "csv": "04_merkozesek/spanyol_85883d77d1/merkozesek.csv"
+    },
+    "05_pipeline/spanyol_85883d77d1/dontesek": {
+      "rows": 9840,
+      "json_parts": [
+        "05_pipeline/spanyol_85883d77d1/dontesek_0001.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0002.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0003.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0004.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0005.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0006.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0007.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0008.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0009.json",
+        "05_pipeline/spanyol_85883d77d1/dontesek_0010.json"
+      ],
+      "csv": "05_pipeline/spanyol_85883d77d1/dontesek.csv"
+    },
+    "05_pipeline/spanyol_85883d77d1/modellek": {
+      "rows": 9840,
+      "json_parts": [
+        "05_pipeline/spanyol_85883d77d1/modellek_0001.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0002.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0003.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0004.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0005.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0006.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0007.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0008.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0009.json",
+        "05_pipeline/spanyol_85883d77d1/modellek_0010.json"
+      ],
+      "csv": "05_pipeline/spanyol_85883d77d1/modellek.csv"
+    },
+    "05_pipeline/spanyol_85883d77d1/jellemzok": {
+      "rows": 9840,
+      "json_parts": [
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0001.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0002.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0003.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0004.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0005.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0006.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0007.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0008.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0009.json",
+        "05_pipeline/spanyol_85883d77d1/jellemzok_0010.json"
+      ],
+      "csv": "05_pipeline/spanyol_85883d77d1/jellemzok.csv"
+    },
+    "05_pipeline/spanyol_85883d77d1/reconciliation": {
+      "rows": 9840,
+      "json_parts": [
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0001.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0002.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0003.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0004.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0005.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0006.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0007.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0008.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0009.json",
+        "05_pipeline/spanyol_85883d77d1/reconciliation_0010.json"
+      ],
+      "csv": "05_pipeline/spanyol_85883d77d1/reconciliation.csv"
+    },
+    "06_piacok/spanyol_85883d77d1/masodlagos_piacok": {
+      "rows": 9840,
+      "json_parts": [
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0001.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0002.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0003.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0004.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0005.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0006.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0007.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0008.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0009.json",
+        "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0010.json"
+      ],
+      "csv": "06_piacok/spanyol_85883d77d1/masodlagos_piacok.csv"
+    },
+    "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek": {
+      "rows": 49200,
+      "json_parts": [
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0001.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0002.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0003.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0004.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0005.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0006.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0007.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0008.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0009.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0010.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0011.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0012.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0013.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0014.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0015.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0016.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0017.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0018.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0019.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0020.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0021.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0022.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0023.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0024.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0025.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0026.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0027.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0028.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0029.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0030.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0031.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0032.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0033.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0034.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0035.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0036.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0037.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0038.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0039.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0040.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0041.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0042.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0043.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0044.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0045.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0046.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0047.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0048.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0049.json",
+        "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0050.json"
+      ],
+      "csv": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek.csv"
+    },
+    "02_csapatok/csapat_beallitasok": {
+      "rows": 32,
+      "json_parts": [
+        "02_csapatok/csapat_beallitasok_0001.json"
+      ],
+      "csv": "02_csapatok/csapat_beallitasok.csv"
+    },
+    "02_csapatok/meccsekben_szereplo_csapatok": {
+      "rows": 32,
+      "json_parts": [
+        "02_csapatok/meccsekben_szereplo_csapatok_0001.json"
+      ],
+      "csv": "02_csapatok/meccsekben_szereplo_csapatok.csv"
+    },
+    "07_kalibracio/ligankenti_osszefoglalo": {
+      "rows": 2,
+      "json_parts": [
+        "07_kalibracio/ligankenti_osszefoglalo_0001.json"
+      ],
+      "csv": "07_kalibracio/ligankenti_osszefoglalo.csv"
+    },
+    "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet": {
+      "rows": 825,
+      "json_parts": [
+        "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet_0001.json"
+      ],
+      "csv": "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet.csv"
+    },
+    "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet": {
+      "rows": 1650,
+      "json_parts": [
+        "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet_0001.json",
+        "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet_0002.json"
+      ],
+      "csv": "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet.csv"
+    },
+    "07_kalibracio/piaci_osszefoglalo": {
+      "rows": 12,
+      "json_parts": [
+        "07_kalibracio/piaci_osszefoglalo_0001.json"
+      ],
+      "csv": "07_kalibracio/piaci_osszefoglalo.csv"
+    },
+    "07_kalibracio/kalibracios_savok": {
+      "rows": 72,
+      "json_parts": [
+        "07_kalibracio/kalibracios_savok_0001.json"
+      ],
+      "csv": "07_kalibracio/kalibracios_savok.csv"
+    },
+    "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet": {
+      "rows": 545,
+      "json_parts": [
+        "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet_0001.json"
+      ],
+      "csv": "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet.csv"
+    },
+    "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet": {
+      "rows": 1090,
+      "json_parts": [
+        "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet_0001.json",
+        "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet_0002.json"
+      ],
+      "csv": "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet.csv"
+    }
+  },
+  "files": [
+    {
+      "path": "00_attekintes/adatminosegi_esemenyek.jsonl",
+      "bytes": 1885099,
+      "sha256": "f6aa6260363d2585555a22633b200f1989d9e1e6cb459bad247bd45a6957f379"
+    },
+    {
+      "path": "00_attekintes/mezokatalogus.json",
+      "bytes": 59911,
+      "sha256": "aa9b132bd87b8b4135bd15f880b9db45dc6b7b33b3574de51f06ae3706cd8e13"
+    },
+    {
+      "path": "00_attekintes/OLVASS_EL.md",
+      "bytes": 3489,
+      "sha256": "ef30d31a9d326a699c7482d096d4724e8a1a70afae8fd770d64cbc86f383b70c"
+    },
+    {
+      "path": "00_attekintes/statisztika.json",
+      "bytes": 1601,
+      "sha256": "dc0bfbaa48aefdf1d17feb78180eb54df663b820ef2a78a2ed9f90414072d972"
+    },
+    {
+      "path": "01_beallitasok/metadata.json",
+      "bytes": 131,
+      "sha256": "eae1ce21f94b2937f8a5ba68927fdc7952ef12fe2f88d51652412cfcc023e68d"
+    },
+    {
+      "path": "01_beallitasok/settings.json",
+      "bytes": 1232,
+      "sha256": "ff3c03d7106ccb81756ace00af9504cfea845a1c0cb1fc7de54b045f0ddb031b"
+    },
+    {
+      "path": "02_csapatok/csapat_beallitasok.csv",
+      "bytes": 1434,
+      "sha256": "6281d8edfcab5d2585474a5a9ebfef1759f86a46b398fe43942cb71a7dbd0318"
+    },
+    {
+      "path": "02_csapatok/csapat_beallitasok_0001.json",
+      "bytes": 5208,
+      "sha256": "6755b45576f921b552b3fe32fc7719af65ef1941137477d8ee445f22315cdef9"
+    },
+    {
+      "path": "02_csapatok/meccsekben_szereplo_csapatok.csv",
+      "bytes": 1530,
+      "sha256": "8a4c9fd901069b76f51a9568147523377e8d3afedfef38082e4ed3f10a2622f9"
+    },
+    {
+      "path": "02_csapatok/meccsekben_szereplo_csapatok_0001.json",
+      "bytes": 5272,
+      "sha256": "ec0d17ec26957ce26d0e67e45f19b7796b5550ff34c7d82ec4a3d3fce2a9b213"
+    },
+    {
+      "path": "02_csapatok/teamAliasMap.json",
+      "bytes": 1032,
+      "sha256": "db604744e54b9d861e795af02abaadd70120d16084093194e6c8d99dad63c843"
+    },
+    {
+      "path": "02_csapatok/teamWeights.json",
+      "bytes": 742,
+      "sha256": "cb6008ee6541a0c810f58954827894721ba5050697f316d9fd32e3d6dfb20092"
+    },
+    {
+      "path": "03_szezonok/szezonok.csv",
+      "bytes": 25424,
+      "sha256": "d04758843c5da05476fc4adaa6052394e066697f2416ad57b796a031b0e16c61"
+    },
+    {
+      "path": "03_szezonok/szezonok_0001.json",
+      "bytes": 81687,
+      "sha256": "1651fc61cf4ebc26e523c9ded5760277d9fdaf6374d0b7eccc406218cc18c0db"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek.csv",
+      "bytes": 3466893,
+      "sha256": "70153910e6113d271b3ee4dd18134abcc8f662c6e79991f83b675b81c3ba8375"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0001.json",
+      "bytes": 979861,
+      "sha256": "76d15bc3c01e37d07870f67671d762265af54a740a0eb98e44c78906f15e09c9"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0002.json",
+      "bytes": 979845,
+      "sha256": "1e307fd5c2d209eb183359d3e3470e2c6824f5b190a3c553bb9a3146e1f29a3c"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0003.json",
+      "bytes": 982523,
+      "sha256": "94e877f5b8a0ee9a52e4791c620abdec21fe0e493e75183358eef7412f04f9b2"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0004.json",
+      "bytes": 983007,
+      "sha256": "107db295122467912be78c1a8c4cf2a5dcc7aaf67d3823b1628658c30753e4d6"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0005.json",
+      "bytes": 987767,
+      "sha256": "f36af05e9725b8123ed8e6c7157796b1bd13a07ecb19ac67b310c21bf4197369"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0006.json",
+      "bytes": 990083,
+      "sha256": "80d1918f021e6e98938f29064c59a5c5a2d37b6a1e5ff05eadcb7cc0168ece19"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0007.json",
+      "bytes": 989861,
+      "sha256": "52242c533f1dcfbf343dd86122558fa9207d0f3c91c22211cdfc762224df70e8"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0008.json",
+      "bytes": 989925,
+      "sha256": "f523559b8f94f815936e6ac629373d01291b628d4f8ce2819148a45e14113d61"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0009.json",
+      "bytes": 989925,
+      "sha256": "e0bf12f812c17df1dee859a1c4a1c78d50744068307ba9b05e73915a62cd43cc"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0010.json",
+      "bytes": 987969,
+      "sha256": "331dbfef16d3f2750005ca72619619753b19f85af1457ef3ecdc84bdc029b391"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0011.json",
+      "bytes": 976123,
+      "sha256": "217d57f5546903ee8ffcf565ce9ab5ef0a03dae5de724466e2036bc2d0bfbe10"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0012.json",
+      "bytes": 975985,
+      "sha256": "3f7db3f42b3d869b17e86742a41be7bd339b31c7706df1612abe22e83738a9e1"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0013.json",
+      "bytes": 976671,
+      "sha256": "e3f0646b9abb7c8862f74e79edb2087a8884bb32b7cc50ab742fb7eed79c88a9"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0014.json",
+      "bytes": 976899,
+      "sha256": "245cf6b6628cd639918e099c528764d1a5d8e31db11ebffae7ada4960e29f22f"
+    },
+    {
+      "path": "04_merkozesek/angol_ad7f94aa67/merkozesek_0015.json",
+      "bytes": 859945,
+      "sha256": "c5e63ae22abd0caee6085bfaf1d55a2ad6a3bc83b1afe81c6fbc190d7eafa60c"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek.csv",
+      "bytes": 2223777,
+      "sha256": "50781b40c0ed6477e0c602a0e4e0703a5263ffc28add7235083ff55d841f0251"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0001.json",
+      "bytes": 978789,
+      "sha256": "862fec006d0d96eb9609f0c23bb9107544bca38f3173b38ed773c18e19f06e6d"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0002.json",
+      "bytes": 978937,
+      "sha256": "ee50a6936ba98411dc60bb8880d8f9cef9a3cadc2dff298ad58366a7a839aa60"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0003.json",
+      "bytes": 980661,
+      "sha256": "661e1a0fc480b5d060f0eb9436d8614af04917927b64d66450049cf2c235db54"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0004.json",
+      "bytes": 981025,
+      "sha256": "089b68f7401d75e8b798fe969eece24296c40cb186f48bf0d3635f6598b578b9"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0005.json",
+      "bytes": 975549,
+      "sha256": "2d8554379f014e629fccb7483f151f3433279e8296b3a7a1c0385784021ee2e2"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0006.json",
+      "bytes": 972803,
+      "sha256": "34f7b661a8cce0f84ba509c88b61c9424723c3908ef8a1cca97aab471ebe0289"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0007.json",
+      "bytes": 971839,
+      "sha256": "34d12bf005db23b0f0553f4631d0e6f911a5f6b6421c72cbff6e51a0785b6037"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0008.json",
+      "bytes": 972167,
+      "sha256": "556fe08003c8ad4de45233d88ffd389d12e4e02ee719013a2dbd8badc6e544a3"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0009.json",
+      "bytes": 973107,
+      "sha256": "00f6b447b76317296eceb4a0809e0aeab6cd9f3295e0a6c5e85cf811c0316295"
+    },
+    {
+      "path": "04_merkozesek/spanyol_85883d77d1/merkozesek_0010.json",
+      "bytes": 818381,
+      "sha256": "16b3acafa54dbbaa0249684563e1bd09483ccef3f1b458fe31666f77ab599abb"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek.csv",
+      "bytes": 3102281,
+      "sha256": "72ffb8b623fa913bbc0bc07c4f08056a0a6cc0062bf8633934e19de0782fc916"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0001.json",
+      "bytes": 728264,
+      "sha256": "d012c891a6a979ce87e7934be624de328799624efde5b2dbd533ab611bc91f80"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0002.json",
+      "bytes": 722857,
+      "sha256": "ea3bdde92d53e48e32484614c7bc63040ccfb85878e3d74477c52224168d039a"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0003.json",
+      "bytes": 722084,
+      "sha256": "4bfebbd5eb01b3b8e13fbd2abf72a16878de7d9e6d7134dde37382b6ea2c3e99"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0004.json",
+      "bytes": 720036,
+      "sha256": "17d34c847689010c17c619a50b57bd99e4e922977021e5e8ff97fef7c7697895"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0005.json",
+      "bytes": 720724,
+      "sha256": "1a9c75785f4812a52fcdd195900b5ef6e9c4e2998213bdc9bb320cae18e3e836"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0006.json",
+      "bytes": 720498,
+      "sha256": "beb5ba6bbe0b041cd188a9c55e60ddafc66e154be8742fe835d703d474743319"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0007.json",
+      "bytes": 721103,
+      "sha256": "99e280f5879bfe62b09986cf845a0197f409d9663b31435f7e6b018ca01c895e"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0008.json",
+      "bytes": 721564,
+      "sha256": "2d5e859014ea3e9aec69cddcb9c42331c485b286b64fb4c7e07d11e2fa94afa2"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0009.json",
+      "bytes": 719846,
+      "sha256": "adb59b700be7cb8e0fe8c083d9dbcb41fd2587f6def83c806681ea5dc5d85522"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0010.json",
+      "bytes": 721436,
+      "sha256": "7a841a8a86eb428100a591811eb3bff2810120f5cee203d363c4b8d296418a76"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0011.json",
+      "bytes": 721427,
+      "sha256": "b25af27e3cfd6f625d6f571e7b5f582abb4916efd3600b312cb402915895afee"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0012.json",
+      "bytes": 721577,
+      "sha256": "0d42b51ca86456e77dcb4ed9583a5074702c80919f0b7b4934c4816188a780ba"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0013.json",
+      "bytes": 722406,
+      "sha256": "5924d87b8c8ac2a9e201a9a4f82c7a2a313933bda9319efb02db0bff0e02c1d6"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0014.json",
+      "bytes": 719778,
+      "sha256": "63676b0ab796eaecfc3ed567fd4b0080ca84c5de8c1ed5f83c93e0fbd534c982"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/dontesek_0015.json",
+      "bytes": 631933,
+      "sha256": "9e590b07f842a09c7b339f4b27cb6899fe9675c3560b6503d8c7f71197e5ef7d"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok.csv",
+      "bytes": 4516954,
+      "sha256": "c97c2e1482fb7d4509c30e0772c12ef71e68df9f0615dee74340b7367be85f27"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0001.json",
+      "bytes": 1106341,
+      "sha256": "1b94c9b0436445b272863f868d2f56d1f21788effdf719933e5a605a415f6911"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0002.json",
+      "bytes": 1106279,
+      "sha256": "3a8e8d5286ec8a64911f09523c5d02514629f40364fd285c1bb579d7f28063ab"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0003.json",
+      "bytes": 1107096,
+      "sha256": "3f02933a479ed47758925ad962229af194e6f08bfbb31a557503115bcb9912f2"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0004.json",
+      "bytes": 1108454,
+      "sha256": "623fe9ac7e6d1811d6226551860602fc8f7d9b5c686d4859f2b8bc47b6f6d439"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0005.json",
+      "bytes": 1089609,
+      "sha256": "f322badfddb7731cce46d89cf263daf23d8bdbe82cdcd354bc3a9d27b23e3d89"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0006.json",
+      "bytes": 1080083,
+      "sha256": "ff298bf0f5fb391bd207c0b4175195cb29f9244931c117326d7536b78fe8ea72"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0007.json",
+      "bytes": 1079605,
+      "sha256": "9e8849a7c0d6d8528ed8fce5a7ec9a1a5a2a93faaf6ca21d3724e98bb5268a8e"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0008.json",
+      "bytes": 1080124,
+      "sha256": "7b0d010bde17c55774b7c07dc708c50f3a1f943bd149a533419fca43a0899702"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0009.json",
+      "bytes": 1080553,
+      "sha256": "22d62cb5bbd8500d768bcafa33e8e2c94c43f04da3fff8e89920242ab4188c47"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0010.json",
+      "bytes": 1084884,
+      "sha256": "d305b630e43d7853414436ca3307bad0b14ae8c023b77fa559f443bf65613104"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0011.json",
+      "bytes": 1107896,
+      "sha256": "b3a0ce419db62940a7a52e0c9f68a114d2f48d0a418708f35d4a1021d2caee94"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0012.json",
+      "bytes": 1108796,
+      "sha256": "d10b9b03919f7e56894468904e523a61c430b99b208149fb64bb78c3463053c7"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0013.json",
+      "bytes": 1107372,
+      "sha256": "8ec242474f16e11c1fe848ced24fe1c5d8b2f8b983ef11cb3700467599fee0a2"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0014.json",
+      "bytes": 1108480,
+      "sha256": "24152ef027be5076c6d4694a59be37dbdf6a8b6dd54aa5c8e54e2d5364a18141"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/jellemzok_0015.json",
+      "bytes": 975537,
+      "sha256": "e7e9a5a0621fe627175dfde335238769428c74ffc5a67b89b4f8d968dfd0de12"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek.csv",
+      "bytes": 5597583,
+      "sha256": "9fffed432a900a2e8b81c2efdc3fb109dae4aac2aafc0da470983bd3e5acb46e"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0001.json",
+      "bytes": 1085751,
+      "sha256": "60828ba2844604675cee3755c1c844bd3f5824cd4e37e785ce7d8df2ce90791d"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0002.json",
+      "bytes": 1084792,
+      "sha256": "5cd1fe88a663a424cd56abd4cff4a35bb257be7aa05d7205ee21710b506016a3"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0003.json",
+      "bytes": 1086182,
+      "sha256": "c951379832ebb1f298ec689532e5f2fa00c84538e3df126fba8b873591cd6b15"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0004.json",
+      "bytes": 1085540,
+      "sha256": "b018279afc62e5c45f114463f55770b5a9b25a33dcb257794d9280767e52d72e"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0005.json",
+      "bytes": 1085000,
+      "sha256": "efec62d87d6dc92c849b7a616b2de815de14006c1b49b5468eb7501e1b0ca713"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0006.json",
+      "bytes": 1086013,
+      "sha256": "be164ac1db6e5dab7b88a86458c86b0c7381dfee5992423ef02044ad50dbc561"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0007.json",
+      "bytes": 1087923,
+      "sha256": "699383ba92a34d33f3f8b8c3840581a6c0cda6e356888dd8a250819da9f67e72"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0008.json",
+      "bytes": 1088441,
+      "sha256": "2205a3f1dcf73501edc4ff1d39100fcd82bc66031cd9f06dcb82caaf09529302"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0009.json",
+      "bytes": 1088385,
+      "sha256": "908cfe288ef1bfcc75da2a56e0a61a09a5791fbc3ee0a8e30bdf7ac2ffc6c0b4"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0010.json",
+      "bytes": 1088428,
+      "sha256": "89c0a2e73c15eacba0995d9719482fd01a2b9add59ccb09cf8410a561a1a709b"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0011.json",
+      "bytes": 1088436,
+      "sha256": "354e3f8d7f31dcd380b90826fac68eca91436c66214794302bc5550ff92015b5"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0012.json",
+      "bytes": 1087627,
+      "sha256": "ead64093275119d1b8f8cd76f56f8a56d56ca4bd3aaa1a0b13332a2fb2afe65b"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0013.json",
+      "bytes": 1088037,
+      "sha256": "47a5e758ab235cb675d9001650750f13b45589e7b919a74cdb2fc486b5104b40"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0014.json",
+      "bytes": 1088397,
+      "sha256": "5eb4863e4622e6a4a72cfdc6c8e7871a4d88896ffb0454d9f02505f51ba3c3bf"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/modellek_0015.json",
+      "bytes": 957894,
+      "sha256": "a7dc9179b132a942f67e4f208171e8f4f24b809bc8b45b233902f774e35f3242"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation.csv",
+      "bytes": 2902548,
+      "sha256": "2e2360c3d372fa47196ae571031549fd575ab7161d025bc1347d923ae835e8ba"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0001.json",
+      "bytes": 560268,
+      "sha256": "7f771fa8e1e3555117f5a9565a8cafee44dc08257f03a0e56affcf7a310bc231"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0002.json",
+      "bytes": 560219,
+      "sha256": "bda2c8e854fca32142ed8465bfe878881dda4d0ef9d44494ec40f903bbcc1013"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0003.json",
+      "bytes": 562045,
+      "sha256": "8297b113148585befbaedcb1e05ec12c528bafb9fa5a6e1cc3386e8617ebfac2"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0004.json",
+      "bytes": 562429,
+      "sha256": "2f7152a427f0f63bd6e0efee4a5a027a9ac22188101ad33e860863719f5e4669"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0005.json",
+      "bytes": 562372,
+      "sha256": "a857823f42b50060cb17fccecace49f5f827f1dea50c725ed95d5c781ede5e59"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0006.json",
+      "bytes": 562439,
+      "sha256": "83c8472f06491f94150fe8866cdb0f28c036a21a2ad17166f0a8a147dae3353e"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0007.json",
+      "bytes": 562241,
+      "sha256": "23691af7aa8f4c915c23f784ee275b7fd3f2a7209c1d2ea7bd16b5c8de531aac"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0008.json",
+      "bytes": 562281,
+      "sha256": "2acc9b3c788a90f7f2fad2e8fe61ccf1f52d3f6dfef772f0b3f98c1a78ee65eb"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0009.json",
+      "bytes": 562339,
+      "sha256": "c724a619615cd01b505f33c8187b00c80e49a2e19e061ce4e9ed09c76dfbcb24"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0010.json",
+      "bytes": 562372,
+      "sha256": "1fb87826a8598f241824c0cdf0850b8cb7ca524acf31c1583cd550dec0d37af6"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0011.json",
+      "bytes": 562316,
+      "sha256": "53cedbf121127637a20d975a236df9a545be1d0e4194602561762ff3289bb1ee"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0012.json",
+      "bytes": 562316,
+      "sha256": "63bdfbbad586fe4210670f6252ac0db15a163a70b5604b24e73f717d21ff2cb4"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0013.json",
+      "bytes": 562365,
+      "sha256": "e77e504c3f2e7203fa48d318af70073bbc560f795389ae4714bf63c5c5d4b4e2"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0014.json",
+      "bytes": 562333,
+      "sha256": "f5164b147bd045260336a3924aae4c3de8661b5c3d13a0a905219977e9b260de"
+    },
+    {
+      "path": "05_pipeline/angol_ad7f94aa67/reconciliation_0015.json",
+      "bytes": 494975,
+      "sha256": "589851a724a44750830854019e81f508dbad1b834b5254e077b7e9ca62c28d4f"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek.csv",
+      "bytes": 2060926,
+      "sha256": "b9393be308e64a6427877c9f90a3685d3f1f4740b221195c65df5b7ef0c3970b"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0001.json",
+      "bytes": 730184,
+      "sha256": "d3956e2ccf4863743fe607742ba584d23cb825c6386035fc1f0288b1b5e1dfc8"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0002.json",
+      "bytes": 722892,
+      "sha256": "3e1664ad2f913bbd9621b9d06ec381c59ab17ff7819827018c862574a3ce7795"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0003.json",
+      "bytes": 722253,
+      "sha256": "0c7fffe906fb0cb3e33b4e20e429f705b229c89a09e1835268ca3e73c1ba9ecc"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0004.json",
+      "bytes": 722108,
+      "sha256": "38ca1e96df51baee25d56090519f8e35df9800cad765e894aad53ed2487ef4e9"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0005.json",
+      "bytes": 719482,
+      "sha256": "324f0cff1f99632d973c9faceb5989e92abaec32d0de79ddbb15ce1b9463f359"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0006.json",
+      "bytes": 720921,
+      "sha256": "bdbb5181062cfdd912747e31763eed79c0ab3f388c75e06495e4f0c742e3cfab"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0007.json",
+      "bytes": 723051,
+      "sha256": "4c4b509807314c246937c238e9bd95b40ae2809437c3814d74cde81e244be54f"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0008.json",
+      "bytes": 721099,
+      "sha256": "18181b7746a4e42839ab36894a22e6446b237202bedd348932f4f396503ac001"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0009.json",
+      "bytes": 722081,
+      "sha256": "67203b8c130082688950e99e91aa53a0a86dfa3086d4825a6d91d1165c8faffb"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/dontesek_0010.json",
+      "bytes": 604806,
+      "sha256": "bd8e1a3199a895879595c8a72f9b91712e29b232005af1ff556ef30e2bc43397"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok.csv",
+      "bytes": 3087756,
+      "sha256": "5a35602b519b08dbe4c66d9f4ba3e67fcc304e49916ce9f1f162aa0ebce1e885"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0001.json",
+      "bytes": 1105648,
+      "sha256": "7d513d3f30a951310980fb853fedc5bd7cf31b89c5cec93a3c4d7bae7d07ace9"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0002.json",
+      "bytes": 1107735,
+      "sha256": "510d1176be0643f9948214f8c8b74e70d9e81d73723eafe62aa862686e452057"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0003.json",
+      "bytes": 1107701,
+      "sha256": "45052d6e9ed1465148e507f60b3efa9a8674538316c8a7e93050562a9865ce94"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0004.json",
+      "bytes": 1107946,
+      "sha256": "5ae7aaf6fa2a0e2d1d0465b2c7c0ab70d52c488f7e7007255b235eaab6593e13"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0005.json",
+      "bytes": 1107950,
+      "sha256": "b1af0b67b2ed8bc90164adfcc08370375ecce73c1d0c4676d5392beb2fbd0731"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0006.json",
+      "bytes": 1108351,
+      "sha256": "841e366db11c9dc80068086b455616976c248b99cf7f1e490c439459d7de3235"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0007.json",
+      "bytes": 1106564,
+      "sha256": "2aecab78040301a3c528a0231304abf1630237621d32a3acd70915e0e08c2f0a"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0008.json",
+      "bytes": 1108221,
+      "sha256": "5d291114f76c4b7aee54f9c37295288e7c51b4bf36371e0f73195fd29556efca"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0009.json",
+      "bytes": 1108636,
+      "sha256": "0eae2260c4d0ee66d5907ec9ef637d2c67407d51c65b236630665cba8a80f47f"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/jellemzok_0010.json",
+      "bytes": 931384,
+      "sha256": "12e1f30bcaab76130552a8ca1eba63a535a0c59f44cadc6ef6720a9dc13ef4eb"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek.csv",
+      "bytes": 3692555,
+      "sha256": "7b43cdca70a1167a28cc1f6bc57ed316a2dbb5ce43e0cdd088fd7087cc478975"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0001.json",
+      "bytes": 1086563,
+      "sha256": "5bcf477abab081cb027f6685dfe0ce42aff8bd5070cc5973e11d61cacc196fd2"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0002.json",
+      "bytes": 1085931,
+      "sha256": "971312cb299162c8177983f64586a86007d946adcedf56db60ee0830d7b6f8ea"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0003.json",
+      "bytes": 1086000,
+      "sha256": "010a988b09c97c5c9aa68db248e84ee70cce9d0dc76faf286849a4cb652b0e87"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0004.json",
+      "bytes": 1085492,
+      "sha256": "b93bcfe9ed7066d82274a04f17749ca19bd1b4722cee58537a20a9f5a5d98dab"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0005.json",
+      "bytes": 1085529,
+      "sha256": "b58d7b40b331e490ed468ccc7a00e994fb4775d0dc4e868620fe18d2b27ec07b"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0006.json",
+      "bytes": 1087570,
+      "sha256": "2534690c3278bd1f545d96678821e04192750b5adc3684f658a99b89fe9e7223"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0007.json",
+      "bytes": 1085640,
+      "sha256": "8a9cf50ef0d1d636fe9de635cb7f9fd55eaf4367414c207d825238c5d0b66054"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0008.json",
+      "bytes": 1085473,
+      "sha256": "71227c2a635b0d3b7abe4bb5ddf55f579deea6b4afefeaf324e80e9c41f74959"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0009.json",
+      "bytes": 1086425,
+      "sha256": "542960054c3cccc2cf146f373dfd929dcc18bf773841ca578016a2c045c4ada8"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/modellek_0010.json",
+      "bytes": 913740,
+      "sha256": "5c9f82800f719213c659c4034b864665eb2d16b776143fbc2ea1d280f31e4e75"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation.csv",
+      "bytes": 1921039,
+      "sha256": "b3d32ea20f68949329ebe648326df944f1cc122f2039e17fd5fbebaea0de42c4"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0001.json",
+      "bytes": 561258,
+      "sha256": "7a2e961212a080fb076d7dd18f5ebd5536e6cc0549a90ebb336f504618b517e1"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0002.json",
+      "bytes": 561243,
+      "sha256": "9dfd3456ebf6ac8a65218d36d29925d81df42e6ab521a31041b3278f9e27ed91"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0003.json",
+      "bytes": 562186,
+      "sha256": "e6f2ab2d260448e1d8bcce003eeb02ea9d79e86e528c54ffe88a71bba0da2dff"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0004.json",
+      "bytes": 562348,
+      "sha256": "92880d0e1308c2fcdcaf86f3ff3ab3969d34679a4a46f82083aec943ea248999"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0005.json",
+      "bytes": 562428,
+      "sha256": "6ad93f628742ca0d8a0fab48453e8555595501a23750077e02fccd796c027d1a"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0006.json",
+      "bytes": 562314,
+      "sha256": "d8caaa39feedb49d4b9237812a86a36c0f5948595b160c7f1c16009a433e0dfb"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0007.json",
+      "bytes": 562309,
+      "sha256": "e49b18122ce3ddbb7c4d08c81602d06e2928dae711892d91fe943aadd5a439d1"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0008.json",
+      "bytes": 562232,
+      "sha256": "2cc301c32c23bcbe9c9a708a6be2a0236ba4c6802c8d0a10f20bcae973ddf986"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0009.json",
+      "bytes": 562495,
+      "sha256": "2e36fb2c4d7fb61e7ed253f40b7888201f850b1198e3ec536c8daf2a19cd996f"
+    },
+    {
+      "path": "05_pipeline/spanyol_85883d77d1/reconciliation_0010.json",
+      "bytes": 473293,
+      "sha256": "8c1f0499bbf3362a5f9c4813ff04e5b36b751e1e524a1128042edc0ee1e8fcc5"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek.csv",
+      "bytes": 10342020,
+      "sha256": "76ab987cffb6e9d44a9135d2277607ed55a23bbec01c26743e732926e613e72a"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0001.json",
+      "bytes": 452104,
+      "sha256": "0cff3876ce23bdd211ee3daccb2d48652defd7ed754e9ebc79f8818ac475d995"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0002.json",
+      "bytes": 452132,
+      "sha256": "423da9251e243fb317833caeca1051324e941486b063353ff7cccef42d2ec5a5"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0003.json",
+      "bytes": 452133,
+      "sha256": "3ae555b2848ea543f9e064143de8ea71b1c534e9a33a8f7ff2e694d4f5d6d5d2"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0004.json",
+      "bytes": 452324,
+      "sha256": "f86d2ecb5260360529819fd9300f44dfd78924de7159b4074fee6be6dca232c3"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0005.json",
+      "bytes": 452542,
+      "sha256": "e289521a7ddf4c1217debe6f0f7445bda0fc6e105e512d05fd8e0dba6487d2a4"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0006.json",
+      "bytes": 452619,
+      "sha256": "e333af29d00668c7983ea692b334128508e5c011a52789bf86a81d772c8a23e9"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0007.json",
+      "bytes": 452148,
+      "sha256": "9a10311cd1d4e5fe40e08cb9df5cffbbb8aaade5747fff80fde3c665ca3bbe58"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0008.json",
+      "bytes": 452110,
+      "sha256": "28ae002d1b46d53f8b00dd48d37e9ecef4b3c2e8d8d1e02a6aaa16c3711e5fb1"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0009.json",
+      "bytes": 452133,
+      "sha256": "59460a79308f07e87612dc6028f1cdfaf410f7b8df44f17d4d72cf731ccba96b"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0010.json",
+      "bytes": 452319,
+      "sha256": "cb4ef7230301dfae2609b7cb00756432eaae6d4dbc3a0595b16d9bd5a0b88cc4"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0011.json",
+      "bytes": 452894,
+      "sha256": "b394637e7e479680cd99b3b81d9f9ca50f69b015d014f943bb97c432b3d08029"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0012.json",
+      "bytes": 454583,
+      "sha256": "1da02217cc795fdea78a941b059155966d7ca7bafde765d4ce5fcabbe5d1b9ab"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0013.json",
+      "bytes": 454116,
+      "sha256": "6b8a67ba81d54007d6faf7678965d527c34ae92f4eaf7bbfe170edfbd39c4441"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0014.json",
+      "bytes": 454094,
+      "sha256": "8e16d55e3af495d3210d6e82b78a6bdc420e286103d3a8eb8b8fcc2623f89cad"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0015.json",
+      "bytes": 454118,
+      "sha256": "6eae7ad37d30f6160e6eb8afbe1737c2dcb7a096c98b5c7ab6f79a4b96d25d0b"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0016.json",
+      "bytes": 454296,
+      "sha256": "c40657b6b8907af8de7c2c202ab3c53837abe2fa995c756dd05c148d391fec21"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0017.json",
+      "bytes": 454527,
+      "sha256": "2fa418f9b3c534017c1abe633d1fc8f9165540618069aa8d51393161876131ca"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0018.json",
+      "bytes": 454595,
+      "sha256": "9bfe5e7daa3c500ac3c731d33ab35f70a69ae7d570c3cdbfdfd023615b226b31"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0019.json",
+      "bytes": 454107,
+      "sha256": "5ffb4f8acfccc48f160d64d50c3d5dbbb10aff74ee66e88bcd7bf3b4b2437dc1"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0020.json",
+      "bytes": 454116,
+      "sha256": "939c46c020619ebdc08b0458dfd8b017f3917ca96f82290f6341243bc1a2aba7"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0021.json",
+      "bytes": 454121,
+      "sha256": "5c0d7967073742d59f65bb76b8a89c9490ea005acb9aa339e4ad3c64ee2f7552"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0022.json",
+      "bytes": 454300,
+      "sha256": "984a9ea54d7507cf357efa5893d462462642abb019e5b2b70e363e250852a8a9"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0023.json",
+      "bytes": 454551,
+      "sha256": "d481e22b319089a173bb1df1f73515aa778704ec05f0fb174e5cad8a23b68b32"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0024.json",
+      "bytes": 454610,
+      "sha256": "5141515ce3461a0fbd926e7e08a590a3a56c17ebddaa7dee60d4c1a4aa1a92aa"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0025.json",
+      "bytes": 454124,
+      "sha256": "0a42e0dee01bfb03bdd0fc5feb9fddfa9fd65542bc29cc94a336adba2a3b9db8"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0026.json",
+      "bytes": 454119,
+      "sha256": "6e4ffbd59b4b19731b182fbb47f3b6bc73f20cbd2d6b2089ff0d7ea0047350ab"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0027.json",
+      "bytes": 454123,
+      "sha256": "039ac8058191217c3bf985102c14063adb4cf72d12866b83e69fa5ec42aba413"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0028.json",
+      "bytes": 454306,
+      "sha256": "31a1d6e4b6ca7b1072bbe83d69cb3e6cee58f2521611592d4156693c0576fdfa"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0029.json",
+      "bytes": 454483,
+      "sha256": "9711cb3165efc9661fa7b8b4f928c8addbd54234741926acbd5725313a1d67d9"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0030.json",
+      "bytes": 454598,
+      "sha256": "3dabc301121950f18b52d6b7581b73f46381bd372a8a725221596769efbc49e2"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0031.json",
+      "bytes": 454133,
+      "sha256": "403ce9b4a61bfbb96027158d02254d87946b479b8dd058058403b05061196df1"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0032.json",
+      "bytes": 454121,
+      "sha256": "298ec9282ff623cf485c5cee9504cc826138baff481cff4b0ddc5f701d083dd2"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0033.json",
+      "bytes": 454091,
+      "sha256": "58a7d064097d24ac61781bf9b1b2cb93e2ce91ba7ba6a96e1090d3972ffc0511"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0034.json",
+      "bytes": 454303,
+      "sha256": "3bf338537973d2b450c8b826df7d9f7a42e5d5da5ef99023f6b17bdd85b4585d"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0035.json",
+      "bytes": 454510,
+      "sha256": "91aa82094cde9cce4e6d6ddf273bc3d9d4f3ab84bb9249e863c4f1b3991e0db4"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0036.json",
+      "bytes": 454566,
+      "sha256": "a3802082a4c49c66e278b7cbde392f99c0edfffed39e5dde9c668e7b046e87ad"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0037.json",
+      "bytes": 454145,
+      "sha256": "9742d3efc478d43e42dcb2a73cb4bd03171f19d9fb1d7287e39720e12da47af7"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0038.json",
+      "bytes": 454105,
+      "sha256": "5734d6a02d059c6211027460cff7bfcd405d37e0751fc09bfb4c32aa3f9f9c3c"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0039.json",
+      "bytes": 454129,
+      "sha256": "729637cf781b391e67fcc99cc19ea35f0799106c56511c619d2f4d0c2e528fd2"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0040.json",
+      "bytes": 454291,
+      "sha256": "779c864279e1a78562ef5159a47458601ea7551818daf4cf688fcdb22b803e49"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0041.json",
+      "bytes": 454509,
+      "sha256": "cf5b9306cc5c57c070d5c63516ed79c942c1b8db3f05e0efcc21afca3623410c"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0042.json",
+      "bytes": 454622,
+      "sha256": "457362af3f45233c743bbe1b61bb14d3477adba38bb5d74c891bc63c563d20c0"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0043.json",
+      "bytes": 454134,
+      "sha256": "e85024f49d0da34bf591f8540e23ef9b0e4e926215d4e6696b88cf6725c7a0f2"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0044.json",
+      "bytes": 454133,
+      "sha256": "bacdb50c91e6b4c320363a7ae04fb153dc3a1e093476e861d16db2a2e9b2a9bb"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0045.json",
+      "bytes": 454102,
+      "sha256": "ae3d485d1b2cf16b5efb236971e4790b60da06f3e166648a740c373064e9f758"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0046.json",
+      "bytes": 454301,
+      "sha256": "bdec15c5da60f89b3ef72fbc5e6aa064172afb12313c338276749dc562df3eb9"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0047.json",
+      "bytes": 454525,
+      "sha256": "b0dd2df10d0cbc5e75db8776630a25b5440b651e7bb26317c1ed6bc578c6b877"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0048.json",
+      "bytes": 454624,
+      "sha256": "56db1204ec43c3157a76c28336df351ab554762c705da1a88a5666b09c79b96d"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0049.json",
+      "bytes": 454115,
+      "sha256": "8b8410c1a16d95ccb6f1c9e67885e2aa630323f8fb09fd2aabbed273aa8b95f5"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0050.json",
+      "bytes": 454091,
+      "sha256": "ae566389a7534a655d2071417395d23de70d9188966258958c8e7e1c3c57c3e8"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0051.json",
+      "bytes": 454111,
+      "sha256": "39aa35ea980b8bcbe41b096e23c78baf680ad27cc7edf32e93930c8f39669496"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0052.json",
+      "bytes": 454324,
+      "sha256": "a82e2f4393d6e16ab295a702ed2a8c194f130da9f7f3c40ad35d924f7c14135b"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0053.json",
+      "bytes": 454497,
+      "sha256": "61e46160a58e348d717fc972cc8ae31c0b09c5d072eaf5b66c886c2419e887ff"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0054.json",
+      "bytes": 454598,
+      "sha256": "33b47af4cb2fbdf75f5d5d2e120fa346dc3522236e88773ed685a41c7cbfa071"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0055.json",
+      "bytes": 454103,
+      "sha256": "d5b6ae7b141dc5ea5946bc9efbbc202a2972c381055dd48914ddfdb7557f74d9"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0056.json",
+      "bytes": 454143,
+      "sha256": "1c0506228798edc84ee6dcc287aa9f6b12d7bfa7b109df1e083f997e76e09492"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0057.json",
+      "bytes": 454137,
+      "sha256": "9dc2c12cd6b5d56428864d970e15a91269297c68455c56689372d8195b9304df"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0058.json",
+      "bytes": 454278,
+      "sha256": "dd7b4da043cdb32b2415cf9080b7d1b9b57ce314a04f79362d8c83020b0661d6"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0059.json",
+      "bytes": 454539,
+      "sha256": "41f6e422e8b763f4d325f5f5d13e713ec7ecd170e7864f3b440afc6c6dc6d180"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0060.json",
+      "bytes": 454616,
+      "sha256": "9bad4203720fa782582133bdf3512147c219f90a84ebc7ed207cff31b680e6ae"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0061.json",
+      "bytes": 454093,
+      "sha256": "bcfe9246ecec6202cd7c2df784994171c9303d5c8f06bacd8d46d650c60d017b"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0062.json",
+      "bytes": 454131,
+      "sha256": "9ab20899e338a276a89fd002bde9507b43573bb2785062ac950de6e743a28d40"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0063.json",
+      "bytes": 454128,
+      "sha256": "5f87921055e917ce45448c54e9cd4f4904d388141b3c59321d9ab8b72b7edfde"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0064.json",
+      "bytes": 454296,
+      "sha256": "925961caed1ddc15bc40ee74297cf42c2f150ab7b1bdec91f11121557513d051"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0065.json",
+      "bytes": 454499,
+      "sha256": "eedd2b4dd4ea252d2576f988f397b0a4d1ae15ef6db04c3b5b59063444e963c8"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0066.json",
+      "bytes": 454589,
+      "sha256": "31134c3fb93275dea3416ee7d5c7140f9a47ba22613f8e32ad30420903ffc5a8"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0067.json",
+      "bytes": 454108,
+      "sha256": "d1494ebec15b932211fe0a819b09e15419e32173eb500351f9a2a563d0cee887"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0068.json",
+      "bytes": 454130,
+      "sha256": "abee38da43cf287fe5ac2cccf2d9f8c495e0a79c59ed2af4bdbe7d07f71e0178"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0069.json",
+      "bytes": 454114,
+      "sha256": "7cb13570d8c3ca80a105311b47612b29260cd3431cb2057baaff8261a9fc4bb0"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0070.json",
+      "bytes": 454300,
+      "sha256": "1e7b91b897cef0ae0e05e81d891bb7d28aedf2aaae6afaf02d3ae6016e8e63e3"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0071.json",
+      "bytes": 454513,
+      "sha256": "357b15f498fb53e87ca64c33a58b64085a67fe4ccb0532b32d8260ce6aff1925"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0072.json",
+      "bytes": 454572,
+      "sha256": "7cc25a79710bb7c5218b2a3828a018007a50b5209eef64cf1fcf3af474320209"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0073.json",
+      "bytes": 454161,
+      "sha256": "dac06df78a0c8a5dbff60bc0bd88f57bfa99e81749217034aeadfe539f4b3ff3"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0074.json",
+      "bytes": 454103,
+      "sha256": "d7311f7f8a0219975bfc84d9effd7687e1852d6444a0f4cfe3a6bfa1006f8b3e"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek_0075.json",
+      "bytes": 182073,
+      "sha256": "f3798ccaa21c7cea9b4e8629b685b2416941e50c739fffcfc89a2a9ac215dcb6"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok.csv",
+      "bytes": 8898213,
+      "sha256": "319f43dec8b296d2794d6588dd074312662921283b66c7ac7de16ddf8e789e63"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0001.json",
+      "bytes": 1350277,
+      "sha256": "10ccc26d63f00ca3cb3c4077003ca0528e322980d64d900cb6c22490a09476ee"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0002.json",
+      "bytes": 1350231,
+      "sha256": "c1ec93ce00fac50726675e4ea9b5168960c1cbe46c2f710f7ddab43b4e0932c5"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0003.json",
+      "bytes": 1351986,
+      "sha256": "2c6a5740bfb75bdb7673af20d58baa87192337a9db0e144c442e9bc9bf67c049"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0004.json",
+      "bytes": 1352097,
+      "sha256": "947f1fb3c2d1f3ca51c205247d662698e0a186a51d83a7fa03ec488e32f62358"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0005.json",
+      "bytes": 1352384,
+      "sha256": "af779c9458847cac2e035918a78998e64c353f93d92d6efac947d48e27d581a4"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0006.json",
+      "bytes": 1352371,
+      "sha256": "8473b2a0bdad9820979dd56d60b1141e9d9214d9b8191ddf763b533596aec747"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0007.json",
+      "bytes": 1352168,
+      "sha256": "ab1b747a377a738d53c8198d92bc21be53d89b588c147df7565fab8d9fd5fb60"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0008.json",
+      "bytes": 1352317,
+      "sha256": "47d47c1444b15eca23216c55db22ad42bafd777b4bd035437da53d4cf1fb8825"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0009.json",
+      "bytes": 1352372,
+      "sha256": "345dbb645103e1229e5904c52c1d36ac578c989fd04d80bb43d643cd095f4cfb"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0010.json",
+      "bytes": 1352372,
+      "sha256": "8139f0efdeab5a3f47b47c29dd61d118781b7a1de699a83f9a41c4a901552f49"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0011.json",
+      "bytes": 1352357,
+      "sha256": "f6f896a95d8fbd93773de68400eb5f97a49f4aa44e56c37dc6b3e17e0c2cf1f5"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0012.json",
+      "bytes": 1352297,
+      "sha256": "3a5b3ee1c6fd4679ba2a19db22f545fc81ce9146c146e66005e244d1686ed358"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0013.json",
+      "bytes": 1352089,
+      "sha256": "8af1a2c5773a8637fd4433d9cbc1d6311d709c83303f39ceb5daae0e5d0a35b4"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0014.json",
+      "bytes": 1352052,
+      "sha256": "e08cf2f06b3c483b82f065d11332f95be3ab5bdba9a7abe10d62b2707a984b26"
+    },
+    {
+      "path": "06_piacok/angol_ad7f94aa67/masodlagos_piacok_0015.json",
+      "bytes": 1190001,
+      "sha256": "e9a325cc3b999a7a496ce06466cf1c4f518aab8f077f7aa4a48c1fbc6d97922b"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek.csv",
+      "bytes": 6847603,
+      "sha256": "ee0730f176e6703e20d734d37b19b5f4a3e6acb35cd3174039858cee40758b0c"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0001.json",
+      "bytes": 453114,
+      "sha256": "605ce1fef2bc0b809a46ffc917661ab99388d3eec84d2d7557ae768c8b38bbca"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0002.json",
+      "bytes": 453140,
+      "sha256": "8baca5a516da749ef7c1ad8dcab0fcf6ac28be9db82e8be3eb25563e059551c9"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0003.json",
+      "bytes": 453107,
+      "sha256": "52cc1615b1ce55e911a3f539da9c7b51b6fc99eed6bd4b7ffcb3d53693d02416"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0004.json",
+      "bytes": 453307,
+      "sha256": "c9fbe401611fef019a453d6d19925c602e367c6daffd4bc49f8bd25a114297dd"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0005.json",
+      "bytes": 453516,
+      "sha256": "671ba315837c7f79cad3fdf854778de2221e22a5be1aed553e9fe68a50fc0a7c"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0006.json",
+      "bytes": 453601,
+      "sha256": "d9e34228b7b020107cc9fc0053c5ea74a87c8f6e3cdb64acee8a563616002e9e"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0007.json",
+      "bytes": 453141,
+      "sha256": "4665291ab55594ea620081124e561bbb04a847b10c40a40e914d3edaeed3cae5"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0008.json",
+      "bytes": 453092,
+      "sha256": "6b2320286994c90b9dda5971c986c814b9781defe73fb6afcb4c5fdc7b8700bb"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0009.json",
+      "bytes": 453118,
+      "sha256": "ed28f0d482b3b3fb21f80ae18e56bf98137c10dd9c3f734d6e82dec630587588"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0010.json",
+      "bytes": 453298,
+      "sha256": "de617b6ab142efe1a93cb8b16cf4bfaedb2aeaab4232d7cc60ca447b3eafb8f7"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0011.json",
+      "bytes": 453704,
+      "sha256": "446338a2589fe8ce53aa58135664de4c076c20b8952496abee11f07858038bac"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0012.json",
+      "bytes": 454602,
+      "sha256": "44a201f9d0a1d59009785abe2aa9a81a8ada2779d64ace09ccd525adb533ae21"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0013.json",
+      "bytes": 454122,
+      "sha256": "a8115ce1b29fde7bad8c5c548604123999dc4df0dc8f6d26c4209bcb5b6e3265"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0014.json",
+      "bytes": 454094,
+      "sha256": "48d34dd541e2b3afd57ade3dfab2d9deb2c9936443def6a74fc39cafadbed3f9"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0015.json",
+      "bytes": 454124,
+      "sha256": "7cd29933bb20383a7df8781553590827236fee0aab7fa0837f607865cee75f0c"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0016.json",
+      "bytes": 454331,
+      "sha256": "76daf0583bb6150fcdfeaf2ee76ce1dac3a0d3bbdef2a29fc322db97abdfc5ac"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0017.json",
+      "bytes": 454501,
+      "sha256": "29757d8264934d4b3cd8c5f8e7bba034151cdb7eeaae48a97f7bbc2cbb485c8c"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0018.json",
+      "bytes": 454614,
+      "sha256": "2e8bc2a45b6cbeca4695fc25b932228230c34b07b67e986fd9fbd6b5f3f36249"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0019.json",
+      "bytes": 454124,
+      "sha256": "a80dd2014e5dc8730c6f73a3eeee940e9003d843f43b0e1851f876dec97e6327"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0020.json",
+      "bytes": 454146,
+      "sha256": "ee79b4dc4abd3f0a6cc83530a7e3ca210257418c0aa9898b11f22ef6068796fa"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0021.json",
+      "bytes": 454111,
+      "sha256": "76e58f231bca28b3808b16db5469b8f8575c81d8ec957ad08cfa0a514f5e7332"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0022.json",
+      "bytes": 454325,
+      "sha256": "81a2bb3368dbd3c9a9eea96832e7c050f56b25d13238631254e30664ff6eeb9e"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0023.json",
+      "bytes": 454532,
+      "sha256": "e961dd5831083dda8941877671d5cc5e62e65205eac0fdf4f5d18bc13fc42d91"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0024.json",
+      "bytes": 454601,
+      "sha256": "87bb4b0fa426ec54a3567d93606a25bb4b6223915850b1689401202f7ed94694"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0025.json",
+      "bytes": 454132,
+      "sha256": "8eb0dff8697dd41a2e051f30cddc7ec443401d2cc2087449210b362b86aa69e4"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0026.json",
+      "bytes": 454125,
+      "sha256": "e5b4a910aa551ccecec824cf94730b2523f7aa7603803d776d13d702c1ea312b"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0027.json",
+      "bytes": 454158,
+      "sha256": "0615bafc02fc717bf71368cd8f832ee19530203715fb27e4ac92907c6db91633"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0028.json",
+      "bytes": 454263,
+      "sha256": "e886126a962dea494c5c06fcb056e2769c5dfd6967ff4da53a2ae3d73e2b6044"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0029.json",
+      "bytes": 454538,
+      "sha256": "5b0fb5ec720e0841f4d91356b7d3d621e839a99528139a8b51c2d0bec8e9d0a5"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0030.json",
+      "bytes": 454598,
+      "sha256": "f5d67165fde40d11e4004e0418e85f9f10d437b1ff33df28ebfcb234258071e3"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0031.json",
+      "bytes": 454121,
+      "sha256": "4678836f8c5e9b2d635e5a3e7c0e466f3197de81f722ac790ea4333666f3cedc"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0032.json",
+      "bytes": 454115,
+      "sha256": "f87af657f4325289b9dfa445a4050b75f0b3d2cb6806f2c532d13452edb7b81a"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0033.json",
+      "bytes": 454120,
+      "sha256": "0565b4a7bb56e05cfc464e8ab2a8c35251fa63e2f95857d70785c0691278cc17"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0034.json",
+      "bytes": 454310,
+      "sha256": "1f5b241e068a9f35191d387646eb1c860b03762024d3ddec41142b31e8c83798"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0035.json",
+      "bytes": 454512,
+      "sha256": "ac55343f643fdcc31a4153ed1ffd2fd31f0d059ee17eddbf498d231d2281139b"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0036.json",
+      "bytes": 454620,
+      "sha256": "3d1bc185c87fdd6428016ef98a33da298079de7b0f1af80d47b533616d3fc550"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0037.json",
+      "bytes": 454136,
+      "sha256": "b8bfee37c5abce964b5ba3bc480a75364e9a7f7db1b7b62c8b38bab916d259da"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0038.json",
+      "bytes": 454108,
+      "sha256": "3ee11f877522297011f70925113a5b5d0500e1d56c9bae596c44151a7b372e28"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0039.json",
+      "bytes": 454128,
+      "sha256": "83bf5cf39d3312ba0a595694c9f7fb37cbda8b0e4c5af9beed45b123b5d425ab"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0040.json",
+      "bytes": 454305,
+      "sha256": "17191a02038d49c806510b1f8469d1633fbd37c3a75cfaf5c266d3e6afdf2657"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0041.json",
+      "bytes": 454519,
+      "sha256": "e618e30bee488008df16c22f3190152f45074cf9df8fda039571d300d3e0f15b"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0042.json",
+      "bytes": 454589,
+      "sha256": "1b74bffac4c6501ebebd6bdb29ac4da22d8ad2aa880c134aa292a0648ac45603"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0043.json",
+      "bytes": 454124,
+      "sha256": "429f103569f0aa8ce1d53b45fef6c6bfe6f9584e94e428af81d0ef3ce8d066d7"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0044.json",
+      "bytes": 454122,
+      "sha256": "ea13417fcaf9e3aa36aaf0257e9eabf95ccae7a017f99b89e2683a499896d84d"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0045.json",
+      "bytes": 454732,
+      "sha256": "92a0187625ee3b824386eae1a3588002d8c1b605059dd8cca15f38a72f68988e"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0046.json",
+      "bytes": 455314,
+      "sha256": "d98d075125d703b03afca66b09224e516c09de9ce0c3fac288126eb5f728e8e1"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0047.json",
+      "bytes": 455539,
+      "sha256": "d04132c949657eba701a67930aeabedf58443033610cc10687644c92541b0e99"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0048.json",
+      "bytes": 455627,
+      "sha256": "5b1b9004fb5d7b048669d8bdfea2cf48df0f7bc41a603dd80be0f9a2e09e19a8"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0049.json",
+      "bytes": 455092,
+      "sha256": "58d838f6c625118075af5ba4d9572a6adbe09b010ce10fab1d3e6a316f757236"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek_0050.json",
+      "bytes": 91247,
+      "sha256": "7cd195b0caeceba9b870711f461e432771da41a7117169278f1adaae8a4d59e1"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok.csv",
+      "bytes": 5886195,
+      "sha256": "bc24e4338723a478e8aaf65cc81c4d088be84c851b6b4a52df96166598ce27d4"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0001.json",
+      "bytes": 1351168,
+      "sha256": "b52576a1eb51d59ed274c75cf2bb1d3950d6df162c4e8c3ba1d7c61802b245d0"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0002.json",
+      "bytes": 1351240,
+      "sha256": "c673c2e667fca6f81868003905c6eb4973fec07b81a7e778a6e7d9eaefb25e31"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0003.json",
+      "bytes": 1352089,
+      "sha256": "5f5fe8f9451766b1502eaac99566e4909227c74f2143833ee8e285a2fe403837"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0004.json",
+      "bytes": 1352291,
+      "sha256": "a15c6ddf160b7b78a8fed3f33563a50c85a444e33bbba09c4ba62d0dfec011aa"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0005.json",
+      "bytes": 1352249,
+      "sha256": "df942984e8d3f0c1c0231f97eaf05f7e3b46dececb5eafced3028394fdd09057"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0006.json",
+      "bytes": 1352376,
+      "sha256": "9304cb5f647589eabe9a2657d133d552d9a9a116a91e6485be4a0c7fa73517b7"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0007.json",
+      "bytes": 1352189,
+      "sha256": "d1472eb8b0c132482de08d9cccdff6a9868836486c423d673d5732db92b479f2"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0008.json",
+      "bytes": 1352302,
+      "sha256": "2dc3c170efa96e5508006ac87a4fc8e0f691d931313e51b8f36ccefc55fe2e4c"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0009.json",
+      "bytes": 1352350,
+      "sha256": "45650da658d9ebb0b3136f47a937e4cba325993d931087f3043f6b0a6d8b333a"
+    },
+    {
+      "path": "06_piacok/spanyol_85883d77d1/masodlagos_piacok_0010.json",
+      "bytes": 1136924,
+      "sha256": "139a7ddaab160fb0302f1a7483b432645f989e9fa566040807e229e20df87737"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet.csv",
+      "bytes": 38664,
+      "sha256": "31b5815f7166a979b53bfaf103956371df5251c4bc2faa7a810e3e8cf2953ddc"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet_0001.json",
+      "bytes": 154906,
+      "sha256": "32f28ebfa8864fd40eb10114460c06b6ac779fa0052fe139791db47c42e4e696"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/kiserletek.json",
+      "bytes": 894,
+      "sha256": "b23183266191701acedb5211f3f41089868040a9fb4a5d99f895c54a785ab33b"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/modell_aktualis.json",
+      "bytes": 1982,
+      "sha256": "b170cc2de604b6199d02266a72145c425776cac550b8b0a246951074e854f2ca"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet.csv",
+      "bytes": 81903,
+      "sha256": "72c1e5468ba55908bebc1a1ec99ce467da0f5b636a1edde6c54406e9fbabd8c4"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet_0001.json",
+      "bytes": 198789,
+      "sha256": "4e6b11d3b93bc8fc166c94f7bba63ba13071c1ad9b54ae8548f8d5721d886236"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet_0002.json",
+      "bytes": 131348,
+      "sha256": "ff1c0db7728ff90fdc3a75550373e41d62d64f6c28d4a187af5d9f6c00bbba45"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/AWAY_O0_5_62eeb5132e.json",
+      "bytes": 2713,
+      "sha256": "00a86751de135242f7f453580877ac895d33847ee293c104e54a4ed6e222c782"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/AWAY_U0_5_5fa56a19a9.json",
+      "bytes": 2721,
+      "sha256": "404a74761b14dac7744a24d1300e8d38702334cb524a90e17f69b0e29b0679de"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/BTTS_ab66606de8.json",
+      "bytes": 2783,
+      "sha256": "981196af9209ca3cce39f057856fd90c69497d2e1714d97afa815aaed13a693f"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/HOME_O0_5_cd4e8a1911.json",
+      "bytes": 2704,
+      "sha256": "1b4b5cf698c27c15d8706bf9bd9481631d11ae6ae965bdc916e06c3a39405e35"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/HOME_U0_5_0405ea406a.json",
+      "bytes": 2699,
+      "sha256": "c1e222788c92dd840dac05b91e05ce63f96c8d0ab41ee42f3a826d18b7d9dad0"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/piacok/O2_5_f32c78e1c8.json",
+      "bytes": 2786,
+      "sha256": "ba794bd19d345b7e714d34a2cf2736e95e9323b499bd43f50ecdecdf7a1a34d3"
+    },
+    {
+      "path": "07_kalibracio/angol_ad7f94aa67/teljes_kalibracio.json",
+      "bytes": 370441,
+      "sha256": "7b35217407a1f249fa04afeae4bc47f0cef4573ef0e458a4684005ee8e121d86"
+    },
+    {
+      "path": "07_kalibracio/kalibracios_savok.csv",
+      "bytes": 11976,
+      "sha256": "84feb6095bdf3aa9abdd42c1e71a86c6e277cb334676a30e46792cd007354637"
+    },
+    {
+      "path": "07_kalibracio/kalibracios_savok_0001.json",
+      "bytes": 33742,
+      "sha256": "bb14f8acd5ccb366ec685c8e8d9762337f8775896e00d0e17f15d5c98554512f"
+    },
+    {
+      "path": "07_kalibracio/ligankenti_osszefoglalo.csv",
+      "bytes": 891,
+      "sha256": "a797a30808af9afcd9df8ef35088458fa24ac459051663e2084a08cdbe222138"
+    },
+    {
+      "path": "07_kalibracio/ligankenti_osszefoglalo_0001.json",
+      "bytes": 1374,
+      "sha256": "0390744a8b73a55d3ed4adcfdcea2fbdf96ab1ec9c742ba045038c9bd74222c7"
+    },
+    {
+      "path": "07_kalibracio/piaci_osszefoglalo.csv",
+      "bytes": 3869,
+      "sha256": "b21e5ec9360012dcd5352bd0687d418c225573f1c204e4f5e4c5de187d883aae"
+    },
+    {
+      "path": "07_kalibracio/piaci_osszefoglalo_0001.json",
+      "bytes": 7016,
+      "sha256": "9edadb0e5b23c2c62963b60828dad37c0902a6499261f8a54c6ce9a334e6836c"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet.csv",
+      "bytes": 25738,
+      "sha256": "7f46f24deb207e58ba4dcfd69dffe893d8288209a41ddf683c096984aae96b7e"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet_0001.json",
+      "bytes": 102500,
+      "sha256": "05414981e9926f23ce2ad94d4c2cfb67679bcee77be4002bd24cf181833d5f2b"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/kiserletek.json",
+      "bytes": 892,
+      "sha256": "d60605d5a7a27387665bd1718e10fe97f89e4f0cb9b6dda326da31a3863a1abe"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/modell_aktualis.json",
+      "bytes": 1986,
+      "sha256": "2fd53f07bd2b886243bfa701ab87f1f47249b2c555b204a2270ce15a04d1d177"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet.csv",
+      "bytes": 55099,
+      "sha256": "8e54a62b9a3df6040f230ef1fc1773879bec9b6fd7b9449c790e5e769c664cc3"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet_0001.json",
+      "bytes": 200834,
+      "sha256": "b2df9fe04f16240eb0a6da081b2e76a5634ac1b30ec4ce3b4cd32ff4a3679faa"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet_0002.json",
+      "bytes": 18219,
+      "sha256": "426175f7c886b0cd410f9b53297ecfeb355c97884a1d90a11111e2c662ac43a9"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/AWAY_O0_5_62eeb5132e.json",
+      "bytes": 2708,
+      "sha256": "9ce537de157d3ee32908c4bf5cbac65645c63fddf0babf9fa9d6687cca309965"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/AWAY_U0_5_5fa56a19a9.json",
+      "bytes": 2708,
+      "sha256": "26e94921df8695f0c90ab90ad4c4fea5eb73efdf9858eab65feaac29287b6178"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/BTTS_ab66606de8.json",
+      "bytes": 2785,
+      "sha256": "27b06e38afa89374be636bce340fc876007bbded0b3e58cbcb57189c323787aa"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/HOME_O0_5_cd4e8a1911.json",
+      "bytes": 2702,
+      "sha256": "aa954600aa74ac57619a5834765d2a926b728c8359449bb864242416144fec0f"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/HOME_U0_5_0405ea406a.json",
+      "bytes": 2708,
+      "sha256": "8c98376d7d43aa0ee910fb80e8ed25e047ddbe83ec94b692059671e06ebf55f3"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/piacok/O2_5_f32c78e1c8.json",
+      "bytes": 2775,
+      "sha256": "2f07fa2cdf8b05893c4c48d930174009048fd9854dfb9e390adffabefee8c11b"
+    },
+    {
+      "path": "07_kalibracio/spanyol_85883d77d1/teljes_kalibracio.json",
+      "bytes": 250704,
+      "sha256": "61778af0bf8cd38dad3159f5dc6c911428a970998970a3aae3342f99694a6696"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/01_schemaVersion_dd1a021ec1.json",
+      "bytes": 2,
+      "sha256": "1121cfccd5913f0a63fec40a6ffd44ea64f9dc135c66634ba001d10bcf4302a2"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/02_exportedAt_f8fd8ee188.json",
+      "bytes": 27,
+      "sha256": "d867173d3bf2e1448662a520e857b7cb915854ad1d04cbedc74f1f4ba87e42ed"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/03_settings_aeda63a77f.json",
+      "bytes": 1232,
+      "sha256": "ff3c03d7106ccb81756ace00af9504cfea845a1c0cb1fc7de54b045f0ddb031b"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/04_calibration_0963c5bdf9.json",
+      "bytes": 676390,
+      "sha256": "be96b20df02d0cb85961d19fd3785b1f62968a174b75ba4bddf658bda5240136"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/05_teamWeights_ea350eefdc.json",
+      "bytes": 742,
+      "sha256": "cb6008ee6541a0c810f58954827894721ba5050697f316d9fd32e3d6dfb20092"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/06_teamAliasMap_131a98f127.json",
+      "bytes": 1032,
+      "sha256": "db604744e54b9d861e795af02abaadd70120d16084093194e6c8d99dad63c843"
+    },
+    {
+      "path": "08_eredeti/gyokermezok/07_seasonCounters_d3b4666b04.json",
+      "bytes": 35,
+      "sha256": "e19e857abf9ae74027c201a090e47334a6af827d654254941d659fda94dc2a2f"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0001_Angol_bajnoksag_1.json",
+      "bytes": 908279,
+      "sha256": "74143e84ff912942f4fb8453e3c5535f857c49a5198b63302f822dcd6583d4b2"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0002_Angol_bajnoksag_2.json",
+      "bytes": 906132,
+      "sha256": "6a6fd96f3d939cec9509610cc793d0b3df859850a9c9c969ee4f9e49ab2ea1c8"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0003_Angol_bajnoksag_3.json",
+      "bytes": 905476,
+      "sha256": "f8ab2379a4cec7a4966ffde5e0d0815250fce73631cde1418727939fdbde8b2c"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0004_Angol_bajnoksag_4.json",
+      "bytes": 904911,
+      "sha256": "85c92a834c220e3620bcf845e0f915a0f94075b68337c8093df6d4e237a388fc"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0005_Angol_bajnoksag_5.json",
+      "bytes": 905515,
+      "sha256": "5248e58afe82c5e8d6606a2e9265a26a92daaf0e13dbba357a3f6f0dd6e547fd"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0006_Angol_bajnoksag_6.json",
+      "bytes": 904418,
+      "sha256": "9a6cec5d909ad268b5181c732dd83d37d754588c1d70c52b7eafa62a8f2429bb"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0007_Angol_bajnoksag_7.json",
+      "bytes": 903879,
+      "sha256": "5afe5e68a72a41fc642b4ceed6177eef1fa0c2a7062c88d020fda4422815f759"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0008_Angol_bajnoksag_8.json",
+      "bytes": 905273,
+      "sha256": "b85bdeadaf4f27de3a7b4818524581bc1e4b8917724d1954fee909dcb440767d"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0009_Angol_bajnoksag_9.json",
+      "bytes": 903916,
+      "sha256": "516764707e40fec02b1af109f807632d06461f389cb9f2765288052075bb8a73"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0010_Angol_bajnoksag_10.json",
+      "bytes": 903925,
+      "sha256": "badc62152e500ae1b1cf6af7b6e75b9b4f8c362093cd713c05b3607f5ab5a57b"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0011_Angol_bajnoksag_11.json",
+      "bytes": 904592,
+      "sha256": "5a1c3ea1c49d2d7138a8b3c539e44965b36ecc43bdf6245a575c1f548fa35674"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0012_Angol_bajnoksag_12.json",
+      "bytes": 904217,
+      "sha256": "53a85380906706182137e00271c187377ab76f0f6c797bd43c766c50f5478236"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0013_Angol_bajnoksag_13.json",
+      "bytes": 903223,
+      "sha256": "876df43145700e7f06d60614c610de6da27064460e396fe1395f6fc7f57c12f3"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0014_Angol_bajnoksag_14.json",
+      "bytes": 904167,
+      "sha256": "1ce6168174aeb8f8036c811b66b02b05073bec57fb9f28fbac5d236498d405b9"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0015_Angol_bajnoksag_15.json",
+      "bytes": 903640,
+      "sha256": "222f0bf0e6c83c7e8b4add074d84c84322e6c5ccf77e1893dfd0656556be9248"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0016_Angol_bajnoksag_16.json",
+      "bytes": 903436,
+      "sha256": "c328d7c765502794f3945ac65c305e8e0138875de4360da5ee187e73dd1aa1bf"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0017_Angol_bajnoksag_17.json",
+      "bytes": 903483,
+      "sha256": "5ad4b8c592036a52694675693b59a5b7898db63041db49bb2e2905fceb07bda6"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0018_Angol_bajnoksag_18.json",
+      "bytes": 904420,
+      "sha256": "90e75e2b65cf3a07c10fb5147aec19077c43090ba235f961f66272e0a2863595"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0037_Angol_bajnoksag_19.json",
+      "bytes": 898602,
+      "sha256": "8ec0af7aa5c501f20f857f490e5d4c151cf4b2fc5adf60c9d78546dab743c6a8"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0038_Angol_bajnoksag_20.json",
+      "bytes": 898015,
+      "sha256": "1dc782220380b16360fe5ec9ab54c64277bbc923d119b1a16d627ce4f9ee4c9c"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0039_Angol_bajnoksag_21.json",
+      "bytes": 898224,
+      "sha256": "10473e5295a1455c07c8489278c9180c0090529bcde3a0f929cc91bfddc12462"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0040_Angol_bajnoksag_22.json",
+      "bytes": 898431,
+      "sha256": "eba39bdb5983b4f513414d9b0c98bd4d7b8885a9f0870a49248705db1717e841"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0041_Angol_bajnoksag_23.json",
+      "bytes": 898558,
+      "sha256": "bdaef5a60cbc68d61ec1b1729465b6b49aabd7b6664ac13389824017fdea781d"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0042_Angol_bajnoksag_24.json",
+      "bytes": 898868,
+      "sha256": "28be0b760e26c7037c76969a2669ca21868bc53cd86b1ace1443a000d8c05064"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0043_Angol_bajnoksag_25.json",
+      "bytes": 899030,
+      "sha256": "57859be4999ffe64d4d9c5375dc6e998ebd6392b8eae60274453bd6339b4e39a"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0044_Angol_bajnoksag_26.json",
+      "bytes": 899415,
+      "sha256": "9f25cc1b756b0f4457e32d238b558ebe4f27c869fb5b87a8ccc917aba77e4ff6"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0045_Angol_bajnoksag_27.json",
+      "bytes": 899042,
+      "sha256": "1411539f0d302813fc77e59ebb146cea39e3f7a16c5c93024cf7b39b90475e59"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0046_Angol_bajnoksag_28.json",
+      "bytes": 898400,
+      "sha256": "fa388bb168e34af8e2484fc9f13d912b6743978e78576027b62889d4e017a186"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0047_Angol_bajnoksag_29.json",
+      "bytes": 898829,
+      "sha256": "6c93602832d323bfb5defa6468f43263652911ad9ab0bf2b3cabe8202d9fd342"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0048_Angol_bajnoksag_30.json",
+      "bytes": 899168,
+      "sha256": "8455a1826509682df16ec1c385dc0a2d37085dd6851930fa58f73583814e80de"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0049_Angol_bajnoksag_31.json",
+      "bytes": 899931,
+      "sha256": "a72242234732c212b93808dcef4b467c779763f55eda988ffdb56f97c3565d4f"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0050_Angol_bajnoksag_32.json",
+      "bytes": 900200,
+      "sha256": "b886bb4a6949df496107f9732cd723242406f454e7838f818facb1d24c850e53"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0051_Angol_bajnoksag_33.json",
+      "bytes": 898985,
+      "sha256": "2ae787926051f1237d70c0bd5ebf1b116507a9ba3966319b22473dc96e8367a1"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0052_Angol_bajnoksag_34.json",
+      "bytes": 899146,
+      "sha256": "535107437c0eac9ed5469bba4c0acafb129e0b9189edeca3fa6c3f4176d9c894"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0053_Angol_bajnoksag_35.json",
+      "bytes": 898981,
+      "sha256": "c9696905980cac41b77f3b766c3f698ae88ea551f7c799d0110a3f63951de44d"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0054_Angol_bajnoksag_36.json",
+      "bytes": 899169,
+      "sha256": "6dc4d68224f02136aff54880bf0d3fd022c04ff70c4e3e28992b596cd5cefc12"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0055_Angol_bajnoksag_37.json",
+      "bytes": 900129,
+      "sha256": "6fed981477b8ee028e3f6bf67763f8a3d31cb18d3b9f167b861d6dc05df7a80c"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0056_Angol_bajnoksag_38.json",
+      "bytes": 898166,
+      "sha256": "d15a6d4a73dce72c360747ea788fe16c22f168b4daa5bee6b24db26bccbbabd2"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0057_Angol_bajnoksag_39.json",
+      "bytes": 899814,
+      "sha256": "70ed79f70cc2cb7a7c33a9588fdb3945d5fe48cb53965283ff11dccea0eb5bbc"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0058_Angol_bajnoksag_40.json",
+      "bytes": 899395,
+      "sha256": "b7fd8e17ddcf7a02eb577181d5338e314a20ec792df19d034304b007baf5fd3e"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0059_Angol_bajnoksag_41.json",
+      "bytes": 899489,
+      "sha256": "73bd9dad194b06dce7dea7ac937636a9437a88ebbb6d101b35d5a31ca3aee32f"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0060_Angol_bajnoksag_42.json",
+      "bytes": 904598,
+      "sha256": "2e86499767167b1616be8b1de9ff41e91d751455783d6a93af08b876b63d54fc"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0061_Angol_bajnoksag_43.json",
+      "bytes": 902115,
+      "sha256": "da26396e4eb2375ab70b53a76b669873983cfb4f6211628c04fad25fd24b4897"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0062_Angol_bajnoksag_44.json",
+      "bytes": 902675,
+      "sha256": "ef043372ec962767f205f6735c4ed7a7d60a474728b2e08926e0506c88659cba"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0063_Angol_bajnoksag_45.json",
+      "bytes": 902154,
+      "sha256": "eab0b9a4e51b92110c89b026eaf8d965302a707e8afa1bdd55f7b8e62d73be29"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0064_Angol_bajnoksag_46.json",
+      "bytes": 903637,
+      "sha256": "84729317c7ce0bc1d40c9b1f829fa2553533be69b56c44381e708bf01baef18f"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0065_Angol_bajnoksag_47.json",
+      "bytes": 903351,
+      "sha256": "190440f258f75950570b62510cf941374713523183f953990112e7a946d5c388"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0066_Angol_bajnoksag_48.json",
+      "bytes": 903556,
+      "sha256": "b019504ce1e74a452e8bb0454d092bbe9a7815ab7fd99835e19953b90bab690b"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0067_Angol_bajnoksag_49.json",
+      "bytes": 902798,
+      "sha256": "7c7da806d10e34ac96b9ea1dbac3c4c22f9c55193aacc2a5d3dd3c44b027ed5f"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0068_Angol_bajnoksag_50.json",
+      "bytes": 901329,
+      "sha256": "9b81bb74d088703f635ee6757431c0b02684f7331ade2f7e3f74c75acca5040a"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0069_Angol_bajnoksag_51.json",
+      "bytes": 901678,
+      "sha256": "b07350ba122ce49c10275364479a2fe43ea6de854044924f092e5d39080875c7"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0070_Angol_bajnoksag_52.json",
+      "bytes": 902430,
+      "sha256": "fb526302545d5d9536cb2a62260942cb1244dc457a6c9833953c22c2674d6889"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0071_Angol_bajnoksag_53.json",
+      "bytes": 903905,
+      "sha256": "d56429724a67bb98e57fb97545117121997c43466eefe6db610f94bdd96fef30"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0072_Angol_bajnoksag_54.json",
+      "bytes": 903303,
+      "sha256": "59b2bd1a1aef3bd8b7ae78c09e66631d08c9633427d6fcaf38ef4bdad7024b1c"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0073_Angol_bajnoksag_55.json",
+      "bytes": 902690,
+      "sha256": "b98ffa51653e6ee20a15b1913ab9164ba097e3f2f69663d3c27da78c2d982c42"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0074_Angol_bajnoksag_56.json",
+      "bytes": 903305,
+      "sha256": "178a7f50a70e04df4f323fcd0b43db6727eb043624834c0d2883837736fab4d6"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0075_Angol_bajnoksag_57.json",
+      "bytes": 902043,
+      "sha256": "8d89dfa65c8bced633e008ad16c72feda7ad5b78055c618947c03a550612eac1"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0076_Angol_bajnoksag_58.json",
+      "bytes": 902875,
+      "sha256": "0c2e77ff596927a5489b3ba4044f17e2bdaf4c83dc0a121f4f8c7e9c71be8433"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0077_Angol_bajnoksag_59.json",
+      "bytes": 902083,
+      "sha256": "82de8bba99fd8edff77e952495810ea87658be4f99fabca920efecb770c3c1a2"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0078_Angol_bajnoksag_60.json",
+      "bytes": 902885,
+      "sha256": "b4dc9e513c7824895f9ead0bf157fe55d7b6f1ad3605791743e51c5781c59279"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0079_Angol_bajnoksag_61.json",
+      "bytes": 902574,
+      "sha256": "04c9a5b950c4a06c2c81ee8227c5c0090e3eeff67a11f891d424e5a02ac1c03d"
+    },
+    {
+      "path": "08_eredeti/szezonok/angol_ad7f94aa67/s0080_Angol_bajnoksag_62.json",
+      "bytes": 902356,
+      "sha256": "440842c2685e06ba190242649dd6af38bc1f24c28f50176f4a2ca604ab65f297"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0019_Spanyol_bajnoksag_1.json",
+      "bytes": 906434,
+      "sha256": "670e24839c55149b3ca6683ee26a251d8c8be7bb75db753e58076b5f12f601cb"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0020_Spanyol_bajnoksag_2.json",
+      "bytes": 905138,
+      "sha256": "03147e35db00a4c493d7b680335e34e458adbfc4109fef122591d322c896f313"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0021_Spanyol_bajnoksag_3.json",
+      "bytes": 904588,
+      "sha256": "e43de61df23e3103a913188c5e32b5b467a7070a45cb996a3b0de5e48e47ca57"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0022_Spanyol_bajnoksag_4.json",
+      "bytes": 905814,
+      "sha256": "d05cccaf4fc10be84f5ccc33d8617c30256f8f568df832955a941f4fbde291cd"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0023_Spanyol_bajnoksag_5.json",
+      "bytes": 904196,
+      "sha256": "088438d508d670b836c2adff4a6c50ff238d6ace03f1d7b486b90a3c76ae5daf"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0024_Spanyol_bajnoksag_6.json",
+      "bytes": 903006,
+      "sha256": "3ce02e60db4240100869eb2def1f4c4cf23fa256a39555b5d89f72046887325a"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0025_Spanyol_bajnoksag_7.json",
+      "bytes": 905137,
+      "sha256": "82e27b5874f16c0a6582dfa20161c0d79ce60a9f45f6fc1152687c48fdaf25fc"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0026_Spanyol_bajnoksag_8.json",
+      "bytes": 904499,
+      "sha256": "226dbb7cefe1fc5fee730d5a4a6489804731feb5fba4f90bcec0743f0c8c6a3c"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0027_Spanyol_bajnoksag_9.json",
+      "bytes": 904187,
+      "sha256": "fdffda4a5448183b90cfb57ff3238dfee5158e8659fed93906add92d703405be"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0028_Spanyol_bajnoksag_10.json",
+      "bytes": 903017,
+      "sha256": "ee40a1ee0dd57e72e859ac54eab624efa4d056ff5ab3aa9b4c34264aee5fb8d0"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0029_Spanyol_bajnoksag_11.json",
+      "bytes": 903287,
+      "sha256": "8f4a36531f2c005689cf5f082eaf340258d31d1bf314bcb9af73067e6954919b"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0030_Spanyol_bajnoksag_12.json",
+      "bytes": 903647,
+      "sha256": "91089307002ff77aab5c76913f3bcdbd08a9c1f50699ac41ee317d99f31122b4"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0031_Spanyol_bajnoksag_13.json",
+      "bytes": 903700,
+      "sha256": "a1dd1504d8627072eba8868747a576580464dc76662c387cc53fa86c9da6b705"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0032_Spanyol_bajnoksag_14.json",
+      "bytes": 903704,
+      "sha256": "43929d107293e53006236303fe884c6df9f2dda8e9babf767492030b58d271a9"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0033_Spanyol_bajnoksag_15.json",
+      "bytes": 903159,
+      "sha256": "ffaed23b9da54f2fb22040eb25196d77f61ac35b4d77f8a4d86582355aececf3"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0034_Spanyol_bajnoksag_16.json",
+      "bytes": 903359,
+      "sha256": "4eaa95dc3edab1f492468104540fbb41cc6e9fa0f20e98ca3c0170dd80b0a075"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0035_Spanyol_bajnoksag_17.json",
+      "bytes": 903788,
+      "sha256": "a1ee4230303e6aa57a30a06e997a22174f69f0d08ac0050ff81e7f8c80a56a90"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0036_Spanyol_bajnoksag_18.json",
+      "bytes": 902196,
+      "sha256": "18b6bf03f2b6283f00865aa26b7e148665434e994d455fa83d7aa6b24a419cf5"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0081_Spanyol_bajnoksag_19.json",
+      "bytes": 901124,
+      "sha256": "b594c75b66091436537a2da457227a7706d5d88ce1d91c8735d349f3ed88b7a6"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0082_Spanyol_bajnoksag_20.json",
+      "bytes": 900930,
+      "sha256": "d4ecc9dfb1ffe19514e3e4cc24bffbd856d5f54c647d7e58dd79a03ae2083b72"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0083_Spanyol_bajnoksag_21.json",
+      "bytes": 901000,
+      "sha256": "497789b7098074bb96d7babf43b15d0a6e5306b1a54e35eecff881c590a6444b"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0084_Spanyol_bajnoksag_22.json",
+      "bytes": 901627,
+      "sha256": "cec0b00ecad9eaac687005654b33e093413ac4e625d4efa9df8ca6632dccaab6"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0085_Spanyol_bajnoksag_23.json",
+      "bytes": 901821,
+      "sha256": "dfb76ef55317ea25313d7983ba9c41ddb6d8a24e483365fa93da27a8af1f1cf1"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0086_Spanyol_bajnoksag_24.json",
+      "bytes": 901445,
+      "sha256": "337658afff8bff7dc335ce85be34f4ba586851b5ab0f21ab396ecfca8a6fd03c"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0087_Spanyol_bajnoksag_25.json",
+      "bytes": 902426,
+      "sha256": "c184d3358cea501f6c1682ae9f783d84f5a79da531f51c524f0706c83d004660"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0088_Spanyol_bajnoksag_26.json",
+      "bytes": 901012,
+      "sha256": "0b6ca2496c5109c8cd6ac2fe9f7ba13defb88f9e8e80ec9fc91db16bf771e633"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0089_Spanyol_bajnoksag_27.json",
+      "bytes": 900872,
+      "sha256": "0498540f97ddaa839fc5facf82ac85481d0d5a715f5513a43cb97925563df2ab"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0090_Spanyol_bajnoksag_28.json",
+      "bytes": 900958,
+      "sha256": "c1a8a7c700243bb22c1b4edfd68e6ebca7f151f2ca08af35ec3b0c963d2bf1d2"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0091_Spanyol_bajnoksag_29.json",
+      "bytes": 901218,
+      "sha256": "98185593f3fbe8dd2ae2825cfa29692a5d0ebf48e43b012cfd5ff23aa63dc51e"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0092_Spanyol_bajnoksag_30.json",
+      "bytes": 901436,
+      "sha256": "70b2f0b3be60f57263fc45210d548e9ba02c1bd90c6e162071df7887861c0c5d"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0093_Spanyol_bajnoksag_31.json",
+      "bytes": 900812,
+      "sha256": "5bd894d6acd14dca2f9d8dd067f635fb96776d9e345ba8ea973ac01b1c539557"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0094_Spanyol_bajnoksag_32.json",
+      "bytes": 900825,
+      "sha256": "fcd0e9f8b005f03c9c3543174c59ed7d7a992c1020c9af4da528e867cb42280b"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0095_Spanyol_bajnoksag_33.json",
+      "bytes": 901621,
+      "sha256": "01257b556a896e2529e1375ce92b09e5045c9c78259cbe093ce9a40a46fd9660"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0096_Spanyol_bajnoksag_34.json",
+      "bytes": 901899,
+      "sha256": "f62e18e51c95f55142044313743beaf5b13aa2ffea43813fed08bb52bcbe795e"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0097_Spanyol_bajnoksag_35.json",
+      "bytes": 901804,
+      "sha256": "32ac88f29e4b2a7c79cb0f389056d5962b78c51c5ef7fc30e14e202ad26ff7d3"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0098_Spanyol_bajnoksag_36.json",
+      "bytes": 901044,
+      "sha256": "9c5253af89b86b40ecbca369ed68fcba5dad61f4339b37c97a46e01ee9c86ef2"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0099_Spanyol_bajnoksag_37.json",
+      "bytes": 902624,
+      "sha256": "65de9ea0a20cb0c9ab3caaab82d04e3ea2a527d7c2827fb590ea17e43dc6d9da"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0100_Spanyol_bajnoksag_38.json",
+      "bytes": 902244,
+      "sha256": "2d77f4aa086520695593c689f5150db17cda0dee0071ff612428fa85a72f5b89"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0101_Spanyol_bajnoksag_39.json",
+      "bytes": 900678,
+      "sha256": "c8fc86ae967357941841577caa5c2a5cb6bcb0253470e759c4a3d3de086afc24"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0102_Spanyol_bajnoksag_40.json",
+      "bytes": 900298,
+      "sha256": "1328028c43a8d1fa69d8187f578fd6d61592590de662e480168de537399c56fd"
+    },
+    {
+      "path": "08_eredeti/szezonok/spanyol_85883d77d1/s0103_Spanyol_bajnoksag_41.json",
+      "bytes": 901695,
+      "sha256": "7a11fb916bb7a2c495016c5130cb89ece032446e0f6299742a95b119c5068534"
+    }
+  ],
+  "notes": [
+    "A manifest saját magát nem hash-eli.",
+    "A forrás adatait a 08_eredeti és a raw_index alapján JSON-szinten vissza lehet állítani.",
+    "A fájlon belüli technikai kulcs nem globális meccsazonosító."
+  ]
+}

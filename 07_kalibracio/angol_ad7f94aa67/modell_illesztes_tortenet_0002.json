@@ -1,0 +1,6827 @@
+[
+  {
+    "league": "angol",
+    "source_index": 1001,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "kind": "m1",
+      "n": 9036,
+      "avgLogLoss": 0.9835957451193605
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1002,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "kind": "ensemble",
+      "n": 9036,
+      "avgLogLoss": 0.9928579850037749,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1003,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "kind": "m1",
+      "n": 9054,
+      "avgLogLoss": 0.9835247168259657
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1004,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "kind": "ensemble",
+      "n": 9054,
+      "avgLogLoss": 0.9927661795360407,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1005,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "kind": "m1",
+      "n": 9072,
+      "avgLogLoss": 0.9833656086565872
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1006,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "kind": "ensemble",
+      "n": 9072,
+      "avgLogLoss": 0.9925810067400963,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1007,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "kind": "m1",
+      "n": 9090,
+      "avgLogLoss": 0.9837709770903897
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1008,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "kind": "ensemble",
+      "n": 9090,
+      "avgLogLoss": 0.9929968120556748,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1009,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "kind": "m1",
+      "n": 9108,
+      "avgLogLoss": 0.9841490254832991
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1010,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "kind": "ensemble",
+      "n": 9108,
+      "avgLogLoss": 0.9933800999216181,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1011,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "kind": "m1",
+      "n": 9126,
+      "avgLogLoss": 0.9841262173948889
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1012,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "kind": "ensemble",
+      "n": 9126,
+      "avgLogLoss": 0.9933728725949568,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1013,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "kind": "m1",
+      "n": 9144,
+      "avgLogLoss": 0.9839753193821064
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1014,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "kind": "ensemble",
+      "n": 9144,
+      "avgLogLoss": 0.9932259938063088,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1015,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "kind": "m1",
+      "n": 9162,
+      "avgLogLoss": 0.9836783452430021
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1016,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "kind": "ensemble",
+      "n": 9162,
+      "avgLogLoss": 0.9929308356542157,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1017,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "kind": "m1",
+      "n": 9180,
+      "avgLogLoss": 0.9835663024179777
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1018,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "kind": "ensemble",
+      "n": 9180,
+      "avgLogLoss": 0.9928160537649123,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1019,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "kind": "m1",
+      "n": 9198,
+      "avgLogLoss": 0.9838776646238759
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1020,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "kind": "ensemble",
+      "n": 9198,
+      "avgLogLoss": 0.9930662057837226,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1021,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "kind": "m1",
+      "n": 9216,
+      "avgLogLoss": 0.9840359931315947
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1022,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "kind": "ensemble",
+      "n": 9216,
+      "avgLogLoss": 0.9932047451163292,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1023,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "kind": "m1",
+      "n": 9234,
+      "avgLogLoss": 0.9842175647025485
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1024,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "kind": "ensemble",
+      "n": 9234,
+      "avgLogLoss": 0.9933513660095216,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1025,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "kind": "m1",
+      "n": 9252,
+      "avgLogLoss": 0.9843483510515088
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1026,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "kind": "ensemble",
+      "n": 9252,
+      "avgLogLoss": 0.9934019953877464,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1027,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "kind": "m1",
+      "n": 9270,
+      "avgLogLoss": 0.9844019262016032
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1028,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "kind": "ensemble",
+      "n": 9270,
+      "avgLogLoss": 0.9934538864115986,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1029,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "kind": "m1",
+      "n": 9288,
+      "avgLogLoss": 0.9845099918788998
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1030,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "kind": "ensemble",
+      "n": 9288,
+      "avgLogLoss": 0.9935172768046721,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1031,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "kind": "m1",
+      "n": 9306,
+      "avgLogLoss": 0.9845979269178835
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1032,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "kind": "ensemble",
+      "n": 9306,
+      "avgLogLoss": 0.9936019533857459,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1033,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "kind": "m1",
+      "n": 9324,
+      "avgLogLoss": 0.9849174826961193
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1034,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "kind": "ensemble",
+      "n": 9324,
+      "avgLogLoss": 0.9938728476153953,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1035,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "kind": "m1",
+      "n": 9342,
+      "avgLogLoss": 0.9847470011738819
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1036,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "kind": "ensemble",
+      "n": 9342,
+      "avgLogLoss": 0.9936894282946164,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1037,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "kind": "m1",
+      "n": 9360,
+      "avgLogLoss": 0.9845014082710675
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1038,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "kind": "ensemble",
+      "n": 9360,
+      "avgLogLoss": 0.9934313274403874,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1039,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "kind": "m1",
+      "n": 9378,
+      "avgLogLoss": 0.9846191153391037
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1040,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "kind": "ensemble",
+      "n": 9378,
+      "avgLogLoss": 0.9935211514626593,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1041,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "kind": "m1",
+      "n": 9396,
+      "avgLogLoss": 0.984562951483982
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1042,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "kind": "ensemble",
+      "n": 9396,
+      "avgLogLoss": 0.9934575478102025,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1043,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "kind": "m1",
+      "n": 9414,
+      "avgLogLoss": 0.9848062323516016
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1044,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "kind": "ensemble",
+      "n": 9414,
+      "avgLogLoss": 0.9936514426753953,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1045,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "kind": "m1",
+      "n": 9432,
+      "avgLogLoss": 0.9847486914400148
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1046,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "kind": "ensemble",
+      "n": 9432,
+      "avgLogLoss": 0.9935760092321568,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1047,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "kind": "m1",
+      "n": 9450,
+      "avgLogLoss": 0.9847451044871244
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1048,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "kind": "ensemble",
+      "n": 9450,
+      "avgLogLoss": 0.9935589779199465,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1049,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "kind": "m1",
+      "n": 9468,
+      "avgLogLoss": 0.9849957736792215
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1050,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "kind": "ensemble",
+      "n": 9468,
+      "avgLogLoss": 0.9937757224470342,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1051,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "kind": "m1",
+      "n": 9486,
+      "avgLogLoss": 0.9851878879649876
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1052,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "kind": "ensemble",
+      "n": 9486,
+      "avgLogLoss": 0.993950468557078,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1053,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "kind": "m1",
+      "n": 9504,
+      "avgLogLoss": 0.984732924886088
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1054,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "kind": "ensemble",
+      "n": 9504,
+      "avgLogLoss": 0.9934969765951664,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1055,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "kind": "m1",
+      "n": 9522,
+      "avgLogLoss": 0.9847915998788156
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1056,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "kind": "ensemble",
+      "n": 9522,
+      "avgLogLoss": 0.9935611554414676,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1057,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "kind": "m1",
+      "n": 9540,
+      "avgLogLoss": 0.9848296382077902
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1058,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "kind": "ensemble",
+      "n": 9540,
+      "avgLogLoss": 0.9936037317646703,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1059,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "kind": "m1",
+      "n": 9558,
+      "avgLogLoss": 0.9847047483000219
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1060,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "kind": "ensemble",
+      "n": 9558,
+      "avgLogLoss": 0.9934896588207429,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1061,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "kind": "m1",
+      "n": 9576,
+      "avgLogLoss": 0.9847132439566951
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1062,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "kind": "ensemble",
+      "n": 9576,
+      "avgLogLoss": 0.9934766453136084,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1063,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "kind": "m1",
+      "n": 9594,
+      "avgLogLoss": 0.984574792710273
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1064,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "kind": "ensemble",
+      "n": 9594,
+      "avgLogLoss": 0.9933444876052584,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1065,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "kind": "m1",
+      "n": 9612,
+      "avgLogLoss": 0.9844303448211643
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1066,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "kind": "ensemble",
+      "n": 9612,
+      "avgLogLoss": 0.9931760966109324,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1067,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "kind": "m1",
+      "n": 9630,
+      "avgLogLoss": 0.9846071268184624
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1068,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "kind": "ensemble",
+      "n": 9630,
+      "avgLogLoss": 0.9933515353764033,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1069,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "kind": "m1",
+      "n": 9648,
+      "avgLogLoss": 0.9846935172921425
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1070,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "kind": "ensemble",
+      "n": 9648,
+      "avgLogLoss": 0.9934037144948297,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1071,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "kind": "m1",
+      "n": 9666,
+      "avgLogLoss": 0.984704681237963
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1072,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "kind": "ensemble",
+      "n": 9666,
+      "avgLogLoss": 0.9934022172152223,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1073,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "kind": "m1",
+      "n": 9684,
+      "avgLogLoss": 0.9845335930656902
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1074,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "kind": "ensemble",
+      "n": 9684,
+      "avgLogLoss": 0.9932653597237959,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1075,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "kind": "m1",
+      "n": 9702,
+      "avgLogLoss": 0.9847005247766316
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1076,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "kind": "ensemble",
+      "n": 9702,
+      "avgLogLoss": 0.993408250375684,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1077,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "kind": "m1",
+      "n": 9720,
+      "avgLogLoss": 0.9846069688157573
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1078,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "kind": "ensemble",
+      "n": 9720,
+      "avgLogLoss": 0.9933089661679882,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1079,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "kind": "m1",
+      "n": 9738,
+      "avgLogLoss": 0.9847141749621241
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1080,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "kind": "ensemble",
+      "n": 9738,
+      "avgLogLoss": 0.9934025896436347,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1081,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "kind": "m1",
+      "n": 9756,
+      "avgLogLoss": 0.9844661638902781
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1082,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "kind": "ensemble",
+      "n": 9756,
+      "avgLogLoss": 0.9931398400362695,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1083,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "kind": "m1",
+      "n": 9774,
+      "avgLogLoss": 0.9846160607583511
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1084,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "kind": "ensemble",
+      "n": 9774,
+      "avgLogLoss": 0.9932589590494834,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1085,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "kind": "m1",
+      "n": 9792,
+      "avgLogLoss": 0.9845504630968495
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1086,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "kind": "ensemble",
+      "n": 9792,
+      "avgLogLoss": 0.9932014879959726,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1087,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "kind": "m1",
+      "n": 9810,
+      "avgLogLoss": 0.9845401413288857
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1088,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "kind": "ensemble",
+      "n": 9810,
+      "avgLogLoss": 0.993197837215493,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1089,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "kind": "m1",
+      "n": 9828,
+      "avgLogLoss": 0.9845791465191371
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1090,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "kind": "ensemble",
+      "n": 9828,
+      "avgLogLoss": 0.9931860544734787,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1091,
+    "data": {
+      "fittedAtMatchIndex": 9846,
+      "kind": "m1",
+      "n": 9846,
+      "avgLogLoss": 0.984898084899519
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1092,
+    "data": {
+      "fittedAtMatchIndex": 9846,
+      "kind": "ensemble",
+      "n": 9846,
+      "avgLogLoss": 0.9934476599500829,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1093,
+    "data": {
+      "fittedAtMatchIndex": 9864,
+      "kind": "m1",
+      "n": 9864,
+      "avgLogLoss": 0.9851353608207497
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1094,
+    "data": {
+      "fittedAtMatchIndex": 9864,
+      "kind": "ensemble",
+      "n": 9864,
+      "avgLogLoss": 0.9936283655358557,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1095,
+    "data": {
+      "fittedAtMatchIndex": 9882,
+      "kind": "m1",
+      "n": 9882,
+      "avgLogLoss": 0.9852036383250072
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1096,
+    "data": {
+      "fittedAtMatchIndex": 9882,
+      "kind": "ensemble",
+      "n": 9882,
+      "avgLogLoss": 0.9936743537179873,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1097,
+    "data": {
+      "fittedAtMatchIndex": 9900,
+      "kind": "m1",
+      "n": 9900,
+      "avgLogLoss": 0.9854406291309061
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1098,
+    "data": {
+      "fittedAtMatchIndex": 9900,
+      "kind": "ensemble",
+      "n": 9900,
+      "avgLogLoss": 0.993897284415314,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1099,
+    "data": {
+      "fittedAtMatchIndex": 9918,
+      "kind": "m1",
+      "n": 9918,
+      "avgLogLoss": 0.9857615481653974
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1100,
+    "data": {
+      "fittedAtMatchIndex": 9918,
+      "kind": "ensemble",
+      "n": 9918,
+      "avgLogLoss": 0.9941846555587281,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1101,
+    "data": {
+      "fittedAtMatchIndex": 9936,
+      "kind": "m1",
+      "n": 9936,
+      "avgLogLoss": 0.9860729582092674
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1102,
+    "data": {
+      "fittedAtMatchIndex": 9936,
+      "kind": "ensemble",
+      "n": 9936,
+      "avgLogLoss": 0.9944268891150969,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1103,
+    "data": {
+      "fittedAtMatchIndex": 9954,
+      "kind": "m1",
+      "n": 9954,
+      "avgLogLoss": 0.9857703497472645
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1104,
+    "data": {
+      "fittedAtMatchIndex": 9954,
+      "kind": "ensemble",
+      "n": 9954,
+      "avgLogLoss": 0.9941779363553446,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1105,
+    "data": {
+      "fittedAtMatchIndex": 9972,
+      "kind": "m1",
+      "n": 9972,
+      "avgLogLoss": 0.9858851066681961
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1106,
+    "data": {
+      "fittedAtMatchIndex": 9972,
+      "kind": "ensemble",
+      "n": 9972,
+      "avgLogLoss": 0.9942645867830427,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1107,
+    "data": {
+      "fittedAtMatchIndex": 9990,
+      "kind": "m1",
+      "n": 9990,
+      "avgLogLoss": 0.9862317662060183
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1108,
+    "data": {
+      "fittedAtMatchIndex": 9990,
+      "kind": "ensemble",
+      "n": 9990,
+      "avgLogLoss": 0.9945642912887606,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1109,
+    "data": {
+      "fittedAtMatchIndex": 10008,
+      "kind": "m1",
+      "n": 10008,
+      "avgLogLoss": 0.9861775058007882
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1110,
+    "data": {
+      "fittedAtMatchIndex": 10008,
+      "kind": "ensemble",
+      "n": 10008,
+      "avgLogLoss": 0.9945004953471414,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1111,
+    "data": {
+      "fittedAtMatchIndex": 10026,
+      "kind": "m1",
+      "n": 10026,
+      "avgLogLoss": 0.9863107053694748
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1112,
+    "data": {
+      "fittedAtMatchIndex": 10026,
+      "kind": "ensemble",
+      "n": 10026,
+      "avgLogLoss": 0.9946084789505493,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1113,
+    "data": {
+      "fittedAtMatchIndex": 10044,
+      "kind": "m1",
+      "n": 10044,
+      "avgLogLoss": 0.9862217712625158
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1114,
+    "data": {
+      "fittedAtMatchIndex": 10044,
+      "kind": "ensemble",
+      "n": 10044,
+      "avgLogLoss": 0.9945207700610016,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1115,
+    "data": {
+      "fittedAtMatchIndex": 10062,
+      "kind": "m1",
+      "n": 10062,
+      "avgLogLoss": 0.9861660945084889
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1116,
+    "data": {
+      "fittedAtMatchIndex": 10062,
+      "kind": "ensemble",
+      "n": 10062,
+      "avgLogLoss": 0.9944489325607084,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1117,
+    "data": {
+      "fittedAtMatchIndex": 10080,
+      "kind": "m1",
+      "n": 10080,
+      "avgLogLoss": 0.9859859272250175
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1118,
+    "data": {
+      "fittedAtMatchIndex": 10080,
+      "kind": "ensemble",
+      "n": 10080,
+      "avgLogLoss": 0.9942563030705054,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1119,
+    "data": {
+      "fittedAtMatchIndex": 10098,
+      "kind": "m1",
+      "n": 10098,
+      "avgLogLoss": 0.9861119567609363
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1120,
+    "data": {
+      "fittedAtMatchIndex": 10098,
+      "kind": "ensemble",
+      "n": 10098,
+      "avgLogLoss": 0.9943825192804363,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1121,
+    "data": {
+      "fittedAtMatchIndex": 10116,
+      "kind": "m1",
+      "n": 10116,
+      "avgLogLoss": 0.985969809176279
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1122,
+    "data": {
+      "fittedAtMatchIndex": 10116,
+      "kind": "ensemble",
+      "n": 10116,
+      "avgLogLoss": 0.9942559821376632,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1123,
+    "data": {
+      "fittedAtMatchIndex": 10134,
+      "kind": "m1",
+      "n": 10134,
+      "avgLogLoss": 0.9858194845401583
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1124,
+    "data": {
+      "fittedAtMatchIndex": 10134,
+      "kind": "ensemble",
+      "n": 10134,
+      "avgLogLoss": 0.9941011066170645,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1125,
+    "data": {
+      "fittedAtMatchIndex": 10152,
+      "kind": "m1",
+      "n": 10152,
+      "avgLogLoss": 0.9859773935684891
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1126,
+    "data": {
+      "fittedAtMatchIndex": 10152,
+      "kind": "ensemble",
+      "n": 10152,
+      "avgLogLoss": 0.9942551616728993,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1127,
+    "data": {
+      "fittedAtMatchIndex": 10170,
+      "kind": "m1",
+      "n": 10170,
+      "avgLogLoss": 0.9856434225705787
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1128,
+    "data": {
+      "fittedAtMatchIndex": 10170,
+      "kind": "ensemble",
+      "n": 10170,
+      "avgLogLoss": 0.9939228839618678,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1129,
+    "data": {
+      "fittedAtMatchIndex": 10188,
+      "kind": "m1",
+      "n": 10188,
+      "avgLogLoss": 0.9855561823860473
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1130,
+    "data": {
+      "fittedAtMatchIndex": 10188,
+      "kind": "ensemble",
+      "n": 10188,
+      "avgLogLoss": 0.9938442556436201,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1131,
+    "data": {
+      "fittedAtMatchIndex": 10206,
+      "kind": "m1",
+      "n": 10206,
+      "avgLogLoss": 0.9856522587983269
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1132,
+    "data": {
+      "fittedAtMatchIndex": 10206,
+      "kind": "ensemble",
+      "n": 10206,
+      "avgLogLoss": 0.9939528142946467,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1133,
+    "data": {
+      "fittedAtMatchIndex": 10224,
+      "kind": "m1",
+      "n": 10224,
+      "avgLogLoss": 0.9860209854062245
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1134,
+    "data": {
+      "fittedAtMatchIndex": 10224,
+      "kind": "ensemble",
+      "n": 10224,
+      "avgLogLoss": 0.9942997284972414,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1135,
+    "data": {
+      "fittedAtMatchIndex": 10242,
+      "kind": "m1",
+      "n": 10242,
+      "avgLogLoss": 0.9858646869148081
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1136,
+    "data": {
+      "fittedAtMatchIndex": 10242,
+      "kind": "ensemble",
+      "n": 10242,
+      "avgLogLoss": 0.9941359125375429,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1137,
+    "data": {
+      "fittedAtMatchIndex": 10260,
+      "kind": "m1",
+      "n": 10260,
+      "avgLogLoss": 0.9858768605338909
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1138,
+    "data": {
+      "fittedAtMatchIndex": 10260,
+      "kind": "ensemble",
+      "n": 10260,
+      "avgLogLoss": 0.9941476340043606,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1139,
+    "data": {
+      "fittedAtMatchIndex": 10278,
+      "kind": "m1",
+      "n": 10278,
+      "avgLogLoss": 0.9859572295186199
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1140,
+    "data": {
+      "fittedAtMatchIndex": 10278,
+      "kind": "ensemble",
+      "n": 10278,
+      "avgLogLoss": 0.9942078944264928,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1141,
+    "data": {
+      "fittedAtMatchIndex": 10296,
+      "kind": "m1",
+      "n": 10296,
+      "avgLogLoss": 0.9862019937591985
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1142,
+    "data": {
+      "fittedAtMatchIndex": 10296,
+      "kind": "ensemble",
+      "n": 10296,
+      "avgLogLoss": 0.9944736852159446,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1143,
+    "data": {
+      "fittedAtMatchIndex": 10314,
+      "kind": "m1",
+      "n": 10314,
+      "avgLogLoss": 0.9867739810517995
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1144,
+    "data": {
+      "fittedAtMatchIndex": 10314,
+      "kind": "ensemble",
+      "n": 10314,
+      "avgLogLoss": 0.9950485185424518,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1145,
+    "data": {
+      "fittedAtMatchIndex": 10332,
+      "kind": "m1",
+      "n": 10332,
+      "avgLogLoss": 0.9868025975851731
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1146,
+    "data": {
+      "fittedAtMatchIndex": 10332,
+      "kind": "ensemble",
+      "n": 10332,
+      "avgLogLoss": 0.9951078055994567,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1147,
+    "data": {
+      "fittedAtMatchIndex": 10350,
+      "kind": "m1",
+      "n": 10350,
+      "avgLogLoss": 0.9867668728570906
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1148,
+    "data": {
+      "fittedAtMatchIndex": 10350,
+      "kind": "ensemble",
+      "n": 10350,
+      "avgLogLoss": 0.9950550986849608,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1149,
+    "data": {
+      "fittedAtMatchIndex": 10368,
+      "kind": "m1",
+      "n": 10368,
+      "avgLogLoss": 0.9866747711788015
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1150,
+    "data": {
+      "fittedAtMatchIndex": 10368,
+      "kind": "ensemble",
+      "n": 10368,
+      "avgLogLoss": 0.9949592665714777,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1151,
+    "data": {
+      "fittedAtMatchIndex": 10386,
+      "kind": "m1",
+      "n": 10386,
+      "avgLogLoss": 0.9868211773624551
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1152,
+    "data": {
+      "fittedAtMatchIndex": 10386,
+      "kind": "ensemble",
+      "n": 10386,
+      "avgLogLoss": 0.9950834948436882,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1153,
+    "data": {
+      "fittedAtMatchIndex": 10404,
+      "kind": "m1",
+      "n": 10404,
+      "avgLogLoss": 0.9866329320151955
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1154,
+    "data": {
+      "fittedAtMatchIndex": 10404,
+      "kind": "ensemble",
+      "n": 10404,
+      "avgLogLoss": 0.994885902969295,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1155,
+    "data": {
+      "fittedAtMatchIndex": 10422,
+      "kind": "m1",
+      "n": 10422,
+      "avgLogLoss": 0.9867799892983412
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1156,
+    "data": {
+      "fittedAtMatchIndex": 10422,
+      "kind": "ensemble",
+      "n": 10422,
+      "avgLogLoss": 0.9950501720802031,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1157,
+    "data": {
+      "fittedAtMatchIndex": 10440,
+      "kind": "m1",
+      "n": 10440,
+      "avgLogLoss": 0.9866970080400659
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1158,
+    "data": {
+      "fittedAtMatchIndex": 10440,
+      "kind": "ensemble",
+      "n": 10440,
+      "avgLogLoss": 0.994950161675395,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1159,
+    "data": {
+      "fittedAtMatchIndex": 10458,
+      "kind": "m1",
+      "n": 10458,
+      "avgLogLoss": 0.9870281044941365
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1160,
+    "data": {
+      "fittedAtMatchIndex": 10458,
+      "kind": "ensemble",
+      "n": 10458,
+      "avgLogLoss": 0.9952133628121399,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1161,
+    "data": {
+      "fittedAtMatchIndex": 10476,
+      "kind": "m1",
+      "n": 10476,
+      "avgLogLoss": 0.9870969952521591
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1162,
+    "data": {
+      "fittedAtMatchIndex": 10476,
+      "kind": "ensemble",
+      "n": 10476,
+      "avgLogLoss": 0.9953141819846265,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1163,
+    "data": {
+      "fittedAtMatchIndex": 10494,
+      "kind": "m1",
+      "n": 10494,
+      "avgLogLoss": 0.9873159425025065
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1164,
+    "data": {
+      "fittedAtMatchIndex": 10494,
+      "kind": "ensemble",
+      "n": 10494,
+      "avgLogLoss": 0.9954785479376272,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1165,
+    "data": {
+      "fittedAtMatchIndex": 10512,
+      "kind": "m1",
+      "n": 10512,
+      "avgLogLoss": 0.9875801892563424
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1166,
+    "data": {
+      "fittedAtMatchIndex": 10512,
+      "kind": "ensemble",
+      "n": 10512,
+      "avgLogLoss": 0.9956675811961558,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1167,
+    "data": {
+      "fittedAtMatchIndex": 10530,
+      "kind": "m1",
+      "n": 10530,
+      "avgLogLoss": 0.9876227169568836
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1168,
+    "data": {
+      "fittedAtMatchIndex": 10530,
+      "kind": "ensemble",
+      "n": 10530,
+      "avgLogLoss": 0.9956797817601994,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1169,
+    "data": {
+      "fittedAtMatchIndex": 10548,
+      "kind": "m1",
+      "n": 10548,
+      "avgLogLoss": 0.9874766214759086
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1170,
+    "data": {
+      "fittedAtMatchIndex": 10548,
+      "kind": "ensemble",
+      "n": 10548,
+      "avgLogLoss": 0.995562905267092,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1171,
+    "data": {
+      "fittedAtMatchIndex": 10566,
+      "kind": "m1",
+      "n": 10566,
+      "avgLogLoss": 0.9875997237473666
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1172,
+    "data": {
+      "fittedAtMatchIndex": 10566,
+      "kind": "ensemble",
+      "n": 10566,
+      "avgLogLoss": 0.9956606290781254,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1173,
+    "data": {
+      "fittedAtMatchIndex": 10584,
+      "kind": "m1",
+      "n": 10584,
+      "avgLogLoss": 0.9874051207451495
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1174,
+    "data": {
+      "fittedAtMatchIndex": 10584,
+      "kind": "ensemble",
+      "n": 10584,
+      "avgLogLoss": 0.9954854789428919,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1175,
+    "data": {
+      "fittedAtMatchIndex": 10602,
+      "kind": "m1",
+      "n": 10602,
+      "avgLogLoss": 0.9873357954130443
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1176,
+    "data": {
+      "fittedAtMatchIndex": 10602,
+      "kind": "ensemble",
+      "n": 10602,
+      "avgLogLoss": 0.995422091102482,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1177,
+    "data": {
+      "fittedAtMatchIndex": 10620,
+      "kind": "m1",
+      "n": 10620,
+      "avgLogLoss": 0.9873396354904856
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1178,
+    "data": {
+      "fittedAtMatchIndex": 10620,
+      "kind": "ensemble",
+      "n": 10620,
+      "avgLogLoss": 0.9954305360449481,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1179,
+    "data": {
+      "fittedAtMatchIndex": 10638,
+      "kind": "m1",
+      "n": 10638,
+      "avgLogLoss": 0.9875000910713421
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1180,
+    "data": {
+      "fittedAtMatchIndex": 10638,
+      "kind": "ensemble",
+      "n": 10638,
+      "avgLogLoss": 0.9955826970173177,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1181,
+    "data": {
+      "fittedAtMatchIndex": 10656,
+      "kind": "m1",
+      "n": 10656,
+      "avgLogLoss": 0.9876949721617544
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1182,
+    "data": {
+      "fittedAtMatchIndex": 10656,
+      "kind": "ensemble",
+      "n": 10656,
+      "avgLogLoss": 0.9957764390673011,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1183,
+    "data": {
+      "fittedAtMatchIndex": 10674,
+      "kind": "m1",
+      "n": 10674,
+      "avgLogLoss": 0.9875789825524834
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1184,
+    "data": {
+      "fittedAtMatchIndex": 10674,
+      "kind": "ensemble",
+      "n": 10674,
+      "avgLogLoss": 0.9956755779373635,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1185,
+    "data": {
+      "fittedAtMatchIndex": 10692,
+      "kind": "m1",
+      "n": 10692,
+      "avgLogLoss": 0.9874282062727782
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1186,
+    "data": {
+      "fittedAtMatchIndex": 10692,
+      "kind": "ensemble",
+      "n": 10692,
+      "avgLogLoss": 0.9955325838988467,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1187,
+    "data": {
+      "fittedAtMatchIndex": 10710,
+      "kind": "m1",
+      "n": 10710,
+      "avgLogLoss": 0.9873524282220708
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1188,
+    "data": {
+      "fittedAtMatchIndex": 10710,
+      "kind": "ensemble",
+      "n": 10710,
+      "avgLogLoss": 0.9954459754173686,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1189,
+    "data": {
+      "fittedAtMatchIndex": 10728,
+      "kind": "m1",
+      "n": 10728,
+      "avgLogLoss": 0.9875910547236872
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1190,
+    "data": {
+      "fittedAtMatchIndex": 10728,
+      "kind": "ensemble",
+      "n": 10728,
+      "avgLogLoss": 0.9956624194633645,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1191,
+    "data": {
+      "fittedAtMatchIndex": 10746,
+      "kind": "m1",
+      "n": 10746,
+      "avgLogLoss": 0.9876675147059665
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1192,
+    "data": {
+      "fittedAtMatchIndex": 10746,
+      "kind": "ensemble",
+      "n": 10746,
+      "avgLogLoss": 0.9957171177425644,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1193,
+    "data": {
+      "fittedAtMatchIndex": 10764,
+      "kind": "m1",
+      "n": 10764,
+      "avgLogLoss": 0.9875270534403948
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1194,
+    "data": {
+      "fittedAtMatchIndex": 10764,
+      "kind": "ensemble",
+      "n": 10764,
+      "avgLogLoss": 0.9955873493954445,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1195,
+    "data": {
+      "fittedAtMatchIndex": 10782,
+      "kind": "m1",
+      "n": 10782,
+      "avgLogLoss": 0.9874689862865917
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1196,
+    "data": {
+      "fittedAtMatchIndex": 10782,
+      "kind": "ensemble",
+      "n": 10782,
+      "avgLogLoss": 0.9955212892722352,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1197,
+    "data": {
+      "fittedAtMatchIndex": 10800,
+      "kind": "m1",
+      "n": 10800,
+      "avgLogLoss": 0.9874245258967818
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1198,
+    "data": {
+      "fittedAtMatchIndex": 10800,
+      "kind": "ensemble",
+      "n": 10800,
+      "avgLogLoss": 0.995461371903882,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1199,
+    "data": {
+      "fittedAtMatchIndex": 10818,
+      "kind": "m1",
+      "n": 10818,
+      "avgLogLoss": 0.987282650248214
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1200,
+    "data": {
+      "fittedAtMatchIndex": 10818,
+      "kind": "ensemble",
+      "n": 10818,
+      "avgLogLoss": 0.9953773287460004,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1201,
+    "data": {
+      "fittedAtMatchIndex": 10836,
+      "kind": "m1",
+      "n": 10836,
+      "avgLogLoss": 0.9873964988126465
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1202,
+    "data": {
+      "fittedAtMatchIndex": 10836,
+      "kind": "ensemble",
+      "n": 10836,
+      "avgLogLoss": 0.9954782107293649,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1203,
+    "data": {
+      "fittedAtMatchIndex": 10854,
+      "kind": "m1",
+      "n": 10854,
+      "avgLogLoss": 0.9873433426969177
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1204,
+    "data": {
+      "fittedAtMatchIndex": 10854,
+      "kind": "ensemble",
+      "n": 10854,
+      "avgLogLoss": 0.9954163684237668,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1205,
+    "data": {
+      "fittedAtMatchIndex": 10872,
+      "kind": "m1",
+      "n": 10872,
+      "avgLogLoss": 0.9876950418387689
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1206,
+    "data": {
+      "fittedAtMatchIndex": 10872,
+      "kind": "ensemble",
+      "n": 10872,
+      "avgLogLoss": 0.9957033680249591,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1207,
+    "data": {
+      "fittedAtMatchIndex": 10890,
+      "kind": "m1",
+      "n": 10890,
+      "avgLogLoss": 0.9877049833826401
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1208,
+    "data": {
+      "fittedAtMatchIndex": 10890,
+      "kind": "ensemble",
+      "n": 10890,
+      "avgLogLoss": 0.9956959719767412,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1209,
+    "data": {
+      "fittedAtMatchIndex": 10908,
+      "kind": "m1",
+      "n": 10908,
+      "avgLogLoss": 0.9876407419533206
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1210,
+    "data": {
+      "fittedAtMatchIndex": 10908,
+      "kind": "ensemble",
+      "n": 10908,
+      "avgLogLoss": 0.9956295015828128,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1211,
+    "data": {
+      "fittedAtMatchIndex": 10926,
+      "kind": "m1",
+      "n": 10926,
+      "avgLogLoss": 0.987620684269039
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1212,
+    "data": {
+      "fittedAtMatchIndex": 10926,
+      "kind": "ensemble",
+      "n": 10926,
+      "avgLogLoss": 0.9955911163740359,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1213,
+    "data": {
+      "fittedAtMatchIndex": 10944,
+      "kind": "m1",
+      "n": 10944,
+      "avgLogLoss": 0.9877365430242498
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1214,
+    "data": {
+      "fittedAtMatchIndex": 10944,
+      "kind": "ensemble",
+      "n": 10944,
+      "avgLogLoss": 0.9957019105284085,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1215,
+    "data": {
+      "fittedAtMatchIndex": 10962,
+      "kind": "m1",
+      "n": 10962,
+      "avgLogLoss": 0.9880465917284209
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1216,
+    "data": {
+      "fittedAtMatchIndex": 10962,
+      "kind": "ensemble",
+      "n": 10962,
+      "avgLogLoss": 0.9959738907184112,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1217,
+    "data": {
+      "fittedAtMatchIndex": 10980,
+      "kind": "m1",
+      "n": 10980,
+      "avgLogLoss": 0.9878567786090042
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1218,
+    "data": {
+      "fittedAtMatchIndex": 10980,
+      "kind": "ensemble",
+      "n": 10980,
+      "avgLogLoss": 0.9957933470561008,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1219,
+    "data": {
+      "fittedAtMatchIndex": 10998,
+      "kind": "m1",
+      "n": 10998,
+      "avgLogLoss": 0.9879725493020101
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1220,
+    "data": {
+      "fittedAtMatchIndex": 10998,
+      "kind": "ensemble",
+      "n": 10998,
+      "avgLogLoss": 0.9959046106122874,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1221,
+    "data": {
+      "fittedAtMatchIndex": 11016,
+      "kind": "m1",
+      "n": 11016,
+      "avgLogLoss": 0.9878891888187901
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1222,
+    "data": {
+      "fittedAtMatchIndex": 11016,
+      "kind": "ensemble",
+      "n": 11016,
+      "avgLogLoss": 0.9958160053406931,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1223,
+    "data": {
+      "fittedAtMatchIndex": 11034,
+      "kind": "m1",
+      "n": 11034,
+      "avgLogLoss": 0.9879426500590339
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1224,
+    "data": {
+      "fittedAtMatchIndex": 11034,
+      "kind": "ensemble",
+      "n": 11034,
+      "avgLogLoss": 0.9958505851470255,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1225,
+    "data": {
+      "fittedAtMatchIndex": 11052,
+      "kind": "m1",
+      "n": 11052,
+      "avgLogLoss": 0.9876652101771842
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1226,
+    "data": {
+      "fittedAtMatchIndex": 11052,
+      "kind": "ensemble",
+      "n": 11052,
+      "avgLogLoss": 0.9956007180011384,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1227,
+    "data": {
+      "fittedAtMatchIndex": 11070,
+      "kind": "m1",
+      "n": 11070,
+      "avgLogLoss": 0.9877391936899899
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1228,
+    "data": {
+      "fittedAtMatchIndex": 11070,
+      "kind": "ensemble",
+      "n": 11070,
+      "avgLogLoss": 0.9956598210717061,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1229,
+    "data": {
+      "fittedAtMatchIndex": 11088,
+      "kind": "m1",
+      "n": 11088,
+      "avgLogLoss": 0.9874330867098658
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1230,
+    "data": {
+      "fittedAtMatchIndex": 11088,
+      "kind": "ensemble",
+      "n": 11088,
+      "avgLogLoss": 0.9953717824408411,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1231,
+    "data": {
+      "fittedAtMatchIndex": 11106,
+      "kind": "m1",
+      "n": 11106,
+      "avgLogLoss": 0.9876503041909646
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1232,
+    "data": {
+      "fittedAtMatchIndex": 11106,
+      "kind": "ensemble",
+      "n": 11106,
+      "avgLogLoss": 0.9955580523987146,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1233,
+    "data": {
+      "fittedAtMatchIndex": 11124,
+      "kind": "m1",
+      "n": 11124,
+      "avgLogLoss": 0.987677019817661
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1234,
+    "data": {
+      "fittedAtMatchIndex": 11124,
+      "kind": "ensemble",
+      "n": 11124,
+      "avgLogLoss": 0.9955735292085267,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1235,
+    "data": {
+      "fittedAtMatchIndex": 11142,
+      "kind": "m1",
+      "n": 11142,
+      "avgLogLoss": 0.9877719437772942
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1236,
+    "data": {
+      "fittedAtMatchIndex": 11142,
+      "kind": "ensemble",
+      "n": 11142,
+      "avgLogLoss": 0.995644298286425,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1237,
+    "data": {
+      "fittedAtMatchIndex": 11160,
+      "kind": "m1",
+      "n": 11160,
+      "avgLogLoss": 0.9877754300527974
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1238,
+    "data": {
+      "fittedAtMatchIndex": 11160,
+      "kind": "ensemble",
+      "n": 11160,
+      "avgLogLoss": 0.9956411713909913,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1239,
+    "data": {
+      "fittedAtMatchIndex": 11178,
+      "kind": "m1",
+      "n": 11178,
+      "avgLogLoss": 0.9881300472661751
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1240,
+    "data": {
+      "fittedAtMatchIndex": 11178,
+      "kind": "ensemble",
+      "n": 11178,
+      "avgLogLoss": 0.9959720763960378,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1241,
+    "data": {
+      "fittedAtMatchIndex": 11196,
+      "kind": "m1",
+      "n": 11196,
+      "avgLogLoss": 0.9883597953938327
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1242,
+    "data": {
+      "fittedAtMatchIndex": 11196,
+      "kind": "ensemble",
+      "n": 11196,
+      "avgLogLoss": 0.9962064570265304,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1243,
+    "data": {
+      "fittedAtMatchIndex": 11214,
+      "kind": "m1",
+      "n": 11214,
+      "avgLogLoss": 0.9884345237609632
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1244,
+    "data": {
+      "fittedAtMatchIndex": 11214,
+      "kind": "ensemble",
+      "n": 11214,
+      "avgLogLoss": 0.9962517011255879,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1245,
+    "data": {
+      "fittedAtMatchIndex": 11232,
+      "kind": "m1",
+      "n": 11232,
+      "avgLogLoss": 0.9884777781955909
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1246,
+    "data": {
+      "fittedAtMatchIndex": 11232,
+      "kind": "ensemble",
+      "n": 11232,
+      "avgLogLoss": 0.996268810493895,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1247,
+    "data": {
+      "fittedAtMatchIndex": 11250,
+      "kind": "m1",
+      "n": 11250,
+      "avgLogLoss": 0.9881123104761715
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1248,
+    "data": {
+      "fittedAtMatchIndex": 11250,
+      "kind": "ensemble",
+      "n": 11250,
+      "avgLogLoss": 0.9959238515535063,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1249,
+    "data": {
+      "fittedAtMatchIndex": 11268,
+      "kind": "m1",
+      "n": 11268,
+      "avgLogLoss": 0.9882528555934992
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1250,
+    "data": {
+      "fittedAtMatchIndex": 11268,
+      "kind": "ensemble",
+      "n": 11268,
+      "avgLogLoss": 0.9960610133035203,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1251,
+    "data": {
+      "fittedAtMatchIndex": 11286,
+      "kind": "m1",
+      "n": 11286,
+      "avgLogLoss": 0.9881302287236136
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1252,
+    "data": {
+      "fittedAtMatchIndex": 11286,
+      "kind": "ensemble",
+      "n": 11286,
+      "avgLogLoss": 0.9959408780149347,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1253,
+    "data": {
+      "fittedAtMatchIndex": 11304,
+      "kind": "m1",
+      "n": 11304,
+      "avgLogLoss": 0.9880521693820015
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1254,
+    "data": {
+      "fittedAtMatchIndex": 11304,
+      "kind": "ensemble",
+      "n": 11304,
+      "avgLogLoss": 0.9958975165123223,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1255,
+    "data": {
+      "fittedAtMatchIndex": 11322,
+      "kind": "m1",
+      "n": 11322,
+      "avgLogLoss": 0.9883957273736588
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1256,
+    "data": {
+      "fittedAtMatchIndex": 11322,
+      "kind": "ensemble",
+      "n": 11322,
+      "avgLogLoss": 0.9961805610706208,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1257,
+    "data": {
+      "fittedAtMatchIndex": 11340,
+      "kind": "m1",
+      "n": 11340,
+      "avgLogLoss": 0.9884602908134706
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1258,
+    "data": {
+      "fittedAtMatchIndex": 11340,
+      "kind": "ensemble",
+      "n": 11340,
+      "avgLogLoss": 0.9962343681307309,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1259,
+    "data": {
+      "fittedAtMatchIndex": 11358,
+      "kind": "m1",
+      "n": 11358,
+      "avgLogLoss": 0.9888719726747158
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1260,
+    "data": {
+      "fittedAtMatchIndex": 11358,
+      "kind": "ensemble",
+      "n": 11358,
+      "avgLogLoss": 0.9965650747153285,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1261,
+    "data": {
+      "fittedAtMatchIndex": 11376,
+      "kind": "m1",
+      "n": 11376,
+      "avgLogLoss": 0.9888320844578725
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1262,
+    "data": {
+      "fittedAtMatchIndex": 11376,
+      "kind": "ensemble",
+      "n": 11376,
+      "avgLogLoss": 0.9965326281591323,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1263,
+    "data": {
+      "fittedAtMatchIndex": 11394,
+      "kind": "m1",
+      "n": 11394,
+      "avgLogLoss": 0.9886097095254205
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1264,
+    "data": {
+      "fittedAtMatchIndex": 11394,
+      "kind": "ensemble",
+      "n": 11394,
+      "avgLogLoss": 0.9963359795348996,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1265,
+    "data": {
+      "fittedAtMatchIndex": 11412,
+      "kind": "m1",
+      "n": 11412,
+      "avgLogLoss": 0.9886647555338799
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1266,
+    "data": {
+      "fittedAtMatchIndex": 11412,
+      "kind": "ensemble",
+      "n": 11412,
+      "avgLogLoss": 0.9963685171670009,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1267,
+    "data": {
+      "fittedAtMatchIndex": 11430,
+      "kind": "m1",
+      "n": 11430,
+      "avgLogLoss": 0.9889234386058658
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1268,
+    "data": {
+      "fittedAtMatchIndex": 11430,
+      "kind": "ensemble",
+      "n": 11430,
+      "avgLogLoss": 0.996575250953972,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1269,
+    "data": {
+      "fittedAtMatchIndex": 11448,
+      "kind": "m1",
+      "n": 11448,
+      "avgLogLoss": 0.988556254580436
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1270,
+    "data": {
+      "fittedAtMatchIndex": 11448,
+      "kind": "ensemble",
+      "n": 11448,
+      "avgLogLoss": 0.9962118913190275,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1271,
+    "data": {
+      "fittedAtMatchIndex": 11466,
+      "kind": "m1",
+      "n": 11466,
+      "avgLogLoss": 0.9884365744574296
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1272,
+    "data": {
+      "fittedAtMatchIndex": 11466,
+      "kind": "ensemble",
+      "n": 11466,
+      "avgLogLoss": 0.996087408790137,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1273,
+    "data": {
+      "fittedAtMatchIndex": 11484,
+      "kind": "m1",
+      "n": 11484,
+      "avgLogLoss": 0.9886928506010064
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1274,
+    "data": {
+      "fittedAtMatchIndex": 11484,
+      "kind": "ensemble",
+      "n": 11484,
+      "avgLogLoss": 0.9962946592727664,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1275,
+    "data": {
+      "fittedAtMatchIndex": 11502,
+      "kind": "m1",
+      "n": 11502,
+      "avgLogLoss": 0.9886510170706985
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1276,
+    "data": {
+      "fittedAtMatchIndex": 11502,
+      "kind": "ensemble",
+      "n": 11502,
+      "avgLogLoss": 0.9962372002439253,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1277,
+    "data": {
+      "fittedAtMatchIndex": 11520,
+      "kind": "m1",
+      "n": 11520,
+      "avgLogLoss": 0.9885225655803407
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1278,
+    "data": {
+      "fittedAtMatchIndex": 11520,
+      "kind": "ensemble",
+      "n": 11520,
+      "avgLogLoss": 0.9960930717918165,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1279,
+    "data": {
+      "fittedAtMatchIndex": 11538,
+      "kind": "m1",
+      "n": 11538,
+      "avgLogLoss": 0.9887262395860075
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1280,
+    "data": {
+      "fittedAtMatchIndex": 11538,
+      "kind": "ensemble",
+      "n": 11538,
+      "avgLogLoss": 0.9962814547152841,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1281,
+    "data": {
+      "fittedAtMatchIndex": 11556,
+      "kind": "m1",
+      "n": 11556,
+      "avgLogLoss": 0.9888729160113554
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1282,
+    "data": {
+      "fittedAtMatchIndex": 11556,
+      "kind": "ensemble",
+      "n": 11556,
+      "avgLogLoss": 0.9964142782718354,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1283,
+    "data": {
+      "fittedAtMatchIndex": 11574,
+      "kind": "m1",
+      "n": 11574,
+      "avgLogLoss": 0.9890213695661971
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1284,
+    "data": {
+      "fittedAtMatchIndex": 11574,
+      "kind": "ensemble",
+      "n": 11574,
+      "avgLogLoss": 0.9965392940193699,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1285,
+    "data": {
+      "fittedAtMatchIndex": 11592,
+      "kind": "m1",
+      "n": 11592,
+      "avgLogLoss": 0.9891662519881509
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1286,
+    "data": {
+      "fittedAtMatchIndex": 11592,
+      "kind": "ensemble",
+      "n": 11592,
+      "avgLogLoss": 0.9966482908302239,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1287,
+    "data": {
+      "fittedAtMatchIndex": 11610,
+      "kind": "m1",
+      "n": 11610,
+      "avgLogLoss": 0.9891228175622351
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1288,
+    "data": {
+      "fittedAtMatchIndex": 11610,
+      "kind": "ensemble",
+      "n": 11610,
+      "avgLogLoss": 0.9965722653910347,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1289,
+    "data": {
+      "fittedAtMatchIndex": 11628,
+      "kind": "m1",
+      "n": 11628,
+      "avgLogLoss": 0.9889634613581033
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1290,
+    "data": {
+      "fittedAtMatchIndex": 11628,
+      "kind": "ensemble",
+      "n": 11628,
+      "avgLogLoss": 0.9964259800411434,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1291,
+    "data": {
+      "fittedAtMatchIndex": 11646,
+      "kind": "m1",
+      "n": 11646,
+      "avgLogLoss": 0.9887553687563119
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1292,
+    "data": {
+      "fittedAtMatchIndex": 11646,
+      "kind": "ensemble",
+      "n": 11646,
+      "avgLogLoss": 0.9962398796136163,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1293,
+    "data": {
+      "fittedAtMatchIndex": 11664,
+      "kind": "m1",
+      "n": 11664,
+      "avgLogLoss": 0.9892169477531016
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1294,
+    "data": {
+      "fittedAtMatchIndex": 11664,
+      "kind": "ensemble",
+      "n": 11664,
+      "avgLogLoss": 0.9966949898042713,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1295,
+    "data": {
+      "fittedAtMatchIndex": 11682,
+      "kind": "m1",
+      "n": 11682,
+      "avgLogLoss": 0.9893565398171635
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1296,
+    "data": {
+      "fittedAtMatchIndex": 11682,
+      "kind": "ensemble",
+      "n": 11682,
+      "avgLogLoss": 0.9968093184208869,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1297,
+    "data": {
+      "fittedAtMatchIndex": 11700,
+      "kind": "m1",
+      "n": 11700,
+      "avgLogLoss": 0.9895767817069546
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1298,
+    "data": {
+      "fittedAtMatchIndex": 11700,
+      "kind": "ensemble",
+      "n": 11700,
+      "avgLogLoss": 0.996994555709873,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1299,
+    "data": {
+      "fittedAtMatchIndex": 11718,
+      "kind": "m1",
+      "n": 11718,
+      "avgLogLoss": 0.9898135282209484
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1300,
+    "data": {
+      "fittedAtMatchIndex": 11718,
+      "kind": "ensemble",
+      "n": 11718,
+      "avgLogLoss": 0.9972178519643988,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1301,
+    "data": {
+      "fittedAtMatchIndex": 11736,
+      "kind": "m1",
+      "n": 11736,
+      "avgLogLoss": 0.9902044880181402
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1302,
+    "data": {
+      "fittedAtMatchIndex": 11736,
+      "kind": "ensemble",
+      "n": 11736,
+      "avgLogLoss": 0.9975929710434599,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1303,
+    "data": {
+      "fittedAtMatchIndex": 11754,
+      "kind": "m1",
+      "n": 11754,
+      "avgLogLoss": 0.9905372686530275
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1304,
+    "data": {
+      "fittedAtMatchIndex": 11754,
+      "kind": "ensemble",
+      "n": 11754,
+      "avgLogLoss": 0.9978865113284003,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1305,
+    "data": {
+      "fittedAtMatchIndex": 11772,
+      "kind": "m1",
+      "n": 11772,
+      "avgLogLoss": 0.9902778991315583
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1306,
+    "data": {
+      "fittedAtMatchIndex": 11772,
+      "kind": "ensemble",
+      "n": 11772,
+      "avgLogLoss": 0.9976597430562644,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1307,
+    "data": {
+      "fittedAtMatchIndex": 11790,
+      "kind": "m1",
+      "n": 11790,
+      "avgLogLoss": 0.9902828351539168
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1308,
+    "data": {
+      "fittedAtMatchIndex": 11790,
+      "kind": "ensemble",
+      "n": 11790,
+      "avgLogLoss": 0.997666218186583,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1309,
+    "data": {
+      "fittedAtMatchIndex": 11808,
+      "kind": "m1",
+      "n": 11808,
+      "avgLogLoss": 0.9901412660731441
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1310,
+    "data": {
+      "fittedAtMatchIndex": 11808,
+      "kind": "ensemble",
+      "n": 11808,
+      "avgLogLoss": 0.9975519547605964,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1311,
+    "data": {
+      "fittedAtMatchIndex": 11826,
+      "kind": "m1",
+      "n": 11826,
+      "avgLogLoss": 0.9898964345449023
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1312,
+    "data": {
+      "fittedAtMatchIndex": 11826,
+      "kind": "ensemble",
+      "n": 11826,
+      "avgLogLoss": 0.9973123459552797,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1313,
+    "data": {
+      "fittedAtMatchIndex": 11844,
+      "kind": "m1",
+      "n": 11844,
+      "avgLogLoss": 0.9898428683608409
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1314,
+    "data": {
+      "fittedAtMatchIndex": 11844,
+      "kind": "ensemble",
+      "n": 11844,
+      "avgLogLoss": 0.9972382290140641,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1315,
+    "data": {
+      "fittedAtMatchIndex": 11862,
+      "kind": "m1",
+      "n": 11862,
+      "avgLogLoss": 0.9901754704571353
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1316,
+    "data": {
+      "fittedAtMatchIndex": 11862,
+      "kind": "ensemble",
+      "n": 11862,
+      "avgLogLoss": 0.9975462822530572,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1317,
+    "data": {
+      "fittedAtMatchIndex": 11880,
+      "kind": "m1",
+      "n": 11880,
+      "avgLogLoss": 0.9902671861647444
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1318,
+    "data": {
+      "fittedAtMatchIndex": 11880,
+      "kind": "ensemble",
+      "n": 11880,
+      "avgLogLoss": 0.9976552438589843,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1319,
+    "data": {
+      "fittedAtMatchIndex": 11898,
+      "kind": "m1",
+      "n": 11898,
+      "avgLogLoss": 0.9904506232108203
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1320,
+    "data": {
+      "fittedAtMatchIndex": 11898,
+      "kind": "ensemble",
+      "n": 11898,
+      "avgLogLoss": 0.9978239364500905,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1321,
+    "data": {
+      "fittedAtMatchIndex": 11916,
+      "kind": "m1",
+      "n": 11916,
+      "avgLogLoss": 0.9903444223991975
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1322,
+    "data": {
+      "fittedAtMatchIndex": 11916,
+      "kind": "ensemble",
+      "n": 11916,
+      "avgLogLoss": 0.9977198470418853,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1323,
+    "data": {
+      "fittedAtMatchIndex": 11934,
+      "kind": "m1",
+      "n": 11934,
+      "avgLogLoss": 0.9900948261247056
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1324,
+    "data": {
+      "fittedAtMatchIndex": 11934,
+      "kind": "ensemble",
+      "n": 11934,
+      "avgLogLoss": 0.9974707804968609,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1325,
+    "data": {
+      "fittedAtMatchIndex": 11952,
+      "kind": "m1",
+      "n": 11952,
+      "avgLogLoss": 0.9902619577646476
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1326,
+    "data": {
+      "fittedAtMatchIndex": 11952,
+      "kind": "ensemble",
+      "n": 11952,
+      "avgLogLoss": 0.997635955808607,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1327,
+    "data": {
+      "fittedAtMatchIndex": 11970,
+      "kind": "m1",
+      "n": 11970,
+      "avgLogLoss": 0.9902402461216868
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1328,
+    "data": {
+      "fittedAtMatchIndex": 11970,
+      "kind": "ensemble",
+      "n": 11970,
+      "avgLogLoss": 0.9976248622529421,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1329,
+    "data": {
+      "fittedAtMatchIndex": 11988,
+      "kind": "m1",
+      "n": 11988,
+      "avgLogLoss": 0.9904191253835894
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1330,
+    "data": {
+      "fittedAtMatchIndex": 11988,
+      "kind": "ensemble",
+      "n": 11988,
+      "avgLogLoss": 0.9977900719185518,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1331,
+    "data": {
+      "fittedAtMatchIndex": 12006,
+      "kind": "m1",
+      "n": 12006,
+      "avgLogLoss": 0.9900471041547566
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1332,
+    "data": {
+      "fittedAtMatchIndex": 12006,
+      "kind": "ensemble",
+      "n": 12006,
+      "avgLogLoss": 0.9974313057210815,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1333,
+    "data": {
+      "fittedAtMatchIndex": 12024,
+      "kind": "m1",
+      "n": 12024,
+      "avgLogLoss": 0.9902103642331452
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1334,
+    "data": {
+      "fittedAtMatchIndex": 12024,
+      "kind": "ensemble",
+      "n": 12024,
+      "avgLogLoss": 0.9975910394374023,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1335,
+    "data": {
+      "fittedAtMatchIndex": 12042,
+      "kind": "m1",
+      "n": 12042,
+      "avgLogLoss": 0.9901794656721219
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1336,
+    "data": {
+      "fittedAtMatchIndex": 12042,
+      "kind": "ensemble",
+      "n": 12042,
+      "avgLogLoss": 0.99756071912172,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1337,
+    "data": {
+      "fittedAtMatchIndex": 12060,
+      "kind": "m1",
+      "n": 12060,
+      "avgLogLoss": 0.9898618582007406
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1338,
+    "data": {
+      "fittedAtMatchIndex": 12060,
+      "kind": "ensemble",
+      "n": 12060,
+      "avgLogLoss": 0.9972581835337382,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1339,
+    "data": {
+      "fittedAtMatchIndex": 12078,
+      "kind": "m1",
+      "n": 12078,
+      "avgLogLoss": 0.9896894704879132
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1340,
+    "data": {
+      "fittedAtMatchIndex": 12078,
+      "kind": "ensemble",
+      "n": 12078,
+      "avgLogLoss": 0.9971083975524636,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1341,
+    "data": {
+      "fittedAtMatchIndex": 12096,
+      "kind": "m1",
+      "n": 12096,
+      "avgLogLoss": 0.9899244340273549
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1342,
+    "data": {
+      "fittedAtMatchIndex": 12096,
+      "kind": "ensemble",
+      "n": 12096,
+      "avgLogLoss": 0.9973263402509079,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1343,
+    "data": {
+      "fittedAtMatchIndex": 12114,
+      "kind": "m1",
+      "n": 12114,
+      "avgLogLoss": 0.9897559488403845
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1344,
+    "data": {
+      "fittedAtMatchIndex": 12114,
+      "kind": "ensemble",
+      "n": 12114,
+      "avgLogLoss": 0.9971404794180947,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1345,
+    "data": {
+      "fittedAtMatchIndex": 12132,
+      "kind": "m1",
+      "n": 12132,
+      "avgLogLoss": 0.9896525340685794
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1346,
+    "data": {
+      "fittedAtMatchIndex": 12132,
+      "kind": "ensemble",
+      "n": 12132,
+      "avgLogLoss": 0.9970331154250582,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1347,
+    "data": {
+      "fittedAtMatchIndex": 12150,
+      "kind": "m1",
+      "n": 12150,
+      "avgLogLoss": 0.9896039228991749
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1348,
+    "data": {
+      "fittedAtMatchIndex": 12150,
+      "kind": "ensemble",
+      "n": 12150,
+      "avgLogLoss": 0.9969988912814891,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1349,
+    "data": {
+      "fittedAtMatchIndex": 12168,
+      "kind": "m1",
+      "n": 12168,
+      "avgLogLoss": 0.9894675427913947
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1350,
+    "data": {
+      "fittedAtMatchIndex": 12168,
+      "kind": "ensemble",
+      "n": 12168,
+      "avgLogLoss": 0.9968610787149671,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1351,
+    "data": {
+      "fittedAtMatchIndex": 12186,
+      "kind": "m1",
+      "n": 12186,
+      "avgLogLoss": 0.9896519486791652
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1352,
+    "data": {
+      "fittedAtMatchIndex": 12186,
+      "kind": "ensemble",
+      "n": 12186,
+      "avgLogLoss": 0.9970392305115522,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1353,
+    "data": {
+      "fittedAtMatchIndex": 12204,
+      "kind": "m1",
+      "n": 12204,
+      "avgLogLoss": 0.9894976780160987
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1354,
+    "data": {
+      "fittedAtMatchIndex": 12204,
+      "kind": "ensemble",
+      "n": 12204,
+      "avgLogLoss": 0.9968984167619085,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1355,
+    "data": {
+      "fittedAtMatchIndex": 12222,
+      "kind": "m1",
+      "n": 12222,
+      "avgLogLoss": 0.9893919877170604
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1356,
+    "data": {
+      "fittedAtMatchIndex": 12222,
+      "kind": "ensemble",
+      "n": 12222,
+      "avgLogLoss": 0.9967991172804324,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1357,
+    "data": {
+      "fittedAtMatchIndex": 12240,
+      "kind": "m1",
+      "n": 12240,
+      "avgLogLoss": 0.9894312885931301
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1358,
+    "data": {
+      "fittedAtMatchIndex": 12240,
+      "kind": "ensemble",
+      "n": 12240,
+      "avgLogLoss": 0.99682494101658,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1359,
+    "data": {
+      "fittedAtMatchIndex": 12258,
+      "kind": "m1",
+      "n": 12258,
+      "avgLogLoss": 0.989400443486348
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1360,
+    "data": {
+      "fittedAtMatchIndex": 12258,
+      "kind": "ensemble",
+      "n": 12258,
+      "avgLogLoss": 0.9968194544108577,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1361,
+    "data": {
+      "fittedAtMatchIndex": 12276,
+      "kind": "m1",
+      "n": 12276,
+      "avgLogLoss": 0.9891998110788394
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1362,
+    "data": {
+      "fittedAtMatchIndex": 12276,
+      "kind": "ensemble",
+      "n": 12276,
+      "avgLogLoss": 0.9966485326565312,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1363,
+    "data": {
+      "fittedAtMatchIndex": 12294,
+      "kind": "m1",
+      "n": 12294,
+      "avgLogLoss": 0.9891911363472902
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1364,
+    "data": {
+      "fittedAtMatchIndex": 12294,
+      "kind": "ensemble",
+      "n": 12294,
+      "avgLogLoss": 0.9966388121862186,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1365,
+    "data": {
+      "fittedAtMatchIndex": 12312,
+      "kind": "m1",
+      "n": 12312,
+      "avgLogLoss": 0.9890920436149029
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1366,
+    "data": {
+      "fittedAtMatchIndex": 12312,
+      "kind": "ensemble",
+      "n": 12312,
+      "avgLogLoss": 0.9965545702819584,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1367,
+    "data": {
+      "fittedAtMatchIndex": 12330,
+      "kind": "m1",
+      "n": 12330,
+      "avgLogLoss": 0.9889748239385037
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1368,
+    "data": {
+      "fittedAtMatchIndex": 12330,
+      "kind": "ensemble",
+      "n": 12330,
+      "avgLogLoss": 0.9964310005375844,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1369,
+    "data": {
+      "fittedAtMatchIndex": 12348,
+      "kind": "m1",
+      "n": 12348,
+      "avgLogLoss": 0.988730590461195
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1370,
+    "data": {
+      "fittedAtMatchIndex": 12348,
+      "kind": "ensemble",
+      "n": 12348,
+      "avgLogLoss": 0.9961911499130769,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1371,
+    "data": {
+      "fittedAtMatchIndex": 12366,
+      "kind": "m1",
+      "n": 12366,
+      "avgLogLoss": 0.9890346197090037
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1372,
+    "data": {
+      "fittedAtMatchIndex": 12366,
+      "kind": "ensemble",
+      "n": 12366,
+      "avgLogLoss": 0.9964955378731972,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1373,
+    "data": {
+      "fittedAtMatchIndex": 12384,
+      "kind": "m1",
+      "n": 12384,
+      "avgLogLoss": 0.9890778847595862
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1374,
+    "data": {
+      "fittedAtMatchIndex": 12384,
+      "kind": "ensemble",
+      "n": 12384,
+      "avgLogLoss": 0.9965247883917155,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1375,
+    "data": {
+      "fittedAtMatchIndex": 12402,
+      "kind": "m1",
+      "n": 12402,
+      "avgLogLoss": 0.9889716966598214
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1376,
+    "data": {
+      "fittedAtMatchIndex": 12402,
+      "kind": "ensemble",
+      "n": 12402,
+      "avgLogLoss": 0.9964135325763702,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1377,
+    "data": {
+      "fittedAtMatchIndex": 12420,
+      "kind": "m1",
+      "n": 12420,
+      "avgLogLoss": 0.9888878977785528
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1378,
+    "data": {
+      "fittedAtMatchIndex": 12420,
+      "kind": "ensemble",
+      "n": 12420,
+      "avgLogLoss": 0.9963373427858807,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1379,
+    "data": {
+      "fittedAtMatchIndex": 12438,
+      "kind": "m1",
+      "n": 12438,
+      "avgLogLoss": 0.9887727295722001
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1380,
+    "data": {
+      "fittedAtMatchIndex": 12438,
+      "kind": "ensemble",
+      "n": 12438,
+      "avgLogLoss": 0.9962202610749484,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1381,
+    "data": {
+      "fittedAtMatchIndex": 12456,
+      "kind": "m1",
+      "n": 12456,
+      "avgLogLoss": 0.9888337343561899
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1382,
+    "data": {
+      "fittedAtMatchIndex": 12456,
+      "kind": "ensemble",
+      "n": 12456,
+      "avgLogLoss": 0.9962890900001962,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1383,
+    "data": {
+      "fittedAtMatchIndex": 12474,
+      "kind": "m1",
+      "n": 12474,
+      "avgLogLoss": 0.9885939927930721
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1384,
+    "data": {
+      "fittedAtMatchIndex": 12474,
+      "kind": "ensemble",
+      "n": 12474,
+      "avgLogLoss": 0.9960426020299243,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1385,
+    "data": {
+      "fittedAtMatchIndex": 12492,
+      "kind": "m1",
+      "n": 12492,
+      "avgLogLoss": 0.9883827433847883
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1386,
+    "data": {
+      "fittedAtMatchIndex": 12492,
+      "kind": "ensemble",
+      "n": 12492,
+      "avgLogLoss": 0.9957793473317799,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1387,
+    "data": {
+      "fittedAtMatchIndex": 12510,
+      "kind": "m1",
+      "n": 12510,
+      "avgLogLoss": 0.9884352735386913
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1388,
+    "data": {
+      "fittedAtMatchIndex": 12510,
+      "kind": "ensemble",
+      "n": 12510,
+      "avgLogLoss": 0.9958213668822145,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1389,
+    "data": {
+      "fittedAtMatchIndex": 12528,
+      "kind": "m1",
+      "n": 12528,
+      "avgLogLoss": 0.9885670043112154
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1390,
+    "data": {
+      "fittedAtMatchIndex": 12528,
+      "kind": "ensemble",
+      "n": 12528,
+      "avgLogLoss": 0.9959868661908354,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1391,
+    "data": {
+      "fittedAtMatchIndex": 12546,
+      "kind": "m1",
+      "n": 12546,
+      "avgLogLoss": 0.9884714764628814
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1392,
+    "data": {
+      "fittedAtMatchIndex": 12546,
+      "kind": "ensemble",
+      "n": 12546,
+      "avgLogLoss": 0.9958806926126468,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1393,
+    "data": {
+      "fittedAtMatchIndex": 12564,
+      "kind": "m1",
+      "n": 12564,
+      "avgLogLoss": 0.9885429397575013
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1394,
+    "data": {
+      "fittedAtMatchIndex": 12564,
+      "kind": "ensemble",
+      "n": 12564,
+      "avgLogLoss": 0.9959179849744028,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1395,
+    "data": {
+      "fittedAtMatchIndex": 12582,
+      "kind": "m1",
+      "n": 12582,
+      "avgLogLoss": 0.9885788481720381
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1396,
+    "data": {
+      "fittedAtMatchIndex": 12582,
+      "kind": "ensemble",
+      "n": 12582,
+      "avgLogLoss": 0.995944282180908,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1397,
+    "data": {
+      "fittedAtMatchIndex": 12600,
+      "kind": "m1",
+      "n": 12600,
+      "avgLogLoss": 0.9883882049918978
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1398,
+    "data": {
+      "fittedAtMatchIndex": 12600,
+      "kind": "ensemble",
+      "n": 12600,
+      "avgLogLoss": 0.9957531582407846,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1399,
+    "data": {
+      "fittedAtMatchIndex": 12618,
+      "kind": "m1",
+      "n": 12618,
+      "avgLogLoss": 0.9882734836190292
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1400,
+    "data": {
+      "fittedAtMatchIndex": 12618,
+      "kind": "ensemble",
+      "n": 12618,
+      "avgLogLoss": 0.9956319786552544,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1401,
+    "data": {
+      "fittedAtMatchIndex": 12636,
+      "kind": "m1",
+      "n": 12636,
+      "avgLogLoss": 0.9880569689914027
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1402,
+    "data": {
+      "fittedAtMatchIndex": 12636,
+      "kind": "ensemble",
+      "n": 12636,
+      "avgLogLoss": 0.9954113161536515,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1403,
+    "data": {
+      "fittedAtMatchIndex": 12654,
+      "kind": "m1",
+      "n": 12654,
+      "avgLogLoss": 0.9880070806754501
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1404,
+    "data": {
+      "fittedAtMatchIndex": 12654,
+      "kind": "ensemble",
+      "n": 12654,
+      "avgLogLoss": 0.9953495108231755,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1405,
+    "data": {
+      "fittedAtMatchIndex": 12672,
+      "kind": "m1",
+      "n": 12672,
+      "avgLogLoss": 0.987850999940722
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1406,
+    "data": {
+      "fittedAtMatchIndex": 12672,
+      "kind": "ensemble",
+      "n": 12672,
+      "avgLogLoss": 0.9951875608738282,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1407,
+    "data": {
+      "fittedAtMatchIndex": 12690,
+      "kind": "m1",
+      "n": 12690,
+      "avgLogLoss": 0.9875843010053416
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1408,
+    "data": {
+      "fittedAtMatchIndex": 12690,
+      "kind": "ensemble",
+      "n": 12690,
+      "avgLogLoss": 0.9949113805251353,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1409,
+    "data": {
+      "fittedAtMatchIndex": 12708,
+      "kind": "m1",
+      "n": 12708,
+      "avgLogLoss": 0.9877963311298241
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1410,
+    "data": {
+      "fittedAtMatchIndex": 12708,
+      "kind": "ensemble",
+      "n": 12708,
+      "avgLogLoss": 0.9950923655735475,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1411,
+    "data": {
+      "fittedAtMatchIndex": 12726,
+      "kind": "m1",
+      "n": 12726,
+      "avgLogLoss": 0.9877563936911452
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1412,
+    "data": {
+      "fittedAtMatchIndex": 12726,
+      "kind": "ensemble",
+      "n": 12726,
+      "avgLogLoss": 0.995046538061808,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1413,
+    "data": {
+      "fittedAtMatchIndex": 12744,
+      "kind": "m1",
+      "n": 12744,
+      "avgLogLoss": 0.9879922907208484
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1414,
+    "data": {
+      "fittedAtMatchIndex": 12744,
+      "kind": "ensemble",
+      "n": 12744,
+      "avgLogLoss": 0.9952489415220129,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1415,
+    "data": {
+      "fittedAtMatchIndex": 12762,
+      "kind": "m1",
+      "n": 12762,
+      "avgLogLoss": 0.9881116957742345
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1416,
+    "data": {
+      "fittedAtMatchIndex": 12762,
+      "kind": "ensemble",
+      "n": 12762,
+      "avgLogLoss": 0.995370745424587,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1417,
+    "data": {
+      "fittedAtMatchIndex": 12780,
+      "kind": "m1",
+      "n": 12780,
+      "avgLogLoss": 0.9881576381830384
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1418,
+    "data": {
+      "fittedAtMatchIndex": 12780,
+      "kind": "ensemble",
+      "n": 12780,
+      "avgLogLoss": 0.9954234440120797,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1419,
+    "data": {
+      "fittedAtMatchIndex": 12798,
+      "kind": "m1",
+      "n": 12798,
+      "avgLogLoss": 0.9883913625994584
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1420,
+    "data": {
+      "fittedAtMatchIndex": 12798,
+      "kind": "ensemble",
+      "n": 12798,
+      "avgLogLoss": 0.9956022590840695,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1421,
+    "data": {
+      "fittedAtMatchIndex": 12816,
+      "kind": "m1",
+      "n": 12816,
+      "avgLogLoss": 0.9883929519079591
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1422,
+    "data": {
+      "fittedAtMatchIndex": 12816,
+      "kind": "ensemble",
+      "n": 12816,
+      "avgLogLoss": 0.9955955496385126,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1423,
+    "data": {
+      "fittedAtMatchIndex": 12834,
+      "kind": "m1",
+      "n": 12834,
+      "avgLogLoss": 0.988105144683853
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1424,
+    "data": {
+      "fittedAtMatchIndex": 12834,
+      "kind": "ensemble",
+      "n": 12834,
+      "avgLogLoss": 0.9953144147917643,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1425,
+    "data": {
+      "fittedAtMatchIndex": 12852,
+      "kind": "m1",
+      "n": 12852,
+      "avgLogLoss": 0.9878997154987782
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1426,
+    "data": {
+      "fittedAtMatchIndex": 12852,
+      "kind": "ensemble",
+      "n": 12852,
+      "avgLogLoss": 0.9950931120494226,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1427,
+    "data": {
+      "fittedAtMatchIndex": 12870,
+      "kind": "m1",
+      "n": 12870,
+      "avgLogLoss": 0.9879581386515668
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1428,
+    "data": {
+      "fittedAtMatchIndex": 12870,
+      "kind": "ensemble",
+      "n": 12870,
+      "avgLogLoss": 0.9951314212171954,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1429,
+    "data": {
+      "fittedAtMatchIndex": 12888,
+      "kind": "m1",
+      "n": 12888,
+      "avgLogLoss": 0.9880300227134952
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1430,
+    "data": {
+      "fittedAtMatchIndex": 12888,
+      "kind": "ensemble",
+      "n": 12888,
+      "avgLogLoss": 0.9952143571768926,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1431,
+    "data": {
+      "fittedAtMatchIndex": 12906,
+      "kind": "m1",
+      "n": 12906,
+      "avgLogLoss": 0.9881505670586135
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1432,
+    "data": {
+      "fittedAtMatchIndex": 12906,
+      "kind": "ensemble",
+      "n": 12906,
+      "avgLogLoss": 0.9953029435470121,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1433,
+    "data": {
+      "fittedAtMatchIndex": 12924,
+      "kind": "m1",
+      "n": 12924,
+      "avgLogLoss": 0.9880953916174198
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1434,
+    "data": {
+      "fittedAtMatchIndex": 12924,
+      "kind": "ensemble",
+      "n": 12924,
+      "avgLogLoss": 0.9952297853094272,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1435,
+    "data": {
+      "fittedAtMatchIndex": 12942,
+      "kind": "m1",
+      "n": 12942,
+      "avgLogLoss": 0.9881981290826727
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1436,
+    "data": {
+      "fittedAtMatchIndex": 12942,
+      "kind": "ensemble",
+      "n": 12942,
+      "avgLogLoss": 0.9953310441817093,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1437,
+    "data": {
+      "fittedAtMatchIndex": 12960,
+      "kind": "m1",
+      "n": 12960,
+      "avgLogLoss": 0.9880376968453802
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1438,
+    "data": {
+      "fittedAtMatchIndex": 12960,
+      "kind": "ensemble",
+      "n": 12960,
+      "avgLogLoss": 0.9951654041988307,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1439,
+    "data": {
+      "fittedAtMatchIndex": 12978,
+      "kind": "m1",
+      "n": 12978,
+      "avgLogLoss": 0.9880046597090919
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1440,
+    "data": {
+      "fittedAtMatchIndex": 12978,
+      "kind": "ensemble",
+      "n": 12978,
+      "avgLogLoss": 0.995128146350602,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1441,
+    "data": {
+      "fittedAtMatchIndex": 12996,
+      "kind": "m1",
+      "n": 12996,
+      "avgLogLoss": 0.987947787509829
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1442,
+    "data": {
+      "fittedAtMatchIndex": 12996,
+      "kind": "ensemble",
+      "n": 12996,
+      "avgLogLoss": 0.9950698859045318,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1443,
+    "data": {
+      "fittedAtMatchIndex": 13014,
+      "kind": "m1",
+      "n": 13014,
+      "avgLogLoss": 0.9877139438883239
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1444,
+    "data": {
+      "fittedAtMatchIndex": 13014,
+      "kind": "ensemble",
+      "n": 13014,
+      "avgLogLoss": 0.9948345608029034,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1445,
+    "data": {
+      "fittedAtMatchIndex": 13032,
+      "kind": "m1",
+      "n": 13032,
+      "avgLogLoss": 0.987652502291843
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1446,
+    "data": {
+      "fittedAtMatchIndex": 13032,
+      "kind": "ensemble",
+      "n": 13032,
+      "avgLogLoss": 0.9947776691806224,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1447,
+    "data": {
+      "fittedAtMatchIndex": 13050,
+      "kind": "m1",
+      "n": 13050,
+      "avgLogLoss": 0.9876823885077618
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1448,
+    "data": {
+      "fittedAtMatchIndex": 13050,
+      "kind": "ensemble",
+      "n": 13050,
+      "avgLogLoss": 0.9948016802545129,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1449,
+    "data": {
+      "fittedAtMatchIndex": 13068,
+      "kind": "m1",
+      "n": 13068,
+      "avgLogLoss": 0.9875351602968797
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1450,
+    "data": {
+      "fittedAtMatchIndex": 13068,
+      "kind": "ensemble",
+      "n": 13068,
+      "avgLogLoss": 0.9946548249077225,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1451,
+    "data": {
+      "fittedAtMatchIndex": 13086,
+      "kind": "m1",
+      "n": 13086,
+      "avgLogLoss": 0.9875631200823801
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1452,
+    "data": {
+      "fittedAtMatchIndex": 13086,
+      "kind": "ensemble",
+      "n": 13086,
+      "avgLogLoss": 0.9946658421417244,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1453,
+    "data": {
+      "fittedAtMatchIndex": 13104,
+      "kind": "m1",
+      "n": 13104,
+      "avgLogLoss": 0.9875110565032172
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1454,
+    "data": {
+      "fittedAtMatchIndex": 13104,
+      "kind": "ensemble",
+      "n": 13104,
+      "avgLogLoss": 0.9946198545039251,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1455,
+    "data": {
+      "fittedAtMatchIndex": 13122,
+      "kind": "m1",
+      "n": 13122,
+      "avgLogLoss": 0.987419410970263
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1456,
+    "data": {
+      "fittedAtMatchIndex": 13122,
+      "kind": "ensemble",
+      "n": 13122,
+      "avgLogLoss": 0.9945170326810557,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1457,
+    "data": {
+      "fittedAtMatchIndex": 13140,
+      "kind": "m1",
+      "n": 13140,
+      "avgLogLoss": 0.987368280857835
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1458,
+    "data": {
+      "fittedAtMatchIndex": 13140,
+      "kind": "ensemble",
+      "n": 13140,
+      "avgLogLoss": 0.9944702790346482,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1459,
+    "data": {
+      "fittedAtMatchIndex": 13158,
+      "kind": "m1",
+      "n": 13158,
+      "avgLogLoss": 0.9873151403741791
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1460,
+    "data": {
+      "fittedAtMatchIndex": 13158,
+      "kind": "ensemble",
+      "n": 13158,
+      "avgLogLoss": 0.9944119043868688,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1461,
+    "data": {
+      "fittedAtMatchIndex": 13176,
+      "kind": "m1",
+      "n": 13176,
+      "avgLogLoss": 0.9873300059430489
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1462,
+    "data": {
+      "fittedAtMatchIndex": 13176,
+      "kind": "ensemble",
+      "n": 13176,
+      "avgLogLoss": 0.9944210874159938,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1463,
+    "data": {
+      "fittedAtMatchIndex": 13194,
+      "kind": "m1",
+      "n": 13194,
+      "avgLogLoss": 0.9871871255181269
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1464,
+    "data": {
+      "fittedAtMatchIndex": 13194,
+      "kind": "ensemble",
+      "n": 13194,
+      "avgLogLoss": 0.9942866148532065,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1465,
+    "data": {
+      "fittedAtMatchIndex": 13212,
+      "kind": "m1",
+      "n": 13212,
+      "avgLogLoss": 0.9868547308796354
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1466,
+    "data": {
+      "fittedAtMatchIndex": 13212,
+      "kind": "ensemble",
+      "n": 13212,
+      "avgLogLoss": 0.9939571451396066,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1467,
+    "data": {
+      "fittedAtMatchIndex": 13230,
+      "kind": "m1",
+      "n": 13230,
+      "avgLogLoss": 0.986750847328161
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1468,
+    "data": {
+      "fittedAtMatchIndex": 13230,
+      "kind": "ensemble",
+      "n": 13230,
+      "avgLogLoss": 0.9938817784320515,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1469,
+    "data": {
+      "fittedAtMatchIndex": 13248,
+      "kind": "m1",
+      "n": 13248,
+      "avgLogLoss": 0.9867761106705538
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1470,
+    "data": {
+      "fittedAtMatchIndex": 13248,
+      "kind": "ensemble",
+      "n": 13248,
+      "avgLogLoss": 0.9939223167954934,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1471,
+    "data": {
+      "fittedAtMatchIndex": 13266,
+      "kind": "m1",
+      "n": 13266,
+      "avgLogLoss": 0.9868955684843449
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1472,
+    "data": {
+      "fittedAtMatchIndex": 13266,
+      "kind": "ensemble",
+      "n": 13266,
+      "avgLogLoss": 0.9940152171096543,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1473,
+    "data": {
+      "fittedAtMatchIndex": 13284,
+      "kind": "m1",
+      "n": 13284,
+      "avgLogLoss": 0.9868062702756123
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1474,
+    "data": {
+      "fittedAtMatchIndex": 13284,
+      "kind": "ensemble",
+      "n": 13284,
+      "avgLogLoss": 0.9939011156854818,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1475,
+    "data": {
+      "fittedAtMatchIndex": 13302,
+      "kind": "m1",
+      "n": 13302,
+      "avgLogLoss": 0.9868607939286036
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1476,
+    "data": {
+      "fittedAtMatchIndex": 13302,
+      "kind": "ensemble",
+      "n": 13302,
+      "avgLogLoss": 0.9939559045627361,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1477,
+    "data": {
+      "fittedAtMatchIndex": 13320,
+      "kind": "m1",
+      "n": 13320,
+      "avgLogLoss": 0.9868373635057976
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1478,
+    "data": {
+      "fittedAtMatchIndex": 13320,
+      "kind": "ensemble",
+      "n": 13320,
+      "avgLogLoss": 0.9939207149091651,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1479,
+    "data": {
+      "fittedAtMatchIndex": 13338,
+      "kind": "m1",
+      "n": 13338,
+      "avgLogLoss": 0.9873034846007455
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1480,
+    "data": {
+      "fittedAtMatchIndex": 13338,
+      "kind": "ensemble",
+      "n": 13338,
+      "avgLogLoss": 0.9943452794980282,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1481,
+    "data": {
+      "fittedAtMatchIndex": 13356,
+      "kind": "m1",
+      "n": 13356,
+      "avgLogLoss": 0.9871044667062787
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1482,
+    "data": {
+      "fittedAtMatchIndex": 13356,
+      "kind": "ensemble",
+      "n": 13356,
+      "avgLogLoss": 0.9941633618412524,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1483,
+    "data": {
+      "fittedAtMatchIndex": 13374,
+      "kind": "m1",
+      "n": 13374,
+      "avgLogLoss": 0.9869242409466612
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1484,
+    "data": {
+      "fittedAtMatchIndex": 13374,
+      "kind": "ensemble",
+      "n": 13374,
+      "avgLogLoss": 0.9939717927458537,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1485,
+    "data": {
+      "fittedAtMatchIndex": 13392,
+      "kind": "m1",
+      "n": 13392,
+      "avgLogLoss": 0.9868497186603286
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1486,
+    "data": {
+      "fittedAtMatchIndex": 13392,
+      "kind": "ensemble",
+      "n": 13392,
+      "avgLogLoss": 0.9938679341666528,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1487,
+    "data": {
+      "fittedAtMatchIndex": 13410,
+      "kind": "m1",
+      "n": 13410,
+      "avgLogLoss": 0.9869757624463037
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1488,
+    "data": {
+      "fittedAtMatchIndex": 13410,
+      "kind": "ensemble",
+      "n": 13410,
+      "avgLogLoss": 0.993968980329658,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1489,
+    "data": {
+      "fittedAtMatchIndex": 13428,
+      "kind": "m1",
+      "n": 13428,
+      "avgLogLoss": 0.9872092716756183
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1490,
+    "data": {
+      "fittedAtMatchIndex": 13428,
+      "kind": "ensemble",
+      "n": 13428,
+      "avgLogLoss": 0.9941953941533578,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1491,
+    "data": {
+      "fittedAtMatchIndex": 13446,
+      "kind": "m1",
+      "n": 13446,
+      "avgLogLoss": 0.9872885614039063
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1492,
+    "data": {
+      "fittedAtMatchIndex": 13446,
+      "kind": "ensemble",
+      "n": 13446,
+      "avgLogLoss": 0.9942935409782352,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1493,
+    "data": {
+      "fittedAtMatchIndex": 13464,
+      "kind": "m1",
+      "n": 13464,
+      "avgLogLoss": 0.9872021583101599
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1494,
+    "data": {
+      "fittedAtMatchIndex": 13464,
+      "kind": "ensemble",
+      "n": 13464,
+      "avgLogLoss": 0.9942082192234398,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1495,
+    "data": {
+      "fittedAtMatchIndex": 13482,
+      "kind": "m1",
+      "n": 13482,
+      "avgLogLoss": 0.9870818459624708
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1496,
+    "data": {
+      "fittedAtMatchIndex": 13482,
+      "kind": "ensemble",
+      "n": 13482,
+      "avgLogLoss": 0.9940823146070692,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1497,
+    "data": {
+      "fittedAtMatchIndex": 13500,
+      "kind": "m1",
+      "n": 13500,
+      "avgLogLoss": 0.9873021426601013
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1498,
+    "data": {
+      "fittedAtMatchIndex": 13500,
+      "kind": "ensemble",
+      "n": 13500,
+      "avgLogLoss": 0.9942750429138826,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1499,
+    "data": {
+      "fittedAtMatchIndex": 13518,
+      "kind": "m1",
+      "n": 13518,
+      "avgLogLoss": 0.9871345442113318
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1500,
+    "data": {
+      "fittedAtMatchIndex": 13518,
+      "kind": "ensemble",
+      "n": 13518,
+      "avgLogLoss": 0.9941196245945858,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1501,
+    "data": {
+      "fittedAtMatchIndex": 13536,
+      "kind": "m1",
+      "n": 13536,
+      "avgLogLoss": 0.9871438459872548
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1502,
+    "data": {
+      "fittedAtMatchIndex": 13536,
+      "kind": "ensemble",
+      "n": 13536,
+      "avgLogLoss": 0.994114161380861,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1503,
+    "data": {
+      "fittedAtMatchIndex": 13554,
+      "kind": "m1",
+      "n": 13554,
+      "avgLogLoss": 0.9870095602474365
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1504,
+    "data": {
+      "fittedAtMatchIndex": 13554,
+      "kind": "ensemble",
+      "n": 13554,
+      "avgLogLoss": 0.9939846371611216,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1505,
+    "data": {
+      "fittedAtMatchIndex": 13572,
+      "kind": "m1",
+      "n": 13572,
+      "avgLogLoss": 0.9869296246697123
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1506,
+    "data": {
+      "fittedAtMatchIndex": 13572,
+      "kind": "ensemble",
+      "n": 13572,
+      "avgLogLoss": 0.9939187571066834,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1507,
+    "data": {
+      "fittedAtMatchIndex": 13590,
+      "kind": "m1",
+      "n": 13590,
+      "avgLogLoss": 0.9867917883907164
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1508,
+    "data": {
+      "fittedAtMatchIndex": 13590,
+      "kind": "ensemble",
+      "n": 13590,
+      "avgLogLoss": 0.9937889600861723,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1509,
+    "data": {
+      "fittedAtMatchIndex": 13608,
+      "kind": "m1",
+      "n": 13608,
+      "avgLogLoss": 0.9866353884441136
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1510,
+    "data": {
+      "fittedAtMatchIndex": 13608,
+      "kind": "ensemble",
+      "n": 13608,
+      "avgLogLoss": 0.9936268834893093,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1511,
+    "data": {
+      "fittedAtMatchIndex": 13626,
+      "kind": "m1",
+      "n": 13626,
+      "avgLogLoss": 0.9865139744732873
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1512,
+    "data": {
+      "fittedAtMatchIndex": 13626,
+      "kind": "ensemble",
+      "n": 13626,
+      "avgLogLoss": 0.9935116726210668,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1513,
+    "data": {
+      "fittedAtMatchIndex": 13644,
+      "kind": "m1",
+      "n": 13644,
+      "avgLogLoss": 0.9865855678339077
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1514,
+    "data": {
+      "fittedAtMatchIndex": 13644,
+      "kind": "ensemble",
+      "n": 13644,
+      "avgLogLoss": 0.9935604868766468,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1515,
+    "data": {
+      "fittedAtMatchIndex": 13662,
+      "kind": "m1",
+      "n": 13662,
+      "avgLogLoss": 0.9864914649340906
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1516,
+    "data": {
+      "fittedAtMatchIndex": 13662,
+      "kind": "ensemble",
+      "n": 13662,
+      "avgLogLoss": 0.9934650476035589,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1517,
+    "data": {
+      "fittedAtMatchIndex": 13680,
+      "kind": "m1",
+      "n": 13680,
+      "avgLogLoss": 0.9863992898398791
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1518,
+    "data": {
+      "fittedAtMatchIndex": 13680,
+      "kind": "ensemble",
+      "n": 13680,
+      "avgLogLoss": 0.993383411072369,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1519,
+    "data": {
+      "fittedAtMatchIndex": 13698,
+      "kind": "m1",
+      "n": 13698,
+      "avgLogLoss": 0.9864739199529965
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1520,
+    "data": {
+      "fittedAtMatchIndex": 13698,
+      "kind": "ensemble",
+      "n": 13698,
+      "avgLogLoss": 0.9934632397377352,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1521,
+    "data": {
+      "fittedAtMatchIndex": 13716,
+      "kind": "m1",
+      "n": 13716,
+      "avgLogLoss": 0.9862616895667065
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1522,
+    "data": {
+      "fittedAtMatchIndex": 13716,
+      "kind": "ensemble",
+      "n": 13716,
+      "avgLogLoss": 0.993262621593153,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1523,
+    "data": {
+      "fittedAtMatchIndex": 13734,
+      "kind": "m1",
+      "n": 13734,
+      "avgLogLoss": 0.9864448391490217
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1524,
+    "data": {
+      "fittedAtMatchIndex": 13734,
+      "kind": "ensemble",
+      "n": 13734,
+      "avgLogLoss": 0.9934355721010124,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1525,
+    "data": {
+      "fittedAtMatchIndex": 13752,
+      "kind": "m1",
+      "n": 13752,
+      "avgLogLoss": 0.9863914270113457
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1526,
+    "data": {
+      "fittedAtMatchIndex": 13752,
+      "kind": "ensemble",
+      "n": 13752,
+      "avgLogLoss": 0.9933764046279818,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1527,
+    "data": {
+      "fittedAtMatchIndex": 13770,
+      "kind": "m1",
+      "n": 13770,
+      "avgLogLoss": 0.9863061609737652
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1528,
+    "data": {
+      "fittedAtMatchIndex": 13770,
+      "kind": "ensemble",
+      "n": 13770,
+      "avgLogLoss": 0.9932868247578707,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1529,
+    "data": {
+      "fittedAtMatchIndex": 13788,
+      "kind": "m1",
+      "n": 13788,
+      "avgLogLoss": 0.9862224260101904
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1530,
+    "data": {
+      "fittedAtMatchIndex": 13788,
+      "kind": "ensemble",
+      "n": 13788,
+      "avgLogLoss": 0.9931855304735392,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1531,
+    "data": {
+      "fittedAtMatchIndex": 13806,
+      "kind": "m1",
+      "n": 13806,
+      "avgLogLoss": 0.9862259828602136
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1532,
+    "data": {
+      "fittedAtMatchIndex": 13806,
+      "kind": "ensemble",
+      "n": 13806,
+      "avgLogLoss": 0.9931789698638009,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1533,
+    "data": {
+      "fittedAtMatchIndex": 13824,
+      "kind": "m1",
+      "n": 13824,
+      "avgLogLoss": 0.9862703459527304
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1534,
+    "data": {
+      "fittedAtMatchIndex": 13824,
+      "kind": "ensemble",
+      "n": 13824,
+      "avgLogLoss": 0.9932420072212459,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1535,
+    "data": {
+      "fittedAtMatchIndex": 13842,
+      "kind": "m1",
+      "n": 13842,
+      "avgLogLoss": 0.9862786196713553
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1536,
+    "data": {
+      "fittedAtMatchIndex": 13842,
+      "kind": "ensemble",
+      "n": 13842,
+      "avgLogLoss": 0.9932458845099075,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1537,
+    "data": {
+      "fittedAtMatchIndex": 13860,
+      "kind": "m1",
+      "n": 13860,
+      "avgLogLoss": 0.9861289927528086
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1538,
+    "data": {
+      "fittedAtMatchIndex": 13860,
+      "kind": "ensemble",
+      "n": 13860,
+      "avgLogLoss": 0.993099111512862,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1539,
+    "data": {
+      "fittedAtMatchIndex": 13878,
+      "kind": "m1",
+      "n": 13878,
+      "avgLogLoss": 0.9862240514742857
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1540,
+    "data": {
+      "fittedAtMatchIndex": 13878,
+      "kind": "ensemble",
+      "n": 13878,
+      "avgLogLoss": 0.9931868490249227,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1541,
+    "data": {
+      "fittedAtMatchIndex": 13896,
+      "kind": "m1",
+      "n": 13896,
+      "avgLogLoss": 0.9864369011448212
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1542,
+    "data": {
+      "fittedAtMatchIndex": 13896,
+      "kind": "ensemble",
+      "n": 13896,
+      "avgLogLoss": 0.9933433567221109,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1543,
+    "data": {
+      "fittedAtMatchIndex": 13914,
+      "kind": "m1",
+      "n": 13914,
+      "avgLogLoss": 0.986790916400887
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1544,
+    "data": {
+      "fittedAtMatchIndex": 13914,
+      "kind": "ensemble",
+      "n": 13914,
+      "avgLogLoss": 0.993683165544706,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1545,
+    "data": {
+      "fittedAtMatchIndex": 13932,
+      "kind": "m1",
+      "n": 13932,
+      "avgLogLoss": 0.9869498859764407
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1546,
+    "data": {
+      "fittedAtMatchIndex": 13932,
+      "kind": "ensemble",
+      "n": 13932,
+      "avgLogLoss": 0.9938239308493004,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1547,
+    "data": {
+      "fittedAtMatchIndex": 13950,
+      "kind": "m1",
+      "n": 13950,
+      "avgLogLoss": 0.9868394922193792
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1548,
+    "data": {
+      "fittedAtMatchIndex": 13950,
+      "kind": "ensemble",
+      "n": 13950,
+      "avgLogLoss": 0.9937214555516336,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1549,
+    "data": {
+      "fittedAtMatchIndex": 13968,
+      "kind": "m1",
+      "n": 13968,
+      "avgLogLoss": 0.9868835415055942
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1550,
+    "data": {
+      "fittedAtMatchIndex": 13968,
+      "kind": "ensemble",
+      "n": 13968,
+      "avgLogLoss": 0.9937677096698688,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1551,
+    "data": {
+      "fittedAtMatchIndex": 13986,
+      "kind": "m1",
+      "n": 13986,
+      "avgLogLoss": 0.9869182525249941
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1552,
+    "data": {
+      "fittedAtMatchIndex": 13986,
+      "kind": "ensemble",
+      "n": 13986,
+      "avgLogLoss": 0.9938095528461556,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1553,
+    "data": {
+      "fittedAtMatchIndex": 14004,
+      "kind": "m1",
+      "n": 14004,
+      "avgLogLoss": 0.9868003172268706
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1554,
+    "data": {
+      "fittedAtMatchIndex": 14004,
+      "kind": "ensemble",
+      "n": 14004,
+      "avgLogLoss": 0.9936978360633704,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1555,
+    "data": {
+      "fittedAtMatchIndex": 14022,
+      "kind": "m1",
+      "n": 14022,
+      "avgLogLoss": 0.9868010057414838
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1556,
+    "data": {
+      "fittedAtMatchIndex": 14022,
+      "kind": "ensemble",
+      "n": 14022,
+      "avgLogLoss": 0.9937001131529258,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1557,
+    "data": {
+      "fittedAtMatchIndex": 14040,
+      "kind": "m1",
+      "n": 14040,
+      "avgLogLoss": 0.9865823779400572
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1558,
+    "data": {
+      "fittedAtMatchIndex": 14040,
+      "kind": "ensemble",
+      "n": 14040,
+      "avgLogLoss": 0.9934827486575142,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1559,
+    "data": {
+      "fittedAtMatchIndex": 14058,
+      "kind": "m1",
+      "n": 14058,
+      "avgLogLoss": 0.9864164421238724
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1560,
+    "data": {
+      "fittedAtMatchIndex": 14058,
+      "kind": "ensemble",
+      "n": 14058,
+      "avgLogLoss": 0.9933324582680004,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1561,
+    "data": {
+      "fittedAtMatchIndex": 14076,
+      "kind": "m1",
+      "n": 14076,
+      "avgLogLoss": 0.9864691227652808
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1562,
+    "data": {
+      "fittedAtMatchIndex": 14076,
+      "kind": "ensemble",
+      "n": 14076,
+      "avgLogLoss": 0.9933710367687487,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1563,
+    "data": {
+      "fittedAtMatchIndex": 14094,
+      "kind": "m1",
+      "n": 14094,
+      "avgLogLoss": 0.98624542547159
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1564,
+    "data": {
+      "fittedAtMatchIndex": 14094,
+      "kind": "ensemble",
+      "n": 14094,
+      "avgLogLoss": 0.9931450159073745,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1565,
+    "data": {
+      "fittedAtMatchIndex": 14112,
+      "kind": "m1",
+      "n": 14112,
+      "avgLogLoss": 0.9861246670930806
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1566,
+    "data": {
+      "fittedAtMatchIndex": 14112,
+      "kind": "ensemble",
+      "n": 14112,
+      "avgLogLoss": 0.9930096155619956,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1567,
+    "data": {
+      "fittedAtMatchIndex": 14130,
+      "kind": "m1",
+      "n": 14130,
+      "avgLogLoss": 0.9861540267846415
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1568,
+    "data": {
+      "fittedAtMatchIndex": 14130,
+      "kind": "ensemble",
+      "n": 14130,
+      "avgLogLoss": 0.9930158024439769,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1569,
+    "data": {
+      "fittedAtMatchIndex": 14148,
+      "kind": "m1",
+      "n": 14148,
+      "avgLogLoss": 0.9861367070102443
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1570,
+    "data": {
+      "fittedAtMatchIndex": 14148,
+      "kind": "ensemble",
+      "n": 14148,
+      "avgLogLoss": 0.993013093819315,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1571,
+    "data": {
+      "fittedAtMatchIndex": 14166,
+      "kind": "m1",
+      "n": 14166,
+      "avgLogLoss": 0.9861515090668415
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1572,
+    "data": {
+      "fittedAtMatchIndex": 14166,
+      "kind": "ensemble",
+      "n": 14166,
+      "avgLogLoss": 0.9930393006784604,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1573,
+    "data": {
+      "fittedAtMatchIndex": 14184,
+      "kind": "m1",
+      "n": 14184,
+      "avgLogLoss": 0.9861835298907602
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1574,
+    "data": {
+      "fittedAtMatchIndex": 14184,
+      "kind": "ensemble",
+      "n": 14184,
+      "avgLogLoss": 0.993059632370134,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1575,
+    "data": {
+      "fittedAtMatchIndex": 14202,
+      "kind": "m1",
+      "n": 14202,
+      "avgLogLoss": 0.9864406689375564
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1576,
+    "data": {
+      "fittedAtMatchIndex": 14202,
+      "kind": "ensemble",
+      "n": 14202,
+      "avgLogLoss": 0.9932803950692508,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1577,
+    "data": {
+      "fittedAtMatchIndex": 14220,
+      "kind": "m1",
+      "n": 14220,
+      "avgLogLoss": 0.9863203912260728
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1578,
+    "data": {
+      "fittedAtMatchIndex": 14220,
+      "kind": "ensemble",
+      "n": 14220,
+      "avgLogLoss": 0.9931770103487677,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1579,
+    "data": {
+      "fittedAtMatchIndex": 14238,
+      "kind": "m1",
+      "n": 14238,
+      "avgLogLoss": 0.9862725471380368
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1580,
+    "data": {
+      "fittedAtMatchIndex": 14238,
+      "kind": "ensemble",
+      "n": 14238,
+      "avgLogLoss": 0.9931220731929111,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1581,
+    "data": {
+      "fittedAtMatchIndex": 14256,
+      "kind": "m1",
+      "n": 14256,
+      "avgLogLoss": 0.9862120783283843
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1582,
+    "data": {
+      "fittedAtMatchIndex": 14256,
+      "kind": "ensemble",
+      "n": 14256,
+      "avgLogLoss": 0.9930462081208162,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1583,
+    "data": {
+      "fittedAtMatchIndex": 14274,
+      "kind": "m1",
+      "n": 14274,
+      "avgLogLoss": 0.9863432039513981
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1584,
+    "data": {
+      "fittedAtMatchIndex": 14274,
+      "kind": "ensemble",
+      "n": 14274,
+      "avgLogLoss": 0.9931824792301431,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1585,
+    "data": {
+      "fittedAtMatchIndex": 14292,
+      "kind": "m1",
+      "n": 14292,
+      "avgLogLoss": 0.9862265123472086
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1586,
+    "data": {
+      "fittedAtMatchIndex": 14292,
+      "kind": "ensemble",
+      "n": 14292,
+      "avgLogLoss": 0.9930894323471489,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1587,
+    "data": {
+      "fittedAtMatchIndex": 14310,
+      "kind": "m1",
+      "n": 14310,
+      "avgLogLoss": 0.9864716558476432
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1588,
+    "data": {
+      "fittedAtMatchIndex": 14310,
+      "kind": "ensemble",
+      "n": 14310,
+      "avgLogLoss": 0.993301673089334,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1589,
+    "data": {
+      "fittedAtMatchIndex": 14328,
+      "kind": "m1",
+      "n": 14328,
+      "avgLogLoss": 0.986473636483417
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1590,
+    "data": {
+      "fittedAtMatchIndex": 14328,
+      "kind": "ensemble",
+      "n": 14328,
+      "avgLogLoss": 0.9932693047021096,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1591,
+    "data": {
+      "fittedAtMatchIndex": 14346,
+      "kind": "m1",
+      "n": 14346,
+      "avgLogLoss": 0.9864421408056566
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1592,
+    "data": {
+      "fittedAtMatchIndex": 14346,
+      "kind": "ensemble",
+      "n": 14346,
+      "avgLogLoss": 0.9932180032253214,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1593,
+    "data": {
+      "fittedAtMatchIndex": 14364,
+      "kind": "m1",
+      "n": 14364,
+      "avgLogLoss": 0.9865531952531875
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1594,
+    "data": {
+      "fittedAtMatchIndex": 14364,
+      "kind": "ensemble",
+      "n": 14364,
+      "avgLogLoss": 0.9933341665789884,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1595,
+    "data": {
+      "fittedAtMatchIndex": 14382,
+      "kind": "m1",
+      "n": 14382,
+      "avgLogLoss": 0.9864713747869743
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1596,
+    "data": {
+      "fittedAtMatchIndex": 14382,
+      "kind": "ensemble",
+      "n": 14382,
+      "avgLogLoss": 0.9932646504130873,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1597,
+    "data": {
+      "fittedAtMatchIndex": 14400,
+      "kind": "m1",
+      "n": 14400,
+      "avgLogLoss": 0.9867561989393862
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1598,
+    "data": {
+      "fittedAtMatchIndex": 14400,
+      "kind": "ensemble",
+      "n": 14400,
+      "avgLogLoss": 0.9935263850488448,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1599,
+    "data": {
+      "fittedAtMatchIndex": 14418,
+      "kind": "m1",
+      "n": 14418,
+      "avgLogLoss": 0.9867118690269965
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1600,
+    "data": {
+      "fittedAtMatchIndex": 14418,
+      "kind": "ensemble",
+      "n": 14418,
+      "avgLogLoss": 0.9934908202798083,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1601,
+    "data": {
+      "fittedAtMatchIndex": 14436,
+      "kind": "m1",
+      "n": 14436,
+      "avgLogLoss": 0.9866130446599778
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1602,
+    "data": {
+      "fittedAtMatchIndex": 14436,
+      "kind": "ensemble",
+      "n": 14436,
+      "avgLogLoss": 0.9933947758220995,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1603,
+    "data": {
+      "fittedAtMatchIndex": 14454,
+      "kind": "m1",
+      "n": 14454,
+      "avgLogLoss": 0.9867360666206433
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1604,
+    "data": {
+      "fittedAtMatchIndex": 14454,
+      "kind": "ensemble",
+      "n": 14454,
+      "avgLogLoss": 0.993471964087755,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1605,
+    "data": {
+      "fittedAtMatchIndex": 14472,
+      "kind": "m1",
+      "n": 14472,
+      "avgLogLoss": 0.9869425021235024
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1606,
+    "data": {
+      "fittedAtMatchIndex": 14472,
+      "kind": "ensemble",
+      "n": 14472,
+      "avgLogLoss": 0.9936073767838923,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1607,
+    "data": {
+      "fittedAtMatchIndex": 14490,
+      "kind": "m1",
+      "n": 14490,
+      "avgLogLoss": 0.9869950122364521
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1608,
+    "data": {
+      "fittedAtMatchIndex": 14490,
+      "kind": "ensemble",
+      "n": 14490,
+      "avgLogLoss": 0.9936257000909305,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1609,
+    "data": {
+      "fittedAtMatchIndex": 14508,
+      "kind": "m1",
+      "n": 14508,
+      "avgLogLoss": 0.9868577032596015
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1610,
+    "data": {
+      "fittedAtMatchIndex": 14508,
+      "kind": "ensemble",
+      "n": 14508,
+      "avgLogLoss": 0.9935106751466738,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1611,
+    "data": {
+      "fittedAtMatchIndex": 14526,
+      "kind": "m1",
+      "n": 14526,
+      "avgLogLoss": 0.9869629771323478
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1612,
+    "data": {
+      "fittedAtMatchIndex": 14526,
+      "kind": "ensemble",
+      "n": 14526,
+      "avgLogLoss": 0.9935970965405114,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1613,
+    "data": {
+      "fittedAtMatchIndex": 14544,
+      "kind": "m1",
+      "n": 14544,
+      "avgLogLoss": 0.986807909903269
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1614,
+    "data": {
+      "fittedAtMatchIndex": 14544,
+      "kind": "ensemble",
+      "n": 14544,
+      "avgLogLoss": 0.9934521929796221,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1615,
+    "data": {
+      "fittedAtMatchIndex": 14562,
+      "kind": "m1",
+      "n": 14562,
+      "avgLogLoss": 0.9868779289099976
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1616,
+    "data": {
+      "fittedAtMatchIndex": 14562,
+      "kind": "ensemble",
+      "n": 14562,
+      "avgLogLoss": 0.9935212923963274,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1617,
+    "data": {
+      "fittedAtMatchIndex": 14580,
+      "kind": "m1",
+      "n": 14580,
+      "avgLogLoss": 0.9869630285745111
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1618,
+    "data": {
+      "fittedAtMatchIndex": 14580,
+      "kind": "ensemble",
+      "n": 14580,
+      "avgLogLoss": 0.9935936772466197,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1619,
+    "data": {
+      "fittedAtMatchIndex": 14598,
+      "kind": "m1",
+      "n": 14598,
+      "avgLogLoss": 0.9868731984195067
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1620,
+    "data": {
+      "fittedAtMatchIndex": 14598,
+      "kind": "ensemble",
+      "n": 14598,
+      "avgLogLoss": 0.9935124545205828,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1621,
+    "data": {
+      "fittedAtMatchIndex": 14616,
+      "kind": "m1",
+      "n": 14616,
+      "avgLogLoss": 0.987048933350108
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1622,
+    "data": {
+      "fittedAtMatchIndex": 14616,
+      "kind": "ensemble",
+      "n": 14616,
+      "avgLogLoss": 0.9936722725839647,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1623,
+    "data": {
+      "fittedAtMatchIndex": 14634,
+      "kind": "m1",
+      "n": 14634,
+      "avgLogLoss": 0.9871629790552644
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1624,
+    "data": {
+      "fittedAtMatchIndex": 14634,
+      "kind": "ensemble",
+      "n": 14634,
+      "avgLogLoss": 0.9937657042224238,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1625,
+    "data": {
+      "fittedAtMatchIndex": 14652,
+      "kind": "m1",
+      "n": 14652,
+      "avgLogLoss": 0.9870223457098877
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1626,
+    "data": {
+      "fittedAtMatchIndex": 14652,
+      "kind": "ensemble",
+      "n": 14652,
+      "avgLogLoss": 0.9935930211083914,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1627,
+    "data": {
+      "fittedAtMatchIndex": 14670,
+      "kind": "m1",
+      "n": 14670,
+      "avgLogLoss": 0.987051241179558
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1628,
+    "data": {
+      "fittedAtMatchIndex": 14670,
+      "kind": "ensemble",
+      "n": 14670,
+      "avgLogLoss": 0.9936069939028316,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1629,
+    "data": {
+      "fittedAtMatchIndex": 14688,
+      "kind": "m1",
+      "n": 14688,
+      "avgLogLoss": 0.9869343022632118
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1630,
+    "data": {
+      "fittedAtMatchIndex": 14688,
+      "kind": "ensemble",
+      "n": 14688,
+      "avgLogLoss": 0.9934884170216989,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1631,
+    "data": {
+      "fittedAtMatchIndex": 14706,
+      "kind": "m1",
+      "n": 14706,
+      "avgLogLoss": 0.9870316556183506
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1632,
+    "data": {
+      "fittedAtMatchIndex": 14706,
+      "kind": "ensemble",
+      "n": 14706,
+      "avgLogLoss": 0.9935693037841524,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1633,
+    "data": {
+      "fittedAtMatchIndex": 14724,
+      "kind": "m1",
+      "n": 14724,
+      "avgLogLoss": 0.9868309651716479
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1634,
+    "data": {
+      "fittedAtMatchIndex": 14724,
+      "kind": "ensemble",
+      "n": 14724,
+      "avgLogLoss": 0.9933751541785133,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1635,
+    "data": {
+      "fittedAtMatchIndex": 14742,
+      "kind": "m1",
+      "n": 14742,
+      "avgLogLoss": 0.9868612500477891
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1636,
+    "data": {
+      "fittedAtMatchIndex": 14742,
+      "kind": "ensemble",
+      "n": 14742,
+      "avgLogLoss": 0.9934030678682615,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1637,
+    "data": {
+      "fittedAtMatchIndex": 14760,
+      "kind": "m1",
+      "n": 14760,
+      "avgLogLoss": 0.98697082869868
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1638,
+    "data": {
+      "fittedAtMatchIndex": 14760,
+      "kind": "ensemble",
+      "n": 14760,
+      "avgLogLoss": 0.993500445735782,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1639,
+    "data": {
+      "fittedAtMatchIndex": 14778,
+      "kind": "m1",
+      "n": 14778,
+      "avgLogLoss": 0.9869152353014672
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1640,
+    "data": {
+      "fittedAtMatchIndex": 14778,
+      "kind": "ensemble",
+      "n": 14778,
+      "avgLogLoss": 0.9934396456190957,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1641,
+    "data": {
+      "fittedAtMatchIndex": 14796,
+      "kind": "m1",
+      "n": 14796,
+      "avgLogLoss": 0.9865611071436247
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1642,
+    "data": {
+      "fittedAtMatchIndex": 14796,
+      "kind": "ensemble",
+      "n": 14796,
+      "avgLogLoss": 0.9930925145138816,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1643,
+    "data": {
+      "fittedAtMatchIndex": 14814,
+      "kind": "m1",
+      "n": 14814,
+      "avgLogLoss": 0.986746584677494
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1644,
+    "data": {
+      "fittedAtMatchIndex": 14814,
+      "kind": "ensemble",
+      "n": 14814,
+      "avgLogLoss": 0.9932714314100016,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1645,
+    "data": {
+      "fittedAtMatchIndex": 14832,
+      "kind": "m1",
+      "n": 14832,
+      "avgLogLoss": 0.9868943734630422
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1646,
+    "data": {
+      "fittedAtMatchIndex": 14832,
+      "kind": "ensemble",
+      "n": 14832,
+      "avgLogLoss": 0.9934301222277875,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1647,
+    "data": {
+      "fittedAtMatchIndex": 14850,
+      "kind": "m1",
+      "n": 14850,
+      "avgLogLoss": 0.9870661624812939
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1648,
+    "data": {
+      "fittedAtMatchIndex": 14850,
+      "kind": "ensemble",
+      "n": 14850,
+      "avgLogLoss": 0.9935878398972277,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1649,
+    "data": {
+      "fittedAtMatchIndex": 14868,
+      "kind": "m1",
+      "n": 14868,
+      "avgLogLoss": 0.9871335653447941
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 1650,
+    "data": {
+      "fittedAtMatchIndex": 14868,
+      "kind": "ensemble",
+      "n": 14868,
+      "avgLogLoss": 0.9936498270981045,
+      "wM1": 0.85
+    }
+  }
+]

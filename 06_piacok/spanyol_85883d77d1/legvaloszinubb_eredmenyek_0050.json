@@ -1,0 +1,3802 @@
+[
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Sevilla Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08510579848111266
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Sevilla Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-2",
+      "prob": 0.0841508121688145
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Sevilla Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07221602991649018
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Sevilla Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-2",
+      "prob": 0.07140568183998316
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Sevilla Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-3",
+      "prob": 0.05547102794445236
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Barcelona",
+      "away_team": "Mallorca"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.18473719424526694
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Barcelona",
+      "away_team": "Mallorca"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.18266126812570302
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Barcelona",
+      "away_team": "Mallorca"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.12040577971534572
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Barcelona",
+      "away_team": "Mallorca"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.09341835652352844
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Barcelona",
+      "away_team": "Mallorca"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.07262929397794116
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Getafe",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17893427766329686
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Getafe",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1580358648431777
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Getafe",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.127530107880811
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Getafe",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11263538297794683
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Getafe",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1012981317710933
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Valencia",
+      "away_team": "Alaves"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15613683192290295
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Valencia",
+      "away_team": "Alaves"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12890824432790535
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Valencia",
+      "away_team": "Alaves"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12272190307404161
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Valencia",
+      "away_team": "Alaves"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10132052041164501
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Valencia",
+      "away_team": "Alaves"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09932501726367657
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Girona",
+      "away_team": "Villarreal"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11186909539649977
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Girona",
+      "away_team": "Villarreal"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10859742619408401
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Girona",
+      "away_team": "Villarreal"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-2",
+      "prob": 0.1016180473461039
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Girona",
+      "away_team": "Villarreal"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09864617531358653
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Girona",
+      "away_team": "Villarreal"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.061577125479527275
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "San Sebastian",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10981736294211476
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "San Sebastian",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0922793000200975
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "San Sebastian",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.08191203817644965
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "San Sebastian",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07361465708850756
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "San Sebastian",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.06883051407933141
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Madrid Piros",
+      "away_team": "Osasuna"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14226203345525967
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Madrid Piros",
+      "away_team": "Osasuna"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12750224062585894
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Madrid Piros",
+      "away_team": "Osasuna"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.10422023166929736
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Madrid Piros",
+      "away_team": "Osasuna"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09709480510005217
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Madrid Piros",
+      "away_team": "Osasuna"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09340730434983265
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Vigo",
+      "away_team": "Elche"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.18076494456967582
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Vigo",
+      "away_team": "Elche"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.14746983179421083
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Vigo",
+      "away_team": "Elche"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12443848530923758
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Vigo",
+      "away_team": "Elche"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11078864330324927
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Vigo",
+      "away_team": "Elche"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10151814856008365
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.18215727921477368
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15729948770290256
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1528945536717236
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13203005155105263
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.06791693677643824
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Alaves",
+      "away_team": "San Sebastian"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1969296261173363
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Alaves",
+      "away_team": "San Sebastian"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.16562100180582365
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Alaves",
+      "away_team": "San Sebastian"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15437261788521067
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Alaves",
+      "away_team": "San Sebastian"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12982986932754567
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Alaves",
+      "away_team": "San Sebastian"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.06964497109952585
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Madrid Fehér",
+      "away_team": "Girona"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.18195133300784722
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Madrid Fehér",
+      "away_team": "Girona"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.15588365280584268
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Madrid Fehér",
+      "away_team": "Girona"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.10618909355610012
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Madrid Fehér",
+      "away_team": "Girona"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09626705093073619
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Madrid Fehér",
+      "away_team": "Girona"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08903374622357398
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "Mallorca",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12862889833624175
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "Mallorca",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11257784333065247
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "Mallorca",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09769808845966803
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "Mallorca",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08550675811251832
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "Mallorca",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08467613721032795
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "Bilbao",
+      "away_team": "Getafe"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10882252968939878
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "Bilbao",
+      "away_team": "Getafe"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10058780240678239
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "Bilbao",
+      "away_team": "Getafe"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09846738617585876
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "Bilbao",
+      "away_team": "Getafe"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09101624463646797
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "Bilbao",
+      "away_team": "Getafe"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.07848760111164053
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Elche",
+      "away_team": "Barcelona"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.13622556846994635
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Elche",
+      "away_team": "Barcelona"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13457796299887975
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Elche",
+      "away_team": "Barcelona"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12280566027514206
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Elche",
+      "away_team": "Barcelona"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12132036437937262
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Elche",
+      "away_team": "Barcelona"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07555598603265834
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Osasuna",
+      "away_team": "Valencia"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10643226128428074
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Osasuna",
+      "away_team": "Valencia"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-2",
+      "prob": 0.0953751613286279
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Osasuna",
+      "away_team": "Valencia"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08364534170644024
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Osasuna",
+      "away_team": "Valencia"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07495554321007546
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Osasuna",
+      "away_team": "Valencia"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0677134315610861
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Villarreal",
+      "away_team": "Vigo"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1433376662980687
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Villarreal",
+      "away_team": "Vigo"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.12050103432560438
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Villarreal",
+      "away_team": "Vigo"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11191897553312419
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Villarreal",
+      "away_team": "Vigo"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09408798580799267
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Villarreal",
+      "away_team": "Vigo"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08525107977189741
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Madrid Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12728803930771665
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Madrid Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12031710853966907
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Madrid Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09942493133674822
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Madrid Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09397992396028262
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Madrid Piros",
+      "away_team": "Bilbao"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.0814797894902561
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Vigo",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14759597564502158
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Vigo",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13237322768539939
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Vigo",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12376593798555038
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Vigo",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1110009715174161
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Vigo",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08800713823681096
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Sevilla Piros",
+      "away_team": "Elche"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13140896187514475
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Sevilla Piros",
+      "away_team": "Elche"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11998788909062551
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Sevilla Piros",
+      "away_team": "Elche"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10269591751589413
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Sevilla Piros",
+      "away_team": "Elche"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0937703653169778
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Sevilla Piros",
+      "away_team": "Elche"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08407498408313382
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Valencia",
+      "away_team": "San Sebastian"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.16009190034287732
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Valencia",
+      "away_team": "San Sebastian"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.13799908456662052
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Valencia",
+      "away_team": "San Sebastian"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13134675589222486
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Valencia",
+      "away_team": "San Sebastian"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11322079402581615
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Valencia",
+      "away_team": "San Sebastian"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09286082091008688
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Osasuna",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13829222137124214
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Osasuna",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1338597907819828
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Osasuna",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12006670879993162
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Osasuna",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11621842761998104
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Osasuna",
+      "away_team": "Sevilla Zöld"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.07964213678772684
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Barcelona",
+      "away_team": "Villarreal"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15194861652098518
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Barcelona",
+      "away_team": "Villarreal"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12093564465764196
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Barcelona",
+      "away_team": "Villarreal"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11253138827647201
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Barcelona",
+      "away_team": "Villarreal"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.10258640907333723
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Barcelona",
+      "away_team": "Villarreal"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08956353994545946
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Girona",
+      "away_team": "Alaves"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11755118731879635
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Girona",
+      "away_team": "Alaves"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10222340679830316
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Girona",
+      "away_team": "Alaves"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09415111004512093
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Girona",
+      "away_team": "Alaves"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.0818745215780161
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Girona",
+      "away_team": "Alaves"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.07338353012214344
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Getafe",
+      "away_team": "Mallorca"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.19157794117894614
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Getafe",
+      "away_team": "Mallorca"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1856000726146414
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Getafe",
+      "away_team": "Mallorca"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12490230983288599
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Getafe",
+      "away_team": "Mallorca"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.12100494259444364
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Getafe",
+      "away_team": "Mallorca"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09887417345619194
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Villarreal",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1535763581828799
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Villarreal",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11875976592408839
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Villarreal",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1164939517887212
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Villarreal",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1012314263125537
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Villarreal",
+      "away_team": "Sevilla Piros"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09008414191933102
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Alaves",
+      "away_team": "Vigo"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1499542545132474
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Alaves",
+      "away_team": "Vigo"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1272486617294773
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Alaves",
+      "away_team": "Vigo"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1114101182380583
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Alaves",
+      "away_team": "Vigo"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10091667975154495
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Alaves",
+      "away_team": "Vigo"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.0945407550784985
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "Mallorca",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.19625606473541368
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "Mallorca",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.16453715148432477
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "Mallorca",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15503440439044106
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "Mallorca",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12997773757902661
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "Mallorca",
+      "away_team": "Madrid Piros"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.06897232514845822
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Valencia"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12638108246476498
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Valencia"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12270716633415257
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Valencia"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08944965647583761
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Valencia"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08928026464405804
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Valencia"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08684934217724834
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "San Sebastian",
+      "away_team": "Girona"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09454266424951407
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "San Sebastian",
+      "away_team": "Girona"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09371233852484015
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "San Sebastian",
+      "away_team": "Girona"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.07984985170024145
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "San Sebastian",
+      "away_team": "Girona"
+    },
+    "rank": 4,
+    "data": {
+      "score": "3-1",
+      "prob": 0.07914856634400136
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "San Sebastian",
+      "away_team": "Girona"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07462602349345225
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Madrid Fehér",
+      "away_team": "Barcelona"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14207011851231063
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Madrid Fehér",
+      "away_team": "Barcelona"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11772133372000441
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Madrid Fehér",
+      "away_team": "Barcelona"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11229085395030503
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Madrid Fehér",
+      "away_team": "Barcelona"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09304580885841016
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Madrid Fehér",
+      "away_team": "Barcelona"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08987338622891985
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "Bilbao",
+      "away_team": "Osasuna"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.12446742116131548
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "Bilbao",
+      "away_team": "Osasuna"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11420890963124128
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "Bilbao",
+      "away_team": "Osasuna"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09574797732549321
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "Bilbao",
+      "away_team": "Osasuna"
+    },
+    "rank": 4,
+    "data": {
+      "score": "3-0",
+      "prob": 0.09043158413571199
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "Bilbao",
+      "away_team": "Osasuna"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08785650082336631
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Elche",
+      "away_team": "Getafe"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12910768386188348
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Elche",
+      "away_team": "Getafe"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10900180113646858
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Elche",
+      "away_team": "Getafe"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10127108013011292
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Elche",
+      "away_team": "Getafe"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08550017943956714
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Elche",
+      "away_team": "Getafe"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08229789793277609
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Vigo",
+      "away_team": "San Sebastian"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13698255987452956
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Vigo",
+      "away_team": "San Sebastian"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13424794429346715
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Vigo",
+      "away_team": "San Sebastian"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12111591902528518
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Vigo",
+      "away_team": "San Sebastian"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11869805298756028
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Vigo",
+      "away_team": "San Sebastian"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.0774638951707979
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.16349241961311528
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.14350084883686348
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13114199622554082
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11510617936329205
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09313454062330408
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Barcelona",
+      "away_team": "Alaves"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13800399475194247
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Barcelona",
+      "away_team": "Alaves"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.12125628662625129
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Barcelona",
+      "away_team": "Alaves"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10860539146644888
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Barcelona",
+      "away_team": "Alaves"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09542540055078072
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Barcelona",
+      "away_team": "Alaves"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.0785324336469125
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Getafe",
+      "away_team": "Villarreal"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1215483583076679
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Getafe",
+      "away_team": "Villarreal"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-2",
+      "prob": 0.11261939372276647
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Getafe",
+      "away_team": "Villarreal"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10589744264011706
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Getafe",
+      "away_team": "Villarreal"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09811819717658055
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Getafe",
+      "away_team": "Villarreal"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-3",
+      "prob": 0.06956423500392311
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Madrid Piros",
+      "away_team": "Elche"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17319208897327928
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Madrid Piros",
+      "away_team": "Elche"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1626720010421362
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Madrid Piros",
+      "away_team": "Elche"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.10186061838400114
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Madrid Piros",
+      "away_team": "Elche"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.09219625839347328
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Madrid Piros",
+      "away_team": "Elche"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08752228503073176
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Bilbao"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12543762153787866
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Bilbao"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12451698028805773
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Bilbao"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09043483300765603
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Bilbao"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08977109244348745
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Sevilla Zöld",
+      "away_team": "Bilbao"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08699411705525024
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Valencia",
+      "away_team": "Girona"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1354843755423954
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Valencia",
+      "away_team": "Girona"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12993461103567341
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Valencia",
+      "away_team": "Girona"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.09418078765312297
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Valencia",
+      "away_team": "Girona"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0935227434015293
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Valencia",
+      "away_team": "Girona"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.0896918278452284
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Sevilla Piros",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12790619029262595
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Sevilla Piros",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12696146760927463
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Sevilla Piros",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09304758431527568
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Sevilla Piros",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.09236032935652366
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol",
+      "match_key": "s0103_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Sevilla Piros",
+      "away_team": "Madrid Fehér"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08791197340352452
+    }
+  }
+]

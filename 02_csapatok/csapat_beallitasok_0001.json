@@ -1,0 +1,258 @@
+[
+  {
+    "league": "angol",
+    "source_key": "aston oroszlan",
+    "display_name": "Aston Oroszlán",
+    "weight": 2.7,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "brentford",
+    "display_name": "Brentford",
+    "weight": 4.8,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "brighton",
+    "display_name": "Brighton",
+    "weight": 3,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "chelsea",
+    "display_name": "Chelsea",
+    "weight": 7,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "crystal palace",
+    "display_name": "Crystal Palace",
+    "weight": 3.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "everton",
+    "display_name": "Everton",
+    "weight": 6.3,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "fulham",
+    "display_name": "Fulham",
+    "weight": 4.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "liverpool",
+    "display_name": "Liverpool",
+    "weight": 7.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "london agyuk",
+    "display_name": "London Ágyúk",
+    "weight": 6.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "manchester kek",
+    "display_name": "Manchester Kék",
+    "weight": 7.6,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "newcastle",
+    "display_name": "Newcastle",
+    "weight": 4.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "nottingham",
+    "display_name": "Nottingham",
+    "weight": 2.6,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "tottenham",
+    "display_name": "Tottenham",
+    "weight": 6.2,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "voros ordogok",
+    "display_name": "Vörös Ördögök",
+    "weight": 6.9,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "west ham",
+    "display_name": "West Ham",
+    "weight": 3,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "angol",
+    "source_key": "wolverhampton",
+    "display_name": "Wolverhampton",
+    "weight": 4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "alaves",
+    "display_name": "Alaves",
+    "weight": 3.5,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "barcelona",
+    "display_name": "Barcelona",
+    "weight": 7.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "bilbao",
+    "display_name": "Bilbao",
+    "weight": 7,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "elche",
+    "display_name": "Elche",
+    "weight": 2.5,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "getafe",
+    "display_name": "Getafe",
+    "weight": 4.4,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "girona",
+    "display_name": "Girona",
+    "weight": 4.1,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "madrid feher",
+    "display_name": "Madrid Fehér",
+    "weight": 7.6,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "madrid piros",
+    "display_name": "Madrid Piros",
+    "weight": 7.1,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "mallorca",
+    "display_name": "Mallorca",
+    "weight": 2.8,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "osasuna",
+    "display_name": "Osasuna",
+    "weight": 3,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "san sebastian",
+    "display_name": "San Sebastian",
+    "weight": 6.1,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "sevilla piros",
+    "display_name": "Sevilla Piros",
+    "weight": 5.1,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "sevilla zold",
+    "display_name": "Sevilla Zöld",
+    "weight": 4.2,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "valencia",
+    "display_name": "Valencia",
+    "weight": 6.3,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "vigo",
+    "display_name": "Vigo",
+    "weight": 2.8,
+    "has_alias": true,
+    "has_weight": true
+  },
+  {
+    "league": "spanyol",
+    "source_key": "villarreal",
+    "display_name": "Villarreal",
+    "weight": 6.1,
+    "has_alias": true,
+    "has_weight": true
+  }
+]

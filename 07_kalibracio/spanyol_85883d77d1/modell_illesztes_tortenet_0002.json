@@ -1,0 +1,947 @@
+[
+  {
+    "league": "spanyol",
+    "source_index": 1001,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "kind": "m1",
+      "n": 9036,
+      "avgLogLoss": 0.9852763098609281
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1002,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "kind": "ensemble",
+      "n": 9036,
+      "avgLogLoss": 0.9939305322162588,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1003,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "kind": "m1",
+      "n": 9054,
+      "avgLogLoss": 0.9849230156550259
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1004,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "kind": "ensemble",
+      "n": 9054,
+      "avgLogLoss": 0.993597728792986,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1005,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "kind": "m1",
+      "n": 9072,
+      "avgLogLoss": 0.9848405007392025
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1006,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "kind": "ensemble",
+      "n": 9072,
+      "avgLogLoss": 0.9935179665669477,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1007,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "kind": "m1",
+      "n": 9090,
+      "avgLogLoss": 0.9847667094823754
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1008,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "kind": "ensemble",
+      "n": 9090,
+      "avgLogLoss": 0.9934221674125574,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1009,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "kind": "m1",
+      "n": 9108,
+      "avgLogLoss": 0.9845986669941704
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1010,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "kind": "ensemble",
+      "n": 9108,
+      "avgLogLoss": 0.9932204508820741,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1011,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "kind": "m1",
+      "n": 9126,
+      "avgLogLoss": 0.9846840542683771
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1012,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "kind": "ensemble",
+      "n": 9126,
+      "avgLogLoss": 0.9932990062893032,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1013,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "kind": "m1",
+      "n": 9144,
+      "avgLogLoss": 0.9849440164479583
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1014,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "kind": "ensemble",
+      "n": 9144,
+      "avgLogLoss": 0.9935239454597155,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1015,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "kind": "m1",
+      "n": 9162,
+      "avgLogLoss": 0.9850780261307689
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1016,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "kind": "ensemble",
+      "n": 9162,
+      "avgLogLoss": 0.9936570403013046,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1017,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "kind": "m1",
+      "n": 9180,
+      "avgLogLoss": 0.9851622506838618
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1018,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "kind": "ensemble",
+      "n": 9180,
+      "avgLogLoss": 0.993718301221325,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1019,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "kind": "m1",
+      "n": 9198,
+      "avgLogLoss": 0.9851615105129821
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1020,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "kind": "ensemble",
+      "n": 9198,
+      "avgLogLoss": 0.9937391136016691,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1021,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "kind": "m1",
+      "n": 9216,
+      "avgLogLoss": 0.9849341272396317
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1022,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "kind": "ensemble",
+      "n": 9216,
+      "avgLogLoss": 0.9935107509165098,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1023,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "kind": "m1",
+      "n": 9234,
+      "avgLogLoss": 0.9850205475088291
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1024,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "kind": "ensemble",
+      "n": 9234,
+      "avgLogLoss": 0.9935612274353955,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1025,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "kind": "m1",
+      "n": 9252,
+      "avgLogLoss": 0.9848692743318207
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1026,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "kind": "ensemble",
+      "n": 9252,
+      "avgLogLoss": 0.9934387479297602,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1027,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "kind": "m1",
+      "n": 9270,
+      "avgLogLoss": 0.985184863979903
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1028,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "kind": "ensemble",
+      "n": 9270,
+      "avgLogLoss": 0.9937141288305926,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1029,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "kind": "m1",
+      "n": 9288,
+      "avgLogLoss": 0.9854542213924923
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1030,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "kind": "ensemble",
+      "n": 9288,
+      "avgLogLoss": 0.9939640647172628,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1031,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "kind": "m1",
+      "n": 9306,
+      "avgLogLoss": 0.9856581724424323
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1032,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "kind": "ensemble",
+      "n": 9306,
+      "avgLogLoss": 0.9941523321570076,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1033,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "kind": "m1",
+      "n": 9324,
+      "avgLogLoss": 0.9857303743947877
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1034,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "kind": "ensemble",
+      "n": 9324,
+      "avgLogLoss": 0.9942107403393817,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1035,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "kind": "m1",
+      "n": 9342,
+      "avgLogLoss": 0.9859828190823662
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1036,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "kind": "ensemble",
+      "n": 9342,
+      "avgLogLoss": 0.9944332010878667,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1037,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "kind": "m1",
+      "n": 9360,
+      "avgLogLoss": 0.9859336137237029
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1038,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "kind": "ensemble",
+      "n": 9360,
+      "avgLogLoss": 0.9943866548392977,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1039,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "kind": "m1",
+      "n": 9378,
+      "avgLogLoss": 0.9857851711900726
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1040,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "kind": "ensemble",
+      "n": 9378,
+      "avgLogLoss": 0.9942508900095827,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1041,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "kind": "m1",
+      "n": 9396,
+      "avgLogLoss": 0.9857845570532815
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1042,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "kind": "ensemble",
+      "n": 9396,
+      "avgLogLoss": 0.9942684650461008,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1043,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "kind": "m1",
+      "n": 9414,
+      "avgLogLoss": 0.9859456003250618
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1044,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "kind": "ensemble",
+      "n": 9414,
+      "avgLogLoss": 0.9944302992020542,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1045,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "kind": "m1",
+      "n": 9432,
+      "avgLogLoss": 0.9859296176206963
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1046,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "kind": "ensemble",
+      "n": 9432,
+      "avgLogLoss": 0.9944121993311368,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1047,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "kind": "m1",
+      "n": 9450,
+      "avgLogLoss": 0.9859674892367679
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1048,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "kind": "ensemble",
+      "n": 9450,
+      "avgLogLoss": 0.9944666478263937,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1049,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "kind": "m1",
+      "n": 9468,
+      "avgLogLoss": 0.9857736732691379
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1050,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "kind": "ensemble",
+      "n": 9468,
+      "avgLogLoss": 0.9942669344108337,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1051,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "kind": "m1",
+      "n": 9486,
+      "avgLogLoss": 0.9856425241694644
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1052,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "kind": "ensemble",
+      "n": 9486,
+      "avgLogLoss": 0.994165568871989,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1053,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "kind": "m1",
+      "n": 9504,
+      "avgLogLoss": 0.9856659334595359
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1054,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "kind": "ensemble",
+      "n": 9504,
+      "avgLogLoss": 0.9941833716947984,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1055,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "kind": "m1",
+      "n": 9522,
+      "avgLogLoss": 0.9857239590480813
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1056,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "kind": "ensemble",
+      "n": 9522,
+      "avgLogLoss": 0.9942249281363046,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1057,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "kind": "m1",
+      "n": 9540,
+      "avgLogLoss": 0.9856317807947406
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1058,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "kind": "ensemble",
+      "n": 9540,
+      "avgLogLoss": 0.9941011318042899,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1059,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "kind": "m1",
+      "n": 9558,
+      "avgLogLoss": 0.9854944516558807
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1060,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "kind": "ensemble",
+      "n": 9558,
+      "avgLogLoss": 0.9939695580714679,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1061,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "kind": "m1",
+      "n": 9576,
+      "avgLogLoss": 0.9854341315356623
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1062,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "kind": "ensemble",
+      "n": 9576,
+      "avgLogLoss": 0.9938846024828745,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1063,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "kind": "m1",
+      "n": 9594,
+      "avgLogLoss": 0.9852982542809557
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1064,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "kind": "ensemble",
+      "n": 9594,
+      "avgLogLoss": 0.9937534722899598,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1065,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "kind": "m1",
+      "n": 9612,
+      "avgLogLoss": 0.9852090788203869
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1066,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "kind": "ensemble",
+      "n": 9612,
+      "avgLogLoss": 0.993676303183668,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1067,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "kind": "m1",
+      "n": 9630,
+      "avgLogLoss": 0.9851270635955679
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1068,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "kind": "ensemble",
+      "n": 9630,
+      "avgLogLoss": 0.9935875947480497,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1069,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "kind": "m1",
+      "n": 9648,
+      "avgLogLoss": 0.9849648409882129
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1070,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "kind": "ensemble",
+      "n": 9648,
+      "avgLogLoss": 0.9934709766093928,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1071,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "kind": "m1",
+      "n": 9666,
+      "avgLogLoss": 0.9848193052050572
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1072,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "kind": "ensemble",
+      "n": 9666,
+      "avgLogLoss": 0.9933310753159977,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1073,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "kind": "m1",
+      "n": 9684,
+      "avgLogLoss": 0.9848033217242884
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1074,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "kind": "ensemble",
+      "n": 9684,
+      "avgLogLoss": 0.99328751147507,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1075,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "kind": "m1",
+      "n": 9702,
+      "avgLogLoss": 0.9847291549366404
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1076,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "kind": "ensemble",
+      "n": 9702,
+      "avgLogLoss": 0.9931884026021466,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1077,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "kind": "m1",
+      "n": 9720,
+      "avgLogLoss": 0.984543317978296
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1078,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "kind": "ensemble",
+      "n": 9720,
+      "avgLogLoss": 0.9930152910843447,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1079,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "kind": "m1",
+      "n": 9738,
+      "avgLogLoss": 0.9841823965582418
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1080,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "kind": "ensemble",
+      "n": 9738,
+      "avgLogLoss": 0.9926134892031483,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1081,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "kind": "m1",
+      "n": 9756,
+      "avgLogLoss": 0.9844674955875449
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1082,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "kind": "ensemble",
+      "n": 9756,
+      "avgLogLoss": 0.9928815666135724,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1083,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "kind": "m1",
+      "n": 9774,
+      "avgLogLoss": 0.9844007789304513
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1084,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "kind": "ensemble",
+      "n": 9774,
+      "avgLogLoss": 0.9927691073409428,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1085,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "kind": "m1",
+      "n": 9792,
+      "avgLogLoss": 0.9844474128115004
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1086,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "kind": "ensemble",
+      "n": 9792,
+      "avgLogLoss": 0.9928271148007501,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1087,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "kind": "m1",
+      "n": 9810,
+      "avgLogLoss": 0.9846665340337425
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1088,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "kind": "ensemble",
+      "n": 9810,
+      "avgLogLoss": 0.9930496904554719,
+      "wM1": 0.85
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1089,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "kind": "m1",
+      "n": 9828,
+      "avgLogLoss": 0.9845002502143801
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 1090,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "kind": "ensemble",
+      "n": 9828,
+      "avgLogLoss": 0.992873658371503,
+      "wM1": 0.85
+    }
+  }
+]

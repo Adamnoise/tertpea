@@ -1,0 +1,38 @@
+{
+  "angol": {
+    "fulham": 4.4,
+    "chelsea": 7,
+    "crystal palace": 3.4,
+    "brighton": 3,
+    "aston oroszlan": 2.7,
+    "west ham": 3,
+    "tottenham": 6.2,
+    "manchester kek": 7.6,
+    "nottingham": 2.6,
+    "brentford": 4.8,
+    "wolverhampton": 4,
+    "everton": 6.3,
+    "london agyuk": 6.4,
+    "liverpool": 7.4,
+    "newcastle": 4.4,
+    "voros ordogok": 6.9
+  },
+  "spanyol": {
+    "madrid piros": 7.1,
+    "san sebastian": 6.1,
+    "madrid feher": 7.6,
+    "sevilla piros": 5.1,
+    "girona": 4.1,
+    "elche": 2.5,
+    "mallorca": 2.8,
+    "villarreal": 6.1,
+    "bilbao": 7,
+    "alaves": 3.5,
+    "vigo": 2.8,
+    "valencia": 6.3,
+    "getafe": 4.4,
+    "osasuna": 3,
+    "sevilla zold": 4.2,
+    "barcelona": 7.4
+  }
+}

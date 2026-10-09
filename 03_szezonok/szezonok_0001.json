@@ -1,0 +1,3092 @@
+[
+  {
+    "ref": {
+      "season_key": "s0001",
+      "season_position": 1,
+      "season_id": "season_angol_a6798ec0-60f0-4503-85e1-43473c9046a1",
+      "season_index": 1,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_a6798ec0-60f0-4503-85e1-43473c9046a1",
+      "league": "angol",
+      "seasonIndex": 1,
+      "name": "Angol bajnokság 1",
+      "fileName": "angol-1.csv",
+      "createdAt": "2026-09-12T05:50:27.326Z",
+      "contentHash": "ee136d0e",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0002",
+      "season_position": 2,
+      "season_id": "season_angol_23793bc0-e2b4-4acc-8fee-dbfedcb1c2e5",
+      "season_index": 2,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_23793bc0-e2b4-4acc-8fee-dbfedcb1c2e5",
+      "league": "angol",
+      "seasonIndex": 2,
+      "name": "Angol bajnokság 2",
+      "fileName": "angol-2.csv",
+      "createdAt": "2026-09-12T05:50:27.328Z",
+      "contentHash": "cad6c168",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0003",
+      "season_position": 3,
+      "season_id": "season_angol_7c6fe312-1e3b-4e34-8092-6d17e5abb14e",
+      "season_index": 3,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_7c6fe312-1e3b-4e34-8092-6d17e5abb14e",
+      "league": "angol",
+      "seasonIndex": 3,
+      "name": "Angol bajnokság 3",
+      "fileName": "angol-3.csv",
+      "createdAt": "2026-09-12T05:50:27.331Z",
+      "contentHash": "902b5029",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0004",
+      "season_position": 4,
+      "season_id": "season_angol_c2e4105b-4548-4bf8-888d-e7549beae1f8",
+      "season_index": 4,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_c2e4105b-4548-4bf8-888d-e7549beae1f8",
+      "league": "angol",
+      "seasonIndex": 4,
+      "name": "Angol bajnokság 4",
+      "fileName": "angol-4.csv",
+      "createdAt": "2026-09-12T05:50:27.333Z",
+      "contentHash": "35c73200",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0005",
+      "season_position": 5,
+      "season_id": "season_angol_cff6e3c1-d004-4dc6-ba52-62c76b14024c",
+      "season_index": 5,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_cff6e3c1-d004-4dc6-ba52-62c76b14024c",
+      "league": "angol",
+      "seasonIndex": 5,
+      "name": "Angol bajnokság 5",
+      "fileName": "angol-5.csv",
+      "createdAt": "2026-09-12T05:50:27.335Z",
+      "contentHash": "c65dd49d",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0006",
+      "season_position": 6,
+      "season_id": "season_angol_1a334509-35e3-4e65-978b-6681706f7877",
+      "season_index": 6,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_1a334509-35e3-4e65-978b-6681706f7877",
+      "league": "angol",
+      "seasonIndex": 6,
+      "name": "Angol bajnokság 6",
+      "fileName": "angol-6.csv",
+      "createdAt": "2026-09-12T05:50:27.336Z",
+      "contentHash": "ec9e8894",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0007",
+      "season_position": 7,
+      "season_id": "season_angol_d32c4c8d-9b8b-4eb4-9484-a168fcd2949d",
+      "season_index": 7,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_d32c4c8d-9b8b-4eb4-9484-a168fcd2949d",
+      "league": "angol",
+      "seasonIndex": 7,
+      "name": "Angol bajnokság 7",
+      "fileName": "angol-7.csv",
+      "createdAt": "2026-09-12T05:50:27.337Z",
+      "contentHash": "bd7bc2d7",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0008",
+      "season_position": 8,
+      "season_id": "season_angol_5f7bca44-8ae0-47ce-8911-4cc9da713110",
+      "season_index": 8,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_5f7bca44-8ae0-47ce-8911-4cc9da713110",
+      "league": "angol",
+      "seasonIndex": 8,
+      "name": "Angol bajnokság 8",
+      "fileName": "angol-8.csv",
+      "createdAt": "2026-09-12T05:50:27.338Z",
+      "contentHash": "2a70d521",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0009",
+      "season_position": 9,
+      "season_id": "season_angol_848ea3a8-f0e2-4ae3-b153-79418b77cc45",
+      "season_index": 9,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_848ea3a8-f0e2-4ae3-b153-79418b77cc45",
+      "league": "angol",
+      "seasonIndex": 9,
+      "name": "Angol bajnokság 9",
+      "fileName": "angol-9.csv",
+      "createdAt": "2026-09-12T05:50:27.340Z",
+      "contentHash": "35dd3cec",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0010",
+      "season_position": 10,
+      "season_id": "season_angol_8ba3ea8f-6543-4712-8652-d8483bd3d2ef",
+      "season_index": 10,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_8ba3ea8f-6543-4712-8652-d8483bd3d2ef",
+      "league": "angol",
+      "seasonIndex": 10,
+      "name": "Angol bajnokság 10",
+      "fileName": "angol-10.csv",
+      "createdAt": "2026-09-12T05:50:27.342Z",
+      "contentHash": "ad204aa7",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0011",
+      "season_position": 11,
+      "season_id": "season_angol_95a78477-fa64-4a22-a005-8e2cedd1d995",
+      "season_index": 11,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_95a78477-fa64-4a22-a005-8e2cedd1d995",
+      "league": "angol",
+      "seasonIndex": 11,
+      "name": "Angol bajnokság 11",
+      "fileName": "angol-11.csv",
+      "createdAt": "2026-09-12T05:50:27.343Z",
+      "contentHash": "9434a107",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0012",
+      "season_position": 12,
+      "season_id": "season_angol_588f6b1d-7f76-4d80-a7ad-f37bae4e7c3a",
+      "season_index": 12,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_588f6b1d-7f76-4d80-a7ad-f37bae4e7c3a",
+      "league": "angol",
+      "seasonIndex": 12,
+      "name": "Angol bajnokság 12",
+      "fileName": "angol-12.csv",
+      "createdAt": "2026-09-12T05:50:27.345Z",
+      "contentHash": "38ecc8a6",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0013",
+      "season_position": 13,
+      "season_id": "season_angol_45e3249e-416c-4ee7-8f5c-13b0a49baa2c",
+      "season_index": 13,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_45e3249e-416c-4ee7-8f5c-13b0a49baa2c",
+      "league": "angol",
+      "seasonIndex": 13,
+      "name": "Angol bajnokság 13",
+      "fileName": "angol-13.csv",
+      "createdAt": "2026-09-12T05:50:27.346Z",
+      "contentHash": "eca2df49",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0014",
+      "season_position": 14,
+      "season_id": "season_angol_1f91cdbd-86f3-40c2-b4f4-9552f05548cd",
+      "season_index": 14,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_1f91cdbd-86f3-40c2-b4f4-9552f05548cd",
+      "league": "angol",
+      "seasonIndex": 14,
+      "name": "Angol bajnokság 14",
+      "fileName": "angol-14.csv",
+      "createdAt": "2026-09-12T05:50:27.347Z",
+      "contentHash": "1e9bf7ad",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0015",
+      "season_position": 15,
+      "season_id": "season_angol_4a715afc-1332-4723-bca2-dcc4e2146d5c",
+      "season_index": 15,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_4a715afc-1332-4723-bca2-dcc4e2146d5c",
+      "league": "angol",
+      "seasonIndex": 15,
+      "name": "Angol bajnokság 15",
+      "fileName": "angol-15.csv",
+      "createdAt": "2026-09-12T05:50:27.350Z",
+      "contentHash": "596e2fb8",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0016",
+      "season_position": 16,
+      "season_id": "season_angol_412db3f9-8991-45a8-a233-99145f39312a",
+      "season_index": 16,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_412db3f9-8991-45a8-a233-99145f39312a",
+      "league": "angol",
+      "seasonIndex": 16,
+      "name": "Angol bajnokság 16",
+      "fileName": "angol-16.csv",
+      "createdAt": "2026-09-12T05:50:27.352Z",
+      "contentHash": "3b4ae3b5",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0017",
+      "season_position": 17,
+      "season_id": "season_angol_654f671d-0f45-4e60-8ea3-a3fbb7e0a3e1",
+      "season_index": 17,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_654f671d-0f45-4e60-8ea3-a3fbb7e0a3e1",
+      "league": "angol",
+      "seasonIndex": 17,
+      "name": "Angol bajnokság 17",
+      "fileName": "angol-18.csv",
+      "createdAt": "2026-09-12T05:50:27.354Z",
+      "contentHash": "c93f112d",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0018",
+      "season_position": 18,
+      "season_id": "season_angol_43f41275-2ed0-4cd6-8ac0-97846cb6bf6d",
+      "season_index": 18,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_43f41275-2ed0-4cd6-8ac0-97846cb6bf6d",
+      "league": "angol",
+      "seasonIndex": 18,
+      "name": "Angol bajnokság 18",
+      "fileName": "angol-19.csv",
+      "createdAt": "2026-09-12T05:50:27.355Z",
+      "contentHash": "f36994a6",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0019",
+      "season_position": 19,
+      "season_id": "season_spanyol_c6cdd9f8-1ad4-4b19-b042-200d2b08e680",
+      "season_index": 1,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_c6cdd9f8-1ad4-4b19-b042-200d2b08e680",
+      "league": "spanyol",
+      "seasonIndex": 1,
+      "name": "Spanyol bajnokság 1",
+      "fileName": "spanyol-1.csv",
+      "createdAt": "2026-09-12T05:50:27.358Z",
+      "contentHash": "e4f09f1c",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0020",
+      "season_position": 20,
+      "season_id": "season_spanyol_2a8d3e7f-800d-40e7-8def-ee6b5521a89c",
+      "season_index": 2,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_2a8d3e7f-800d-40e7-8def-ee6b5521a89c",
+      "league": "spanyol",
+      "seasonIndex": 2,
+      "name": "Spanyol bajnokság 2",
+      "fileName": "spanyol-2.csv",
+      "createdAt": "2026-09-12T05:50:27.359Z",
+      "contentHash": "a3d46a81",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0021",
+      "season_position": 21,
+      "season_id": "season_spanyol_fefa4639-5c31-4f0d-8c4e-a0ecafb95405",
+      "season_index": 3,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_fefa4639-5c31-4f0d-8c4e-a0ecafb95405",
+      "league": "spanyol",
+      "seasonIndex": 3,
+      "name": "Spanyol bajnokság 3",
+      "fileName": "spanyol-3.csv",
+      "createdAt": "2026-09-12T05:50:27.360Z",
+      "contentHash": "328cde95",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0022",
+      "season_position": 22,
+      "season_id": "season_spanyol_f8243337-54fc-4821-a85c-e6aa32124cb6",
+      "season_index": 4,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_f8243337-54fc-4821-a85c-e6aa32124cb6",
+      "league": "spanyol",
+      "seasonIndex": 4,
+      "name": "Spanyol bajnokság 4",
+      "fileName": "spanyol-4.csv",
+      "createdAt": "2026-09-12T05:50:27.362Z",
+      "contentHash": "3d293633",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0023",
+      "season_position": 23,
+      "season_id": "season_spanyol_a838c493-5531-41ad-a864-d04e9c18168e",
+      "season_index": 5,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_a838c493-5531-41ad-a864-d04e9c18168e",
+      "league": "spanyol",
+      "seasonIndex": 5,
+      "name": "Spanyol bajnokság 5",
+      "fileName": "spanyol-5.csv",
+      "createdAt": "2026-09-12T05:50:27.363Z",
+      "contentHash": "2ee4b007",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0024",
+      "season_position": 24,
+      "season_id": "season_spanyol_04cf15ab-0ab6-4cc2-ae73-8e8ea5f1acfe",
+      "season_index": 6,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_04cf15ab-0ab6-4cc2-ae73-8e8ea5f1acfe",
+      "league": "spanyol",
+      "seasonIndex": 6,
+      "name": "Spanyol bajnokság 6",
+      "fileName": "spanyol-6.csv",
+      "createdAt": "2026-09-12T05:50:27.364Z",
+      "contentHash": "b6d33ed",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0025",
+      "season_position": 25,
+      "season_id": "season_spanyol_29541f84-c4dd-49ff-a44f-6551aeaa9b80",
+      "season_index": 7,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_29541f84-c4dd-49ff-a44f-6551aeaa9b80",
+      "league": "spanyol",
+      "seasonIndex": 7,
+      "name": "Spanyol bajnokság 7",
+      "fileName": "spanyol-7.csv",
+      "createdAt": "2026-09-12T05:50:27.365Z",
+      "contentHash": "ca5d6d54",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0026",
+      "season_position": 26,
+      "season_id": "season_spanyol_a38585ba-b23d-4736-bbe4-93ab95d9517d",
+      "season_index": 8,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_a38585ba-b23d-4736-bbe4-93ab95d9517d",
+      "league": "spanyol",
+      "seasonIndex": 8,
+      "name": "Spanyol bajnokság 8",
+      "fileName": "spanyol-8.csv",
+      "createdAt": "2026-09-12T05:50:27.367Z",
+      "contentHash": "83e1d49a",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0027",
+      "season_position": 27,
+      "season_id": "season_spanyol_036bf7bd-98bf-4005-88b9-4af3a9112a6b",
+      "season_index": 9,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_036bf7bd-98bf-4005-88b9-4af3a9112a6b",
+      "league": "spanyol",
+      "seasonIndex": 9,
+      "name": "Spanyol bajnokság 9",
+      "fileName": "spanyol-9.csv",
+      "createdAt": "2026-09-12T05:50:27.368Z",
+      "contentHash": "fc6801d4",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0028",
+      "season_position": 28,
+      "season_id": "season_spanyol_6482229f-8750-4c06-bfe7-ab74e744b7e7",
+      "season_index": 10,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_6482229f-8750-4c06-bfe7-ab74e744b7e7",
+      "league": "spanyol",
+      "seasonIndex": 10,
+      "name": "Spanyol bajnokság 10",
+      "fileName": "spanyol-10.csv",
+      "createdAt": "2026-09-12T05:50:27.369Z",
+      "contentHash": "e54d6a52",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0029",
+      "season_position": 29,
+      "season_id": "season_spanyol_56146a8a-c4b3-4b16-a6c8-466ba9b766b5",
+      "season_index": 11,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_56146a8a-c4b3-4b16-a6c8-466ba9b766b5",
+      "league": "spanyol",
+      "seasonIndex": 11,
+      "name": "Spanyol bajnokság 11",
+      "fileName": "spanyol-11.csv",
+      "createdAt": "2026-09-12T05:50:27.371Z",
+      "contentHash": "ab02a402",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0030",
+      "season_position": 30,
+      "season_id": "season_spanyol_0d7aa123-a537-4563-94ec-550431ce4919",
+      "season_index": 12,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_0d7aa123-a537-4563-94ec-550431ce4919",
+      "league": "spanyol",
+      "seasonIndex": 12,
+      "name": "Spanyol bajnokság 12",
+      "fileName": "spanyol-12.csv",
+      "createdAt": "2026-09-12T05:50:27.372Z",
+      "contentHash": "39f3a622",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0031",
+      "season_position": 31,
+      "season_id": "season_spanyol_3aae59c6-31bf-4f1b-adb5-cadbfa6fe686",
+      "season_index": 13,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_3aae59c6-31bf-4f1b-adb5-cadbfa6fe686",
+      "league": "spanyol",
+      "seasonIndex": 13,
+      "name": "Spanyol bajnokság 13",
+      "fileName": "spanyol-13.csv",
+      "createdAt": "2026-09-12T05:50:27.374Z",
+      "contentHash": "56bc8e74",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0032",
+      "season_position": 32,
+      "season_id": "season_spanyol_0f4fc82c-fb34-45c3-b9e1-ac908e47ce4f",
+      "season_index": 14,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_0f4fc82c-fb34-45c3-b9e1-ac908e47ce4f",
+      "league": "spanyol",
+      "seasonIndex": 14,
+      "name": "Spanyol bajnokság 14",
+      "fileName": "spanyol-14.csv",
+      "createdAt": "2026-09-12T05:50:27.375Z",
+      "contentHash": "ece47d43",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0033",
+      "season_position": 33,
+      "season_id": "season_spanyol_61f127da-d6d1-48aa-9092-4f18fcb7f2e4",
+      "season_index": 15,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_61f127da-d6d1-48aa-9092-4f18fcb7f2e4",
+      "league": "spanyol",
+      "seasonIndex": 15,
+      "name": "Spanyol bajnokság 15",
+      "fileName": "spanyol-15.csv",
+      "createdAt": "2026-09-12T05:50:27.377Z",
+      "contentHash": "b3758d39",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0034",
+      "season_position": 34,
+      "season_id": "season_spanyol_8a371d85-994c-4010-950d-7a549e7cf473",
+      "season_index": 16,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_8a371d85-994c-4010-950d-7a549e7cf473",
+      "league": "spanyol",
+      "seasonIndex": 16,
+      "name": "Spanyol bajnokság 16",
+      "fileName": "spanyol-16.csv",
+      "createdAt": "2026-09-12T05:50:27.378Z",
+      "contentHash": "55842c08",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0035",
+      "season_position": 35,
+      "season_id": "season_spanyol_438db913-7688-4b68-9af8-c092e6c757d8",
+      "season_index": 17,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_438db913-7688-4b68-9af8-c092e6c757d8",
+      "league": "spanyol",
+      "seasonIndex": 17,
+      "name": "Spanyol bajnokság 17",
+      "fileName": "spanyol-17.csv",
+      "createdAt": "2026-09-12T05:50:27.379Z",
+      "contentHash": "a1e615bf",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0036",
+      "season_position": 36,
+      "season_id": "season_spanyol_93a7c49a-8432-4d30-9c2c-3cdcfda81fdf",
+      "season_index": 18,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_93a7c49a-8432-4d30-9c2c-3cdcfda81fdf",
+      "league": "spanyol",
+      "seasonIndex": 18,
+      "name": "Spanyol bajnokság 18",
+      "fileName": "spanyol-18.csv",
+      "createdAt": "2026-09-12T05:50:27.380Z",
+      "contentHash": "bcf112d8",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0037",
+      "season_position": 37,
+      "season_id": "season_angol_9754827f-e2c4-4599-9edd-ab174ed29a51",
+      "season_index": 19,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_9754827f-e2c4-4599-9edd-ab174ed29a51",
+      "league": "angol",
+      "seasonIndex": 19,
+      "name": "Angol bajnokság 19",
+      "fileName": "league_23.csv",
+      "createdAt": "2026-09-15T10:57:26.491Z",
+      "contentHash": "62088228",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0038",
+      "season_position": 38,
+      "season_id": "season_angol_b4e9e5b1-0344-4a12-8a6a-aa2beda74936",
+      "season_index": 20,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_b4e9e5b1-0344-4a12-8a6a-aa2beda74936",
+      "league": "angol",
+      "seasonIndex": 20,
+      "name": "Angol bajnokság 20",
+      "fileName": "league_22.csv",
+      "createdAt": "2026-09-15T10:57:26.494Z",
+      "contentHash": "13989e74",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0039",
+      "season_position": 39,
+      "season_id": "season_angol_14d9eb1b-f056-445d-b0f0-64e5d888523d",
+      "season_index": 21,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_14d9eb1b-f056-445d-b0f0-64e5d888523d",
+      "league": "angol",
+      "seasonIndex": 21,
+      "name": "Angol bajnokság 21",
+      "fileName": "league_21.csv",
+      "createdAt": "2026-09-15T10:57:26.500Z",
+      "contentHash": "163da3e9",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0040",
+      "season_position": 40,
+      "season_id": "season_angol_0ace5477-b77e-448b-84e2-7e880dda6046",
+      "season_index": 22,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_0ace5477-b77e-448b-84e2-7e880dda6046",
+      "league": "angol",
+      "seasonIndex": 22,
+      "name": "Angol bajnokság 22",
+      "fileName": "league_20.csv",
+      "createdAt": "2026-09-15T10:57:26.502Z",
+      "contentHash": "2bcc3e8c",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0041",
+      "season_position": 41,
+      "season_id": "season_angol_21feb714-b1d3-4541-a177-5d12715e11ad",
+      "season_index": 23,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_21feb714-b1d3-4541-a177-5d12715e11ad",
+      "league": "angol",
+      "seasonIndex": 23,
+      "name": "Angol bajnokság 23",
+      "fileName": "league_19.csv",
+      "createdAt": "2026-09-15T10:57:26.505Z",
+      "contentHash": "1e4c7b82",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0042",
+      "season_position": 42,
+      "season_id": "season_angol_0c7ab817-d290-4c2d-84f4-7df5e409c30d",
+      "season_index": 24,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_0c7ab817-d290-4c2d-84f4-7df5e409c30d",
+      "league": "angol",
+      "seasonIndex": 24,
+      "name": "Angol bajnokság 24",
+      "fileName": "league_18.csv",
+      "createdAt": "2026-09-15T10:57:26.507Z",
+      "contentHash": "2a15c506",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0043",
+      "season_position": 43,
+      "season_id": "season_angol_3a3d8a29-9e88-44eb-b8c1-3727647e6dfb",
+      "season_index": 25,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_3a3d8a29-9e88-44eb-b8c1-3727647e6dfb",
+      "league": "angol",
+      "seasonIndex": 25,
+      "name": "Angol bajnokság 25",
+      "fileName": "league_17.csv",
+      "createdAt": "2026-09-15T10:57:26.509Z",
+      "contentHash": "3b2ff586",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0044",
+      "season_position": 44,
+      "season_id": "season_angol_18a2f761-55cd-4807-92e5-d67e0ccc60db",
+      "season_index": 26,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_18a2f761-55cd-4807-92e5-d67e0ccc60db",
+      "league": "angol",
+      "seasonIndex": 26,
+      "name": "Angol bajnokság 26",
+      "fileName": "league_16.csv",
+      "createdAt": "2026-09-15T10:57:26.511Z",
+      "contentHash": "ac8a93a5",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0045",
+      "season_position": 45,
+      "season_id": "season_angol_0bce9055-34aa-4cce-92e7-50b3d4ecc0d3",
+      "season_index": 27,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_0bce9055-34aa-4cce-92e7-50b3d4ecc0d3",
+      "league": "angol",
+      "seasonIndex": 27,
+      "name": "Angol bajnokság 27",
+      "fileName": "league_15.csv",
+      "createdAt": "2026-09-15T10:57:26.514Z",
+      "contentHash": "e67fe162",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0046",
+      "season_position": 46,
+      "season_id": "season_angol_c40eea3b-cfcb-4b32-98af-3090f9c7f5aa",
+      "season_index": 28,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_c40eea3b-cfcb-4b32-98af-3090f9c7f5aa",
+      "league": "angol",
+      "seasonIndex": 28,
+      "name": "Angol bajnokság 28",
+      "fileName": "league_14.csv",
+      "createdAt": "2026-09-15T10:57:26.516Z",
+      "contentHash": "b9f3d4ec",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0047",
+      "season_position": 47,
+      "season_id": "season_angol_55960038-0b39-4c7a-9c97-95c9e9b692c5",
+      "season_index": 29,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_55960038-0b39-4c7a-9c97-95c9e9b692c5",
+      "league": "angol",
+      "seasonIndex": 29,
+      "name": "Angol bajnokság 29",
+      "fileName": "league_13.csv",
+      "createdAt": "2026-09-15T10:57:26.518Z",
+      "contentHash": "b80b08a3",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0048",
+      "season_position": 48,
+      "season_id": "season_angol_197e5181-5fe7-427c-9ff9-b95d8c6d5470",
+      "season_index": 30,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_197e5181-5fe7-427c-9ff9-b95d8c6d5470",
+      "league": "angol",
+      "seasonIndex": 30,
+      "name": "Angol bajnokság 30",
+      "fileName": "league_12.csv",
+      "createdAt": "2026-09-15T10:57:26.520Z",
+      "contentHash": "ad0ff6ac",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0049",
+      "season_position": 49,
+      "season_id": "season_angol_4957a91d-56ef-49a3-8431-a244906b73f0",
+      "season_index": 31,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_4957a91d-56ef-49a3-8431-a244906b73f0",
+      "league": "angol",
+      "seasonIndex": 31,
+      "name": "Angol bajnokság 31",
+      "fileName": "league_11.csv",
+      "createdAt": "2026-09-15T10:57:26.523Z",
+      "contentHash": "93f9130e",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0050",
+      "season_position": 50,
+      "season_id": "season_angol_3dd8dad7-6b6f-4a47-aa10-c99fdaf2dc33",
+      "season_index": 32,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_3dd8dad7-6b6f-4a47-aa10-c99fdaf2dc33",
+      "league": "angol",
+      "seasonIndex": 32,
+      "name": "Angol bajnokság 32",
+      "fileName": "league_10.csv",
+      "createdAt": "2026-09-15T10:57:26.528Z",
+      "contentHash": "5059fb2e",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0051",
+      "season_position": 51,
+      "season_id": "season_angol_84044449-3ae3-4992-8096-e75655282fb1",
+      "season_index": 33,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_84044449-3ae3-4992-8096-e75655282fb1",
+      "league": "angol",
+      "seasonIndex": 33,
+      "name": "Angol bajnokság 33",
+      "fileName": "league_09.csv",
+      "createdAt": "2026-09-15T10:57:26.531Z",
+      "contentHash": "b8b42216",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0052",
+      "season_position": 52,
+      "season_id": "season_angol_9c65359d-d63e-47f6-9958-14615c068fe9",
+      "season_index": 34,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_9c65359d-d63e-47f6-9958-14615c068fe9",
+      "league": "angol",
+      "seasonIndex": 34,
+      "name": "Angol bajnokság 34",
+      "fileName": "league_08.csv",
+      "createdAt": "2026-09-15T10:57:26.534Z",
+      "contentHash": "55e720bc",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0053",
+      "season_position": 53,
+      "season_id": "season_angol_62d4c33b-b813-46e0-9c8b-b6ca291a8788",
+      "season_index": 35,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_62d4c33b-b813-46e0-9c8b-b6ca291a8788",
+      "league": "angol",
+      "seasonIndex": 35,
+      "name": "Angol bajnokság 35",
+      "fileName": "league_07.csv",
+      "createdAt": "2026-09-15T10:57:26.536Z",
+      "contentHash": "263feb38",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0054",
+      "season_position": 54,
+      "season_id": "season_angol_92e8dd9f-dbeb-4954-829a-877d4862e62d",
+      "season_index": 36,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_92e8dd9f-dbeb-4954-829a-877d4862e62d",
+      "league": "angol",
+      "seasonIndex": 36,
+      "name": "Angol bajnokság 36",
+      "fileName": "league_06.csv",
+      "createdAt": "2026-09-15T10:57:26.538Z",
+      "contentHash": "18a802a5",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0055",
+      "season_position": 55,
+      "season_id": "season_angol_f68f5cd3-bb87-4347-8974-20f75a24385c",
+      "season_index": 37,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_f68f5cd3-bb87-4347-8974-20f75a24385c",
+      "league": "angol",
+      "seasonIndex": 37,
+      "name": "Angol bajnokság 37",
+      "fileName": "league_05.csv",
+      "createdAt": "2026-09-15T10:57:26.540Z",
+      "contentHash": "e8b8ffec",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0056",
+      "season_position": 56,
+      "season_id": "season_angol_64deef11-d928-495f-bf1f-0011515da759",
+      "season_index": 38,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_64deef11-d928-495f-bf1f-0011515da759",
+      "league": "angol",
+      "seasonIndex": 38,
+      "name": "Angol bajnokság 38",
+      "fileName": "league_04.csv",
+      "createdAt": "2026-09-15T10:57:26.542Z",
+      "contentHash": "5545249d",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0057",
+      "season_position": 57,
+      "season_id": "season_angol_514620a5-2b0f-4b44-8dbf-e2ee1bfc4704",
+      "season_index": 39,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_514620a5-2b0f-4b44-8dbf-e2ee1bfc4704",
+      "league": "angol",
+      "seasonIndex": 39,
+      "name": "Angol bajnokság 39",
+      "fileName": "league_03.csv",
+      "createdAt": "2026-09-15T10:57:26.544Z",
+      "contentHash": "7cc5bec4",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0058",
+      "season_position": 58,
+      "season_id": "season_angol_72a3e945-a99c-420a-ad08-87293f7b582d",
+      "season_index": 40,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_72a3e945-a99c-420a-ad08-87293f7b582d",
+      "league": "angol",
+      "seasonIndex": 40,
+      "name": "Angol bajnokság 40",
+      "fileName": "league_02.csv",
+      "createdAt": "2026-09-15T10:57:26.546Z",
+      "contentHash": "3bde956",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0059",
+      "season_position": 59,
+      "season_id": "season_angol_470facee-ce2f-44d8-afb5-aa8e34e289c1",
+      "season_index": 41,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_470facee-ce2f-44d8-afb5-aa8e34e289c1",
+      "league": "angol",
+      "seasonIndex": 41,
+      "name": "Angol bajnokság 41",
+      "fileName": "league_01.csv",
+      "createdAt": "2026-09-15T10:57:26.548Z",
+      "contentHash": "e860c90b",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 0,
+      "ht_missing": 240,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0060",
+      "season_position": 60,
+      "season_id": "season_angol_dd41697e-d2f5-4c23-a83b-7dcc9ee74076",
+      "season_index": 42,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_dd41697e-d2f5-4c23-a83b-7dcc9ee74076",
+      "league": "angol",
+      "seasonIndex": 42,
+      "name": "Angol bajnokság 42",
+      "fileName": "22.csv",
+      "createdAt": "2026-09-15T11:01:42.809Z",
+      "contentHash": "baedda5e",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0061",
+      "season_position": 61,
+      "season_id": "season_angol_78ba157e-65ae-49d0-8f80-1c25db3d1068",
+      "season_index": 43,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_78ba157e-65ae-49d0-8f80-1c25db3d1068",
+      "league": "angol",
+      "seasonIndex": 43,
+      "name": "Angol bajnokság 43",
+      "fileName": "1.csv",
+      "createdAt": "2026-09-15T11:01:42.812Z",
+      "contentHash": "5458d9d7",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0062",
+      "season_position": 62,
+      "season_id": "season_angol_61059fe9-f8ee-47ab-8abd-bb99fcfea983",
+      "season_index": 44,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_61059fe9-f8ee-47ab-8abd-bb99fcfea983",
+      "league": "angol",
+      "seasonIndex": 44,
+      "name": "Angol bajnokság 44",
+      "fileName": "2.csv",
+      "createdAt": "2026-09-15T11:01:42.815Z",
+      "contentHash": "71e3238c",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0063",
+      "season_position": 63,
+      "season_id": "season_angol_f7632f55-b6e9-48c0-af80-c070c5baa72c",
+      "season_index": 45,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_f7632f55-b6e9-48c0-af80-c070c5baa72c",
+      "league": "angol",
+      "seasonIndex": 45,
+      "name": "Angol bajnokság 45",
+      "fileName": "3.csv",
+      "createdAt": "2026-09-15T11:01:42.817Z",
+      "contentHash": "807bee9d",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0064",
+      "season_position": 64,
+      "season_id": "season_angol_f81c43e8-4956-4e5d-8b44-f2d804df23c2",
+      "season_index": 46,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_f81c43e8-4956-4e5d-8b44-f2d804df23c2",
+      "league": "angol",
+      "seasonIndex": 46,
+      "name": "Angol bajnokság 46",
+      "fileName": "4.csv",
+      "createdAt": "2026-09-15T11:01:42.821Z",
+      "contentHash": "a63bafa5",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0065",
+      "season_position": 65,
+      "season_id": "season_angol_3bdc63b8-1dcd-4cf2-a506-3efe84ed8191",
+      "season_index": 47,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_3bdc63b8-1dcd-4cf2-a506-3efe84ed8191",
+      "league": "angol",
+      "seasonIndex": 47,
+      "name": "Angol bajnokság 47",
+      "fileName": "5.csv",
+      "createdAt": "2026-09-15T11:01:42.824Z",
+      "contentHash": "8eda2894",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0066",
+      "season_position": 66,
+      "season_id": "season_angol_644fb67f-f179-40b9-b14f-1dae843e412d",
+      "season_index": 48,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_644fb67f-f179-40b9-b14f-1dae843e412d",
+      "league": "angol",
+      "seasonIndex": 48,
+      "name": "Angol bajnokság 48",
+      "fileName": "6.csv",
+      "createdAt": "2026-09-15T11:01:42.826Z",
+      "contentHash": "8af79443",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0067",
+      "season_position": 67,
+      "season_id": "season_angol_ec9ad8fb-3917-4300-b759-58695882aaf3",
+      "season_index": 49,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_ec9ad8fb-3917-4300-b759-58695882aaf3",
+      "league": "angol",
+      "seasonIndex": 49,
+      "name": "Angol bajnokság 49",
+      "fileName": "7.csv",
+      "createdAt": "2026-09-15T11:01:42.828Z",
+      "contentHash": "5dce3fc2",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0068",
+      "season_position": 68,
+      "season_id": "season_angol_b672e67c-6f56-432e-897b-c36cc3163ea2",
+      "season_index": 50,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_b672e67c-6f56-432e-897b-c36cc3163ea2",
+      "league": "angol",
+      "seasonIndex": 50,
+      "name": "Angol bajnokság 50",
+      "fileName": "8.csv",
+      "createdAt": "2026-09-15T11:01:42.830Z",
+      "contentHash": "dcd66c35",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0069",
+      "season_position": 69,
+      "season_id": "season_angol_04ce86a4-0693-434c-994d-c0a5fd4f768f",
+      "season_index": 51,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_04ce86a4-0693-434c-994d-c0a5fd4f768f",
+      "league": "angol",
+      "seasonIndex": 51,
+      "name": "Angol bajnokság 51",
+      "fileName": "9.csv",
+      "createdAt": "2026-09-15T11:01:42.833Z",
+      "contentHash": "e7bf89e6",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0070",
+      "season_position": 70,
+      "season_id": "season_angol_9970781b-b0e4-4dff-8eb9-14e6ee1bc6f3",
+      "season_index": 52,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_9970781b-b0e4-4dff-8eb9-14e6ee1bc6f3",
+      "league": "angol",
+      "seasonIndex": 52,
+      "name": "Angol bajnokság 52",
+      "fileName": "10.csv",
+      "createdAt": "2026-09-15T11:01:42.835Z",
+      "contentHash": "ca19e697",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0071",
+      "season_position": 71,
+      "season_id": "season_angol_e5b1b047-1fc1-40f1-83c4-6c6716c63383",
+      "season_index": 53,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_e5b1b047-1fc1-40f1-83c4-6c6716c63383",
+      "league": "angol",
+      "seasonIndex": 53,
+      "name": "Angol bajnokság 53",
+      "fileName": "11.csv",
+      "createdAt": "2026-09-15T11:01:42.837Z",
+      "contentHash": "67b5bbe3",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0072",
+      "season_position": 72,
+      "season_id": "season_angol_b0f3f57d-3be3-44b7-9a34-51cbe88c2f21",
+      "season_index": 54,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_b0f3f57d-3be3-44b7-9a34-51cbe88c2f21",
+      "league": "angol",
+      "seasonIndex": 54,
+      "name": "Angol bajnokság 54",
+      "fileName": "12.csv",
+      "createdAt": "2026-09-15T11:01:42.839Z",
+      "contentHash": "bd840f08",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0073",
+      "season_position": 73,
+      "season_id": "season_angol_ee28d4d1-40d0-44d3-b750-4b479b5ce450",
+      "season_index": 55,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_ee28d4d1-40d0-44d3-b750-4b479b5ce450",
+      "league": "angol",
+      "seasonIndex": 55,
+      "name": "Angol bajnokság 55",
+      "fileName": "13.csv",
+      "createdAt": "2026-09-15T11:01:42.841Z",
+      "contentHash": "2bbda88",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0074",
+      "season_position": 74,
+      "season_id": "season_angol_c68ffd3e-77e2-4b7a-bd21-c5d27edf38ea",
+      "season_index": 56,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_c68ffd3e-77e2-4b7a-bd21-c5d27edf38ea",
+      "league": "angol",
+      "seasonIndex": 56,
+      "name": "Angol bajnokság 56",
+      "fileName": "14.csv",
+      "createdAt": "2026-09-15T11:01:42.844Z",
+      "contentHash": "2c3478a7",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0075",
+      "season_position": 75,
+      "season_id": "season_angol_e7144b68-c7c5-4e60-9da9-e63ea5cf913d",
+      "season_index": 57,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_e7144b68-c7c5-4e60-9da9-e63ea5cf913d",
+      "league": "angol",
+      "seasonIndex": 57,
+      "name": "Angol bajnokság 57",
+      "fileName": "15.csv",
+      "createdAt": "2026-09-15T11:01:42.847Z",
+      "contentHash": "a8dcc7ff",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0076",
+      "season_position": 76,
+      "season_id": "season_angol_3b09eaf2-558d-450e-a494-af9ba15feb3d",
+      "season_index": 58,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_3b09eaf2-558d-450e-a494-af9ba15feb3d",
+      "league": "angol",
+      "seasonIndex": 58,
+      "name": "Angol bajnokság 58",
+      "fileName": "16.csv",
+      "createdAt": "2026-09-15T11:01:42.848Z",
+      "contentHash": "658b04fb",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0077",
+      "season_position": 77,
+      "season_id": "season_angol_08ed7c51-c671-44c8-9676-37e153d874e6",
+      "season_index": 59,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_08ed7c51-c671-44c8-9676-37e153d874e6",
+      "league": "angol",
+      "seasonIndex": 59,
+      "name": "Angol bajnokság 59",
+      "fileName": "17.csv",
+      "createdAt": "2026-09-15T11:01:42.850Z",
+      "contentHash": "f4dcb84c",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0078",
+      "season_position": 78,
+      "season_id": "season_angol_defb0616-de33-4406-8467-b56479187caf",
+      "season_index": 60,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_defb0616-de33-4406-8467-b56479187caf",
+      "league": "angol",
+      "seasonIndex": 60,
+      "name": "Angol bajnokság 60",
+      "fileName": "18.csv",
+      "createdAt": "2026-09-15T11:01:42.853Z",
+      "contentHash": "a91ca6d2",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0079",
+      "season_position": 79,
+      "season_id": "season_angol_5f91c692-b804-4183-bfd5-2aeac94f1e81",
+      "season_index": 61,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_5f91c692-b804-4183-bfd5-2aeac94f1e81",
+      "league": "angol",
+      "seasonIndex": 61,
+      "name": "Angol bajnokság 61",
+      "fileName": "19.csv",
+      "createdAt": "2026-09-15T11:01:42.855Z",
+      "contentHash": "d7d9893e",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol"
+    },
+    "data": {
+      "id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "league": "angol",
+      "seasonIndex": 62,
+      "name": "Angol bajnokság 62",
+      "fileName": "21.csv",
+      "createdAt": "2026-09-15T11:01:42.858Z",
+      "contentHash": "d6ca19a5",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0081",
+      "season_position": 81,
+      "season_id": "season_spanyol_5b5cf8e2-970a-4199-b088-4de9e58d436d",
+      "season_index": 19,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_5b5cf8e2-970a-4199-b088-4de9e58d436d",
+      "league": "spanyol",
+      "seasonIndex": 19,
+      "name": "Spanyol bajnokság 19",
+      "fileName": "20.csv",
+      "createdAt": "2026-09-15T11:12:26.330Z",
+      "contentHash": "471e3332",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0082",
+      "season_position": 82,
+      "season_id": "season_spanyol_a7226f58-d03a-4069-a40d-fe2a889fe6c6",
+      "season_index": 20,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_a7226f58-d03a-4069-a40d-fe2a889fe6c6",
+      "league": "spanyol",
+      "seasonIndex": 20,
+      "name": "Spanyol bajnokság 20",
+      "fileName": "21.csv",
+      "createdAt": "2026-09-15T11:12:26.333Z",
+      "contentHash": "911776f0",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0083",
+      "season_position": 83,
+      "season_id": "season_spanyol_15b4bf8f-fd69-482d-80d4-15233643dbf3",
+      "season_index": 21,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_15b4bf8f-fd69-482d-80d4-15233643dbf3",
+      "league": "spanyol",
+      "seasonIndex": 21,
+      "name": "Spanyol bajnokság 21",
+      "fileName": "22.csv",
+      "createdAt": "2026-09-15T11:12:26.335Z",
+      "contentHash": "630893ed",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0084",
+      "season_position": 84,
+      "season_id": "season_spanyol_f59e6c1e-5ee4-410b-bcbd-4e881aa60d9d",
+      "season_index": 22,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_f59e6c1e-5ee4-410b-bcbd-4e881aa60d9d",
+      "league": "spanyol",
+      "seasonIndex": 22,
+      "name": "Spanyol bajnokság 22",
+      "fileName": "23.csv",
+      "createdAt": "2026-09-15T11:12:26.339Z",
+      "contentHash": "c082eab8",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0085",
+      "season_position": 85,
+      "season_id": "season_spanyol_1eb1f219-d69b-41ff-8ae5-6f90066b8e45",
+      "season_index": 23,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_1eb1f219-d69b-41ff-8ae5-6f90066b8e45",
+      "league": "spanyol",
+      "seasonIndex": 23,
+      "name": "Spanyol bajnokság 23",
+      "fileName": "117.csv",
+      "createdAt": "2026-09-15T11:12:26.340Z",
+      "contentHash": "5f958d6b",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0086",
+      "season_position": 86,
+      "season_id": "season_spanyol_32e83661-4c25-452a-95f6-00f88582b2f1",
+      "season_index": 24,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_32e83661-4c25-452a-95f6-00f88582b2f1",
+      "league": "spanyol",
+      "seasonIndex": 24,
+      "name": "Spanyol bajnokság 24",
+      "fileName": "1.csv",
+      "createdAt": "2026-09-15T11:12:26.342Z",
+      "contentHash": "bb7de6c3",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0087",
+      "season_position": 87,
+      "season_id": "season_spanyol_9904063b-d12d-46b8-9e9f-7850818da0f5",
+      "season_index": 25,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_9904063b-d12d-46b8-9e9f-7850818da0f5",
+      "league": "spanyol",
+      "seasonIndex": 25,
+      "name": "Spanyol bajnokság 25",
+      "fileName": "2.csv",
+      "createdAt": "2026-09-15T11:12:26.344Z",
+      "contentHash": "4b9f8b40",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0088",
+      "season_position": 88,
+      "season_id": "season_spanyol_261891aa-d147-41ec-a469-ab9d9b1996ce",
+      "season_index": 26,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_261891aa-d147-41ec-a469-ab9d9b1996ce",
+      "league": "spanyol",
+      "seasonIndex": 26,
+      "name": "Spanyol bajnokság 26",
+      "fileName": "3.csv",
+      "createdAt": "2026-09-15T11:12:26.346Z",
+      "contentHash": "c97539e0",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0089",
+      "season_position": 89,
+      "season_id": "season_spanyol_12905941-4f8f-4a8a-94ec-6c1273def338",
+      "season_index": 27,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_12905941-4f8f-4a8a-94ec-6c1273def338",
+      "league": "spanyol",
+      "seasonIndex": 27,
+      "name": "Spanyol bajnokság 27",
+      "fileName": "4.csv",
+      "createdAt": "2026-09-15T11:12:26.347Z",
+      "contentHash": "36cc3865",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0090",
+      "season_position": 90,
+      "season_id": "season_spanyol_8a818375-17b8-4706-9773-7e43e5de91de",
+      "season_index": 28,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_8a818375-17b8-4706-9773-7e43e5de91de",
+      "league": "spanyol",
+      "seasonIndex": 28,
+      "name": "Spanyol bajnokság 28",
+      "fileName": "5.csv",
+      "createdAt": "2026-09-15T11:12:26.349Z",
+      "contentHash": "e912ae4b",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0091",
+      "season_position": 91,
+      "season_id": "season_spanyol_2cead41d-ebc0-4aae-bfe4-4e6efaf83d25",
+      "season_index": 29,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_2cead41d-ebc0-4aae-bfe4-4e6efaf83d25",
+      "league": "spanyol",
+      "seasonIndex": 29,
+      "name": "Spanyol bajnokság 29",
+      "fileName": "6.csv",
+      "createdAt": "2026-09-15T11:12:26.351Z",
+      "contentHash": "fd8e7b04",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0092",
+      "season_position": 92,
+      "season_id": "season_spanyol_48a3d603-59d7-40aa-9272-4434d6ab9b48",
+      "season_index": 30,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_48a3d603-59d7-40aa-9272-4434d6ab9b48",
+      "league": "spanyol",
+      "seasonIndex": 30,
+      "name": "Spanyol bajnokság 30",
+      "fileName": "7.csv",
+      "createdAt": "2026-09-15T11:12:26.355Z",
+      "contentHash": "dc474ffa",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0093",
+      "season_position": 93,
+      "season_id": "season_spanyol_d6440d94-89d2-4c01-ac44-5547e878eef2",
+      "season_index": 31,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_d6440d94-89d2-4c01-ac44-5547e878eef2",
+      "league": "spanyol",
+      "seasonIndex": 31,
+      "name": "Spanyol bajnokság 31",
+      "fileName": "8.csv",
+      "createdAt": "2026-09-15T11:12:26.357Z",
+      "contentHash": "fa3db3ef",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0094",
+      "season_position": 94,
+      "season_id": "season_spanyol_d4d7899b-4971-41c9-b1d8-c0af9c289c31",
+      "season_index": 32,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_d4d7899b-4971-41c9-b1d8-c0af9c289c31",
+      "league": "spanyol",
+      "seasonIndex": 32,
+      "name": "Spanyol bajnokság 32",
+      "fileName": "9.csv",
+      "createdAt": "2026-09-15T11:12:26.359Z",
+      "contentHash": "8fe558a1",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0095",
+      "season_position": 95,
+      "season_id": "season_spanyol_9edd12c1-8447-44d2-9a46-5b11dbda3ab5",
+      "season_index": 33,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_9edd12c1-8447-44d2-9a46-5b11dbda3ab5",
+      "league": "spanyol",
+      "seasonIndex": 33,
+      "name": "Spanyol bajnokság 33",
+      "fileName": "10.csv",
+      "createdAt": "2026-09-15T11:12:26.361Z",
+      "contentHash": "8ba6bfbe",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0096",
+      "season_position": 96,
+      "season_id": "season_spanyol_5444ee13-55fe-4bf6-b14f-e64f50271a0d",
+      "season_index": 34,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_5444ee13-55fe-4bf6-b14f-e64f50271a0d",
+      "league": "spanyol",
+      "seasonIndex": 34,
+      "name": "Spanyol bajnokság 34",
+      "fileName": "11.csv",
+      "createdAt": "2026-09-15T11:12:26.363Z",
+      "contentHash": "55d0ab9a",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0097",
+      "season_position": 97,
+      "season_id": "season_spanyol_8d805fd0-e85e-4e45-b858-ba0cd0b006f9",
+      "season_index": 35,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_8d805fd0-e85e-4e45-b858-ba0cd0b006f9",
+      "league": "spanyol",
+      "seasonIndex": 35,
+      "name": "Spanyol bajnokság 35",
+      "fileName": "12.csv",
+      "createdAt": "2026-09-15T11:12:26.364Z",
+      "contentHash": "5c40af8f",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0098",
+      "season_position": 98,
+      "season_id": "season_spanyol_ce32da4e-7ef1-41af-9853-d51cb7bbf9ff",
+      "season_index": 36,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_ce32da4e-7ef1-41af-9853-d51cb7bbf9ff",
+      "league": "spanyol",
+      "seasonIndex": 36,
+      "name": "Spanyol bajnokság 36",
+      "fileName": "13.csv",
+      "createdAt": "2026-09-15T11:12:26.366Z",
+      "contentHash": "c6378b20",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0099",
+      "season_position": 99,
+      "season_id": "season_spanyol_966100d3-3799-43b4-bcf6-5bb01ad82079",
+      "season_index": 37,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_966100d3-3799-43b4-bcf6-5bb01ad82079",
+      "league": "spanyol",
+      "seasonIndex": 37,
+      "name": "Spanyol bajnokság 37",
+      "fileName": "14.csv",
+      "createdAt": "2026-09-15T11:12:26.369Z",
+      "contentHash": "8b48624f",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0100",
+      "season_position": 100,
+      "season_id": "season_spanyol_d520d9fc-0ab6-4a1b-907c-261823396618",
+      "season_index": 38,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_d520d9fc-0ab6-4a1b-907c-261823396618",
+      "league": "spanyol",
+      "seasonIndex": 38,
+      "name": "Spanyol bajnokság 38",
+      "fileName": "15.csv",
+      "createdAt": "2026-09-15T11:12:26.371Z",
+      "contentHash": "71870971",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0101",
+      "season_position": 101,
+      "season_id": "season_spanyol_e2a1e3f7-cc11-4ca3-819d-c752eef49ecc",
+      "season_index": 39,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_e2a1e3f7-cc11-4ca3-819d-c752eef49ecc",
+      "league": "spanyol",
+      "seasonIndex": 39,
+      "name": "Spanyol bajnokság 39",
+      "fileName": "16.csv",
+      "createdAt": "2026-09-15T11:12:26.372Z",
+      "contentHash": "c3a052af",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0102",
+      "season_position": 102,
+      "season_id": "season_spanyol_e3b7b4ff-56f9-45bf-9ab0-8268e8d2f9f5",
+      "season_index": 40,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_e3b7b4ff-56f9-45bf-9ab0-8268e8d2f9f5",
+      "league": "spanyol",
+      "seasonIndex": 40,
+      "name": "Spanyol bajnokság 40",
+      "fileName": "18.csv",
+      "createdAt": "2026-09-15T11:12:26.374Z",
+      "contentHash": "870068cb",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0103",
+      "season_position": 103,
+      "season_id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "season_index": 41,
+      "league": "spanyol"
+    },
+    "data": {
+      "id": "season_spanyol_fa8300d4-4487-4c97-80c9-f8f59088602b",
+      "league": "spanyol",
+      "seasonIndex": 41,
+      "name": "Spanyol bajnokság 41",
+      "fileName": "19.csv",
+      "createdAt": "2026-09-15T11:12:26.376Z",
+      "contentHash": "ac564181",
+      "countWarning": false,
+      "actualMatchCount": 240,
+      "orderMode": "source-order",
+      "datedMatchCount": 0
+    },
+    "derived": {
+      "matches": 240,
+      "pipeline_present": 240,
+      "ht_valid": 240,
+      "ht_missing": 0,
+      "ft_valid": 240,
+      "kickoff_missing": 240
+    }
+  }
+]

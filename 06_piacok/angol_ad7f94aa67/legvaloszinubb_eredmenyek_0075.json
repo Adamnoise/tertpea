@@ -1,0 +1,7602 @@
+[
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000161",
+      "match_position": 161,
+      "match_no": 161,
+      "home_team": "Liverpool",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12636011218393903
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000161",
+      "match_position": 161,
+      "match_no": 161,
+      "home_team": "Liverpool",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12136635852574909
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000161",
+      "match_position": 161,
+      "match_no": 161,
+      "home_team": "Liverpool",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0893877577813539
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000161",
+      "match_position": 161,
+      "match_no": 161,
+      "home_team": "Liverpool",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08931244248341752
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000161",
+      "match_position": 161,
+      "match_no": 161,
+      "home_team": "Liverpool",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08585515216156585
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000162",
+      "match_position": 162,
+      "match_no": 162,
+      "home_team": "West Ham",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12902560660356607
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000162",
+      "match_position": 162,
+      "match_no": 162,
+      "home_team": "West Ham",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11359012898190748
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000162",
+      "match_position": 162,
+      "match_no": 162,
+      "home_team": "West Ham",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.0987130243707068
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000162",
+      "match_position": 162,
+      "match_no": 162,
+      "home_team": "West Ham",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08690387486349439
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000162",
+      "match_position": 162,
+      "match_no": 162,
+      "home_team": "West Ham",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08432325554579194
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000163",
+      "match_position": 163,
+      "match_no": 163,
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1372317002426488
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000163",
+      "match_position": 163,
+      "match_no": 163,
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.13577734927976737
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000163",
+      "match_position": 163,
+      "match_no": 163,
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1353170310335917
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000163",
+      "match_position": 163,
+      "match_no": 163,
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1338829713081056
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000163",
+      "match_position": 163,
+      "match_no": 163,
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.0693508145923663
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000164",
+      "match_position": 164,
+      "match_no": 164,
+      "home_team": "Newcastle",
+      "away_team": "Nottingham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.16119226545706772
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000164",
+      "match_position": 164,
+      "match_no": 164,
+      "home_team": "Newcastle",
+      "away_team": "Nottingham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15177378874851896
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000164",
+      "match_position": 164,
+      "match_no": 164,
+      "home_team": "Newcastle",
+      "away_team": "Nottingham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.11413014353984462
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000164",
+      "match_position": 164,
+      "match_no": 164,
+      "home_team": "Newcastle",
+      "away_team": "Nottingham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08295281481756943
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000164",
+      "match_position": 164,
+      "match_no": 164,
+      "home_team": "Newcastle",
+      "away_team": "Nottingham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.07810587534406271
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000165",
+      "match_position": 165,
+      "match_no": 165,
+      "home_team": "Everton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.19825733107572072
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000165",
+      "match_position": 165,
+      "match_no": 165,
+      "home_team": "Everton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.17683767830941924
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000165",
+      "match_position": 165,
+      "match_no": 165,
+      "home_team": "Everton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12121854773279496
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000165",
+      "match_position": 165,
+      "match_no": 165,
+      "home_team": "Everton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11113573108693744
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000165",
+      "match_position": 165,
+      "match_no": 165,
+      "home_team": "Everton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10812213819684625
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000166",
+      "match_position": 166,
+      "match_no": 166,
+      "home_team": "Tottenham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0828550232633226
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000166",
+      "match_position": 166,
+      "match_no": 166,
+      "home_team": "Tottenham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.0812753526708879
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000166",
+      "match_position": 166,
+      "match_no": 166,
+      "home_team": "Tottenham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-2",
+      "prob": 0.07182357326944264
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000166",
+      "match_position": 166,
+      "match_no": 166,
+      "home_team": "Tottenham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07045422254007601
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000166",
+      "match_position": 166,
+      "match_no": 166,
+      "home_team": "Tottenham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-1",
+      "prob": 0.05631026425903324
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000167",
+      "match_position": 167,
+      "match_no": 167,
+      "home_team": "Manchester Kék",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11579184068173695
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000167",
+      "match_position": 167,
+      "match_no": 167,
+      "home_team": "Manchester Kék",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10088808298738908
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000167",
+      "match_position": 167,
+      "match_no": 167,
+      "home_team": "Manchester Kék",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09602045413453841
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000167",
+      "match_position": 167,
+      "match_no": 167,
+      "home_team": "Manchester Kék",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08859817711830716
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000167",
+      "match_position": 167,
+      "match_no": 167,
+      "home_team": "Manchester Kék",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08366150402460967
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000168",
+      "match_position": 168,
+      "match_no": 168,
+      "home_team": "London Ágyúk",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12588378057396107
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000168",
+      "match_position": 168,
+      "match_no": 168,
+      "home_team": "London Ágyúk",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11101576468439463
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000168",
+      "match_position": 168,
+      "match_no": 168,
+      "home_team": "London Ágyúk",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11016833582146322
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000168",
+      "match_position": 168,
+      "match_no": 168,
+      "home_team": "London Ágyúk",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09715645645104479
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000168",
+      "match_position": 168,
+      "match_no": 168,
+      "home_team": "London Ágyúk",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.07192051188498522
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000169",
+      "match_position": 169,
+      "match_no": 169,
+      "home_team": "Brighton",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09647106642459449
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000169",
+      "match_position": 169,
+      "match_no": 169,
+      "home_team": "Brighton",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-2",
+      "prob": 0.09238948558899922
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000169",
+      "match_position": 169,
+      "match_no": 169,
+      "home_team": "Brighton",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08136530920907989
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000169",
+      "match_position": 169,
+      "match_no": 169,
+      "home_team": "Brighton",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.07792283573948633
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000169",
+      "match_position": 169,
+      "match_no": 169,
+      "home_team": "Brighton",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-3",
+      "prob": 0.07625417390257153
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000170",
+      "match_position": 170,
+      "match_no": 170,
+      "home_team": "Chelsea",
+      "away_team": "West Ham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17875646714038346
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000170",
+      "match_position": 170,
+      "match_no": 170,
+      "home_team": "Chelsea",
+      "away_team": "West Ham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.17076511689420792
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000170",
+      "match_position": 170,
+      "match_no": 170,
+      "home_team": "Chelsea",
+      "away_team": "West Ham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.10875401457034317
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000170",
+      "match_position": 170,
+      "match_no": 170,
+      "home_team": "Chelsea",
+      "away_team": "West Ham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.09356089559059944
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000170",
+      "match_position": 170,
+      "match_no": 170,
+      "home_team": "Chelsea",
+      "away_team": "West Ham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08197505584504922
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000171",
+      "match_position": 171,
+      "match_no": 171,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Newcastle"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1139812496514123
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000171",
+      "match_position": 171,
+      "match_no": 171,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Newcastle"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11120675893662059
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000171",
+      "match_position": 171,
+      "match_no": 171,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Newcastle"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09851019077415718
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000171",
+      "match_position": 171,
+      "match_no": 171,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Newcastle"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.096112291027917
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000171",
+      "match_position": 171,
+      "match_no": 171,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Newcastle"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.07788330731169482
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000172",
+      "match_position": 172,
+      "match_no": 172,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.18159048740323153
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000172",
+      "match_position": 172,
+      "match_no": 172,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.16350254227136557
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000172",
+      "match_position": 172,
+      "match_no": 172,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12717165526501803
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000172",
+      "match_position": 172,
+      "match_no": 172,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11450428509791045
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000172",
+      "match_position": 172,
+      "match_no": 172,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.10083973208384225
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000173",
+      "match_position": 173,
+      "match_no": 173,
+      "home_team": "Aston Oroszlán",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11598164513584482
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000173",
+      "match_position": 173,
+      "match_no": 173,
+      "home_team": "Aston Oroszlán",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09787016049511982
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000173",
+      "match_position": 173,
+      "match_no": 173,
+      "home_team": "Aston Oroszlán",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09417781433110799
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000173",
+      "match_position": 173,
+      "match_no": 173,
+      "home_team": "Aston Oroszlán",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07947117660617235
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000173",
+      "match_position": 173,
+      "match_no": 173,
+      "home_team": "Aston Oroszlán",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07141672433129387
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000174",
+      "match_position": 174,
+      "match_no": 174,
+      "home_team": "Brentford",
+      "away_team": "Tottenham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11580243787755137
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000174",
+      "match_position": 174,
+      "match_no": 174,
+      "home_team": "Brentford",
+      "away_team": "Tottenham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10085931603261594
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000174",
+      "match_position": 174,
+      "match_no": 174,
+      "home_team": "Brentford",
+      "away_team": "Tottenham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09504341460696045
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000174",
+      "match_position": 174,
+      "match_no": 174,
+      "home_team": "Brentford",
+      "away_team": "Tottenham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.08277903269012825
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000174",
+      "match_position": 174,
+      "match_no": 174,
+      "home_team": "Brentford",
+      "away_team": "Tottenham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07054778426175176
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000175",
+      "match_position": 175,
+      "match_no": 175,
+      "home_team": "Fulham",
+      "away_team": "Everton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1232337672111932
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000175",
+      "match_position": 175,
+      "match_no": 175,
+      "home_team": "Fulham",
+      "away_team": "Everton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10620549834020991
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000175",
+      "match_position": 175,
+      "match_no": 175,
+      "home_team": "Fulham",
+      "away_team": "Everton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09006008663332107
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000175",
+      "match_position": 175,
+      "match_no": 175,
+      "home_team": "Fulham",
+      "away_team": "Everton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08431349529395035
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000175",
+      "match_position": 175,
+      "match_no": 175,
+      "home_team": "Fulham",
+      "away_team": "Everton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.07761571035203714
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000176",
+      "match_position": 176,
+      "match_no": 176,
+      "home_team": "Nottingham",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12675482379124042
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000176",
+      "match_position": 176,
+      "match_no": 176,
+      "home_team": "Nottingham",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11219349851762157
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000176",
+      "match_position": 176,
+      "match_no": 176,
+      "home_team": "Nottingham",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.09188914838033542
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000176",
+      "match_position": 176,
+      "match_no": 176,
+      "home_team": "Nottingham",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08742482457148745
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000176",
+      "match_position": 176,
+      "match_no": 176,
+      "home_team": "Nottingham",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08133311793777362
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000177",
+      "match_position": 177,
+      "match_no": 177,
+      "home_team": "Liverpool",
+      "away_team": "Brighton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.16779724561055953
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000177",
+      "match_position": 177,
+      "match_no": 177,
+      "home_team": "Liverpool",
+      "away_team": "Brighton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1213840244542203
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000177",
+      "match_position": 177,
+      "match_no": 177,
+      "home_team": "Liverpool",
+      "away_team": "Brighton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11872931137830894
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000177",
+      "match_position": 177,
+      "match_no": 177,
+      "home_team": "Liverpool",
+      "away_team": "Brighton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11597867083863818
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000177",
+      "match_position": 177,
+      "match_no": 177,
+      "home_team": "Liverpool",
+      "away_team": "Brighton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08588842792584223
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000178",
+      "match_position": 178,
+      "match_no": 178,
+      "home_team": "Everton",
+      "away_team": "Nottingham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.2524339287151434
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000178",
+      "match_position": 178,
+      "match_no": 178,
+      "home_team": "Everton",
+      "away_team": "Nottingham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.18203309969254405
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000178",
+      "match_position": 178,
+      "match_no": 178,
+      "home_team": "Everton",
+      "away_team": "Nottingham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.17503104785390897
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000178",
+      "match_position": 178,
+      "match_no": 178,
+      "home_team": "Everton",
+      "away_team": "Nottingham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08751081798534757
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000178",
+      "match_position": 178,
+      "match_no": 178,
+      "home_team": "Everton",
+      "away_team": "Nottingham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-1",
+      "prob": 0.07587878305456844
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000179",
+      "match_position": 179,
+      "match_no": 179,
+      "home_team": "Manchester Kék",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09928426641774875
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000179",
+      "match_position": 179,
+      "match_no": 179,
+      "home_team": "Manchester Kék",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09704365867851597
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000179",
+      "match_position": 179,
+      "match_no": 179,
+      "home_team": "Manchester Kék",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09271104532389741
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000179",
+      "match_position": 179,
+      "match_no": 179,
+      "home_team": "Manchester Kék",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.09061877941752466
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000179",
+      "match_position": 179,
+      "match_no": 179,
+      "home_team": "Manchester Kék",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-1",
+      "prob": 0.0677177378535419
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000180",
+      "match_position": 180,
+      "match_no": 180,
+      "home_team": "Wolverhampton",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12010733358824775
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000180",
+      "match_position": 180,
+      "match_no": 180,
+      "home_team": "Wolverhampton",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.08842718279060272
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000180",
+      "match_position": 180,
+      "match_no": 180,
+      "home_team": "Wolverhampton",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08498955909442342
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000180",
+      "match_position": 180,
+      "match_no": 180,
+      "home_team": "Wolverhampton",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08486790457196978
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000180",
+      "match_position": 180,
+      "match_no": 180,
+      "home_team": "Wolverhampton",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08156864849940507
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000181",
+      "match_position": 181,
+      "match_no": 181,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10896185354243235
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000181",
+      "match_position": 181,
+      "match_no": 181,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08925219650242093
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000181",
+      "match_position": 181,
+      "match_no": 181,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07787697485750529
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000181",
+      "match_position": 181,
+      "match_no": 181,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07622718749108078
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000181",
+      "match_position": 181,
+      "match_no": 181,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06651200750605861
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000182",
+      "match_position": 182,
+      "match_no": 182,
+      "home_team": "London Ágyúk",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15829715552396037
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000182",
+      "match_position": 182,
+      "match_no": 182,
+      "home_team": "London Ágyúk",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1565125417194186
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000182",
+      "match_position": 182,
+      "match_no": 182,
+      "home_team": "London Ágyúk",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.10316536488770507
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000182",
+      "match_position": 182,
+      "match_no": 182,
+      "home_team": "London Ágyúk",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.08669076233545485
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000182",
+      "match_position": 182,
+      "match_no": 182,
+      "home_team": "London Ágyúk",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08571342619395556
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000183",
+      "match_position": 183,
+      "match_no": 183,
+      "home_team": "Newcastle",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12738402600544493
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000183",
+      "match_position": 183,
+      "match_no": 183,
+      "home_team": "Newcastle",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11862635582720302
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000183",
+      "match_position": 183,
+      "match_no": 183,
+      "home_team": "Newcastle",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10179643829791844
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000183",
+      "match_position": 183,
+      "match_no": 183,
+      "home_team": "Newcastle",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09479791846863612
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000183",
+      "match_position": 183,
+      "match_no": 183,
+      "home_team": "Newcastle",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.07970165927547819
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000184",
+      "match_position": 184,
+      "match_no": 184,
+      "home_team": "West Ham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13013239307246313
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000184",
+      "match_position": 184,
+      "match_no": 184,
+      "home_team": "West Ham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10840961893751544
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000184",
+      "match_position": 184,
+      "match_no": 184,
+      "home_team": "West Ham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10647715053575843
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000184",
+      "match_position": 184,
+      "match_no": 184,
+      "home_team": "West Ham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08870310491182881
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000184",
+      "match_position": 184,
+      "match_no": 184,
+      "home_team": "West Ham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07952147311210643
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000185",
+      "match_position": 185,
+      "match_no": 185,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Tottenham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11823669837523486
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000185",
+      "match_position": 185,
+      "match_no": 185,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Tottenham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1174073372228835
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000185",
+      "match_position": 185,
+      "match_no": 185,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Tottenham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09538702020285184
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000185",
+      "match_position": 185,
+      "match_no": 185,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Tottenham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.09471793615295952
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000185",
+      "match_position": 185,
+      "match_no": 185,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Tottenham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07327997463882563
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000186",
+      "match_position": 186,
+      "match_no": 186,
+      "home_team": "Nottingham",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10952516104630308
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000186",
+      "match_position": 186,
+      "match_no": 186,
+      "home_team": "Nottingham",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09550351863654272
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000186",
+      "match_position": 186,
+      "match_no": 186,
+      "home_team": "Nottingham",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08872677085548611
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000186",
+      "match_position": 186,
+      "match_no": 186,
+      "home_team": "Nottingham",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07736778227949655
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000186",
+      "match_position": 186,
+      "match_no": 186,
+      "home_team": "Nottingham",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.06759944482684231
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000187",
+      "match_position": 187,
+      "match_no": 187,
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11538630506984143
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000187",
+      "match_position": 187,
+      "match_no": 187,
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10813242565818955
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000187",
+      "match_position": 187,
+      "match_no": 187,
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09788489111685858
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000187",
+      "match_position": 187,
+      "match_no": 187,
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09173125619497953
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000187",
+      "match_position": 187,
+      "match_no": 187,
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08208453240940292
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000188",
+      "match_position": 188,
+      "match_no": 188,
+      "home_team": "Brighton",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.13135415141202034
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000188",
+      "match_position": 188,
+      "match_no": 188,
+      "home_team": "Brighton",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12061730265595005
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000188",
+      "match_position": 188,
+      "match_no": 188,
+      "home_team": "Brighton",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-2",
+      "prob": 0.10177890689183236
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000188",
+      "match_position": 188,
+      "match_no": 188,
+      "home_team": "Brighton",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.0934595297110685
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000188",
+      "match_position": 188,
+      "match_no": 188,
+      "home_team": "Brighton",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08476173315316168
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000189",
+      "match_position": 189,
+      "match_no": 189,
+      "home_team": "Liverpool",
+      "away_team": "Newcastle"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14704787704090375
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000189",
+      "match_position": 189,
+      "match_no": 189,
+      "home_team": "Liverpool",
+      "away_team": "Newcastle"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13128311875128712
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000189",
+      "match_position": 189,
+      "match_no": 189,
+      "home_team": "Liverpool",
+      "away_team": "Newcastle"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11890240591090723
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000189",
+      "match_position": 189,
+      "match_no": 189,
+      "home_team": "Liverpool",
+      "away_team": "Newcastle"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10615507676233395
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000189",
+      "match_position": 189,
+      "match_no": 189,
+      "home_team": "Liverpool",
+      "away_team": "Newcastle"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09092784110036752
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000190",
+      "match_position": 190,
+      "match_no": 190,
+      "home_team": "Fulham",
+      "away_team": "West Ham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1716206461859125
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000190",
+      "match_position": 190,
+      "match_no": 190,
+      "home_team": "Fulham",
+      "away_team": "West Ham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1268426191105146
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000190",
+      "match_position": 190,
+      "match_no": 190,
+      "home_team": "Fulham",
+      "away_team": "West Ham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11610311425218989
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000190",
+      "match_position": 190,
+      "match_no": 190,
+      "home_team": "Fulham",
+      "away_team": "West Ham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11586573842838674
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000190",
+      "match_position": 190,
+      "match_no": 190,
+      "home_team": "Fulham",
+      "away_team": "West Ham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08563488166516853
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000191",
+      "match_position": 191,
+      "match_no": 191,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.16882537003762557
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000191",
+      "match_position": 191,
+      "match_no": 191,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-2",
+      "prob": 0.12036358494803619
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000191",
+      "match_position": 191,
+      "match_no": 191,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1194969741012887
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000191",
+      "match_position": 191,
+      "match_no": 191,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11839962053575502
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000191",
+      "match_position": 191,
+      "match_no": 191,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08519504023635921
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000192",
+      "match_position": 192,
+      "match_no": 192,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Everton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12524804850926977
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000192",
+      "match_position": 192,
+      "match_no": 192,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Everton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10601320686172765
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000192",
+      "match_position": 192,
+      "match_no": 192,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Everton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08963224532346502
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000192",
+      "match_position": 192,
+      "match_no": 192,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Everton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08750798107739491
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000192",
+      "match_position": 192,
+      "match_no": 192,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Everton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.07586706442180094
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000193",
+      "match_position": 193,
+      "match_no": 193,
+      "home_team": "Manchester Kék",
+      "away_team": "Liverpool"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12870394222349274
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000193",
+      "match_position": 193,
+      "match_no": 193,
+      "home_team": "Manchester Kék",
+      "away_team": "Liverpool"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1161732824278276
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000193",
+      "match_position": 193,
+      "match_no": 193,
+      "home_team": "Manchester Kék",
+      "away_team": "Liverpool"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09676899532615611
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000193",
+      "match_position": 193,
+      "match_no": 193,
+      "home_team": "Manchester Kék",
+      "away_team": "Liverpool"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08734753287324427
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000193",
+      "match_position": 193,
+      "match_no": 193,
+      "home_team": "Manchester Kék",
+      "away_team": "Liverpool"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08558890524820202
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000194",
+      "match_position": 194,
+      "match_no": 194,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.20393679481264962
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000194",
+      "match_position": 194,
+      "match_no": 194,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.14910177614539558
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000194",
+      "match_position": 194,
+      "match_no": 194,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.139469218119509
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000194",
+      "match_position": 194,
+      "match_no": 194,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10918178299891881
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000194",
+      "match_position": 194,
+      "match_no": 194,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.0798247210995698
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000195",
+      "match_position": 195,
+      "match_no": 195,
+      "home_team": "Brentford",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10841673971343013
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000195",
+      "match_position": 195,
+      "match_no": 195,
+      "home_team": "Brentford",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08603149819815208
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000195",
+      "match_position": 195,
+      "match_no": 195,
+      "home_team": "Brentford",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08165836334930954
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000195",
+      "match_position": 195,
+      "match_no": 195,
+      "home_team": "Brentford",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07197174280734003
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000195",
+      "match_position": 195,
+      "match_no": 195,
+      "home_team": "Brentford",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06831329045913404
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000196",
+      "match_position": 196,
+      "match_no": 196,
+      "home_team": "Tottenham",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1666144663363372
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000196",
+      "match_position": 196,
+      "match_no": 196,
+      "home_team": "Tottenham",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1258564572105907
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000196",
+      "match_position": 196,
+      "match_no": 196,
+      "home_team": "Tottenham",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12475736226663507
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000196",
+      "match_position": 196,
+      "match_no": 196,
+      "home_team": "Tottenham",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.11028588046973259
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000196",
+      "match_position": 196,
+      "match_no": 196,
+      "home_team": "Tottenham",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09423863348168676
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000197",
+      "match_position": 197,
+      "match_no": 197,
+      "home_team": "West Ham",
+      "away_team": "Nottingham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.2152876647683677
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000197",
+      "match_position": 197,
+      "match_no": 197,
+      "home_team": "West Ham",
+      "away_team": "Nottingham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.16256263278394784
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000197",
+      "match_position": 197,
+      "match_no": 197,
+      "home_team": "West Ham",
+      "away_team": "Nottingham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1425566804857806
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000197",
+      "match_position": 197,
+      "match_no": 197,
+      "home_team": "West Ham",
+      "away_team": "Nottingham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10600027517277852
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000197",
+      "match_position": 197,
+      "match_no": 197,
+      "home_team": "West Ham",
+      "away_team": "Nottingham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.0800402746086253
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000198",
+      "match_position": 198,
+      "match_no": 198,
+      "home_team": "Newcastle",
+      "away_team": "Brighton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1375548669897131
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000198",
+      "match_position": 198,
+      "match_no": 198,
+      "home_team": "Newcastle",
+      "away_team": "Brighton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11916378482492034
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000198",
+      "match_position": 198,
+      "match_no": 198,
+      "home_team": "Newcastle",
+      "away_team": "Brighton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1077046750789078
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000198",
+      "match_position": 198,
+      "match_no": 198,
+      "home_team": "Newcastle",
+      "away_team": "Brighton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0933045628018436
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000198",
+      "match_position": 198,
+      "match_no": 198,
+      "home_team": "Newcastle",
+      "away_team": "Brighton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08783899779046404
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000199",
+      "match_position": 199,
+      "match_no": 199,
+      "home_team": "Wolverhampton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1258623092196704
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000199",
+      "match_position": 199,
+      "match_no": 199,
+      "home_team": "Wolverhampton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11715887619149544
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000199",
+      "match_position": 199,
+      "match_no": 199,
+      "home_team": "Wolverhampton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0894926894731005
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000199",
+      "match_position": 199,
+      "match_no": 199,
+      "home_team": "Wolverhampton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08850622869519119
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000199",
+      "match_position": 199,
+      "match_no": 199,
+      "home_team": "Wolverhampton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08330423135430844
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000200",
+      "match_position": 200,
+      "match_no": 200,
+      "home_team": "London Ágyúk",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12226906937545119
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000200",
+      "match_position": 200,
+      "match_no": 200,
+      "home_team": "London Ágyúk",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11439383541144077
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000200",
+      "match_position": 200,
+      "match_no": 200,
+      "home_team": "London Ágyúk",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10341915511061446
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000200",
+      "match_position": 200,
+      "match_no": 200,
+      "home_team": "London Ágyúk",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09675802611849427
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000200",
+      "match_position": 200,
+      "match_no": 200,
+      "home_team": "London Ágyúk",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.07227735185976455
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Crystal Palace",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.15287543052633282
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Crystal Palace",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1394143597333601
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Crystal Palace",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13357856788068453
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Crystal Palace",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12181663496265371
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000201",
+      "match_position": 201,
+      "match_no": 201,
+      "home_team": "Crystal Palace",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.0838181135118008
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Vörös Ördögök",
+      "away_team": "West Ham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13216526197713643
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Vörös Ördögök",
+      "away_team": "West Ham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.116663093488634
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Vörös Ördögök",
+      "away_team": "West Ham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.10764358527756002
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Vörös Ördögök",
+      "away_team": "West Ham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0950176579293595
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000202",
+      "match_position": 202,
+      "match_no": 202,
+      "home_team": "Vörös Ördögök",
+      "away_team": "West Ham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08113654161761978
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Liverpool",
+      "away_team": "Everton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15023437301034545
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Liverpool",
+      "away_team": "Everton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.1495706701168194
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Liverpool",
+      "away_team": "Everton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13454451518888122
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Liverpool",
+      "away_team": "Everton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1339501266861065
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000203",
+      "match_position": 203,
+      "match_no": 203,
+      "home_team": "Liverpool",
+      "away_team": "Everton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.07545051050511253
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Brighton",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09897561948894139
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Brighton",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09371366086272573
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Brighton",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-2",
+      "prob": 0.09168526533292037
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Brighton",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08681089247921639
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000204",
+      "match_position": 204,
+      "match_no": 204,
+      "home_team": "Brighton",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-3",
+      "prob": 0.06968868902026575
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09739624883620832
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08568348312303235
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07850191690006743
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-2",
+      "prob": 0.06906136275478426
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000205",
+      "match_position": 205,
+      "match_no": 205,
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.060419093328894634
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13438366951368147
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1290976336743127
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12038739503425058
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11565190829644793
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000206",
+      "match_position": 206,
+      "match_no": 206,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07500357752082154
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Newcastle",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11730293614333308
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Newcastle",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08990813700790644
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Newcastle",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08966530671124207
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Newcastle",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07672967021771018
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000207",
+      "match_position": 207,
+      "match_no": 207,
+      "home_team": "Newcastle",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07652243326227991
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Nottingham",
+      "away_team": "Tottenham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1138263778560832
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Nottingham",
+      "away_team": "Tottenham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09943880035574716
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Nottingham",
+      "away_team": "Tottenham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09594102032281931
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Nottingham",
+      "away_team": "Tottenham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-2",
+      "prob": 0.08381413996911836
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000208",
+      "match_position": 208,
+      "match_no": 208,
+      "home_team": "Nottingham",
+      "away_team": "Tottenham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.06752296490198037
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Everton",
+      "away_team": "Newcastle"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13137296161365072
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Everton",
+      "away_team": "Newcastle"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1293363349846654
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Everton",
+      "away_team": "Newcastle"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.0986547500839905
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Everton",
+      "away_team": "Newcastle"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.0971253418356796
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000209",
+      "match_position": 209,
+      "match_no": 209,
+      "home_team": "Everton",
+      "away_team": "Newcastle"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08747097848024694
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Chelsea",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17964630991847616
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Chelsea",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.15150890206641016
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Chelsea",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.10650462193033121
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Chelsea",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09931413741180097
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000210",
+      "match_position": 210,
+      "match_no": 210,
+      "home_team": "Chelsea",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08518570894771349
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Brentford",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.12604045851083948
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Brentford",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1231792199601535
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Brentford",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-0",
+      "prob": 0.0944066834674086
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Brentford",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0922635617637048
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000211",
+      "match_position": 211,
+      "match_no": 211,
+      "home_team": "Brentford",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08413703669140615
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "West Ham",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13416491888214238
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "West Ham",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.1257981238089571
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "West Ham",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.11985540241954581
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "West Ham",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11238097766817387
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000212",
+      "match_position": 212,
+      "match_no": 212,
+      "home_team": "West Ham",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07509142306177934
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "London Ágyúk",
+      "away_team": "Liverpool"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17822691039458924
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "London Ágyúk",
+      "away_team": "Liverpool"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.16236629012682885
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "London Ágyúk",
+      "away_team": "Liverpool"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12836562036040913
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "London Ágyúk",
+      "away_team": "Liverpool"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11694221434689307
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000213",
+      "match_position": 213,
+      "match_no": 213,
+      "home_team": "London Ágyúk",
+      "away_team": "Liverpool"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09781843128887327
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Tottenham",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10000878804368238
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Tottenham",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08803818890083524
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Tottenham",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07691419403535489
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Tottenham",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-2",
+      "prob": 0.06770791323540915
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000214",
+      "match_position": 214,
+      "match_no": 214,
+      "home_team": "Tottenham",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.065018933185263
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Manchester Kék",
+      "away_team": "Brighton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10765853820074645
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Manchester Kék",
+      "away_team": "Brighton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10630926253799373
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Manchester Kék",
+      "away_team": "Brighton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09886874353468779
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Manchester Kék",
+      "away_team": "Brighton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09762962965029205
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000215",
+      "match_position": 215,
+      "match_no": 215,
+      "home_team": "Manchester Kék",
+      "away_team": "Brighton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-1",
+      "prob": 0.06053106182747762
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Wolverhampton",
+      "away_team": "Nottingham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14611903201123386
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Wolverhampton",
+      "away_team": "Nottingham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1445863900698344
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Wolverhampton",
+      "away_team": "Nottingham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.09537988266907893
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Wolverhampton",
+      "away_team": "Nottingham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09160523885986441
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000216",
+      "match_position": 216,
+      "match_no": 216,
+      "home_team": "Wolverhampton",
+      "away_team": "Nottingham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09064439187644237
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Newcastle",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1270836795980549
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Newcastle",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10690059713885029
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Newcastle",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09491145835792059
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Newcastle",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.0850806736067463
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000217",
+      "match_position": 217,
+      "match_no": 217,
+      "home_team": "Newcastle",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.07983788009499947
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Nottingham",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12523579447872865
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Nottingham",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10229476909671832
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Nottingham",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.09129889494259522
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Nottingham",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.08589372428099916
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000218",
+      "match_position": 218,
+      "match_no": 218,
+      "home_team": "Nottingham",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07666083201130913
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.18078534300609966
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.17134915644049398
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13787573644520715
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13067923948182575
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000219",
+      "match_position": 219,
+      "match_no": 219,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.08120274831095756
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Brighton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1507001243234387
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Brighton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1328726256410357
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Brighton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.13056588799103658
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Brighton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.11512022590829496
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000220",
+      "match_position": 220,
+      "match_no": 220,
+      "home_team": "Brighton",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08696960523356215
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Manchester Kék",
+      "away_team": "Everton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09899227771943737
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Manchester Kék",
+      "away_team": "Everton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09839848448825972
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Manchester Kék",
+      "away_team": "Everton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.0851957615612544
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Manchester Kék",
+      "away_team": "Everton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08468472506724144
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000221",
+      "match_position": 221,
+      "match_no": 221,
+      "home_team": "Manchester Kék",
+      "away_team": "Everton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-1",
+      "prob": 0.06520550203607887
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1154232595833866
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.09984416146089749
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09506215547162016
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08223126979768229
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000222",
+      "match_position": 222,
+      "match_no": 222,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.070072726558526
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Fulham",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09379309995569615
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Fulham",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09197351307650979
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Fulham",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-2",
+      "prob": 0.06769688852447424
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Fulham",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06638356835295778
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000223",
+      "match_position": 223,
+      "match_no": 223,
+      "home_team": "Fulham",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-2",
+      "prob": 0.06497451944278657
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Liverpool",
+      "away_team": "West Ham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.13222812294556363
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Liverpool",
+      "away_team": "West Ham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.12785941811830642
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Liverpool",
+      "away_team": "West Ham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.09902433401938254
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Liverpool",
+      "away_team": "West Ham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09575265416482917
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000224",
+      "match_position": 224,
+      "match_no": 224,
+      "home_team": "Liverpool",
+      "away_team": "West Ham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "3-0",
+      "prob": 0.08242336772428839
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Wolverhampton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.17199090474044543
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Wolverhampton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.12872133544284717
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Wolverhampton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12279593913817999
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Wolverhampton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1149027517919553
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000225",
+      "match_position": 225,
+      "match_no": 225,
+      "home_team": "Wolverhampton",
+      "away_team": "Crystal Palace"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09190286717009205
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "2-0",
+      "prob": 0.1797328805778187
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.151627376683362
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "3-0",
+      "prob": 0.14203199566113328
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "4-0",
+      "prob": 0.08417945450477775
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000226",
+      "match_position": 226,
+      "match_no": 226,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.06808489187394895
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "West Ham",
+      "away_team": "Newcastle"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.12723752211622158
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "West Ham",
+      "away_team": "Newcastle"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12307717394542662
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "West Ham",
+      "away_team": "Newcastle"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-2",
+      "prob": 0.09540730270911078
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "West Ham",
+      "away_team": "Newcastle"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-2",
+      "prob": 0.09228772296011375
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000227",
+      "match_position": 227,
+      "match_no": 227,
+      "home_team": "West Ham",
+      "away_team": "Newcastle"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-0",
+      "prob": 0.08484354223720228
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Everton",
+      "away_team": "Brighton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.16216989303993065
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Everton",
+      "away_team": "Brighton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-0",
+      "prob": 0.13288171647947083
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Everton",
+      "away_team": "Brighton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10934876180080032
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Everton",
+      "away_team": "Brighton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-0",
+      "prob": 0.09895670715784873
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000228",
+      "match_position": 228,
+      "match_no": 228,
+      "home_team": "Everton",
+      "away_team": "Brighton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08960017726235624
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.15890000796860645
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.15367586203803407
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-1",
+      "prob": 0.13861944339081003
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1340620603525953
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000229",
+      "match_position": 229,
+      "match_no": 229,
+      "home_team": "Aston Oroszlán",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.07431173501828488
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Brentford",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1085464577783981
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Brentford",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-2",
+      "prob": 0.0872542402195572
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Brentford",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08029114100225139
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Brentford",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.07337256233478598
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000230",
+      "match_position": 230,
+      "match_no": 230,
+      "home_team": "Brentford",
+      "away_team": "Vörös Ördögök"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-0",
+      "prob": 0.0675172545574276
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "London Ágyúk",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.11216917709971276
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "London Ágyúk",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10696903696292372
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "London Ágyúk",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09765339393067271
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "London Ágyúk",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09312620253636351
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000231",
+      "match_position": 231,
+      "match_no": 231,
+      "home_team": "London Ágyúk",
+      "away_team": "Manchester Kék"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06442133644714405
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1298191949622466
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1282734371084211
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.0951870067776552
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09405361457512698
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000232",
+      "match_position": 232,
+      "match_no": 232,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08852586057261115
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Nottingham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12219730225458593
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Nottingham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10367306115441255
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Nottingham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09040807497213248
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Nottingham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.08258211826156762
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000233",
+      "match_position": 233,
+      "match_no": 233,
+      "home_team": "Nottingham",
+      "away_team": "Aston Oroszlán"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.07670285442072311
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Manchester Kék",
+      "away_team": "West Ham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10767024988103888
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Manchester Kék",
+      "away_team": "West Ham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09728718363861061
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Manchester Kék",
+      "away_team": "West Ham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.09185644595499497
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Manchester Kék",
+      "away_team": "West Ham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.08299836710593025
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000234",
+      "match_position": 234,
+      "match_no": 234,
+      "home_team": "Manchester Kék",
+      "away_team": "West Ham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "1-2",
+      "prob": 0.06310326177394933
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Chelsea"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10963866226043167
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Chelsea"
+    },
+    "rank": 2,
+    "data": {
+      "score": "2-1",
+      "prob": 0.08803966011488132
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Chelsea"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.07947825886279834
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Chelsea"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.07562216657896328
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000235",
+      "match_position": 235,
+      "match_no": 235,
+      "home_team": "Vörös Ördögök",
+      "away_team": "Chelsea"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06826830230018777
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10912604321426292
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-0",
+      "prob": 0.10368764091619304
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 3,
+    "data": {
+      "score": "2-1",
+      "prob": 0.09842542642113643
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 4,
+    "data": {
+      "score": "2-0",
+      "prob": 0.09352029974861309
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000236",
+      "match_position": 236,
+      "match_no": 236,
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-1",
+      "prob": 0.06049500490172059
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-1",
+      "prob": 0.12091793587559409
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.09688264752994404
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-2",
+      "prob": 0.0891501551258534
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.08200292638736068
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000237",
+      "match_position": 237,
+      "match_no": 237,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-1",
+      "prob": 0.07545802880694011
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Everton",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 1,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1430820044073156
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Everton",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 2,
+    "data": {
+      "score": "1-1",
+      "prob": 0.13221790189694702
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Everton",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 3,
+    "data": {
+      "score": "0-0",
+      "prob": 0.11773185815001226
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Everton",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 4,
+    "data": {
+      "score": "0-1",
+      "prob": 0.10879257203240383
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000238",
+      "match_position": 238,
+      "match_no": 238,
+      "home_team": "Everton",
+      "away_team": "London Ágyúk"
+    },
+    "rank": 5,
+    "data": {
+      "score": "2-0",
+      "prob": 0.0869452852732918
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Brighton",
+      "away_team": "Fulham"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-1",
+      "prob": 0.14628920559616979
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Brighton",
+      "away_team": "Fulham"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-0",
+      "prob": 0.14559765492805046
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Brighton",
+      "away_team": "Fulham"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-1",
+      "prob": 0.1349042266160443
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Brighton",
+      "away_team": "Fulham"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-0",
+      "prob": 0.1342664959805661
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000239",
+      "match_position": 239,
+      "match_no": 239,
+      "home_team": "Brighton",
+      "away_team": "Fulham"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07349202047427847
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford"
+    },
+    "rank": 1,
+    "data": {
+      "score": "0-0",
+      "prob": 0.2875148122008309
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford"
+    },
+    "rank": 2,
+    "data": {
+      "score": "0-1",
+      "prob": 0.210782359318949
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford"
+    },
+    "rank": 3,
+    "data": {
+      "score": "1-0",
+      "prob": 0.14759969516696442
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford"
+    },
+    "rank": 4,
+    "data": {
+      "score": "1-1",
+      "prob": 0.10820803194069498
+    }
+  },
+  {
+    "ref": {
+      "season_key": "s0080",
+      "season_position": 80,
+      "season_id": "season_angol_ca0fe97a-6159-4d5a-b89b-10beb6828745",
+      "season_index": 62,
+      "league": "angol",
+      "match_key": "s0080_m000240",
+      "match_position": 240,
+      "match_no": 240,
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford"
+    },
+    "rank": 5,
+    "data": {
+      "score": "0-2",
+      "prob": 0.07726419842506835
+    }
+  }
+]

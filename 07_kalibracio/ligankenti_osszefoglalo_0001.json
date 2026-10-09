@@ -1,0 +1,54 @@
+[
+  {
+    "league": "angol",
+    "data": {
+      "T": 0.95,
+      "ece": 0.005207389402953286,
+      "lastComputedAt": "2026-09-15T11:32:25.984Z",
+      "skillCI": {
+        "mean": 5.957380875921736,
+        "lo": 5.490290344968262,
+        "hi": 6.399282523924649,
+        "crossesZero": false,
+        "iterations": 1000,
+        "n": 14880
+      },
+      "entropyFloor": {
+        "n": 14880,
+        "entropyFloor": 0.890703686007769,
+        "oracleLogLoss": 1.0385732247814943,
+        "b1LogLoss": 1.0571344572992267,
+        "ensLogLoss": 0.9941569313073035,
+        "headroom": 0.16643077129145778,
+        "saturated": false,
+        "saturationGap": 0.03
+      }
+    }
+  },
+  {
+    "league": "spanyol",
+    "data": {
+      "T": 0.95,
+      "ece": 0.007041288272007498,
+      "lastComputedAt": "2026-09-15T11:36:26.519Z",
+      "skillCI": {
+        "mean": 5.6749007188101945,
+        "lo": 5.121196546472425,
+        "hi": 6.2590251201947344,
+        "crossesZero": false,
+        "iterations": 1000,
+        "n": 9840
+      },
+      "entropyFloor": {
+        "n": 9840,
+        "entropyFloor": 0.8826708807461066,
+        "oracleLogLoss": 1.0432036270431497,
+        "b1LogLoss": 1.0534193173398525,
+        "ensLogLoss": 0.9936388169280478,
+        "headroom": 0.17074843659374594,
+        "saturated": false,
+        "saturationGap": 0.03
+      }
+    }
+  }
+]

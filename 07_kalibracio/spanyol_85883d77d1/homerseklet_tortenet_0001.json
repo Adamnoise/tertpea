@@ -1,0 +1,5452 @@
+[
+  {
+    "league": "spanyol",
+    "source_index": 1,
+    "data": {
+      "fittedAtMatchIndex": 36,
+      "T": 1.8,
+      "ece": 0.03780246926657816,
+      "sampleSize": 36
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 2,
+    "data": {
+      "fittedAtMatchIndex": 54,
+      "T": 1.8,
+      "ece": 0.012395727995097139,
+      "sampleSize": 54
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 3,
+    "data": {
+      "fittedAtMatchIndex": 72,
+      "T": 1.8,
+      "ece": 0.022009846830518296,
+      "sampleSize": 72
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 4,
+    "data": {
+      "fittedAtMatchIndex": 90,
+      "T": 1.8,
+      "ece": 0.01693103407927319,
+      "sampleSize": 90
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 5,
+    "data": {
+      "fittedAtMatchIndex": 108,
+      "T": 1.45,
+      "ece": 0.019663873143914382,
+      "sampleSize": 108
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 6,
+    "data": {
+      "fittedAtMatchIndex": 126,
+      "T": 1.45,
+      "ece": 0.020680304611085967,
+      "sampleSize": 126
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 7,
+    "data": {
+      "fittedAtMatchIndex": 144,
+      "T": 1.4,
+      "ece": 0.0199656934879391,
+      "sampleSize": 144
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 8,
+    "data": {
+      "fittedAtMatchIndex": 162,
+      "T": 1.4,
+      "ece": 0.0179965523669026,
+      "sampleSize": 162
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 9,
+    "data": {
+      "fittedAtMatchIndex": 180,
+      "T": 1.3,
+      "ece": 0.019673857084231933,
+      "sampleSize": 180
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 10,
+    "data": {
+      "fittedAtMatchIndex": 198,
+      "T": 1.35,
+      "ece": 0.011832320042575355,
+      "sampleSize": 198
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 11,
+    "data": {
+      "fittedAtMatchIndex": 216,
+      "T": 1.45,
+      "ece": 0.014134562802499024,
+      "sampleSize": 216
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 12,
+    "data": {
+      "fittedAtMatchIndex": 234,
+      "T": 1.45,
+      "ece": 0.01636291296703889,
+      "sampleSize": 234
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 13,
+    "data": {
+      "fittedAtMatchIndex": 252,
+      "T": 1.35,
+      "ece": 0.020574412628566737,
+      "sampleSize": 252
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 14,
+    "data": {
+      "fittedAtMatchIndex": 270,
+      "T": 1.35,
+      "ece": 0.021382752177931598,
+      "sampleSize": 270
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 15,
+    "data": {
+      "fittedAtMatchIndex": 288,
+      "T": 1.35,
+      "ece": 0.021550311223930012,
+      "sampleSize": 288
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 16,
+    "data": {
+      "fittedAtMatchIndex": 306,
+      "T": 1.35,
+      "ece": 0.020251148404618353,
+      "sampleSize": 306
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 17,
+    "data": {
+      "fittedAtMatchIndex": 324,
+      "T": 1.4,
+      "ece": 0.016164745078197405,
+      "sampleSize": 324
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 18,
+    "data": {
+      "fittedAtMatchIndex": 342,
+      "T": 1.35,
+      "ece": 0.019426497176432755,
+      "sampleSize": 342
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 19,
+    "data": {
+      "fittedAtMatchIndex": 360,
+      "T": 1.3,
+      "ece": 0.024875849856869057,
+      "sampleSize": 360
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 20,
+    "data": {
+      "fittedAtMatchIndex": 378,
+      "T": 1.3,
+      "ece": 0.029557906671721625,
+      "sampleSize": 378
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 21,
+    "data": {
+      "fittedAtMatchIndex": 396,
+      "T": 1.25,
+      "ece": 0.024557330068562457,
+      "sampleSize": 396
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 22,
+    "data": {
+      "fittedAtMatchIndex": 414,
+      "T": 1.25,
+      "ece": 0.018635792363921606,
+      "sampleSize": 414
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 23,
+    "data": {
+      "fittedAtMatchIndex": 432,
+      "T": 1.25,
+      "ece": 0.017159201546955365,
+      "sampleSize": 432
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 24,
+    "data": {
+      "fittedAtMatchIndex": 450,
+      "T": 1.25,
+      "ece": 0.019500348199436895,
+      "sampleSize": 450
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 25,
+    "data": {
+      "fittedAtMatchIndex": 468,
+      "T": 1.2,
+      "ece": 0.018676436424107677,
+      "sampleSize": 468
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 26,
+    "data": {
+      "fittedAtMatchIndex": 486,
+      "T": 1.2,
+      "ece": 0.01963308317440665,
+      "sampleSize": 486
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 27,
+    "data": {
+      "fittedAtMatchIndex": 504,
+      "T": 1.2,
+      "ece": 0.018013632193978165,
+      "sampleSize": 504
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 28,
+    "data": {
+      "fittedAtMatchIndex": 522,
+      "T": 1.2,
+      "ece": 0.018523754798836434,
+      "sampleSize": 522
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 29,
+    "data": {
+      "fittedAtMatchIndex": 540,
+      "T": 1.2,
+      "ece": 0.01802899723910482,
+      "sampleSize": 540
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 30,
+    "data": {
+      "fittedAtMatchIndex": 558,
+      "T": 1.2,
+      "ece": 0.01790259836465033,
+      "sampleSize": 558
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 31,
+    "data": {
+      "fittedAtMatchIndex": 576,
+      "T": 1.2,
+      "ece": 0.018897693233707862,
+      "sampleSize": 576
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 32,
+    "data": {
+      "fittedAtMatchIndex": 594,
+      "T": 1.2,
+      "ece": 0.01923940978824562,
+      "sampleSize": 594
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 33,
+    "data": {
+      "fittedAtMatchIndex": 612,
+      "T": 1.15,
+      "ece": 0.017174889170152093,
+      "sampleSize": 612
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 34,
+    "data": {
+      "fittedAtMatchIndex": 630,
+      "T": 1.15,
+      "ece": 0.016256837802841595,
+      "sampleSize": 630
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 35,
+    "data": {
+      "fittedAtMatchIndex": 648,
+      "T": 1.2,
+      "ece": 0.017527221817790914,
+      "sampleSize": 648
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 36,
+    "data": {
+      "fittedAtMatchIndex": 666,
+      "T": 1.2,
+      "ece": 0.01822922277944057,
+      "sampleSize": 666
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 37,
+    "data": {
+      "fittedAtMatchIndex": 684,
+      "T": 1.2,
+      "ece": 0.017290269070284824,
+      "sampleSize": 684
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 38,
+    "data": {
+      "fittedAtMatchIndex": 702,
+      "T": 1.15,
+      "ece": 0.019409256803060628,
+      "sampleSize": 702
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 39,
+    "data": {
+      "fittedAtMatchIndex": 720,
+      "T": 1.2,
+      "ece": 0.01803622939947809,
+      "sampleSize": 720
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 40,
+    "data": {
+      "fittedAtMatchIndex": 738,
+      "T": 1.2,
+      "ece": 0.017158678201084736,
+      "sampleSize": 738
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 41,
+    "data": {
+      "fittedAtMatchIndex": 756,
+      "T": 1.15,
+      "ece": 0.01775516053593284,
+      "sampleSize": 756
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 42,
+    "data": {
+      "fittedAtMatchIndex": 774,
+      "T": 1.15,
+      "ece": 0.018374797538947916,
+      "sampleSize": 774
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 43,
+    "data": {
+      "fittedAtMatchIndex": 792,
+      "T": 1.15,
+      "ece": 0.019488858253289262,
+      "sampleSize": 792
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 44,
+    "data": {
+      "fittedAtMatchIndex": 810,
+      "T": 1.15,
+      "ece": 0.01886633223958882,
+      "sampleSize": 810
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 45,
+    "data": {
+      "fittedAtMatchIndex": 828,
+      "T": 1.15,
+      "ece": 0.019582420407751593,
+      "sampleSize": 828
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 46,
+    "data": {
+      "fittedAtMatchIndex": 846,
+      "T": 1.15,
+      "ece": 0.01898589023370757,
+      "sampleSize": 846
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 47,
+    "data": {
+      "fittedAtMatchIndex": 864,
+      "T": 1.15,
+      "ece": 0.018594531653552692,
+      "sampleSize": 864
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 48,
+    "data": {
+      "fittedAtMatchIndex": 882,
+      "T": 1.15,
+      "ece": 0.016855272564685258,
+      "sampleSize": 882
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 49,
+    "data": {
+      "fittedAtMatchIndex": 900,
+      "T": 1.15,
+      "ece": 0.01618382372274632,
+      "sampleSize": 900
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 50,
+    "data": {
+      "fittedAtMatchIndex": 918,
+      "T": 1.1,
+      "ece": 0.011548654272259118,
+      "sampleSize": 918
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 51,
+    "data": {
+      "fittedAtMatchIndex": 936,
+      "T": 1.15,
+      "ece": 0.016694843385088413,
+      "sampleSize": 936
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 52,
+    "data": {
+      "fittedAtMatchIndex": 954,
+      "T": 1.15,
+      "ece": 0.01703707955881294,
+      "sampleSize": 954
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 53,
+    "data": {
+      "fittedAtMatchIndex": 972,
+      "T": 1.1,
+      "ece": 0.012899174486847817,
+      "sampleSize": 972
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 54,
+    "data": {
+      "fittedAtMatchIndex": 990,
+      "T": 1.1,
+      "ece": 0.01392620047052331,
+      "sampleSize": 990
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 55,
+    "data": {
+      "fittedAtMatchIndex": 1008,
+      "T": 1.1,
+      "ece": 0.01309582254890627,
+      "sampleSize": 1008
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 56,
+    "data": {
+      "fittedAtMatchIndex": 1026,
+      "T": 1.1,
+      "ece": 0.013485544967753633,
+      "sampleSize": 1026
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 57,
+    "data": {
+      "fittedAtMatchIndex": 1044,
+      "T": 1.1,
+      "ece": 0.013589921261599507,
+      "sampleSize": 1044
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 58,
+    "data": {
+      "fittedAtMatchIndex": 1062,
+      "T": 1.1,
+      "ece": 0.014534756843003595,
+      "sampleSize": 1062
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 59,
+    "data": {
+      "fittedAtMatchIndex": 1080,
+      "T": 1.1,
+      "ece": 0.014758311471449858,
+      "sampleSize": 1080
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 60,
+    "data": {
+      "fittedAtMatchIndex": 1098,
+      "T": 1.1,
+      "ece": 0.012107691978727844,
+      "sampleSize": 1098
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 61,
+    "data": {
+      "fittedAtMatchIndex": 1116,
+      "T": 1.1,
+      "ece": 0.012363147414792408,
+      "sampleSize": 1116
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 62,
+    "data": {
+      "fittedAtMatchIndex": 1134,
+      "T": 1.1,
+      "ece": 0.012363527207891276,
+      "sampleSize": 1134
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 63,
+    "data": {
+      "fittedAtMatchIndex": 1152,
+      "T": 1.1,
+      "ece": 0.012644721726974954,
+      "sampleSize": 1152
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 64,
+    "data": {
+      "fittedAtMatchIndex": 1170,
+      "T": 1.1,
+      "ece": 0.011171005527532007,
+      "sampleSize": 1170
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 65,
+    "data": {
+      "fittedAtMatchIndex": 1188,
+      "T": 1.1,
+      "ece": 0.011552667877927969,
+      "sampleSize": 1188
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 66,
+    "data": {
+      "fittedAtMatchIndex": 1206,
+      "T": 1.1,
+      "ece": 0.011718268054135395,
+      "sampleSize": 1206
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 67,
+    "data": {
+      "fittedAtMatchIndex": 1224,
+      "T": 1.1,
+      "ece": 0.00944162786698064,
+      "sampleSize": 1224
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 68,
+    "data": {
+      "fittedAtMatchIndex": 1242,
+      "T": 1.1,
+      "ece": 0.00860220033407272,
+      "sampleSize": 1242
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 69,
+    "data": {
+      "fittedAtMatchIndex": 1260,
+      "T": 1.1,
+      "ece": 0.008832412915931842,
+      "sampleSize": 1260
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 70,
+    "data": {
+      "fittedAtMatchIndex": 1278,
+      "T": 1.1,
+      "ece": 0.009242513079913264,
+      "sampleSize": 1278
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 71,
+    "data": {
+      "fittedAtMatchIndex": 1296,
+      "T": 1.1,
+      "ece": 0.009446899579285383,
+      "sampleSize": 1296
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 72,
+    "data": {
+      "fittedAtMatchIndex": 1314,
+      "T": 1.1,
+      "ece": 0.009179122101632048,
+      "sampleSize": 1314
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 73,
+    "data": {
+      "fittedAtMatchIndex": 1332,
+      "T": 1.1,
+      "ece": 0.008509987994379416,
+      "sampleSize": 1332
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 74,
+    "data": {
+      "fittedAtMatchIndex": 1350,
+      "T": 1.1,
+      "ece": 0.006277940424403496,
+      "sampleSize": 1350
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 75,
+    "data": {
+      "fittedAtMatchIndex": 1368,
+      "T": 1.1,
+      "ece": 0.007098839659675652,
+      "sampleSize": 1368
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 76,
+    "data": {
+      "fittedAtMatchIndex": 1386,
+      "T": 1.1,
+      "ece": 0.006613998259942036,
+      "sampleSize": 1386
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 77,
+    "data": {
+      "fittedAtMatchIndex": 1404,
+      "T": 1.1,
+      "ece": 0.006837691027061443,
+      "sampleSize": 1404
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 78,
+    "data": {
+      "fittedAtMatchIndex": 1422,
+      "T": 1.1,
+      "ece": 0.00678191214038204,
+      "sampleSize": 1422
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 79,
+    "data": {
+      "fittedAtMatchIndex": 1440,
+      "T": 1.1,
+      "ece": 0.005923577239211742,
+      "sampleSize": 1440
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 80,
+    "data": {
+      "fittedAtMatchIndex": 1458,
+      "T": 1.1,
+      "ece": 0.006902192753296484,
+      "sampleSize": 1458
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 81,
+    "data": {
+      "fittedAtMatchIndex": 1476,
+      "T": 1.1,
+      "ece": 0.007369390098885292,
+      "sampleSize": 1476
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 82,
+    "data": {
+      "fittedAtMatchIndex": 1494,
+      "T": 1.1,
+      "ece": 0.00793785836919182,
+      "sampleSize": 1494
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 83,
+    "data": {
+      "fittedAtMatchIndex": 1512,
+      "T": 1.1,
+      "ece": 0.00561268118782473,
+      "sampleSize": 1512
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 84,
+    "data": {
+      "fittedAtMatchIndex": 1530,
+      "T": 1.1,
+      "ece": 0.005866210428912882,
+      "sampleSize": 1530
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 85,
+    "data": {
+      "fittedAtMatchIndex": 1548,
+      "T": 1.1,
+      "ece": 0.005576360722374458,
+      "sampleSize": 1548
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 86,
+    "data": {
+      "fittedAtMatchIndex": 1566,
+      "T": 1.1,
+      "ece": 0.007256299379927357,
+      "sampleSize": 1566
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 87,
+    "data": {
+      "fittedAtMatchIndex": 1584,
+      "T": 1.1,
+      "ece": 0.007050000388597165,
+      "sampleSize": 1584
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 88,
+    "data": {
+      "fittedAtMatchIndex": 1602,
+      "T": 1.1,
+      "ece": 0.007398722617587598,
+      "sampleSize": 1602
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 89,
+    "data": {
+      "fittedAtMatchIndex": 1620,
+      "T": 1.1,
+      "ece": 0.007631855470867462,
+      "sampleSize": 1620
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 90,
+    "data": {
+      "fittedAtMatchIndex": 1638,
+      "T": 1.1,
+      "ece": 0.006932991959371218,
+      "sampleSize": 1638
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 91,
+    "data": {
+      "fittedAtMatchIndex": 1656,
+      "T": 1.1,
+      "ece": 0.0060756827012482225,
+      "sampleSize": 1656
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 92,
+    "data": {
+      "fittedAtMatchIndex": 1674,
+      "T": 1.1,
+      "ece": 0.006216860788667557,
+      "sampleSize": 1674
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 93,
+    "data": {
+      "fittedAtMatchIndex": 1692,
+      "T": 1.1,
+      "ece": 0.005832991249723913,
+      "sampleSize": 1692
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 94,
+    "data": {
+      "fittedAtMatchIndex": 1710,
+      "T": 1.05,
+      "ece": 0.0024039193382627707,
+      "sampleSize": 1710
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 95,
+    "data": {
+      "fittedAtMatchIndex": 1728,
+      "T": 1.05,
+      "ece": 0.002751940275134213,
+      "sampleSize": 1728
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 96,
+    "data": {
+      "fittedAtMatchIndex": 1746,
+      "T": 1.05,
+      "ece": 0.002334202117976895,
+      "sampleSize": 1746
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 97,
+    "data": {
+      "fittedAtMatchIndex": 1764,
+      "T": 1.05,
+      "ece": 0.002385977766132131,
+      "sampleSize": 1764
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 98,
+    "data": {
+      "fittedAtMatchIndex": 1782,
+      "T": 1.05,
+      "ece": 0.0020802223218237383,
+      "sampleSize": 1782
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 99,
+    "data": {
+      "fittedAtMatchIndex": 1800,
+      "T": 1.05,
+      "ece": 0.0016879144275830618,
+      "sampleSize": 1800
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 100,
+    "data": {
+      "fittedAtMatchIndex": 1818,
+      "T": 1.05,
+      "ece": 0.0018288592758675124,
+      "sampleSize": 1818
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 101,
+    "data": {
+      "fittedAtMatchIndex": 1836,
+      "T": 1.05,
+      "ece": 0.002089894642969113,
+      "sampleSize": 1836
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 102,
+    "data": {
+      "fittedAtMatchIndex": 1854,
+      "T": 1.1,
+      "ece": 0.006391383824083075,
+      "sampleSize": 1854
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 103,
+    "data": {
+      "fittedAtMatchIndex": 1872,
+      "T": 1.1,
+      "ece": 0.0066083736192777826,
+      "sampleSize": 1872
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 104,
+    "data": {
+      "fittedAtMatchIndex": 1890,
+      "T": 1.05,
+      "ece": 0.0035550285755502104,
+      "sampleSize": 1890
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 105,
+    "data": {
+      "fittedAtMatchIndex": 1908,
+      "T": 1.05,
+      "ece": 0.0030687568387205845,
+      "sampleSize": 1908
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 106,
+    "data": {
+      "fittedAtMatchIndex": 1926,
+      "T": 1.05,
+      "ece": 0.0035972733166596826,
+      "sampleSize": 1926
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 107,
+    "data": {
+      "fittedAtMatchIndex": 1944,
+      "T": 1.05,
+      "ece": 0.0034259668303031126,
+      "sampleSize": 1944
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 108,
+    "data": {
+      "fittedAtMatchIndex": 1962,
+      "T": 1.05,
+      "ece": 0.003971888078353324,
+      "sampleSize": 1962
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 109,
+    "data": {
+      "fittedAtMatchIndex": 1980,
+      "T": 1.05,
+      "ece": 0.003794537067328966,
+      "sampleSize": 1980
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 110,
+    "data": {
+      "fittedAtMatchIndex": 1998,
+      "T": 1.05,
+      "ece": 0.003093886453886951,
+      "sampleSize": 1998
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 111,
+    "data": {
+      "fittedAtMatchIndex": 2016,
+      "T": 1.05,
+      "ece": 0.003966399285781093,
+      "sampleSize": 2016
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 112,
+    "data": {
+      "fittedAtMatchIndex": 2034,
+      "T": 1.05,
+      "ece": 0.004370435965830452,
+      "sampleSize": 2034
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 113,
+    "data": {
+      "fittedAtMatchIndex": 2052,
+      "T": 1.05,
+      "ece": 0.004854936578840067,
+      "sampleSize": 2052
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 114,
+    "data": {
+      "fittedAtMatchIndex": 2070,
+      "T": 1.05,
+      "ece": 0.0049953890539141624,
+      "sampleSize": 2070
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 115,
+    "data": {
+      "fittedAtMatchIndex": 2088,
+      "T": 1.05,
+      "ece": 0.004549685706778641,
+      "sampleSize": 2088
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 116,
+    "data": {
+      "fittedAtMatchIndex": 2106,
+      "T": 1.05,
+      "ece": 0.0049326315223040575,
+      "sampleSize": 2106
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 117,
+    "data": {
+      "fittedAtMatchIndex": 2124,
+      "T": 1.05,
+      "ece": 0.003528974742124551,
+      "sampleSize": 2124
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 118,
+    "data": {
+      "fittedAtMatchIndex": 2142,
+      "T": 1.05,
+      "ece": 0.004107136818067252,
+      "sampleSize": 2142
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 119,
+    "data": {
+      "fittedAtMatchIndex": 2160,
+      "T": 1.05,
+      "ece": 0.004269615355545214,
+      "sampleSize": 2160
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 120,
+    "data": {
+      "fittedAtMatchIndex": 2178,
+      "T": 1.05,
+      "ece": 0.004825758284605201,
+      "sampleSize": 2178
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 121,
+    "data": {
+      "fittedAtMatchIndex": 2196,
+      "T": 1.05,
+      "ece": 0.00562811139333785,
+      "sampleSize": 2196
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 122,
+    "data": {
+      "fittedAtMatchIndex": 2214,
+      "T": 1.05,
+      "ece": 0.005267883541550528,
+      "sampleSize": 2214
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 123,
+    "data": {
+      "fittedAtMatchIndex": 2232,
+      "T": 1.05,
+      "ece": 0.0056011978568811715,
+      "sampleSize": 2232
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 124,
+    "data": {
+      "fittedAtMatchIndex": 2250,
+      "T": 1.05,
+      "ece": 0.004420571961166915,
+      "sampleSize": 2250
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 125,
+    "data": {
+      "fittedAtMatchIndex": 2268,
+      "T": 1.05,
+      "ece": 0.005490952166258444,
+      "sampleSize": 2268
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 126,
+    "data": {
+      "fittedAtMatchIndex": 2286,
+      "T": 1.05,
+      "ece": 0.005953314728986868,
+      "sampleSize": 2286
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 127,
+    "data": {
+      "fittedAtMatchIndex": 2304,
+      "T": 1,
+      "ece": 0.002322353832888715,
+      "sampleSize": 2304
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 128,
+    "data": {
+      "fittedAtMatchIndex": 2322,
+      "T": 1.05,
+      "ece": 0.006302499732046925,
+      "sampleSize": 2322
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 129,
+    "data": {
+      "fittedAtMatchIndex": 2340,
+      "T": 1.05,
+      "ece": 0.006517942211897517,
+      "sampleSize": 2340
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 130,
+    "data": {
+      "fittedAtMatchIndex": 2358,
+      "T": 1,
+      "ece": 0.0022227369669973558,
+      "sampleSize": 2358
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 131,
+    "data": {
+      "fittedAtMatchIndex": 2376,
+      "T": 1,
+      "ece": 0.0022164637510311337,
+      "sampleSize": 2376
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 132,
+    "data": {
+      "fittedAtMatchIndex": 2394,
+      "T": 1,
+      "ece": 0.0021193180833885997,
+      "sampleSize": 2394
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 133,
+    "data": {
+      "fittedAtMatchIndex": 2412,
+      "T": 1,
+      "ece": 0.0017266401353298404,
+      "sampleSize": 2412
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 134,
+    "data": {
+      "fittedAtMatchIndex": 2430,
+      "T": 1,
+      "ece": 0.0017594881288548292,
+      "sampleSize": 2430
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 135,
+    "data": {
+      "fittedAtMatchIndex": 2448,
+      "T": 1,
+      "ece": 0.001759357362791985,
+      "sampleSize": 2448
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 136,
+    "data": {
+      "fittedAtMatchIndex": 2466,
+      "T": 1,
+      "ece": 0.0023370403619233245,
+      "sampleSize": 2466
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 137,
+    "data": {
+      "fittedAtMatchIndex": 2484,
+      "T": 1,
+      "ece": 0.001722860154213754,
+      "sampleSize": 2484
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 138,
+    "data": {
+      "fittedAtMatchIndex": 2502,
+      "T": 1,
+      "ece": 0.0015999365273508025,
+      "sampleSize": 2502
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 139,
+    "data": {
+      "fittedAtMatchIndex": 2520,
+      "T": 1,
+      "ece": 0.001768266288572386,
+      "sampleSize": 2520
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 140,
+    "data": {
+      "fittedAtMatchIndex": 2538,
+      "T": 1,
+      "ece": 0.0022603034328990564,
+      "sampleSize": 2538
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 141,
+    "data": {
+      "fittedAtMatchIndex": 2556,
+      "T": 1,
+      "ece": 0.0029746873822259347,
+      "sampleSize": 2556
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 142,
+    "data": {
+      "fittedAtMatchIndex": 2574,
+      "T": 1,
+      "ece": 0.002861365765314797,
+      "sampleSize": 2574
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 143,
+    "data": {
+      "fittedAtMatchIndex": 2592,
+      "T": 1,
+      "ece": 0.003347227043756325,
+      "sampleSize": 2592
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 144,
+    "data": {
+      "fittedAtMatchIndex": 2610,
+      "T": 1,
+      "ece": 0.0027759362793835472,
+      "sampleSize": 2610
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 145,
+    "data": {
+      "fittedAtMatchIndex": 2628,
+      "T": 1,
+      "ece": 0.002717751653288719,
+      "sampleSize": 2628
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 146,
+    "data": {
+      "fittedAtMatchIndex": 2646,
+      "T": 1,
+      "ece": 0.0027425501695841547,
+      "sampleSize": 2646
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 147,
+    "data": {
+      "fittedAtMatchIndex": 2664,
+      "T": 1,
+      "ece": 0.00239668338541034,
+      "sampleSize": 2664
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 148,
+    "data": {
+      "fittedAtMatchIndex": 2682,
+      "T": 1,
+      "ece": 0.0018541422217768872,
+      "sampleSize": 2682
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 149,
+    "data": {
+      "fittedAtMatchIndex": 2700,
+      "T": 1,
+      "ece": 0.0019890484472156788,
+      "sampleSize": 2700
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 150,
+    "data": {
+      "fittedAtMatchIndex": 2718,
+      "T": 1,
+      "ece": 0.002745993222195061,
+      "sampleSize": 2718
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 151,
+    "data": {
+      "fittedAtMatchIndex": 2736,
+      "T": 1,
+      "ece": 0.0031411516570034165,
+      "sampleSize": 2736
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 152,
+    "data": {
+      "fittedAtMatchIndex": 2754,
+      "T": 1,
+      "ece": 0.0036064691580855487,
+      "sampleSize": 2754
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 153,
+    "data": {
+      "fittedAtMatchIndex": 2772,
+      "T": 1,
+      "ece": 0.0029855360090208114,
+      "sampleSize": 2772
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 154,
+    "data": {
+      "fittedAtMatchIndex": 2790,
+      "T": 1,
+      "ece": 0.002093746797701487,
+      "sampleSize": 2790
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 155,
+    "data": {
+      "fittedAtMatchIndex": 2808,
+      "T": 1,
+      "ece": 0.0022112858359629966,
+      "sampleSize": 2808
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 156,
+    "data": {
+      "fittedAtMatchIndex": 2826,
+      "T": 1,
+      "ece": 0.002128454466400086,
+      "sampleSize": 2826
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 157,
+    "data": {
+      "fittedAtMatchIndex": 2844,
+      "T": 1,
+      "ece": 0.0022880522790773975,
+      "sampleSize": 2844
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 158,
+    "data": {
+      "fittedAtMatchIndex": 2862,
+      "T": 1,
+      "ece": 0.0018978734257286457,
+      "sampleSize": 2862
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 159,
+    "data": {
+      "fittedAtMatchIndex": 2880,
+      "T": 1,
+      "ece": 0.0017164285044017787,
+      "sampleSize": 2880
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 160,
+    "data": {
+      "fittedAtMatchIndex": 2898,
+      "T": 1,
+      "ece": 0.0024102869212251827,
+      "sampleSize": 2898
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 161,
+    "data": {
+      "fittedAtMatchIndex": 2916,
+      "T": 1,
+      "ece": 0.002881555443263179,
+      "sampleSize": 2916
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 162,
+    "data": {
+      "fittedAtMatchIndex": 2934,
+      "T": 1,
+      "ece": 0.0027681768141612504,
+      "sampleSize": 2934
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 163,
+    "data": {
+      "fittedAtMatchIndex": 2952,
+      "T": 1,
+      "ece": 0.003466223832712319,
+      "sampleSize": 2952
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 164,
+    "data": {
+      "fittedAtMatchIndex": 2970,
+      "T": 1,
+      "ece": 0.003553414901614657,
+      "sampleSize": 2970
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 165,
+    "data": {
+      "fittedAtMatchIndex": 2988,
+      "T": 1,
+      "ece": 0.0032298514884606033,
+      "sampleSize": 2988
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 166,
+    "data": {
+      "fittedAtMatchIndex": 3006,
+      "T": 1,
+      "ece": 0.0033245766701520724,
+      "sampleSize": 3006
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 167,
+    "data": {
+      "fittedAtMatchIndex": 3024,
+      "T": 1,
+      "ece": 0.0033329506547709847,
+      "sampleSize": 3024
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 168,
+    "data": {
+      "fittedAtMatchIndex": 3042,
+      "T": 0.95,
+      "ece": 0.003032329173399649,
+      "sampleSize": 3042
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 169,
+    "data": {
+      "fittedAtMatchIndex": 3060,
+      "T": 0.95,
+      "ece": 0.002850559253852021,
+      "sampleSize": 3060
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 170,
+    "data": {
+      "fittedAtMatchIndex": 3078,
+      "T": 0.95,
+      "ece": 0.003196630649681907,
+      "sampleSize": 3078
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 171,
+    "data": {
+      "fittedAtMatchIndex": 3096,
+      "T": 0.95,
+      "ece": 0.0035109941270048263,
+      "sampleSize": 3096
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 172,
+    "data": {
+      "fittedAtMatchIndex": 3114,
+      "T": 0.95,
+      "ece": 0.0035788688061166953,
+      "sampleSize": 3114
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 173,
+    "data": {
+      "fittedAtMatchIndex": 3132,
+      "T": 0.95,
+      "ece": 0.0035213756317490448,
+      "sampleSize": 3132
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 174,
+    "data": {
+      "fittedAtMatchIndex": 3150,
+      "T": 0.95,
+      "ece": 0.003591426372145305,
+      "sampleSize": 3150
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 175,
+    "data": {
+      "fittedAtMatchIndex": 3168,
+      "T": 0.95,
+      "ece": 0.003419834861716653,
+      "sampleSize": 3168
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 176,
+    "data": {
+      "fittedAtMatchIndex": 3186,
+      "T": 0.95,
+      "ece": 0.0032573578932133434,
+      "sampleSize": 3186
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 177,
+    "data": {
+      "fittedAtMatchIndex": 3204,
+      "T": 1,
+      "ece": 0.0034574435303246775,
+      "sampleSize": 3204
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 178,
+    "data": {
+      "fittedAtMatchIndex": 3222,
+      "T": 0.95,
+      "ece": 0.0030194733831654373,
+      "sampleSize": 3222
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 179,
+    "data": {
+      "fittedAtMatchIndex": 3240,
+      "T": 0.95,
+      "ece": 0.0029239027828669656,
+      "sampleSize": 3240
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 180,
+    "data": {
+      "fittedAtMatchIndex": 3258,
+      "T": 0.95,
+      "ece": 0.003129794600363797,
+      "sampleSize": 3258
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 181,
+    "data": {
+      "fittedAtMatchIndex": 3276,
+      "T": 0.95,
+      "ece": 0.0034113737355859195,
+      "sampleSize": 3276
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 182,
+    "data": {
+      "fittedAtMatchIndex": 3294,
+      "T": 1,
+      "ece": 0.00368725730787342,
+      "sampleSize": 3294
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 183,
+    "data": {
+      "fittedAtMatchIndex": 3312,
+      "T": 1,
+      "ece": 0.0035782722020116374,
+      "sampleSize": 3312
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 184,
+    "data": {
+      "fittedAtMatchIndex": 3330,
+      "T": 1,
+      "ece": 0.0031321076970846013,
+      "sampleSize": 3330
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 185,
+    "data": {
+      "fittedAtMatchIndex": 3348,
+      "T": 1,
+      "ece": 0.0037573429604347906,
+      "sampleSize": 3348
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 186,
+    "data": {
+      "fittedAtMatchIndex": 3366,
+      "T": 1,
+      "ece": 0.003069501034040336,
+      "sampleSize": 3366
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 187,
+    "data": {
+      "fittedAtMatchIndex": 3384,
+      "T": 1,
+      "ece": 0.002998261424637123,
+      "sampleSize": 3384
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 188,
+    "data": {
+      "fittedAtMatchIndex": 3402,
+      "T": 1,
+      "ece": 0.003141349929110329,
+      "sampleSize": 3402
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 189,
+    "data": {
+      "fittedAtMatchIndex": 3420,
+      "T": 1,
+      "ece": 0.003099402695043401,
+      "sampleSize": 3420
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 190,
+    "data": {
+      "fittedAtMatchIndex": 3438,
+      "T": 1,
+      "ece": 0.003624608835071749,
+      "sampleSize": 3438
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 191,
+    "data": {
+      "fittedAtMatchIndex": 3456,
+      "T": 1,
+      "ece": 0.004050934390428621,
+      "sampleSize": 3456
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 192,
+    "data": {
+      "fittedAtMatchIndex": 3474,
+      "T": 0.95,
+      "ece": 0.0032028352465432153,
+      "sampleSize": 3474
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 193,
+    "data": {
+      "fittedAtMatchIndex": 3492,
+      "T": 0.95,
+      "ece": 0.0031644408211669397,
+      "sampleSize": 3492
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 194,
+    "data": {
+      "fittedAtMatchIndex": 3510,
+      "T": 0.95,
+      "ece": 0.0033098048509094535,
+      "sampleSize": 3510
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 195,
+    "data": {
+      "fittedAtMatchIndex": 3528,
+      "T": 0.95,
+      "ece": 0.0032627202100589726,
+      "sampleSize": 3528
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 196,
+    "data": {
+      "fittedAtMatchIndex": 3546,
+      "T": 1,
+      "ece": 0.003531324253266258,
+      "sampleSize": 3546
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 197,
+    "data": {
+      "fittedAtMatchIndex": 3564,
+      "T": 1,
+      "ece": 0.0035280132992819586,
+      "sampleSize": 3564
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 198,
+    "data": {
+      "fittedAtMatchIndex": 3582,
+      "T": 1,
+      "ece": 0.0029826288878376517,
+      "sampleSize": 3582
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 199,
+    "data": {
+      "fittedAtMatchIndex": 3600,
+      "T": 1,
+      "ece": 0.002851575930396369,
+      "sampleSize": 3600
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 200,
+    "data": {
+      "fittedAtMatchIndex": 3618,
+      "T": 1,
+      "ece": 0.0030291611847119114,
+      "sampleSize": 3618
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 201,
+    "data": {
+      "fittedAtMatchIndex": 3636,
+      "T": 1,
+      "ece": 0.0029523640547304123,
+      "sampleSize": 3636
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 202,
+    "data": {
+      "fittedAtMatchIndex": 3654,
+      "T": 1,
+      "ece": 0.002594199321872014,
+      "sampleSize": 3654
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 203,
+    "data": {
+      "fittedAtMatchIndex": 3672,
+      "T": 1,
+      "ece": 0.0032048930304502737,
+      "sampleSize": 3672
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 204,
+    "data": {
+      "fittedAtMatchIndex": 3690,
+      "T": 1,
+      "ece": 0.003384942337781219,
+      "sampleSize": 3690
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 205,
+    "data": {
+      "fittedAtMatchIndex": 3708,
+      "T": 1,
+      "ece": 0.002865962634611367,
+      "sampleSize": 3708
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 206,
+    "data": {
+      "fittedAtMatchIndex": 3726,
+      "T": 1,
+      "ece": 0.0027714310348232202,
+      "sampleSize": 3726
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 207,
+    "data": {
+      "fittedAtMatchIndex": 3744,
+      "T": 1,
+      "ece": 0.002640143493636444,
+      "sampleSize": 3744
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 208,
+    "data": {
+      "fittedAtMatchIndex": 3762,
+      "T": 1,
+      "ece": 0.002796026295042036,
+      "sampleSize": 3762
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 209,
+    "data": {
+      "fittedAtMatchIndex": 3780,
+      "T": 1,
+      "ece": 0.002976339282049481,
+      "sampleSize": 3780
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 210,
+    "data": {
+      "fittedAtMatchIndex": 3798,
+      "T": 1,
+      "ece": 0.003151692616798886,
+      "sampleSize": 3798
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 211,
+    "data": {
+      "fittedAtMatchIndex": 3816,
+      "T": 1,
+      "ece": 0.0032884103451694163,
+      "sampleSize": 3816
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 212,
+    "data": {
+      "fittedAtMatchIndex": 3834,
+      "T": 1,
+      "ece": 0.003259654679700654,
+      "sampleSize": 3834
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 213,
+    "data": {
+      "fittedAtMatchIndex": 3852,
+      "T": 1,
+      "ece": 0.002774979783553373,
+      "sampleSize": 3852
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 214,
+    "data": {
+      "fittedAtMatchIndex": 3870,
+      "T": 1,
+      "ece": 0.002614364197374336,
+      "sampleSize": 3870
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 215,
+    "data": {
+      "fittedAtMatchIndex": 3888,
+      "T": 1,
+      "ece": 0.0018779682231732401,
+      "sampleSize": 3888
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 216,
+    "data": {
+      "fittedAtMatchIndex": 3906,
+      "T": 1,
+      "ece": 0.0014549263332733415,
+      "sampleSize": 3906
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 217,
+    "data": {
+      "fittedAtMatchIndex": 3924,
+      "T": 1,
+      "ece": 0.0011553547725251959,
+      "sampleSize": 3924
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 218,
+    "data": {
+      "fittedAtMatchIndex": 3942,
+      "T": 1,
+      "ece": 0.0017878547242894804,
+      "sampleSize": 3942
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 219,
+    "data": {
+      "fittedAtMatchIndex": 3960,
+      "T": 1,
+      "ece": 0.0019942668928287894,
+      "sampleSize": 3960
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 220,
+    "data": {
+      "fittedAtMatchIndex": 3978,
+      "T": 1,
+      "ece": 0.0021593809974233885,
+      "sampleSize": 3978
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 221,
+    "data": {
+      "fittedAtMatchIndex": 3996,
+      "T": 1,
+      "ece": 0.0017688215952986943,
+      "sampleSize": 3996
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 222,
+    "data": {
+      "fittedAtMatchIndex": 4014,
+      "T": 1,
+      "ece": 0.001847359836833503,
+      "sampleSize": 4014
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 223,
+    "data": {
+      "fittedAtMatchIndex": 4032,
+      "T": 1,
+      "ece": 0.0021502459823416814,
+      "sampleSize": 4032
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 224,
+    "data": {
+      "fittedAtMatchIndex": 4050,
+      "T": 1,
+      "ece": 0.001963720666964239,
+      "sampleSize": 4050
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 225,
+    "data": {
+      "fittedAtMatchIndex": 4068,
+      "T": 1,
+      "ece": 0.0020166171859742716,
+      "sampleSize": 4068
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 226,
+    "data": {
+      "fittedAtMatchIndex": 4086,
+      "T": 1,
+      "ece": 0.002334985143144717,
+      "sampleSize": 4086
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 227,
+    "data": {
+      "fittedAtMatchIndex": 4104,
+      "T": 1,
+      "ece": 0.0022724341289342923,
+      "sampleSize": 4104
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 228,
+    "data": {
+      "fittedAtMatchIndex": 4122,
+      "T": 1,
+      "ece": 0.0022902958211980192,
+      "sampleSize": 4122
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 229,
+    "data": {
+      "fittedAtMatchIndex": 4140,
+      "T": 1,
+      "ece": 0.002322863222712614,
+      "sampleSize": 4140
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 230,
+    "data": {
+      "fittedAtMatchIndex": 4158,
+      "T": 1,
+      "ece": 0.0025757249541776593,
+      "sampleSize": 4158
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 231,
+    "data": {
+      "fittedAtMatchIndex": 4176,
+      "T": 1,
+      "ece": 0.002630582367227774,
+      "sampleSize": 4176
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 232,
+    "data": {
+      "fittedAtMatchIndex": 4194,
+      "T": 1,
+      "ece": 0.002695161657099934,
+      "sampleSize": 4194
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 233,
+    "data": {
+      "fittedAtMatchIndex": 4212,
+      "T": 1,
+      "ece": 0.0028659205896446943,
+      "sampleSize": 4212
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 234,
+    "data": {
+      "fittedAtMatchIndex": 4230,
+      "T": 1,
+      "ece": 0.002785381601075818,
+      "sampleSize": 4230
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 235,
+    "data": {
+      "fittedAtMatchIndex": 4248,
+      "T": 1,
+      "ece": 0.0029193543168037225,
+      "sampleSize": 4248
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 236,
+    "data": {
+      "fittedAtMatchIndex": 4266,
+      "T": 1,
+      "ece": 0.0025396663487104237,
+      "sampleSize": 4266
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 237,
+    "data": {
+      "fittedAtMatchIndex": 4284,
+      "T": 1,
+      "ece": 0.0029508570109707103,
+      "sampleSize": 4284
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 238,
+    "data": {
+      "fittedAtMatchIndex": 4302,
+      "T": 1,
+      "ece": 0.002740985333210072,
+      "sampleSize": 4302
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 239,
+    "data": {
+      "fittedAtMatchIndex": 4320,
+      "T": 1,
+      "ece": 0.002979979977546706,
+      "sampleSize": 4320
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 240,
+    "data": {
+      "fittedAtMatchIndex": 4338,
+      "T": 1,
+      "ece": 0.002778184128099717,
+      "sampleSize": 4338
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 241,
+    "data": {
+      "fittedAtMatchIndex": 4356,
+      "T": 1,
+      "ece": 0.002738975570446475,
+      "sampleSize": 4356
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 242,
+    "data": {
+      "fittedAtMatchIndex": 4374,
+      "T": 1,
+      "ece": 0.003077846761847711,
+      "sampleSize": 4374
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 243,
+    "data": {
+      "fittedAtMatchIndex": 4392,
+      "T": 1,
+      "ece": 0.0031534483298320632,
+      "sampleSize": 4392
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 244,
+    "data": {
+      "fittedAtMatchIndex": 4410,
+      "T": 1,
+      "ece": 0.003224422391473212,
+      "sampleSize": 4410
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 245,
+    "data": {
+      "fittedAtMatchIndex": 4428,
+      "T": 1,
+      "ece": 0.0032012581831317873,
+      "sampleSize": 4428
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 246,
+    "data": {
+      "fittedAtMatchIndex": 4446,
+      "T": 1,
+      "ece": 0.003699346134719151,
+      "sampleSize": 4446
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 247,
+    "data": {
+      "fittedAtMatchIndex": 4464,
+      "T": 1,
+      "ece": 0.0034153103753067513,
+      "sampleSize": 4464
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 248,
+    "data": {
+      "fittedAtMatchIndex": 4482,
+      "T": 0.95,
+      "ece": 0.003557748749426289,
+      "sampleSize": 4482
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 249,
+    "data": {
+      "fittedAtMatchIndex": 4500,
+      "T": 0.95,
+      "ece": 0.0034895845062495436,
+      "sampleSize": 4500
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 250,
+    "data": {
+      "fittedAtMatchIndex": 4518,
+      "T": 0.95,
+      "ece": 0.003581989252264849,
+      "sampleSize": 4518
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 251,
+    "data": {
+      "fittedAtMatchIndex": 4536,
+      "T": 0.95,
+      "ece": 0.0034370985200413095,
+      "sampleSize": 4536
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 252,
+    "data": {
+      "fittedAtMatchIndex": 4554,
+      "T": 0.95,
+      "ece": 0.003413622060038703,
+      "sampleSize": 4554
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 253,
+    "data": {
+      "fittedAtMatchIndex": 4572,
+      "T": 0.95,
+      "ece": 0.0034543826877936196,
+      "sampleSize": 4572
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 254,
+    "data": {
+      "fittedAtMatchIndex": 4590,
+      "T": 0.95,
+      "ece": 0.003346765172628309,
+      "sampleSize": 4590
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 255,
+    "data": {
+      "fittedAtMatchIndex": 4608,
+      "T": 0.95,
+      "ece": 0.0031540880747554017,
+      "sampleSize": 4608
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 256,
+    "data": {
+      "fittedAtMatchIndex": 4626,
+      "T": 1,
+      "ece": 0.0034025815748872337,
+      "sampleSize": 4626
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 257,
+    "data": {
+      "fittedAtMatchIndex": 4644,
+      "T": 0.95,
+      "ece": 0.00323854401150478,
+      "sampleSize": 4644
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 258,
+    "data": {
+      "fittedAtMatchIndex": 4662,
+      "T": 1,
+      "ece": 0.0033959730440865634,
+      "sampleSize": 4662
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 259,
+    "data": {
+      "fittedAtMatchIndex": 4680,
+      "T": 1,
+      "ece": 0.0036066141008372944,
+      "sampleSize": 4680
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 260,
+    "data": {
+      "fittedAtMatchIndex": 4698,
+      "T": 1,
+      "ece": 0.003737229422735057,
+      "sampleSize": 4698
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 261,
+    "data": {
+      "fittedAtMatchIndex": 4716,
+      "T": 0.95,
+      "ece": 0.0033294315390722806,
+      "sampleSize": 4716
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 262,
+    "data": {
+      "fittedAtMatchIndex": 4734,
+      "T": 0.95,
+      "ece": 0.0033611337733514208,
+      "sampleSize": 4734
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 263,
+    "data": {
+      "fittedAtMatchIndex": 4752,
+      "T": 1,
+      "ece": 0.003935695960997766,
+      "sampleSize": 4752
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 264,
+    "data": {
+      "fittedAtMatchIndex": 4770,
+      "T": 1,
+      "ece": 0.00404825390481358,
+      "sampleSize": 4770
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 265,
+    "data": {
+      "fittedAtMatchIndex": 4788,
+      "T": 1,
+      "ece": 0.0038405068776998174,
+      "sampleSize": 4788
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 266,
+    "data": {
+      "fittedAtMatchIndex": 4806,
+      "T": 1,
+      "ece": 0.003890250180264774,
+      "sampleSize": 4806
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 267,
+    "data": {
+      "fittedAtMatchIndex": 4824,
+      "T": 0.95,
+      "ece": 0.003453695505538066,
+      "sampleSize": 4824
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 268,
+    "data": {
+      "fittedAtMatchIndex": 4842,
+      "T": 1,
+      "ece": 0.004012417558665795,
+      "sampleSize": 4842
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 269,
+    "data": {
+      "fittedAtMatchIndex": 4860,
+      "T": 1,
+      "ece": 0.004232622128604867,
+      "sampleSize": 4860
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 270,
+    "data": {
+      "fittedAtMatchIndex": 4878,
+      "T": 0.95,
+      "ece": 0.0033960986374581867,
+      "sampleSize": 4878
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 271,
+    "data": {
+      "fittedAtMatchIndex": 4896,
+      "T": 0.95,
+      "ece": 0.0034168792500497633,
+      "sampleSize": 4896
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 272,
+    "data": {
+      "fittedAtMatchIndex": 4914,
+      "T": 0.95,
+      "ece": 0.003304474544307228,
+      "sampleSize": 4914
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 273,
+    "data": {
+      "fittedAtMatchIndex": 4932,
+      "T": 0.95,
+      "ece": 0.003111995038606847,
+      "sampleSize": 4932
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 274,
+    "data": {
+      "fittedAtMatchIndex": 4950,
+      "T": 0.95,
+      "ece": 0.0030283643753294485,
+      "sampleSize": 4950
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 275,
+    "data": {
+      "fittedAtMatchIndex": 4968,
+      "T": 0.95,
+      "ece": 0.002929636223179268,
+      "sampleSize": 4968
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 276,
+    "data": {
+      "fittedAtMatchIndex": 4986,
+      "T": 0.95,
+      "ece": 0.0030598430259949146,
+      "sampleSize": 4986
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 277,
+    "data": {
+      "fittedAtMatchIndex": 5004,
+      "T": 0.95,
+      "ece": 0.0029196438774197553,
+      "sampleSize": 5004
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 278,
+    "data": {
+      "fittedAtMatchIndex": 5022,
+      "T": 0.95,
+      "ece": 0.003077684401487962,
+      "sampleSize": 5022
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 279,
+    "data": {
+      "fittedAtMatchIndex": 5040,
+      "T": 0.95,
+      "ece": 0.0031225839216177434,
+      "sampleSize": 5040
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 280,
+    "data": {
+      "fittedAtMatchIndex": 5058,
+      "T": 0.95,
+      "ece": 0.003343575317864773,
+      "sampleSize": 5058
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 281,
+    "data": {
+      "fittedAtMatchIndex": 5076,
+      "T": 0.95,
+      "ece": 0.0034108587942481908,
+      "sampleSize": 5076
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 282,
+    "data": {
+      "fittedAtMatchIndex": 5094,
+      "T": 0.95,
+      "ece": 0.003231667772009574,
+      "sampleSize": 5094
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 283,
+    "data": {
+      "fittedAtMatchIndex": 5112,
+      "T": 0.95,
+      "ece": 0.003153371727636947,
+      "sampleSize": 5112
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 284,
+    "data": {
+      "fittedAtMatchIndex": 5130,
+      "T": 0.95,
+      "ece": 0.002939319323475535,
+      "sampleSize": 5130
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 285,
+    "data": {
+      "fittedAtMatchIndex": 5148,
+      "T": 0.95,
+      "ece": 0.0029024921954722313,
+      "sampleSize": 5148
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 286,
+    "data": {
+      "fittedAtMatchIndex": 5166,
+      "T": 0.95,
+      "ece": 0.002873858677271377,
+      "sampleSize": 5166
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 287,
+    "data": {
+      "fittedAtMatchIndex": 5184,
+      "T": 0.95,
+      "ece": 0.0028972842350685375,
+      "sampleSize": 5184
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 288,
+    "data": {
+      "fittedAtMatchIndex": 5202,
+      "T": 0.95,
+      "ece": 0.002837591210120393,
+      "sampleSize": 5202
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 289,
+    "data": {
+      "fittedAtMatchIndex": 5220,
+      "T": 0.95,
+      "ece": 0.0028571079533739885,
+      "sampleSize": 5220
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 290,
+    "data": {
+      "fittedAtMatchIndex": 5238,
+      "T": 0.95,
+      "ece": 0.002809885237705756,
+      "sampleSize": 5238
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 291,
+    "data": {
+      "fittedAtMatchIndex": 5256,
+      "T": 0.95,
+      "ece": 0.002791786164815301,
+      "sampleSize": 5256
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 292,
+    "data": {
+      "fittedAtMatchIndex": 5274,
+      "T": 0.95,
+      "ece": 0.0028312722897697908,
+      "sampleSize": 5274
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 293,
+    "data": {
+      "fittedAtMatchIndex": 5292,
+      "T": 0.95,
+      "ece": 0.0030741408446036123,
+      "sampleSize": 5292
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 294,
+    "data": {
+      "fittedAtMatchIndex": 5310,
+      "T": 0.95,
+      "ece": 0.002854053468774772,
+      "sampleSize": 5310
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 295,
+    "data": {
+      "fittedAtMatchIndex": 5328,
+      "T": 0.95,
+      "ece": 0.0029238395294878842,
+      "sampleSize": 5328
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 296,
+    "data": {
+      "fittedAtMatchIndex": 5346,
+      "T": 0.95,
+      "ece": 0.002850292867943609,
+      "sampleSize": 5346
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 297,
+    "data": {
+      "fittedAtMatchIndex": 5364,
+      "T": 0.95,
+      "ece": 0.002737802477309322,
+      "sampleSize": 5364
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 298,
+    "data": {
+      "fittedAtMatchIndex": 5382,
+      "T": 0.95,
+      "ece": 0.0027934649704320484,
+      "sampleSize": 5382
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 299,
+    "data": {
+      "fittedAtMatchIndex": 5400,
+      "T": 0.95,
+      "ece": 0.002795376349112687,
+      "sampleSize": 5400
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 300,
+    "data": {
+      "fittedAtMatchIndex": 5418,
+      "T": 0.95,
+      "ece": 0.0027447443051381282,
+      "sampleSize": 5418
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 301,
+    "data": {
+      "fittedAtMatchIndex": 5436,
+      "T": 0.95,
+      "ece": 0.0029747569158340846,
+      "sampleSize": 5436
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 302,
+    "data": {
+      "fittedAtMatchIndex": 5454,
+      "T": 0.95,
+      "ece": 0.0031711251774325226,
+      "sampleSize": 5454
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 303,
+    "data": {
+      "fittedAtMatchIndex": 5472,
+      "T": 0.95,
+      "ece": 0.003212380819373445,
+      "sampleSize": 5472
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 304,
+    "data": {
+      "fittedAtMatchIndex": 5490,
+      "T": 0.95,
+      "ece": 0.0030912956524201053,
+      "sampleSize": 5490
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 305,
+    "data": {
+      "fittedAtMatchIndex": 5508,
+      "T": 0.95,
+      "ece": 0.003286680239995385,
+      "sampleSize": 5508
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 306,
+    "data": {
+      "fittedAtMatchIndex": 5526,
+      "T": 0.95,
+      "ece": 0.0033648862805350653,
+      "sampleSize": 5526
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 307,
+    "data": {
+      "fittedAtMatchIndex": 5544,
+      "T": 0.95,
+      "ece": 0.003248474992821575,
+      "sampleSize": 5544
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 308,
+    "data": {
+      "fittedAtMatchIndex": 5562,
+      "T": 0.95,
+      "ece": 0.003267195743396856,
+      "sampleSize": 5562
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 309,
+    "data": {
+      "fittedAtMatchIndex": 5580,
+      "T": 0.95,
+      "ece": 0.003368595851502032,
+      "sampleSize": 5580
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 310,
+    "data": {
+      "fittedAtMatchIndex": 5598,
+      "T": 0.95,
+      "ece": 0.003430573044993637,
+      "sampleSize": 5598
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 311,
+    "data": {
+      "fittedAtMatchIndex": 5616,
+      "T": 0.95,
+      "ece": 0.003357615952682596,
+      "sampleSize": 5616
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 312,
+    "data": {
+      "fittedAtMatchIndex": 5634,
+      "T": 0.95,
+      "ece": 0.0034137557952077942,
+      "sampleSize": 5634
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 313,
+    "data": {
+      "fittedAtMatchIndex": 5652,
+      "T": 0.95,
+      "ece": 0.003318327783552403,
+      "sampleSize": 5652
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 314,
+    "data": {
+      "fittedAtMatchIndex": 5670,
+      "T": 0.95,
+      "ece": 0.003443091451838377,
+      "sampleSize": 5670
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 315,
+    "data": {
+      "fittedAtMatchIndex": 5688,
+      "T": 0.95,
+      "ece": 0.003363382496457933,
+      "sampleSize": 5688
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 316,
+    "data": {
+      "fittedAtMatchIndex": 5706,
+      "T": 0.95,
+      "ece": 0.0035146508819923544,
+      "sampleSize": 5706
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 317,
+    "data": {
+      "fittedAtMatchIndex": 5724,
+      "T": 0.95,
+      "ece": 0.003412419405455952,
+      "sampleSize": 5724
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 318,
+    "data": {
+      "fittedAtMatchIndex": 5742,
+      "T": 0.95,
+      "ece": 0.003399780723723774,
+      "sampleSize": 5742
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 319,
+    "data": {
+      "fittedAtMatchIndex": 5760,
+      "T": 0.95,
+      "ece": 0.0035013689268593748,
+      "sampleSize": 5760
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 320,
+    "data": {
+      "fittedAtMatchIndex": 5778,
+      "T": 0.95,
+      "ece": 0.003616713926500402,
+      "sampleSize": 5778
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 321,
+    "data": {
+      "fittedAtMatchIndex": 5796,
+      "T": 0.95,
+      "ece": 0.0035488408556447254,
+      "sampleSize": 5796
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 322,
+    "data": {
+      "fittedAtMatchIndex": 5814,
+      "T": 0.95,
+      "ece": 0.00351191511096634,
+      "sampleSize": 5814
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 323,
+    "data": {
+      "fittedAtMatchIndex": 5832,
+      "T": 1,
+      "ece": 0.0038422548464849015,
+      "sampleSize": 5832
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 324,
+    "data": {
+      "fittedAtMatchIndex": 5850,
+      "T": 1,
+      "ece": 0.003397053043711606,
+      "sampleSize": 5850
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 325,
+    "data": {
+      "fittedAtMatchIndex": 5868,
+      "T": 1,
+      "ece": 0.0028197148416495206,
+      "sampleSize": 5868
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 326,
+    "data": {
+      "fittedAtMatchIndex": 5886,
+      "T": 1,
+      "ece": 0.0030533346042498173,
+      "sampleSize": 5886
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 327,
+    "data": {
+      "fittedAtMatchIndex": 5904,
+      "T": 1,
+      "ece": 0.0032244438749888197,
+      "sampleSize": 5904
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 328,
+    "data": {
+      "fittedAtMatchIndex": 5922,
+      "T": 1,
+      "ece": 0.00273335344053872,
+      "sampleSize": 5922
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 329,
+    "data": {
+      "fittedAtMatchIndex": 5940,
+      "T": 1,
+      "ece": 0.0032700197512715522,
+      "sampleSize": 5940
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 330,
+    "data": {
+      "fittedAtMatchIndex": 5958,
+      "T": 1,
+      "ece": 0.00355317951905919,
+      "sampleSize": 5958
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 331,
+    "data": {
+      "fittedAtMatchIndex": 5976,
+      "T": 1,
+      "ece": 0.0035452261152205686,
+      "sampleSize": 5976
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 332,
+    "data": {
+      "fittedAtMatchIndex": 5994,
+      "T": 1,
+      "ece": 0.003628614976996373,
+      "sampleSize": 5994
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 333,
+    "data": {
+      "fittedAtMatchIndex": 6012,
+      "T": 1,
+      "ece": 0.003705431223631166,
+      "sampleSize": 6012
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 334,
+    "data": {
+      "fittedAtMatchIndex": 6030,
+      "T": 1,
+      "ece": 0.003965978887864669,
+      "sampleSize": 6030
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 335,
+    "data": {
+      "fittedAtMatchIndex": 6048,
+      "T": 1,
+      "ece": 0.003778007534297431,
+      "sampleSize": 6048
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 336,
+    "data": {
+      "fittedAtMatchIndex": 6066,
+      "T": 1,
+      "ece": 0.003879562513056567,
+      "sampleSize": 6066
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 337,
+    "data": {
+      "fittedAtMatchIndex": 6084,
+      "T": 1,
+      "ece": 0.003974002003101399,
+      "sampleSize": 6084
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 338,
+    "data": {
+      "fittedAtMatchIndex": 6102,
+      "T": 1,
+      "ece": 0.004125967259995745,
+      "sampleSize": 6102
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 339,
+    "data": {
+      "fittedAtMatchIndex": 6120,
+      "T": 1,
+      "ece": 0.0038032741732289253,
+      "sampleSize": 6120
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 340,
+    "data": {
+      "fittedAtMatchIndex": 6138,
+      "T": 1,
+      "ece": 0.0033257443644168407,
+      "sampleSize": 6138
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 341,
+    "data": {
+      "fittedAtMatchIndex": 6156,
+      "T": 1,
+      "ece": 0.0032299941635464424,
+      "sampleSize": 6156
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 342,
+    "data": {
+      "fittedAtMatchIndex": 6174,
+      "T": 1,
+      "ece": 0.0031337163356764627,
+      "sampleSize": 6174
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 343,
+    "data": {
+      "fittedAtMatchIndex": 6192,
+      "T": 1,
+      "ece": 0.0030671834711463513,
+      "sampleSize": 6192
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 344,
+    "data": {
+      "fittedAtMatchIndex": 6210,
+      "T": 1,
+      "ece": 0.0035265961739086482,
+      "sampleSize": 6210
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 345,
+    "data": {
+      "fittedAtMatchIndex": 6228,
+      "T": 1,
+      "ece": 0.003699995975674556,
+      "sampleSize": 6228
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 346,
+    "data": {
+      "fittedAtMatchIndex": 6246,
+      "T": 1,
+      "ece": 0.0039278131467772575,
+      "sampleSize": 6246
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 347,
+    "data": {
+      "fittedAtMatchIndex": 6264,
+      "T": 1,
+      "ece": 0.003992881827233878,
+      "sampleSize": 6264
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 348,
+    "data": {
+      "fittedAtMatchIndex": 6282,
+      "T": 1,
+      "ece": 0.00390733114804232,
+      "sampleSize": 6282
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 349,
+    "data": {
+      "fittedAtMatchIndex": 6300,
+      "T": 1,
+      "ece": 0.0038813453747466053,
+      "sampleSize": 6300
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 350,
+    "data": {
+      "fittedAtMatchIndex": 6318,
+      "T": 1,
+      "ece": 0.004280277992567279,
+      "sampleSize": 6318
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 351,
+    "data": {
+      "fittedAtMatchIndex": 6336,
+      "T": 1,
+      "ece": 0.004164724214199158,
+      "sampleSize": 6336
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 352,
+    "data": {
+      "fittedAtMatchIndex": 6354,
+      "T": 1,
+      "ece": 0.004232580730933609,
+      "sampleSize": 6354
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 353,
+    "data": {
+      "fittedAtMatchIndex": 6372,
+      "T": 1,
+      "ece": 0.004208113299138357,
+      "sampleSize": 6372
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 354,
+    "data": {
+      "fittedAtMatchIndex": 6390,
+      "T": 1,
+      "ece": 0.00423642862022189,
+      "sampleSize": 6390
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 355,
+    "data": {
+      "fittedAtMatchIndex": 6408,
+      "T": 1,
+      "ece": 0.004469311159500167,
+      "sampleSize": 6408
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 356,
+    "data": {
+      "fittedAtMatchIndex": 6426,
+      "T": 1,
+      "ece": 0.004592990173171643,
+      "sampleSize": 6426
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 357,
+    "data": {
+      "fittedAtMatchIndex": 6444,
+      "T": 1,
+      "ece": 0.004774229890265773,
+      "sampleSize": 6444
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 358,
+    "data": {
+      "fittedAtMatchIndex": 6462,
+      "T": 1,
+      "ece": 0.0047519738677747015,
+      "sampleSize": 6462
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 359,
+    "data": {
+      "fittedAtMatchIndex": 6480,
+      "T": 1,
+      "ece": 0.004849692914688815,
+      "sampleSize": 6480
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 360,
+    "data": {
+      "fittedAtMatchIndex": 6498,
+      "T": 1,
+      "ece": 0.004901751187692836,
+      "sampleSize": 6498
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 361,
+    "data": {
+      "fittedAtMatchIndex": 6516,
+      "T": 1,
+      "ece": 0.004873589231293902,
+      "sampleSize": 6516
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 362,
+    "data": {
+      "fittedAtMatchIndex": 6534,
+      "T": 1,
+      "ece": 0.004880535425025252,
+      "sampleSize": 6534
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 363,
+    "data": {
+      "fittedAtMatchIndex": 6552,
+      "T": 1,
+      "ece": 0.004897658663396983,
+      "sampleSize": 6552
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 364,
+    "data": {
+      "fittedAtMatchIndex": 6570,
+      "T": 1,
+      "ece": 0.005008966770446662,
+      "sampleSize": 6570
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 365,
+    "data": {
+      "fittedAtMatchIndex": 6588,
+      "T": 1,
+      "ece": 0.004729309369271312,
+      "sampleSize": 6588
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 366,
+    "data": {
+      "fittedAtMatchIndex": 6606,
+      "T": 1,
+      "ece": 0.004817218755796207,
+      "sampleSize": 6606
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 367,
+    "data": {
+      "fittedAtMatchIndex": 6624,
+      "T": 1,
+      "ece": 0.004994307965989914,
+      "sampleSize": 6624
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 368,
+    "data": {
+      "fittedAtMatchIndex": 6642,
+      "T": 1,
+      "ece": 0.004601457062773384,
+      "sampleSize": 6642
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 369,
+    "data": {
+      "fittedAtMatchIndex": 6660,
+      "T": 1,
+      "ece": 0.004536386463014777,
+      "sampleSize": 6660
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 370,
+    "data": {
+      "fittedAtMatchIndex": 6678,
+      "T": 1,
+      "ece": 0.004936542546836072,
+      "sampleSize": 6678
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 371,
+    "data": {
+      "fittedAtMatchIndex": 6696,
+      "T": 1,
+      "ece": 0.005180648641427716,
+      "sampleSize": 6696
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 372,
+    "data": {
+      "fittedAtMatchIndex": 6714,
+      "T": 1,
+      "ece": 0.004852089855547412,
+      "sampleSize": 6714
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 373,
+    "data": {
+      "fittedAtMatchIndex": 6732,
+      "T": 1,
+      "ece": 0.0046633898700757835,
+      "sampleSize": 6732
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 374,
+    "data": {
+      "fittedAtMatchIndex": 6750,
+      "T": 1,
+      "ece": 0.0044685304273938825,
+      "sampleSize": 6750
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 375,
+    "data": {
+      "fittedAtMatchIndex": 6768,
+      "T": 1,
+      "ece": 0.004523233757364561,
+      "sampleSize": 6768
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 376,
+    "data": {
+      "fittedAtMatchIndex": 6786,
+      "T": 1,
+      "ece": 0.004580529794017348,
+      "sampleSize": 6786
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 377,
+    "data": {
+      "fittedAtMatchIndex": 6804,
+      "T": 1,
+      "ece": 0.004506436307659691,
+      "sampleSize": 6804
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 378,
+    "data": {
+      "fittedAtMatchIndex": 6822,
+      "T": 1,
+      "ece": 0.004705147526729895,
+      "sampleSize": 6822
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 379,
+    "data": {
+      "fittedAtMatchIndex": 6840,
+      "T": 1,
+      "ece": 0.0047198410584488775,
+      "sampleSize": 6840
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 380,
+    "data": {
+      "fittedAtMatchIndex": 6858,
+      "T": 1,
+      "ece": 0.004956324300106053,
+      "sampleSize": 6858
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 381,
+    "data": {
+      "fittedAtMatchIndex": 6876,
+      "T": 0.95,
+      "ece": 0.004258862239386327,
+      "sampleSize": 6876
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 382,
+    "data": {
+      "fittedAtMatchIndex": 6894,
+      "T": 0.95,
+      "ece": 0.0041984787727714626,
+      "sampleSize": 6894
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 383,
+    "data": {
+      "fittedAtMatchIndex": 6912,
+      "T": 1,
+      "ece": 0.004894675864456945,
+      "sampleSize": 6912
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 384,
+    "data": {
+      "fittedAtMatchIndex": 6930,
+      "T": 0.95,
+      "ece": 0.0038866043991446003,
+      "sampleSize": 6930
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 385,
+    "data": {
+      "fittedAtMatchIndex": 6948,
+      "T": 1,
+      "ece": 0.0049566453798129476,
+      "sampleSize": 6948
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 386,
+    "data": {
+      "fittedAtMatchIndex": 6966,
+      "T": 0.95,
+      "ece": 0.003795475436661624,
+      "sampleSize": 6966
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 387,
+    "data": {
+      "fittedAtMatchIndex": 6984,
+      "T": 0.95,
+      "ece": 0.003966434149146887,
+      "sampleSize": 6984
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 388,
+    "data": {
+      "fittedAtMatchIndex": 7002,
+      "T": 1,
+      "ece": 0.0046747703603280035,
+      "sampleSize": 7002
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 389,
+    "data": {
+      "fittedAtMatchIndex": 7020,
+      "T": 1,
+      "ece": 0.0048034382679539075,
+      "sampleSize": 7020
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 390,
+    "data": {
+      "fittedAtMatchIndex": 7038,
+      "T": 1,
+      "ece": 0.004979224214883941,
+      "sampleSize": 7038
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 391,
+    "data": {
+      "fittedAtMatchIndex": 7056,
+      "T": 1,
+      "ece": 0.004730220272442701,
+      "sampleSize": 7056
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 392,
+    "data": {
+      "fittedAtMatchIndex": 7074,
+      "T": 1,
+      "ece": 0.00486910145394525,
+      "sampleSize": 7074
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 393,
+    "data": {
+      "fittedAtMatchIndex": 7092,
+      "T": 0.95,
+      "ece": 0.003942198118465052,
+      "sampleSize": 7092
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 394,
+    "data": {
+      "fittedAtMatchIndex": 7110,
+      "T": 1,
+      "ece": 0.0048083065889105376,
+      "sampleSize": 7110
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 395,
+    "data": {
+      "fittedAtMatchIndex": 7128,
+      "T": 1,
+      "ece": 0.0046387260389210054,
+      "sampleSize": 7128
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 396,
+    "data": {
+      "fittedAtMatchIndex": 7146,
+      "T": 1,
+      "ece": 0.004885974434561404,
+      "sampleSize": 7146
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 397,
+    "data": {
+      "fittedAtMatchIndex": 7164,
+      "T": 1,
+      "ece": 0.00510968792336816,
+      "sampleSize": 7164
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 398,
+    "data": {
+      "fittedAtMatchIndex": 7182,
+      "T": 1,
+      "ece": 0.0050766381593333205,
+      "sampleSize": 7182
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 399,
+    "data": {
+      "fittedAtMatchIndex": 7200,
+      "T": 1,
+      "ece": 0.00493253968005067,
+      "sampleSize": 7200
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 400,
+    "data": {
+      "fittedAtMatchIndex": 7218,
+      "T": 1,
+      "ece": 0.004751440200901084,
+      "sampleSize": 7218
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 401,
+    "data": {
+      "fittedAtMatchIndex": 7236,
+      "T": 1,
+      "ece": 0.004850158297124294,
+      "sampleSize": 7236
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 402,
+    "data": {
+      "fittedAtMatchIndex": 7254,
+      "T": 1,
+      "ece": 0.004792699234585027,
+      "sampleSize": 7254
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 403,
+    "data": {
+      "fittedAtMatchIndex": 7272,
+      "T": 1,
+      "ece": 0.004442663783646947,
+      "sampleSize": 7272
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 404,
+    "data": {
+      "fittedAtMatchIndex": 7290,
+      "T": 1,
+      "ece": 0.004548220955652559,
+      "sampleSize": 7290
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 405,
+    "data": {
+      "fittedAtMatchIndex": 7308,
+      "T": 1,
+      "ece": 0.004428239767063143,
+      "sampleSize": 7308
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 406,
+    "data": {
+      "fittedAtMatchIndex": 7326,
+      "T": 1,
+      "ece": 0.0042902178106904955,
+      "sampleSize": 7326
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 407,
+    "data": {
+      "fittedAtMatchIndex": 7344,
+      "T": 1,
+      "ece": 0.0041421230469941405,
+      "sampleSize": 7344
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 408,
+    "data": {
+      "fittedAtMatchIndex": 7362,
+      "T": 1,
+      "ece": 0.003923138789639638,
+      "sampleSize": 7362
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 409,
+    "data": {
+      "fittedAtMatchIndex": 7380,
+      "T": 1,
+      "ece": 0.004134764919406799,
+      "sampleSize": 7380
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 410,
+    "data": {
+      "fittedAtMatchIndex": 7398,
+      "T": 1,
+      "ece": 0.004373466029623158,
+      "sampleSize": 7398
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 411,
+    "data": {
+      "fittedAtMatchIndex": 7416,
+      "T": 1,
+      "ece": 0.004103459995138202,
+      "sampleSize": 7416
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 412,
+    "data": {
+      "fittedAtMatchIndex": 7434,
+      "T": 1,
+      "ece": 0.004384726213116988,
+      "sampleSize": 7434
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 413,
+    "data": {
+      "fittedAtMatchIndex": 7452,
+      "T": 1,
+      "ece": 0.004223751180653256,
+      "sampleSize": 7452
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 414,
+    "data": {
+      "fittedAtMatchIndex": 7470,
+      "T": 1,
+      "ece": 0.004299373319874044,
+      "sampleSize": 7470
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 415,
+    "data": {
+      "fittedAtMatchIndex": 7488,
+      "T": 1,
+      "ece": 0.004445090795085847,
+      "sampleSize": 7488
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 416,
+    "data": {
+      "fittedAtMatchIndex": 7506,
+      "T": 1,
+      "ece": 0.0043617370659937375,
+      "sampleSize": 7506
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 417,
+    "data": {
+      "fittedAtMatchIndex": 7524,
+      "T": 1,
+      "ece": 0.004424658060882884,
+      "sampleSize": 7524
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 418,
+    "data": {
+      "fittedAtMatchIndex": 7542,
+      "T": 1,
+      "ece": 0.004297246301361843,
+      "sampleSize": 7542
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 419,
+    "data": {
+      "fittedAtMatchIndex": 7560,
+      "T": 1,
+      "ece": 0.004315467837351489,
+      "sampleSize": 7560
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 420,
+    "data": {
+      "fittedAtMatchIndex": 7578,
+      "T": 1,
+      "ece": 0.0041851826752634215,
+      "sampleSize": 7578
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 421,
+    "data": {
+      "fittedAtMatchIndex": 7596,
+      "T": 1,
+      "ece": 0.004060295857561225,
+      "sampleSize": 7596
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 422,
+    "data": {
+      "fittedAtMatchIndex": 7614,
+      "T": 1,
+      "ece": 0.004162011014456422,
+      "sampleSize": 7614
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 423,
+    "data": {
+      "fittedAtMatchIndex": 7632,
+      "T": 1,
+      "ece": 0.0037448498348038907,
+      "sampleSize": 7632
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 424,
+    "data": {
+      "fittedAtMatchIndex": 7650,
+      "T": 1,
+      "ece": 0.003963252783210604,
+      "sampleSize": 7650
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 425,
+    "data": {
+      "fittedAtMatchIndex": 7668,
+      "T": 1,
+      "ece": 0.004111328214913636,
+      "sampleSize": 7668
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 426,
+    "data": {
+      "fittedAtMatchIndex": 7686,
+      "T": 1,
+      "ece": 0.0039868057137325,
+      "sampleSize": 7686
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 427,
+    "data": {
+      "fittedAtMatchIndex": 7704,
+      "T": 1,
+      "ece": 0.0039637215858712655,
+      "sampleSize": 7704
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 428,
+    "data": {
+      "fittedAtMatchIndex": 7722,
+      "T": 1,
+      "ece": 0.00422528273580435,
+      "sampleSize": 7722
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 429,
+    "data": {
+      "fittedAtMatchIndex": 7740,
+      "T": 1,
+      "ece": 0.004117704939541437,
+      "sampleSize": 7740
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 430,
+    "data": {
+      "fittedAtMatchIndex": 7758,
+      "T": 1,
+      "ece": 0.0038665877122754165,
+      "sampleSize": 7758
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 431,
+    "data": {
+      "fittedAtMatchIndex": 7776,
+      "T": 1,
+      "ece": 0.003714645484169057,
+      "sampleSize": 7776
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 432,
+    "data": {
+      "fittedAtMatchIndex": 7794,
+      "T": 1,
+      "ece": 0.00398225738222821,
+      "sampleSize": 7794
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 433,
+    "data": {
+      "fittedAtMatchIndex": 7812,
+      "T": 1,
+      "ece": 0.004021634774819643,
+      "sampleSize": 7812
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 434,
+    "data": {
+      "fittedAtMatchIndex": 7830,
+      "T": 1,
+      "ece": 0.0038475253330841046,
+      "sampleSize": 7830
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 435,
+    "data": {
+      "fittedAtMatchIndex": 7848,
+      "T": 1,
+      "ece": 0.003907124995327375,
+      "sampleSize": 7848
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 436,
+    "data": {
+      "fittedAtMatchIndex": 7866,
+      "T": 1,
+      "ece": 0.003962819785032437,
+      "sampleSize": 7866
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 437,
+    "data": {
+      "fittedAtMatchIndex": 7884,
+      "T": 1,
+      "ece": 0.003847452754357598,
+      "sampleSize": 7884
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 438,
+    "data": {
+      "fittedAtMatchIndex": 7902,
+      "T": 1,
+      "ece": 0.0035764052697827772,
+      "sampleSize": 7902
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 439,
+    "data": {
+      "fittedAtMatchIndex": 7920,
+      "T": 1,
+      "ece": 0.003615418838557816,
+      "sampleSize": 7920
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 440,
+    "data": {
+      "fittedAtMatchIndex": 7938,
+      "T": 1,
+      "ece": 0.0036452033513000586,
+      "sampleSize": 7938
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 441,
+    "data": {
+      "fittedAtMatchIndex": 7956,
+      "T": 1,
+      "ece": 0.0036852959401950974,
+      "sampleSize": 7956
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 442,
+    "data": {
+      "fittedAtMatchIndex": 7974,
+      "T": 1,
+      "ece": 0.003626124652602255,
+      "sampleSize": 7974
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 443,
+    "data": {
+      "fittedAtMatchIndex": 7992,
+      "T": 1,
+      "ece": 0.003374890714192935,
+      "sampleSize": 7992
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 444,
+    "data": {
+      "fittedAtMatchIndex": 8010,
+      "T": 1,
+      "ece": 0.0032284168706480263,
+      "sampleSize": 8010
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 445,
+    "data": {
+      "fittedAtMatchIndex": 8028,
+      "T": 1,
+      "ece": 0.0033466209408530155,
+      "sampleSize": 8028
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 446,
+    "data": {
+      "fittedAtMatchIndex": 8046,
+      "T": 1,
+      "ece": 0.003470932735067872,
+      "sampleSize": 8046
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 447,
+    "data": {
+      "fittedAtMatchIndex": 8064,
+      "T": 1,
+      "ece": 0.00348617083721193,
+      "sampleSize": 8064
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 448,
+    "data": {
+      "fittedAtMatchIndex": 8082,
+      "T": 1,
+      "ece": 0.003510238939181123,
+      "sampleSize": 8082
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 449,
+    "data": {
+      "fittedAtMatchIndex": 8100,
+      "T": 1,
+      "ece": 0.00389061595105019,
+      "sampleSize": 8100
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 450,
+    "data": {
+      "fittedAtMatchIndex": 8118,
+      "T": 1,
+      "ece": 0.00391134848721455,
+      "sampleSize": 8118
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 451,
+    "data": {
+      "fittedAtMatchIndex": 8136,
+      "T": 1,
+      "ece": 0.0036501120971978397,
+      "sampleSize": 8136
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 452,
+    "data": {
+      "fittedAtMatchIndex": 8154,
+      "T": 1,
+      "ece": 0.0039040368232128495,
+      "sampleSize": 8154
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 453,
+    "data": {
+      "fittedAtMatchIndex": 8172,
+      "T": 1,
+      "ece": 0.003847092936706945,
+      "sampleSize": 8172
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 454,
+    "data": {
+      "fittedAtMatchIndex": 8190,
+      "T": 1,
+      "ece": 0.0037314632461239138,
+      "sampleSize": 8190
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 455,
+    "data": {
+      "fittedAtMatchIndex": 8208,
+      "T": 1,
+      "ece": 0.003532415965012866,
+      "sampleSize": 8208
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 456,
+    "data": {
+      "fittedAtMatchIndex": 8226,
+      "T": 1,
+      "ece": 0.0035189736324519856,
+      "sampleSize": 8226
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 457,
+    "data": {
+      "fittedAtMatchIndex": 8244,
+      "T": 1,
+      "ece": 0.003570836267571481,
+      "sampleSize": 8244
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 458,
+    "data": {
+      "fittedAtMatchIndex": 8262,
+      "T": 1,
+      "ece": 0.003245046748870601,
+      "sampleSize": 8262
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 459,
+    "data": {
+      "fittedAtMatchIndex": 8280,
+      "T": 1,
+      "ece": 0.0031505285819411273,
+      "sampleSize": 8280
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 460,
+    "data": {
+      "fittedAtMatchIndex": 8298,
+      "T": 1,
+      "ece": 0.0032567875791402927,
+      "sampleSize": 8298
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 461,
+    "data": {
+      "fittedAtMatchIndex": 8316,
+      "T": 1,
+      "ece": 0.0034183210966648113,
+      "sampleSize": 8316
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 462,
+    "data": {
+      "fittedAtMatchIndex": 8334,
+      "T": 1,
+      "ece": 0.0034650830493895,
+      "sampleSize": 8334
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 463,
+    "data": {
+      "fittedAtMatchIndex": 8352,
+      "T": 1,
+      "ece": 0.0034746409532716276,
+      "sampleSize": 8352
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 464,
+    "data": {
+      "fittedAtMatchIndex": 8370,
+      "T": 1,
+      "ece": 0.003713498306358235,
+      "sampleSize": 8370
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 465,
+    "data": {
+      "fittedAtMatchIndex": 8388,
+      "T": 1,
+      "ece": 0.003731034870998233,
+      "sampleSize": 8388
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 466,
+    "data": {
+      "fittedAtMatchIndex": 8406,
+      "T": 1,
+      "ece": 0.0037537314696305586,
+      "sampleSize": 8406
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 467,
+    "data": {
+      "fittedAtMatchIndex": 8424,
+      "T": 1,
+      "ece": 0.0036471953066335772,
+      "sampleSize": 8424
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 468,
+    "data": {
+      "fittedAtMatchIndex": 8442,
+      "T": 1,
+      "ece": 0.003803789568992784,
+      "sampleSize": 8442
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 469,
+    "data": {
+      "fittedAtMatchIndex": 8460,
+      "T": 1,
+      "ece": 0.003776469808885101,
+      "sampleSize": 8460
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 470,
+    "data": {
+      "fittedAtMatchIndex": 8478,
+      "T": 1,
+      "ece": 0.004082325236868001,
+      "sampleSize": 8478
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 471,
+    "data": {
+      "fittedAtMatchIndex": 8496,
+      "T": 1,
+      "ece": 0.003936887545745626,
+      "sampleSize": 8496
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 472,
+    "data": {
+      "fittedAtMatchIndex": 8514,
+      "T": 1,
+      "ece": 0.0038032905443905673,
+      "sampleSize": 8514
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 473,
+    "data": {
+      "fittedAtMatchIndex": 8532,
+      "T": 1,
+      "ece": 0.0038997554823194986,
+      "sampleSize": 8532
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 474,
+    "data": {
+      "fittedAtMatchIndex": 8550,
+      "T": 1,
+      "ece": 0.0038144636977653595,
+      "sampleSize": 8550
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 475,
+    "data": {
+      "fittedAtMatchIndex": 8568,
+      "T": 1,
+      "ece": 0.004146361314371837,
+      "sampleSize": 8568
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 476,
+    "data": {
+      "fittedAtMatchIndex": 8586,
+      "T": 1,
+      "ece": 0.004247169246524323,
+      "sampleSize": 8586
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 477,
+    "data": {
+      "fittedAtMatchIndex": 8604,
+      "T": 1,
+      "ece": 0.004289631539470002,
+      "sampleSize": 8604
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 478,
+    "data": {
+      "fittedAtMatchIndex": 8622,
+      "T": 1,
+      "ece": 0.004324309437986386,
+      "sampleSize": 8622
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 479,
+    "data": {
+      "fittedAtMatchIndex": 8640,
+      "T": 1,
+      "ece": 0.004503887845761038,
+      "sampleSize": 8640
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 480,
+    "data": {
+      "fittedAtMatchIndex": 8658,
+      "T": 1,
+      "ece": 0.0044610730593936535,
+      "sampleSize": 8658
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 481,
+    "data": {
+      "fittedAtMatchIndex": 8676,
+      "T": 1,
+      "ece": 0.004512779928646469,
+      "sampleSize": 8676
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 482,
+    "data": {
+      "fittedAtMatchIndex": 8694,
+      "T": 1,
+      "ece": 0.004370413757426657,
+      "sampleSize": 8694
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 483,
+    "data": {
+      "fittedAtMatchIndex": 8712,
+      "T": 0.95,
+      "ece": 0.00398839918466216,
+      "sampleSize": 8712
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 484,
+    "data": {
+      "fittedAtMatchIndex": 8730,
+      "T": 0.95,
+      "ece": 0.003939660559136228,
+      "sampleSize": 8730
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 485,
+    "data": {
+      "fittedAtMatchIndex": 8748,
+      "T": 0.95,
+      "ece": 0.003983640492956503,
+      "sampleSize": 8748
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 486,
+    "data": {
+      "fittedAtMatchIndex": 8766,
+      "T": 0.95,
+      "ece": 0.003911355069517512,
+      "sampleSize": 8766
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 487,
+    "data": {
+      "fittedAtMatchIndex": 8784,
+      "T": 0.95,
+      "ece": 0.00399251511085149,
+      "sampleSize": 8784
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 488,
+    "data": {
+      "fittedAtMatchIndex": 8802,
+      "T": 0.95,
+      "ece": 0.0040312649059919435,
+      "sampleSize": 8802
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 489,
+    "data": {
+      "fittedAtMatchIndex": 8820,
+      "T": 0.95,
+      "ece": 0.00423309210159471,
+      "sampleSize": 8820
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 490,
+    "data": {
+      "fittedAtMatchIndex": 8838,
+      "T": 0.95,
+      "ece": 0.0040158550446112735,
+      "sampleSize": 8838
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 491,
+    "data": {
+      "fittedAtMatchIndex": 8856,
+      "T": 0.95,
+      "ece": 0.003932389748854073,
+      "sampleSize": 8856
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 492,
+    "data": {
+      "fittedAtMatchIndex": 8874,
+      "T": 0.95,
+      "ece": 0.004033168611076391,
+      "sampleSize": 8874
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 493,
+    "data": {
+      "fittedAtMatchIndex": 8892,
+      "T": 0.95,
+      "ece": 0.003950937951943492,
+      "sampleSize": 8892
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 494,
+    "data": {
+      "fittedAtMatchIndex": 8910,
+      "T": 0.95,
+      "ece": 0.00402302317884349,
+      "sampleSize": 8910
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 495,
+    "data": {
+      "fittedAtMatchIndex": 8928,
+      "T": 0.95,
+      "ece": 0.004008459444470002,
+      "sampleSize": 8928
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 496,
+    "data": {
+      "fittedAtMatchIndex": 8946,
+      "T": 0.95,
+      "ece": 0.003975373623492099,
+      "sampleSize": 8946
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 497,
+    "data": {
+      "fittedAtMatchIndex": 8964,
+      "T": 0.95,
+      "ece": 0.0039835747649803145,
+      "sampleSize": 8964
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 498,
+    "data": {
+      "fittedAtMatchIndex": 8982,
+      "T": 0.95,
+      "ece": 0.003993159162878152,
+      "sampleSize": 8982
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 499,
+    "data": {
+      "fittedAtMatchIndex": 9000,
+      "T": 1,
+      "ece": 0.00444444750829935,
+      "sampleSize": 9000
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 500,
+    "data": {
+      "fittedAtMatchIndex": 9018,
+      "T": 1,
+      "ece": 0.004261615843508016,
+      "sampleSize": 9018
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 501,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "T": 1,
+      "ece": 0.0042302050009268505,
+      "sampleSize": 9036
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 502,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "T": 1,
+      "ece": 0.004433989627031396,
+      "sampleSize": 9054
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 503,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "T": 0.95,
+      "ece": 0.00404771850793398,
+      "sampleSize": 9072
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 504,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "T": 0.95,
+      "ece": 0.0039366013949427075,
+      "sampleSize": 9090
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 505,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "T": 0.95,
+      "ece": 0.003917294548309998,
+      "sampleSize": 9108
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 506,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "T": 0.95,
+      "ece": 0.0039911182723119595,
+      "sampleSize": 9126
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 507,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "T": 1,
+      "ece": 0.004367901438724384,
+      "sampleSize": 9144
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 508,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "T": 1,
+      "ece": 0.0042675925830250065,
+      "sampleSize": 9162
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 509,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "T": 1,
+      "ece": 0.004197966390910535,
+      "sampleSize": 9180
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 510,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "T": 1,
+      "ece": 0.00418484584265529,
+      "sampleSize": 9198
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 511,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "T": 0.95,
+      "ece": 0.00394973065331568,
+      "sampleSize": 9216
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 512,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "T": 0.95,
+      "ece": 0.003949701219449138,
+      "sampleSize": 9234
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 513,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "T": 0.95,
+      "ece": 0.003979299309344898,
+      "sampleSize": 9252
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 514,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "T": 1,
+      "ece": 0.004515389682053966,
+      "sampleSize": 9270
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 515,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "T": 1,
+      "ece": 0.004380623900673839,
+      "sampleSize": 9288
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 516,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "T": 1,
+      "ece": 0.004203893746889522,
+      "sampleSize": 9306
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 517,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "T": 1,
+      "ece": 0.003953097111841543,
+      "sampleSize": 9324
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 518,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "T": 1,
+      "ece": 0.0037816606256907267,
+      "sampleSize": 9342
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 519,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "T": 1,
+      "ece": 0.0038256565023277117,
+      "sampleSize": 9360
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 520,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "T": 1,
+      "ece": 0.0039692513346304015,
+      "sampleSize": 9378
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 521,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "T": 1,
+      "ece": 0.003928042960430547,
+      "sampleSize": 9396
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 522,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "T": 1,
+      "ece": 0.00379625688045166,
+      "sampleSize": 9414
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 523,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "T": 1,
+      "ece": 0.0038836957915868325,
+      "sampleSize": 9432
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 524,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "T": 1,
+      "ece": 0.003835453749423751,
+      "sampleSize": 9450
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 525,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "T": 1,
+      "ece": 0.00400045095991505,
+      "sampleSize": 9468
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 526,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "T": 1,
+      "ece": 0.004054762975452687,
+      "sampleSize": 9486
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 527,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "T": 1,
+      "ece": 0.004058054305801509,
+      "sampleSize": 9504
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 528,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "T": 1,
+      "ece": 0.004062662690350949,
+      "sampleSize": 9522
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 529,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "T": 1,
+      "ece": 0.004289770284967037,
+      "sampleSize": 9540
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 530,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "T": 1,
+      "ece": 0.0043428011218741595,
+      "sampleSize": 9558
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 531,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "T": 1,
+      "ece": 0.004374357951354737,
+      "sampleSize": 9576
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 532,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "T": 1,
+      "ece": 0.0044684506306673375,
+      "sampleSize": 9594
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 533,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "T": 1,
+      "ece": 0.004517093183134099,
+      "sampleSize": 9612
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 534,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "T": 1,
+      "ece": 0.004566832231102904,
+      "sampleSize": 9630
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 535,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "T": 0.95,
+      "ece": 0.0039185966971768136,
+      "sampleSize": 9648
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 536,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "T": 0.95,
+      "ece": 0.00391228576753199,
+      "sampleSize": 9666
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 537,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "T": 0.95,
+      "ece": 0.0039982990825110885,
+      "sampleSize": 9684
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 538,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "T": 0.95,
+      "ece": 0.0039764351943174315,
+      "sampleSize": 9702
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 539,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "T": 0.95,
+      "ece": 0.003994260179247441,
+      "sampleSize": 9720
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 540,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "T": 0.95,
+      "ece": 0.00414426493900143,
+      "sampleSize": 9738
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 541,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "T": 0.95,
+      "ece": 0.004112300175442805,
+      "sampleSize": 9756
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 542,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "T": 0.95,
+      "ece": 0.004127539243614824,
+      "sampleSize": 9774
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 543,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "T": 0.95,
+      "ece": 0.004279336176749721,
+      "sampleSize": 9792
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 544,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "T": 0.95,
+      "ece": 0.004080525886282516,
+      "sampleSize": 9810
+    }
+  },
+  {
+    "league": "spanyol",
+    "source_index": 545,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "T": 0.95,
+      "ece": 0.0041685297507314525,
+      "sampleSize": 9828
+    }
+  }
+]

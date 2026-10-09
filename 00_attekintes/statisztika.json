@@ -1,0 +1,82 @@
+{
+  "schema_version": 3,
+  "exported_at": "2026-09-15T11:48:56.033Z",
+  "counts": {
+    "seasons": 103,
+    "matches": 24720,
+    "pipeline_present": 24720,
+    "ht_valid": 19200,
+    "ht_missing": 5520,
+    "ft_valid": 24720,
+    "kickoff_missing": 24720
+  },
+  "leagues": {
+    "angol": {
+      "seasons": 62,
+      "matches": 14880,
+      "pipeline_present": 14880,
+      "ht_valid": 9360,
+      "ht_missing": 5520,
+      "ft_valid": 14880,
+      "kickoff_missing": 14880
+    },
+    "spanyol": {
+      "seasons": 41,
+      "matches": 9840,
+      "pipeline_present": 9840,
+      "ht_valid": 9840,
+      "ht_missing": 0,
+      "ft_valid": 9840,
+      "kickoff_missing": 9840
+    }
+  },
+  "decisions": {
+    "angol": {
+      "decision": {
+        "volatile": 7550,
+        "ignore": 7128,
+        "actionable": 202
+      },
+      "recommendation": {
+        "NO_CLEAR_EDGE": 12104,
+        "HOME_WIN": 2387,
+        "AWAY_WIN": 389
+      },
+      "dataSufficiency": {
+        "cold": 2480,
+        "warm": 4960,
+        "hot": 7440
+      }
+    },
+    "spanyol": {
+      "decision": {
+        "volatile": 4842,
+        "ignore": 4840,
+        "actionable": 158
+      },
+      "recommendation": {
+        "NO_CLEAR_EDGE": 8128,
+        "HOME_WIN": 1537,
+        "AWAY_WIN": 175
+      },
+      "dataSufficiency": {
+        "cold": 1640,
+        "warm": 3280,
+        "hot": 4920
+      }
+    }
+  },
+  "audit": {
+    "codes": {
+      "HT_MISSING": 5520,
+      "KICKOFF_ISO_MISSING": 1
+    },
+    "severities": {
+      "info": 5521
+    }
+  },
+  "teams_by_league": {
+    "angol": 16,
+    "spanyol": 16
+  }
+}

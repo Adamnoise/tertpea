@@ -1,0 +1,64 @@
+{
+  "historyScope": "season-only",
+  "allowDuplicateImport": false,
+  "debugInSampleT": false,
+  "experiments": {
+    "dixonColes": true,
+    "glicko2": true
+  },
+  "slipMarkets": {
+    "coreCards": [
+      [
+        "goal:BTTS",
+        "goal:O2.5",
+        "trend:X2"
+      ],
+      [
+        "goal:O1.5",
+        "goal:U3.5",
+        "trend:1X",
+        "other:streak",
+        "other:model_agreement"
+      ],
+      [
+        "goal:NOBTTS",
+        "goal:U2.5",
+        "trend:12",
+        "half:HTFT:NOREV"
+      ]
+    ],
+    "joker": [
+      "goal:BTTS",
+      "goal:NOBTTS",
+      "goal:O1.5",
+      "goal:U1.5",
+      "goal:O2.5",
+      "goal:U2.5",
+      "goal:O3.5",
+      "goal:U3.5",
+      "teamGoal:HOME_O0.5",
+      "teamGoal:HOME_U0.5",
+      "teamGoal:AWAY_O0.5",
+      "teamGoal:AWAY_U0.5",
+      "trend:1",
+      "trend:2",
+      "trend:1X",
+      "trend:X2",
+      "trend:12",
+      "half:HT:1",
+      "half:HT:X",
+      "half:HT:2",
+      "half:HTFT:REV",
+      "half:HTFT:NOREV",
+      "other:exact_score",
+      "other:streak",
+      "other:model_agreement",
+      "teamGoal:UNDERDOG"
+    ]
+  },
+  "coreStrategy": {
+    "mode": "quick",
+    "quickStrategy": "btts_profile_safe",
+    "vetoMode": "shadow"
+  }
+}

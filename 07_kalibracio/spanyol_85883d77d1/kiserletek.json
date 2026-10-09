@@ -1,0 +1,40 @@
+{
+  "dixonColes": {
+    "fit": {
+      "rho": 0.14,
+      "n": 9840,
+      "avgLogLoss": 1.0502883617218488,
+      "baseLogLoss": 1.0534193173398523,
+      "improvement": 0.0031309556180034726
+    },
+    "branch": {
+      "label": "Dixon-Coles",
+      "n": 9840,
+      "logLoss": 1.0502883617218488,
+      "brier": 0.6311946156839346,
+      "skillCI": {
+        "mean": 0.2972183599129541,
+        "lo": 0.14807981459964703,
+        "hi": 0.44483992584317095,
+        "crossesZero": false,
+        "iterations": 1000,
+        "n": 9840
+      }
+    },
+    "active": true
+  },
+  "glicko2": {
+    "label": "Glicko-2",
+    "n": 9840,
+    "logLoss": 1.0089539457885435,
+    "brier": 0.6012559557570774,
+    "skillCI": {
+      "mean": 4.221051467291792,
+      "lo": 3.441342580776278,
+      "hi": 4.970276255424052,
+      "crossesZero": false,
+      "iterations": 1000,
+      "n": 9840
+    }
+  }
+}

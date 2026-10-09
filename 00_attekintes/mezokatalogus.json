@@ -1,0 +1,3495 @@
+{
+  "04_merkozesek/angol_ad7f94aa67/merkozesek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/date",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/kickoffIso",
+      "types": {
+        "NoneType": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/rowIndex",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/sourceFileId",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ht_home_score",
+      "types": {
+        "int": 9360,
+        "NoneType": 5520
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ht_away_score",
+      "types": {
+        "int": 9360,
+        "NoneType": 5520
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_score",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_score",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/total_goals",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/btts",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/outcome",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ft_scores_valid",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_scores_valid",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_missing",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/total_goals_from_scores",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/btts_from_scores",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/derived/outcome_from_scores",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/angol_ad7f94aa67/dontesek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/homePlayed",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/awayPlayed",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/dataSufficiency",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/confidence",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/confidenceLabel",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/decision",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/priorDivergence",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/recommendation",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/caveat",
+      "types": {
+        "str": 7501,
+        "NoneType": 7379
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/angol_ad7f94aa67/modellek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/home",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/draw",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/away",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/home",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/draw",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/away",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/home",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/draw",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/away",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/home",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/draw",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/away",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/home",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/draw",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/away",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibratedT",
+      "types": {
+        "int": 3042,
+        "float": 11838
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1Source",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensembleWM1",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/angol_ad7f94aa67/jellemzok": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_weight_index",
+      "types": {
+        "float": 11160,
+        "int": 3720
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_weight_index",
+      "types": {
+        "int": 3720,
+        "float": 11160
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/weight_diff",
+      "types": {
+        "float": 13144,
+        "int": 1736
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_att_home",
+      "types": {
+        "float": 14675,
+        "int": 205
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_def_home",
+      "types": {
+        "float": 14628,
+        "int": 252
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_att_away",
+      "types": {
+        "float": 14625,
+        "int": 255
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_def_away",
+      "types": {
+        "float": 14676,
+        "int": 204
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/league_home_gpm",
+      "types": {
+        "float": 14667,
+        "int": 213
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/league_away_gpm",
+      "types": {
+        "float": 14433,
+        "int": 447
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_form_5",
+      "types": {
+        "float": 11146,
+        "int": 3734
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_form_5",
+      "types": {
+        "float": 11033,
+        "int": 3847
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_gd_form_5",
+      "types": {
+        "int": 3993,
+        "float": 10887
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_gd_form_5",
+      "types": {
+        "int": 4011,
+        "float": 10869
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/h2h_home_ppg",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/htGoalRate5",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/htLeadConversionHome",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/htLeadConversionAway",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/secondHalfGoalRatio",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/prevMatchTotalGoalsHome",
+      "types": {
+        "float": 496,
+        "int": 14384
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/prevMatchTotalGoalsAway",
+      "types": {
+        "float": 496,
+        "int": 14384
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/angol_ad7f94aa67/reconciliation": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/brierB1",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/brierEns",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/logLossB1",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/logLossEns",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/isCorrect",
+      "types": {
+        "bool": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "06_piacok/angol_ad7f94aa67/masodlagos_piacok": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/over15",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/over25",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/over35",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/btts",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/bttsNo",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/homeOver05",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/homeUnder05",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/awayOver05",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/awayUnder05",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/highGoalNoBtts",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/cleanSheetBlowout",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/mostLikelyScore",
+      "types": {
+        "str": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/mostLikelyScoreProb",
+      "types": {
+        "float": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    },
+    {
+      "path": "/data/topScores",
+      "types": {
+        "list": 14880
+      },
+      "present": 14880,
+      "missing": 0
+    }
+  ],
+  "06_piacok/angol_ad7f94aa67/legvaloszinubb_eredmenyek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/rank",
+      "types": {
+        "int": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/data/score",
+      "types": {
+        "str": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    },
+    {
+      "path": "/data/prob",
+      "types": {
+        "float": 74400
+      },
+      "present": 74400,
+      "missing": 0
+    }
+  ],
+  "03_szezonok/szezonok": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/id",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/league",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/seasonIndex",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/name",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/fileName",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/createdAt",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/contentHash",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/countWarning",
+      "types": {
+        "bool": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/actualMatchCount",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/orderMode",
+      "types": {
+        "str": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/data/datedMatchCount",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/matches",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/pipeline_present",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_valid",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_missing",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ft_valid",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    },
+    {
+      "path": "/derived/kickoff_missing",
+      "types": {
+        "int": 103
+      },
+      "present": 103,
+      "missing": 0
+    }
+  ],
+  "04_merkozesek/spanyol_85883d77d1/merkozesek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/date",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/kickoffIso",
+      "types": {
+        "NoneType": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/rowIndex",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/sourceFileId",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ht_home_score",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ht_away_score",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_score",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_score",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/total_goals",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/btts",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/outcome",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ft_scores_valid",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_scores_valid",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/ht_missing",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/total_goals_from_scores",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/btts_from_scores",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/derived/outcome_from_scores",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/spanyol_85883d77d1/dontesek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/homePlayed",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/awayPlayed",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/context/dataSufficiency",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/confidence",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/confidenceLabel",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/decision",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/priorDivergence",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/recommendation",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/caveat",
+      "types": {
+        "str": 5098,
+        "NoneType": 4742
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/spanyol_85883d77d1/modellek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/home",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/draw",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b0/away",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/home",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/draw",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/b1/away",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/home",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/draw",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1/away",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/home",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/draw",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensRaw/away",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/home",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/draw",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated/away",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibratedT",
+      "types": {
+        "int": 5346,
+        "float": 4494
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/m1Source",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/ensembleWM1",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/spanyol_85883d77d1/jellemzok": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_weight_index",
+      "types": {
+        "float": 8610,
+        "int": 1230
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_weight_index",
+      "types": {
+        "float": 8610,
+        "int": 1230
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/weight_diff",
+      "types": {
+        "int": 1148,
+        "float": 8692
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_att_home",
+      "types": {
+        "float": 9703,
+        "int": 137
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_def_home",
+      "types": {
+        "float": 9669,
+        "int": 171
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_att_away",
+      "types": {
+        "float": 9670,
+        "int": 170
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_def_away",
+      "types": {
+        "float": 9700,
+        "int": 140
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/league_home_gpm",
+      "types": {
+        "float": 9698,
+        "int": 142
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/league_away_gpm",
+      "types": {
+        "float": 9542,
+        "int": 298
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_form_5",
+      "types": {
+        "float": 7375,
+        "int": 2465
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_form_5",
+      "types": {
+        "float": 7313,
+        "int": 2527
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/home_gd_form_5",
+      "types": {
+        "int": 2699,
+        "float": 7141
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/away_gd_form_5",
+      "types": {
+        "int": 2653,
+        "float": 7187
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/h2h_home_ppg",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/htGoalRate5",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/htLeadConversionHome",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/htLeadConversionAway",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/secondHalfGoalRatio",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/prevMatchTotalGoalsHome",
+      "types": {
+        "float": 328,
+        "int": 9512
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/prevMatchTotalGoalsAway",
+      "types": {
+        "float": 328,
+        "int": 9512
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "05_pipeline/spanyol_85883d77d1/reconciliation": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/brierB1",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/brierEns",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/logLossB1",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/logLossEns",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/isCorrect",
+      "types": {
+        "bool": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "06_piacok/spanyol_85883d77d1/masodlagos_piacok": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/over15",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/over25",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/over35",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/btts",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/bttsNo",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/homeOver05",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/homeUnder05",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/awayOver05",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/awayUnder05",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/highGoalNoBtts",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/cleanSheetBlowout",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/mostLikelyScore",
+      "types": {
+        "str": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/mostLikelyScoreProb",
+      "types": {
+        "float": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    },
+    {
+      "path": "/data/topScores",
+      "types": {
+        "list": 9840
+      },
+      "present": 9840,
+      "missing": 0
+    }
+  ],
+  "06_piacok/spanyol_85883d77d1/legvaloszinubb_eredmenyek": [
+    {
+      "path": "/ref/season_key",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_position",
+      "types": {
+        "int": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_id",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/season_index",
+      "types": {
+        "int": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/league",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_key",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_position",
+      "types": {
+        "int": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/match_no",
+      "types": {
+        "int": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/home_team",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/ref/away_team",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/rank",
+      "types": {
+        "int": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/data/score",
+      "types": {
+        "str": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    },
+    {
+      "path": "/data/prob",
+      "types": {
+        "float": 49200
+      },
+      "present": 49200,
+      "missing": 0
+    }
+  ],
+  "02_csapatok/csapat_beallitasok": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/source_key",
+      "types": {
+        "str": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/display_name",
+      "types": {
+        "str": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/weight",
+      "types": {
+        "float": 26,
+        "int": 6
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/has_alias",
+      "types": {
+        "bool": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/has_weight",
+      "types": {
+        "bool": 32
+      },
+      "present": 32,
+      "missing": 0
+    }
+  ],
+  "02_csapatok/meccsekben_szereplo_csapatok": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/original_name",
+      "types": {
+        "str": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/appearances",
+      "types": {
+        "int": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/matching_alias_keys",
+      "types": {
+        "list": 32
+      },
+      "present": 32,
+      "missing": 0
+    },
+    {
+      "path": "/weight",
+      "types": {
+        "float": 26,
+        "int": 6
+      },
+      "present": 32,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/ligankenti_osszefoglalo": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/T",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/ece",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/lastComputedAt",
+      "types": {
+        "str": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/mean",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/lo",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/hi",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/crossesZero",
+      "types": {
+        "bool": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/iterations",
+      "types": {
+        "int": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/skillCI/n",
+      "types": {
+        "int": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/n",
+      "types": {
+        "int": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/entropyFloor",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/oracleLogLoss",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/b1LogLoss",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/ensLogLoss",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/headroom",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/saturated",
+      "types": {
+        "bool": 2
+      },
+      "present": 2,
+      "missing": 0
+    },
+    {
+      "path": "/data/entropyFloor/saturationGap",
+      "types": {
+        "float": 2
+      },
+      "present": 2,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/angol_ad7f94aa67/homerseklet_tortenet": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 825
+      },
+      "present": 825,
+      "missing": 0
+    },
+    {
+      "path": "/source_index",
+      "types": {
+        "int": 825
+      },
+      "present": 825,
+      "missing": 0
+    },
+    {
+      "path": "/data/fittedAtMatchIndex",
+      "types": {
+        "int": 825
+      },
+      "present": 825,
+      "missing": 0
+    },
+    {
+      "path": "/data/T",
+      "types": {
+        "int": 167,
+        "float": 658
+      },
+      "present": 825,
+      "missing": 0
+    },
+    {
+      "path": "/data/ece",
+      "types": {
+        "float": 825
+      },
+      "present": 825,
+      "missing": 0
+    },
+    {
+      "path": "/data/sampleSize",
+      "types": {
+        "int": 825
+      },
+      "present": 825,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/angol_ad7f94aa67/modell_illesztes_tortenet": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/source_index",
+      "types": {
+        "int": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/data/fittedAtMatchIndex",
+      "types": {
+        "int": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/data/kind",
+      "types": {
+        "str": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/data/n",
+      "types": {
+        "int": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/data/avgLogLoss",
+      "types": {
+        "float": 1650
+      },
+      "present": 1650,
+      "missing": 0
+    },
+    {
+      "path": "/data/wM1",
+      "types": {
+        "float": 825
+      },
+      "present": 825,
+      "missing": 825
+    }
+  ],
+  "07_kalibracio/piaci_osszefoglalo": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/market_key",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/market",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/label",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/n",
+      "types": {
+        "int": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/avgP",
+      "types": {
+        "float": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/hitRate",
+      "types": {
+        "float": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/brier",
+      "types": {
+        "float": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/logLoss",
+      "types": {
+        "float": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/ece",
+      "types": {
+        "float": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/evaluable",
+      "types": {
+        "bool": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated",
+      "types": {
+        "bool": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/verdict",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    },
+    {
+      "path": "/data/headline",
+      "types": {
+        "str": 12
+      },
+      "present": 12,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/kalibracios_savok": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/market_key",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/source_index",
+      "types": {
+        "int": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/key",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/label",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/range",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/n",
+      "types": {
+        "int": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/hits",
+      "types": {
+        "int": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/avgP",
+      "types": {
+        "float": 64,
+        "int": 8
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/hitRate",
+      "types": {
+        "float": 64,
+        "int": 8
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/gap",
+      "types": {
+        "float": 64,
+        "int": 8
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/ciLo",
+      "types": {
+        "float": 64,
+        "int": 8
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/ciHi",
+      "types": {
+        "float": 64,
+        "int": 8
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/calibrated",
+      "types": {
+        "bool": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/evaluable",
+      "types": {
+        "bool": 72
+      },
+      "present": 72,
+      "missing": 0
+    },
+    {
+      "path": "/data/diagnosis",
+      "types": {
+        "str": 72
+      },
+      "present": 72,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/spanyol_85883d77d1/homerseklet_tortenet": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 545
+      },
+      "present": 545,
+      "missing": 0
+    },
+    {
+      "path": "/source_index",
+      "types": {
+        "int": 545
+      },
+      "present": 545,
+      "missing": 0
+    },
+    {
+      "path": "/data/fittedAtMatchIndex",
+      "types": {
+        "int": 545
+      },
+      "present": 545,
+      "missing": 0
+    },
+    {
+      "path": "/data/T",
+      "types": {
+        "float": 250,
+        "int": 295
+      },
+      "present": 545,
+      "missing": 0
+    },
+    {
+      "path": "/data/ece",
+      "types": {
+        "float": 545
+      },
+      "present": 545,
+      "missing": 0
+    },
+    {
+      "path": "/data/sampleSize",
+      "types": {
+        "int": 545
+      },
+      "present": 545,
+      "missing": 0
+    }
+  ],
+  "07_kalibracio/spanyol_85883d77d1/modell_illesztes_tortenet": [
+    {
+      "path": "/league",
+      "types": {
+        "str": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/source_index",
+      "types": {
+        "int": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/data/fittedAtMatchIndex",
+      "types": {
+        "int": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/data/kind",
+      "types": {
+        "str": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/data/n",
+      "types": {
+        "int": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/data/avgLogLoss",
+      "types": {
+        "float": 1090
+      },
+      "present": 1090,
+      "missing": 0
+    },
+    {
+      "path": "/data/wM1",
+      "types": {
+        "float": 545
+      },
+      "present": 545,
+      "missing": 545
+    }
+  ]
+}

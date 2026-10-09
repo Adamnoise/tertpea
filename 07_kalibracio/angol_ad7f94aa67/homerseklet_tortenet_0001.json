@@ -1,0 +1,8252 @@
+[
+  {
+    "league": "angol",
+    "source_index": 1,
+    "data": {
+      "fittedAtMatchIndex": 36,
+      "T": 1,
+      "ece": 0.057344629389650945,
+      "sampleSize": 36
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 2,
+    "data": {
+      "fittedAtMatchIndex": 54,
+      "T": 1.8,
+      "ece": 0.03954637203405266,
+      "sampleSize": 54
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 3,
+    "data": {
+      "fittedAtMatchIndex": 72,
+      "T": 1.5,
+      "ece": 0.04486150213427353,
+      "sampleSize": 72
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 4,
+    "data": {
+      "fittedAtMatchIndex": 90,
+      "T": 1.3,
+      "ece": 0.012133456648362677,
+      "sampleSize": 90
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 5,
+    "data": {
+      "fittedAtMatchIndex": 108,
+      "T": 1.4,
+      "ece": 0.007067225877095858,
+      "sampleSize": 108
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 6,
+    "data": {
+      "fittedAtMatchIndex": 126,
+      "T": 1.75,
+      "ece": 0.02497274541966799,
+      "sampleSize": 126
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 7,
+    "data": {
+      "fittedAtMatchIndex": 144,
+      "T": 1.55,
+      "ece": 0.014748272372009995,
+      "sampleSize": 144
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 8,
+    "data": {
+      "fittedAtMatchIndex": 162,
+      "T": 1.65,
+      "ece": 0.02417386346637694,
+      "sampleSize": 162
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 9,
+    "data": {
+      "fittedAtMatchIndex": 180,
+      "T": 1.65,
+      "ece": 0.025658755973991507,
+      "sampleSize": 180
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 10,
+    "data": {
+      "fittedAtMatchIndex": 198,
+      "T": 1.55,
+      "ece": 0.023823538871772753,
+      "sampleSize": 198
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 11,
+    "data": {
+      "fittedAtMatchIndex": 216,
+      "T": 1.5,
+      "ece": 0.027664084410498176,
+      "sampleSize": 216
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 12,
+    "data": {
+      "fittedAtMatchIndex": 234,
+      "T": 1.4,
+      "ece": 0.02854584624094605,
+      "sampleSize": 234
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 13,
+    "data": {
+      "fittedAtMatchIndex": 252,
+      "T": 1.45,
+      "ece": 0.02128273234498979,
+      "sampleSize": 252
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 14,
+    "data": {
+      "fittedAtMatchIndex": 270,
+      "T": 1.45,
+      "ece": 0.018938164080885986,
+      "sampleSize": 270
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 15,
+    "data": {
+      "fittedAtMatchIndex": 288,
+      "T": 1.45,
+      "ece": 0.015319550370197854,
+      "sampleSize": 288
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 16,
+    "data": {
+      "fittedAtMatchIndex": 306,
+      "T": 1.45,
+      "ece": 0.014475798572247041,
+      "sampleSize": 306
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 17,
+    "data": {
+      "fittedAtMatchIndex": 324,
+      "T": 1.4,
+      "ece": 0.014553204300918485,
+      "sampleSize": 324
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 18,
+    "data": {
+      "fittedAtMatchIndex": 342,
+      "T": 1.4,
+      "ece": 0.016778729572118713,
+      "sampleSize": 342
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 19,
+    "data": {
+      "fittedAtMatchIndex": 360,
+      "T": 1.35,
+      "ece": 0.018967736575561653,
+      "sampleSize": 360
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 20,
+    "data": {
+      "fittedAtMatchIndex": 378,
+      "T": 1.35,
+      "ece": 0.021796662998011033,
+      "sampleSize": 378
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 21,
+    "data": {
+      "fittedAtMatchIndex": 396,
+      "T": 1.3,
+      "ece": 0.01765022599159216,
+      "sampleSize": 396
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 22,
+    "data": {
+      "fittedAtMatchIndex": 414,
+      "T": 1.3,
+      "ece": 0.019068386097779312,
+      "sampleSize": 414
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 23,
+    "data": {
+      "fittedAtMatchIndex": 432,
+      "T": 1.35,
+      "ece": 0.020475511783133844,
+      "sampleSize": 432
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 24,
+    "data": {
+      "fittedAtMatchIndex": 450,
+      "T": 1.3,
+      "ece": 0.01843342380090605,
+      "sampleSize": 450
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 25,
+    "data": {
+      "fittedAtMatchIndex": 468,
+      "T": 1.3,
+      "ece": 0.018427656834028687,
+      "sampleSize": 468
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 26,
+    "data": {
+      "fittedAtMatchIndex": 486,
+      "T": 1.25,
+      "ece": 0.016520644912981348,
+      "sampleSize": 486
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 27,
+    "data": {
+      "fittedAtMatchIndex": 504,
+      "T": 1.25,
+      "ece": 0.01770265696349244,
+      "sampleSize": 504
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 28,
+    "data": {
+      "fittedAtMatchIndex": 522,
+      "T": 1.25,
+      "ece": 0.015898665865609434,
+      "sampleSize": 522
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 29,
+    "data": {
+      "fittedAtMatchIndex": 540,
+      "T": 1.25,
+      "ece": 0.014865814594308214,
+      "sampleSize": 540
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 30,
+    "data": {
+      "fittedAtMatchIndex": 558,
+      "T": 1.3,
+      "ece": 0.0199757212799549,
+      "sampleSize": 558
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 31,
+    "data": {
+      "fittedAtMatchIndex": 576,
+      "T": 1.25,
+      "ece": 0.013732483622728437,
+      "sampleSize": 576
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 32,
+    "data": {
+      "fittedAtMatchIndex": 594,
+      "T": 1.25,
+      "ece": 0.01606526693509368,
+      "sampleSize": 594
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 33,
+    "data": {
+      "fittedAtMatchIndex": 612,
+      "T": 1.2,
+      "ece": 0.015419917075836592,
+      "sampleSize": 612
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 34,
+    "data": {
+      "fittedAtMatchIndex": 630,
+      "T": 1.2,
+      "ece": 0.016357042115519686,
+      "sampleSize": 630
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 35,
+    "data": {
+      "fittedAtMatchIndex": 648,
+      "T": 1.2,
+      "ece": 0.013298010261186098,
+      "sampleSize": 648
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 36,
+    "data": {
+      "fittedAtMatchIndex": 666,
+      "T": 1.2,
+      "ece": 0.016772806202378157,
+      "sampleSize": 666
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 37,
+    "data": {
+      "fittedAtMatchIndex": 684,
+      "T": 1.15,
+      "ece": 0.021796500831254364,
+      "sampleSize": 684
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 38,
+    "data": {
+      "fittedAtMatchIndex": 702,
+      "T": 1.2,
+      "ece": 0.019141462082185486,
+      "sampleSize": 702
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 39,
+    "data": {
+      "fittedAtMatchIndex": 720,
+      "T": 1.15,
+      "ece": 0.02023075298724555,
+      "sampleSize": 720
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 40,
+    "data": {
+      "fittedAtMatchIndex": 738,
+      "T": 1.15,
+      "ece": 0.023119581036778136,
+      "sampleSize": 738
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 41,
+    "data": {
+      "fittedAtMatchIndex": 756,
+      "T": 1.15,
+      "ece": 0.02166821915065386,
+      "sampleSize": 756
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 42,
+    "data": {
+      "fittedAtMatchIndex": 774,
+      "T": 1.15,
+      "ece": 0.022020369830124918,
+      "sampleSize": 774
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 43,
+    "data": {
+      "fittedAtMatchIndex": 792,
+      "T": 1.1,
+      "ece": 0.027459461710051876,
+      "sampleSize": 792
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 44,
+    "data": {
+      "fittedAtMatchIndex": 810,
+      "T": 1.1,
+      "ece": 0.02649133064047308,
+      "sampleSize": 810
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 45,
+    "data": {
+      "fittedAtMatchIndex": 828,
+      "T": 1.1,
+      "ece": 0.02731005247895633,
+      "sampleSize": 828
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 46,
+    "data": {
+      "fittedAtMatchIndex": 846,
+      "T": 1.1,
+      "ece": 0.026421210487407622,
+      "sampleSize": 846
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 47,
+    "data": {
+      "fittedAtMatchIndex": 864,
+      "T": 1.1,
+      "ece": 0.027465941596977028,
+      "sampleSize": 864
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 48,
+    "data": {
+      "fittedAtMatchIndex": 882,
+      "T": 1.1,
+      "ece": 0.023418707207748926,
+      "sampleSize": 882
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 49,
+    "data": {
+      "fittedAtMatchIndex": 900,
+      "T": 1.1,
+      "ece": 0.021584304840546176,
+      "sampleSize": 900
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 50,
+    "data": {
+      "fittedAtMatchIndex": 918,
+      "T": 1.1,
+      "ece": 0.02052461584202863,
+      "sampleSize": 918
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 51,
+    "data": {
+      "fittedAtMatchIndex": 936,
+      "T": 1.1,
+      "ece": 0.021897363406354467,
+      "sampleSize": 936
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 52,
+    "data": {
+      "fittedAtMatchIndex": 954,
+      "T": 1.1,
+      "ece": 0.021360778465149142,
+      "sampleSize": 954
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 53,
+    "data": {
+      "fittedAtMatchIndex": 972,
+      "T": 1.1,
+      "ece": 0.022000373367834537,
+      "sampleSize": 972
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 54,
+    "data": {
+      "fittedAtMatchIndex": 990,
+      "T": 1.1,
+      "ece": 0.020965683508645496,
+      "sampleSize": 990
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 55,
+    "data": {
+      "fittedAtMatchIndex": 1008,
+      "T": 1.1,
+      "ece": 0.020553473970217714,
+      "sampleSize": 1008
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 56,
+    "data": {
+      "fittedAtMatchIndex": 1026,
+      "T": 1.1,
+      "ece": 0.019668428928206,
+      "sampleSize": 1026
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 57,
+    "data": {
+      "fittedAtMatchIndex": 1044,
+      "T": 1.1,
+      "ece": 0.019644766390325336,
+      "sampleSize": 1044
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 58,
+    "data": {
+      "fittedAtMatchIndex": 1062,
+      "T": 1.1,
+      "ece": 0.02029295044733965,
+      "sampleSize": 1062
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 59,
+    "data": {
+      "fittedAtMatchIndex": 1080,
+      "T": 1.1,
+      "ece": 0.020701085572496832,
+      "sampleSize": 1080
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 60,
+    "data": {
+      "fittedAtMatchIndex": 1098,
+      "T": 1.1,
+      "ece": 0.02082132481794581,
+      "sampleSize": 1098
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 61,
+    "data": {
+      "fittedAtMatchIndex": 1116,
+      "T": 1.1,
+      "ece": 0.019486138419326716,
+      "sampleSize": 1116
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 62,
+    "data": {
+      "fittedAtMatchIndex": 1134,
+      "T": 1.1,
+      "ece": 0.020941957968088697,
+      "sampleSize": 1134
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 63,
+    "data": {
+      "fittedAtMatchIndex": 1152,
+      "T": 1.1,
+      "ece": 0.019525763804725257,
+      "sampleSize": 1152
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 64,
+    "data": {
+      "fittedAtMatchIndex": 1170,
+      "T": 1.1,
+      "ece": 0.019806040417117334,
+      "sampleSize": 1170
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 65,
+    "data": {
+      "fittedAtMatchIndex": 1188,
+      "T": 1.1,
+      "ece": 0.019041359529699722,
+      "sampleSize": 1188
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 66,
+    "data": {
+      "fittedAtMatchIndex": 1206,
+      "T": 1.1,
+      "ece": 0.018634363827212317,
+      "sampleSize": 1206
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 67,
+    "data": {
+      "fittedAtMatchIndex": 1224,
+      "T": 1.1,
+      "ece": 0.01868921809194962,
+      "sampleSize": 1224
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 68,
+    "data": {
+      "fittedAtMatchIndex": 1242,
+      "T": 1.1,
+      "ece": 0.018715132131093007,
+      "sampleSize": 1242
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 69,
+    "data": {
+      "fittedAtMatchIndex": 1260,
+      "T": 1.1,
+      "ece": 0.01746064553244357,
+      "sampleSize": 1260
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 70,
+    "data": {
+      "fittedAtMatchIndex": 1278,
+      "T": 1.1,
+      "ece": 0.01696899271958578,
+      "sampleSize": 1278
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 71,
+    "data": {
+      "fittedAtMatchIndex": 1296,
+      "T": 1.1,
+      "ece": 0.01773386629749727,
+      "sampleSize": 1296
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 72,
+    "data": {
+      "fittedAtMatchIndex": 1314,
+      "T": 1.1,
+      "ece": 0.01765187706849654,
+      "sampleSize": 1314
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 73,
+    "data": {
+      "fittedAtMatchIndex": 1332,
+      "T": 1.1,
+      "ece": 0.018549986594073756,
+      "sampleSize": 1332
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 74,
+    "data": {
+      "fittedAtMatchIndex": 1350,
+      "T": 1.1,
+      "ece": 0.017235255052769797,
+      "sampleSize": 1350
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 75,
+    "data": {
+      "fittedAtMatchIndex": 1368,
+      "T": 1.1,
+      "ece": 0.018127768452442846,
+      "sampleSize": 1368
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 76,
+    "data": {
+      "fittedAtMatchIndex": 1386,
+      "T": 1.1,
+      "ece": 0.018352617534198767,
+      "sampleSize": 1386
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 77,
+    "data": {
+      "fittedAtMatchIndex": 1404,
+      "T": 1.1,
+      "ece": 0.017215136780444215,
+      "sampleSize": 1404
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 78,
+    "data": {
+      "fittedAtMatchIndex": 1422,
+      "T": 1.1,
+      "ece": 0.018755009929439258,
+      "sampleSize": 1422
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 79,
+    "data": {
+      "fittedAtMatchIndex": 1440,
+      "T": 1.1,
+      "ece": 0.01806559151983663,
+      "sampleSize": 1440
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 80,
+    "data": {
+      "fittedAtMatchIndex": 1458,
+      "T": 1.1,
+      "ece": 0.015291964213657873,
+      "sampleSize": 1458
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 81,
+    "data": {
+      "fittedAtMatchIndex": 1476,
+      "T": 1.1,
+      "ece": 0.015923959933668717,
+      "sampleSize": 1476
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 82,
+    "data": {
+      "fittedAtMatchIndex": 1494,
+      "T": 1.1,
+      "ece": 0.017910198967618318,
+      "sampleSize": 1494
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 83,
+    "data": {
+      "fittedAtMatchIndex": 1512,
+      "T": 1.1,
+      "ece": 0.017618920200561366,
+      "sampleSize": 1512
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 84,
+    "data": {
+      "fittedAtMatchIndex": 1530,
+      "T": 1.1,
+      "ece": 0.017431178062129113,
+      "sampleSize": 1530
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 85,
+    "data": {
+      "fittedAtMatchIndex": 1548,
+      "T": 1.1,
+      "ece": 0.018001200981507325,
+      "sampleSize": 1548
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 86,
+    "data": {
+      "fittedAtMatchIndex": 1566,
+      "T": 1.1,
+      "ece": 0.017994797959020425,
+      "sampleSize": 1566
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 87,
+    "data": {
+      "fittedAtMatchIndex": 1584,
+      "T": 1.1,
+      "ece": 0.017993756150201108,
+      "sampleSize": 1584
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 88,
+    "data": {
+      "fittedAtMatchIndex": 1602,
+      "T": 1.1,
+      "ece": 0.018625192394384805,
+      "sampleSize": 1602
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 89,
+    "data": {
+      "fittedAtMatchIndex": 1620,
+      "T": 1.1,
+      "ece": 0.01878774771950134,
+      "sampleSize": 1620
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 90,
+    "data": {
+      "fittedAtMatchIndex": 1638,
+      "T": 1.1,
+      "ece": 0.01934570817788678,
+      "sampleSize": 1638
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 91,
+    "data": {
+      "fittedAtMatchIndex": 1656,
+      "T": 1.1,
+      "ece": 0.019247600528585436,
+      "sampleSize": 1656
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 92,
+    "data": {
+      "fittedAtMatchIndex": 1674,
+      "T": 1.1,
+      "ece": 0.020240077795434772,
+      "sampleSize": 1674
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 93,
+    "data": {
+      "fittedAtMatchIndex": 1692,
+      "T": 1.1,
+      "ece": 0.020597110374699624,
+      "sampleSize": 1692
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 94,
+    "data": {
+      "fittedAtMatchIndex": 1710,
+      "T": 1.1,
+      "ece": 0.020298991867090582,
+      "sampleSize": 1710
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 95,
+    "data": {
+      "fittedAtMatchIndex": 1728,
+      "T": 1.1,
+      "ece": 0.019107059112720558,
+      "sampleSize": 1728
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 96,
+    "data": {
+      "fittedAtMatchIndex": 1746,
+      "T": 1.1,
+      "ece": 0.019409972256029737,
+      "sampleSize": 1746
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 97,
+    "data": {
+      "fittedAtMatchIndex": 1764,
+      "T": 1.1,
+      "ece": 0.019025636802733212,
+      "sampleSize": 1764
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 98,
+    "data": {
+      "fittedAtMatchIndex": 1782,
+      "T": 1.1,
+      "ece": 0.018312126907098783,
+      "sampleSize": 1782
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 99,
+    "data": {
+      "fittedAtMatchIndex": 1800,
+      "T": 1.1,
+      "ece": 0.0170893287009774,
+      "sampleSize": 1800
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 100,
+    "data": {
+      "fittedAtMatchIndex": 1818,
+      "T": 1.1,
+      "ece": 0.01780628686947049,
+      "sampleSize": 1818
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 101,
+    "data": {
+      "fittedAtMatchIndex": 1836,
+      "T": 1.1,
+      "ece": 0.01800195530677368,
+      "sampleSize": 1836
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 102,
+    "data": {
+      "fittedAtMatchIndex": 1854,
+      "T": 1.1,
+      "ece": 0.017715353444446563,
+      "sampleSize": 1854
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 103,
+    "data": {
+      "fittedAtMatchIndex": 1872,
+      "T": 1.1,
+      "ece": 0.01804612452309904,
+      "sampleSize": 1872
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 104,
+    "data": {
+      "fittedAtMatchIndex": 1890,
+      "T": 1.1,
+      "ece": 0.017451448055483043,
+      "sampleSize": 1890
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 105,
+    "data": {
+      "fittedAtMatchIndex": 1908,
+      "T": 1.1,
+      "ece": 0.017937389488254567,
+      "sampleSize": 1908
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 106,
+    "data": {
+      "fittedAtMatchIndex": 1926,
+      "T": 1.1,
+      "ece": 0.017815863006225112,
+      "sampleSize": 1926
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 107,
+    "data": {
+      "fittedAtMatchIndex": 1944,
+      "T": 1.1,
+      "ece": 0.016792896336415085,
+      "sampleSize": 1944
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 108,
+    "data": {
+      "fittedAtMatchIndex": 1962,
+      "T": 1.05,
+      "ece": 0.015335033229281918,
+      "sampleSize": 1962
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 109,
+    "data": {
+      "fittedAtMatchIndex": 1980,
+      "T": 1.05,
+      "ece": 0.014644519931603197,
+      "sampleSize": 1980
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 110,
+    "data": {
+      "fittedAtMatchIndex": 1998,
+      "T": 1.05,
+      "ece": 0.01496434550762584,
+      "sampleSize": 1998
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 111,
+    "data": {
+      "fittedAtMatchIndex": 2016,
+      "T": 1.05,
+      "ece": 0.015509694666843214,
+      "sampleSize": 2016
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 112,
+    "data": {
+      "fittedAtMatchIndex": 2034,
+      "T": 1.05,
+      "ece": 0.014827345373312093,
+      "sampleSize": 2034
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 113,
+    "data": {
+      "fittedAtMatchIndex": 2052,
+      "T": 1.05,
+      "ece": 0.01480826908299609,
+      "sampleSize": 2052
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 114,
+    "data": {
+      "fittedAtMatchIndex": 2070,
+      "T": 1.05,
+      "ece": 0.01555436812845104,
+      "sampleSize": 2070
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 115,
+    "data": {
+      "fittedAtMatchIndex": 2088,
+      "T": 1.05,
+      "ece": 0.015243357847335527,
+      "sampleSize": 2088
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 116,
+    "data": {
+      "fittedAtMatchIndex": 2106,
+      "T": 1.05,
+      "ece": 0.015242914969661769,
+      "sampleSize": 2106
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 117,
+    "data": {
+      "fittedAtMatchIndex": 2124,
+      "T": 1.05,
+      "ece": 0.01524279150956616,
+      "sampleSize": 2124
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 118,
+    "data": {
+      "fittedAtMatchIndex": 2142,
+      "T": 1.05,
+      "ece": 0.014092042115060651,
+      "sampleSize": 2142
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 119,
+    "data": {
+      "fittedAtMatchIndex": 2160,
+      "T": 1.05,
+      "ece": 0.01404415929426706,
+      "sampleSize": 2160
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 120,
+    "data": {
+      "fittedAtMatchIndex": 2178,
+      "T": 1.05,
+      "ece": 0.01525856759947951,
+      "sampleSize": 2178
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 121,
+    "data": {
+      "fittedAtMatchIndex": 2196,
+      "T": 1.05,
+      "ece": 0.01592183629892854,
+      "sampleSize": 2196
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 122,
+    "data": {
+      "fittedAtMatchIndex": 2214,
+      "T": 1.05,
+      "ece": 0.01570892420520465,
+      "sampleSize": 2214
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 123,
+    "data": {
+      "fittedAtMatchIndex": 2232,
+      "T": 1.05,
+      "ece": 0.015630961370643036,
+      "sampleSize": 2232
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 124,
+    "data": {
+      "fittedAtMatchIndex": 2250,
+      "T": 1.05,
+      "ece": 0.015671074803529823,
+      "sampleSize": 2250
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 125,
+    "data": {
+      "fittedAtMatchIndex": 2268,
+      "T": 1.05,
+      "ece": 0.015195361445022522,
+      "sampleSize": 2268
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 126,
+    "data": {
+      "fittedAtMatchIndex": 2286,
+      "T": 1.05,
+      "ece": 0.01557629906522607,
+      "sampleSize": 2286
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 127,
+    "data": {
+      "fittedAtMatchIndex": 2304,
+      "T": 1.05,
+      "ece": 0.015970580012309433,
+      "sampleSize": 2304
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 128,
+    "data": {
+      "fittedAtMatchIndex": 2322,
+      "T": 1.05,
+      "ece": 0.015599359713284118,
+      "sampleSize": 2322
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 129,
+    "data": {
+      "fittedAtMatchIndex": 2340,
+      "T": 1.05,
+      "ece": 0.01602101254285553,
+      "sampleSize": 2340
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 130,
+    "data": {
+      "fittedAtMatchIndex": 2358,
+      "T": 1.05,
+      "ece": 0.015421043110401177,
+      "sampleSize": 2358
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 131,
+    "data": {
+      "fittedAtMatchIndex": 2376,
+      "T": 1,
+      "ece": 0.011507891889791337,
+      "sampleSize": 2376
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 132,
+    "data": {
+      "fittedAtMatchIndex": 2394,
+      "T": 1.05,
+      "ece": 0.014800260523041476,
+      "sampleSize": 2394
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 133,
+    "data": {
+      "fittedAtMatchIndex": 2412,
+      "T": 1.05,
+      "ece": 0.014861246419844756,
+      "sampleSize": 2412
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 134,
+    "data": {
+      "fittedAtMatchIndex": 2430,
+      "T": 1.05,
+      "ece": 0.015858991938894288,
+      "sampleSize": 2430
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 135,
+    "data": {
+      "fittedAtMatchIndex": 2448,
+      "T": 1.05,
+      "ece": 0.015399623811291825,
+      "sampleSize": 2448
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 136,
+    "data": {
+      "fittedAtMatchIndex": 2466,
+      "T": 1.05,
+      "ece": 0.014437247702785226,
+      "sampleSize": 2466
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 137,
+    "data": {
+      "fittedAtMatchIndex": 2484,
+      "T": 1.05,
+      "ece": 0.014215076455570075,
+      "sampleSize": 2484
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 138,
+    "data": {
+      "fittedAtMatchIndex": 2502,
+      "T": 1.05,
+      "ece": 0.014720193882090305,
+      "sampleSize": 2502
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 139,
+    "data": {
+      "fittedAtMatchIndex": 2520,
+      "T": 1,
+      "ece": 0.01247510965830066,
+      "sampleSize": 2520
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 140,
+    "data": {
+      "fittedAtMatchIndex": 2538,
+      "T": 1,
+      "ece": 0.012263107446636161,
+      "sampleSize": 2538
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 141,
+    "data": {
+      "fittedAtMatchIndex": 2556,
+      "T": 1.05,
+      "ece": 0.014920951108556176,
+      "sampleSize": 2556
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 142,
+    "data": {
+      "fittedAtMatchIndex": 2574,
+      "T": 1.05,
+      "ece": 0.014857808410533194,
+      "sampleSize": 2574
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 143,
+    "data": {
+      "fittedAtMatchIndex": 2592,
+      "T": 1.05,
+      "ece": 0.01366292087893865,
+      "sampleSize": 2592
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 144,
+    "data": {
+      "fittedAtMatchIndex": 2610,
+      "T": 1.05,
+      "ece": 0.013164730332589601,
+      "sampleSize": 2610
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 145,
+    "data": {
+      "fittedAtMatchIndex": 2628,
+      "T": 1.05,
+      "ece": 0.013213264924654695,
+      "sampleSize": 2628
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 146,
+    "data": {
+      "fittedAtMatchIndex": 2646,
+      "T": 1.05,
+      "ece": 0.013340104195631235,
+      "sampleSize": 2646
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 147,
+    "data": {
+      "fittedAtMatchIndex": 2664,
+      "T": 1.05,
+      "ece": 0.01229533010201232,
+      "sampleSize": 2664
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 148,
+    "data": {
+      "fittedAtMatchIndex": 2682,
+      "T": 1.05,
+      "ece": 0.01232234752899978,
+      "sampleSize": 2682
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 149,
+    "data": {
+      "fittedAtMatchIndex": 2700,
+      "T": 1,
+      "ece": 0.009418415800572216,
+      "sampleSize": 2700
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 150,
+    "data": {
+      "fittedAtMatchIndex": 2718,
+      "T": 1.05,
+      "ece": 0.012720995672984708,
+      "sampleSize": 2718
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 151,
+    "data": {
+      "fittedAtMatchIndex": 2736,
+      "T": 1.05,
+      "ece": 0.012339661087014444,
+      "sampleSize": 2736
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 152,
+    "data": {
+      "fittedAtMatchIndex": 2754,
+      "T": 1.05,
+      "ece": 0.012616057184651704,
+      "sampleSize": 2754
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 153,
+    "data": {
+      "fittedAtMatchIndex": 2772,
+      "T": 1.05,
+      "ece": 0.012543844791635944,
+      "sampleSize": 2772
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 154,
+    "data": {
+      "fittedAtMatchIndex": 2790,
+      "T": 1,
+      "ece": 0.00973229723142901,
+      "sampleSize": 2790
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 155,
+    "data": {
+      "fittedAtMatchIndex": 2808,
+      "T": 1,
+      "ece": 0.00960896453980849,
+      "sampleSize": 2808
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 156,
+    "data": {
+      "fittedAtMatchIndex": 2826,
+      "T": 1,
+      "ece": 0.009949035767862073,
+      "sampleSize": 2826
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 157,
+    "data": {
+      "fittedAtMatchIndex": 2844,
+      "T": 1,
+      "ece": 0.010283947134388223,
+      "sampleSize": 2844
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 158,
+    "data": {
+      "fittedAtMatchIndex": 2862,
+      "T": 1,
+      "ece": 0.01007636293441089,
+      "sampleSize": 2862
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 159,
+    "data": {
+      "fittedAtMatchIndex": 2880,
+      "T": 1,
+      "ece": 0.010349878205236857,
+      "sampleSize": 2880
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 160,
+    "data": {
+      "fittedAtMatchIndex": 2898,
+      "T": 1,
+      "ece": 0.010269763448877525,
+      "sampleSize": 2898
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 161,
+    "data": {
+      "fittedAtMatchIndex": 2916,
+      "T": 1,
+      "ece": 0.010199034533184598,
+      "sampleSize": 2916
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 162,
+    "data": {
+      "fittedAtMatchIndex": 2934,
+      "T": 1,
+      "ece": 0.010295202075250306,
+      "sampleSize": 2934
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 163,
+    "data": {
+      "fittedAtMatchIndex": 2952,
+      "T": 1,
+      "ece": 0.011066643203365178,
+      "sampleSize": 2952
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 164,
+    "data": {
+      "fittedAtMatchIndex": 2970,
+      "T": 1,
+      "ece": 0.011128771125968846,
+      "sampleSize": 2970
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 165,
+    "data": {
+      "fittedAtMatchIndex": 2988,
+      "T": 1,
+      "ece": 0.010772888606546436,
+      "sampleSize": 2988
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 166,
+    "data": {
+      "fittedAtMatchIndex": 3006,
+      "T": 1,
+      "ece": 0.011369691149429541,
+      "sampleSize": 3006
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 167,
+    "data": {
+      "fittedAtMatchIndex": 3024,
+      "T": 1,
+      "ece": 0.011679420731071467,
+      "sampleSize": 3024
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 168,
+    "data": {
+      "fittedAtMatchIndex": 3042,
+      "T": 1,
+      "ece": 0.011763711683688276,
+      "sampleSize": 3042
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 169,
+    "data": {
+      "fittedAtMatchIndex": 3060,
+      "T": 1,
+      "ece": 0.012146706104428907,
+      "sampleSize": 3060
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 170,
+    "data": {
+      "fittedAtMatchIndex": 3078,
+      "T": 1,
+      "ece": 0.011848079041241695,
+      "sampleSize": 3078
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 171,
+    "data": {
+      "fittedAtMatchIndex": 3096,
+      "T": 1,
+      "ece": 0.011637633441849298,
+      "sampleSize": 3096
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 172,
+    "data": {
+      "fittedAtMatchIndex": 3114,
+      "T": 1,
+      "ece": 0.012114880740698605,
+      "sampleSize": 3114
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 173,
+    "data": {
+      "fittedAtMatchIndex": 3132,
+      "T": 1,
+      "ece": 0.012522224821391835,
+      "sampleSize": 3132
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 174,
+    "data": {
+      "fittedAtMatchIndex": 3150,
+      "T": 1,
+      "ece": 0.01205292876713436,
+      "sampleSize": 3150
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 175,
+    "data": {
+      "fittedAtMatchIndex": 3168,
+      "T": 1,
+      "ece": 0.0125036315721781,
+      "sampleSize": 3168
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 176,
+    "data": {
+      "fittedAtMatchIndex": 3186,
+      "T": 1,
+      "ece": 0.012444300755191439,
+      "sampleSize": 3186
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 177,
+    "data": {
+      "fittedAtMatchIndex": 3204,
+      "T": 1,
+      "ece": 0.01294486097377929,
+      "sampleSize": 3204
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 178,
+    "data": {
+      "fittedAtMatchIndex": 3222,
+      "T": 1,
+      "ece": 0.012236017887173906,
+      "sampleSize": 3222
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 179,
+    "data": {
+      "fittedAtMatchIndex": 3240,
+      "T": 1,
+      "ece": 0.011714814051818328,
+      "sampleSize": 3240
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 180,
+    "data": {
+      "fittedAtMatchIndex": 3258,
+      "T": 1,
+      "ece": 0.011535587698056625,
+      "sampleSize": 3258
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 181,
+    "data": {
+      "fittedAtMatchIndex": 3276,
+      "T": 1,
+      "ece": 0.011155745402971276,
+      "sampleSize": 3276
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 182,
+    "data": {
+      "fittedAtMatchIndex": 3294,
+      "T": 1,
+      "ece": 0.010480586583670085,
+      "sampleSize": 3294
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 183,
+    "data": {
+      "fittedAtMatchIndex": 3312,
+      "T": 1,
+      "ece": 0.010624029799131277,
+      "sampleSize": 3312
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 184,
+    "data": {
+      "fittedAtMatchIndex": 3330,
+      "T": 1,
+      "ece": 0.010387169885474818,
+      "sampleSize": 3330
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 185,
+    "data": {
+      "fittedAtMatchIndex": 3348,
+      "T": 1,
+      "ece": 0.010202825870793698,
+      "sampleSize": 3348
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 186,
+    "data": {
+      "fittedAtMatchIndex": 3366,
+      "T": 1,
+      "ece": 0.009537458985745628,
+      "sampleSize": 3366
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 187,
+    "data": {
+      "fittedAtMatchIndex": 3384,
+      "T": 1,
+      "ece": 0.009918929783887356,
+      "sampleSize": 3384
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 188,
+    "data": {
+      "fittedAtMatchIndex": 3402,
+      "T": 1,
+      "ece": 0.009891389495039121,
+      "sampleSize": 3402
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 189,
+    "data": {
+      "fittedAtMatchIndex": 3420,
+      "T": 1,
+      "ece": 0.010089288502010865,
+      "sampleSize": 3420
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 190,
+    "data": {
+      "fittedAtMatchIndex": 3438,
+      "T": 1,
+      "ece": 0.009502383469730848,
+      "sampleSize": 3438
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 191,
+    "data": {
+      "fittedAtMatchIndex": 3456,
+      "T": 1,
+      "ece": 0.009336347067072395,
+      "sampleSize": 3456
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 192,
+    "data": {
+      "fittedAtMatchIndex": 3474,
+      "T": 1,
+      "ece": 0.009429618293059779,
+      "sampleSize": 3474
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 193,
+    "data": {
+      "fittedAtMatchIndex": 3492,
+      "T": 1,
+      "ece": 0.009531999184776853,
+      "sampleSize": 3492
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 194,
+    "data": {
+      "fittedAtMatchIndex": 3510,
+      "T": 1,
+      "ece": 0.009833870418696683,
+      "sampleSize": 3510
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 195,
+    "data": {
+      "fittedAtMatchIndex": 3528,
+      "T": 0.95,
+      "ece": 0.009952149984088148,
+      "sampleSize": 3528
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 196,
+    "data": {
+      "fittedAtMatchIndex": 3546,
+      "T": 0.95,
+      "ece": 0.009034120113695447,
+      "sampleSize": 3546
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 197,
+    "data": {
+      "fittedAtMatchIndex": 3564,
+      "T": 1,
+      "ece": 0.008970721405662832,
+      "sampleSize": 3564
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 198,
+    "data": {
+      "fittedAtMatchIndex": 3582,
+      "T": 1,
+      "ece": 0.008528868606801533,
+      "sampleSize": 3582
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 199,
+    "data": {
+      "fittedAtMatchIndex": 3600,
+      "T": 1,
+      "ece": 0.009117577789227614,
+      "sampleSize": 3600
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 200,
+    "data": {
+      "fittedAtMatchIndex": 3618,
+      "T": 1,
+      "ece": 0.009257949776462581,
+      "sampleSize": 3618
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 201,
+    "data": {
+      "fittedAtMatchIndex": 3636,
+      "T": 1,
+      "ece": 0.00892915409042031,
+      "sampleSize": 3636
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 202,
+    "data": {
+      "fittedAtMatchIndex": 3654,
+      "T": 1,
+      "ece": 0.008814025928478256,
+      "sampleSize": 3654
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 203,
+    "data": {
+      "fittedAtMatchIndex": 3672,
+      "T": 1,
+      "ece": 0.00842722641197867,
+      "sampleSize": 3672
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 204,
+    "data": {
+      "fittedAtMatchIndex": 3690,
+      "T": 1,
+      "ece": 0.007973042507496638,
+      "sampleSize": 3690
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 205,
+    "data": {
+      "fittedAtMatchIndex": 3708,
+      "T": 1,
+      "ece": 0.007905746483434142,
+      "sampleSize": 3708
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 206,
+    "data": {
+      "fittedAtMatchIndex": 3726,
+      "T": 1,
+      "ece": 0.007820502471236725,
+      "sampleSize": 3726
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 207,
+    "data": {
+      "fittedAtMatchIndex": 3744,
+      "T": 1,
+      "ece": 0.008063440350970064,
+      "sampleSize": 3744
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 208,
+    "data": {
+      "fittedAtMatchIndex": 3762,
+      "T": 1,
+      "ece": 0.007610805987594565,
+      "sampleSize": 3762
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 209,
+    "data": {
+      "fittedAtMatchIndex": 3780,
+      "T": 1,
+      "ece": 0.0074263497050169325,
+      "sampleSize": 3780
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 210,
+    "data": {
+      "fittedAtMatchIndex": 3798,
+      "T": 1,
+      "ece": 0.00756022685569656,
+      "sampleSize": 3798
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 211,
+    "data": {
+      "fittedAtMatchIndex": 3816,
+      "T": 0.95,
+      "ece": 0.006688316914831521,
+      "sampleSize": 3816
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 212,
+    "data": {
+      "fittedAtMatchIndex": 3834,
+      "T": 0.95,
+      "ece": 0.0069207139767815725,
+      "sampleSize": 3834
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 213,
+    "data": {
+      "fittedAtMatchIndex": 3852,
+      "T": 0.95,
+      "ece": 0.007022568733205146,
+      "sampleSize": 3852
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 214,
+    "data": {
+      "fittedAtMatchIndex": 3870,
+      "T": 1,
+      "ece": 0.007636977296179216,
+      "sampleSize": 3870
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 215,
+    "data": {
+      "fittedAtMatchIndex": 3888,
+      "T": 1,
+      "ece": 0.00741224628810652,
+      "sampleSize": 3888
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 216,
+    "data": {
+      "fittedAtMatchIndex": 3906,
+      "T": 1,
+      "ece": 0.007472884610774368,
+      "sampleSize": 3906
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 217,
+    "data": {
+      "fittedAtMatchIndex": 3924,
+      "T": 1,
+      "ece": 0.007541373849179361,
+      "sampleSize": 3924
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 218,
+    "data": {
+      "fittedAtMatchIndex": 3942,
+      "T": 1,
+      "ece": 0.00762397282144519,
+      "sampleSize": 3942
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 219,
+    "data": {
+      "fittedAtMatchIndex": 3960,
+      "T": 1,
+      "ece": 0.007563720796883205,
+      "sampleSize": 3960
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 220,
+    "data": {
+      "fittedAtMatchIndex": 3978,
+      "T": 1,
+      "ece": 0.007846562435526816,
+      "sampleSize": 3978
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 221,
+    "data": {
+      "fittedAtMatchIndex": 3996,
+      "T": 1,
+      "ece": 0.007788455341909736,
+      "sampleSize": 3996
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 222,
+    "data": {
+      "fittedAtMatchIndex": 4014,
+      "T": 1,
+      "ece": 0.007534975799209389,
+      "sampleSize": 4014
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 223,
+    "data": {
+      "fittedAtMatchIndex": 4032,
+      "T": 0.95,
+      "ece": 0.0065809408943134,
+      "sampleSize": 4032
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 224,
+    "data": {
+      "fittedAtMatchIndex": 4050,
+      "T": 0.95,
+      "ece": 0.006549113873446974,
+      "sampleSize": 4050
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 225,
+    "data": {
+      "fittedAtMatchIndex": 4068,
+      "T": 0.95,
+      "ece": 0.0065929162329057015,
+      "sampleSize": 4068
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 226,
+    "data": {
+      "fittedAtMatchIndex": 4086,
+      "T": 1,
+      "ece": 0.00789479468500382,
+      "sampleSize": 4086
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 227,
+    "data": {
+      "fittedAtMatchIndex": 4104,
+      "T": 0.95,
+      "ece": 0.0065880073052022575,
+      "sampleSize": 4104
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 228,
+    "data": {
+      "fittedAtMatchIndex": 4122,
+      "T": 1,
+      "ece": 0.007908367413174395,
+      "sampleSize": 4122
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 229,
+    "data": {
+      "fittedAtMatchIndex": 4140,
+      "T": 1,
+      "ece": 0.007794750307157772,
+      "sampleSize": 4140
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 230,
+    "data": {
+      "fittedAtMatchIndex": 4158,
+      "T": 0.95,
+      "ece": 0.006574213980501266,
+      "sampleSize": 4158
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 231,
+    "data": {
+      "fittedAtMatchIndex": 4176,
+      "T": 1,
+      "ece": 0.008102831763131495,
+      "sampleSize": 4176
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 232,
+    "data": {
+      "fittedAtMatchIndex": 4194,
+      "T": 1,
+      "ece": 0.007873350611070053,
+      "sampleSize": 4194
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 233,
+    "data": {
+      "fittedAtMatchIndex": 4212,
+      "T": 1,
+      "ece": 0.007816221309929625,
+      "sampleSize": 4212
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 234,
+    "data": {
+      "fittedAtMatchIndex": 4230,
+      "T": 1,
+      "ece": 0.007706717214768873,
+      "sampleSize": 4230
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 235,
+    "data": {
+      "fittedAtMatchIndex": 4248,
+      "T": 1,
+      "ece": 0.007639070247137851,
+      "sampleSize": 4248
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 236,
+    "data": {
+      "fittedAtMatchIndex": 4266,
+      "T": 1,
+      "ece": 0.007846624044723065,
+      "sampleSize": 4266
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 237,
+    "data": {
+      "fittedAtMatchIndex": 4284,
+      "T": 1,
+      "ece": 0.007767876288857256,
+      "sampleSize": 4284
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 238,
+    "data": {
+      "fittedAtMatchIndex": 4302,
+      "T": 1,
+      "ece": 0.007398930725231327,
+      "sampleSize": 4302
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 239,
+    "data": {
+      "fittedAtMatchIndex": 4320,
+      "T": 1,
+      "ece": 0.007061139341593587,
+      "sampleSize": 4320
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 240,
+    "data": {
+      "fittedAtMatchIndex": 4338,
+      "T": 1,
+      "ece": 0.00723795534610386,
+      "sampleSize": 4338
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 241,
+    "data": {
+      "fittedAtMatchIndex": 4356,
+      "T": 1,
+      "ece": 0.0071989700174205865,
+      "sampleSize": 4356
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 242,
+    "data": {
+      "fittedAtMatchIndex": 4374,
+      "T": 1,
+      "ece": 0.00749071478902918,
+      "sampleSize": 4374
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 243,
+    "data": {
+      "fittedAtMatchIndex": 4392,
+      "T": 1,
+      "ece": 0.007193759591251288,
+      "sampleSize": 4392
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 244,
+    "data": {
+      "fittedAtMatchIndex": 4410,
+      "T": 1,
+      "ece": 0.007222780363029575,
+      "sampleSize": 4410
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 245,
+    "data": {
+      "fittedAtMatchIndex": 4428,
+      "T": 1,
+      "ece": 0.007452043055159858,
+      "sampleSize": 4428
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 246,
+    "data": {
+      "fittedAtMatchIndex": 4446,
+      "T": 1,
+      "ece": 0.00712528449865722,
+      "sampleSize": 4446
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 247,
+    "data": {
+      "fittedAtMatchIndex": 4464,
+      "T": 1,
+      "ece": 0.006738113049987627,
+      "sampleSize": 4464
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 248,
+    "data": {
+      "fittedAtMatchIndex": 4482,
+      "T": 1,
+      "ece": 0.006715630204012205,
+      "sampleSize": 4482
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 249,
+    "data": {
+      "fittedAtMatchIndex": 4500,
+      "T": 1,
+      "ece": 0.006763466673145579,
+      "sampleSize": 4500
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 250,
+    "data": {
+      "fittedAtMatchIndex": 4518,
+      "T": 1,
+      "ece": 0.00663559441714303,
+      "sampleSize": 4518
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 251,
+    "data": {
+      "fittedAtMatchIndex": 4536,
+      "T": 1,
+      "ece": 0.006492893141074326,
+      "sampleSize": 4536
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 252,
+    "data": {
+      "fittedAtMatchIndex": 4554,
+      "T": 1,
+      "ece": 0.006317407516289012,
+      "sampleSize": 4554
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 253,
+    "data": {
+      "fittedAtMatchIndex": 4572,
+      "T": 1,
+      "ece": 0.006167404902742075,
+      "sampleSize": 4572
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 254,
+    "data": {
+      "fittedAtMatchIndex": 4590,
+      "T": 1,
+      "ece": 0.005632601032610031,
+      "sampleSize": 4590
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 255,
+    "data": {
+      "fittedAtMatchIndex": 4608,
+      "T": 1,
+      "ece": 0.005790207826776045,
+      "sampleSize": 4608
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 256,
+    "data": {
+      "fittedAtMatchIndex": 4626,
+      "T": 1,
+      "ece": 0.006068386843627185,
+      "sampleSize": 4626
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 257,
+    "data": {
+      "fittedAtMatchIndex": 4644,
+      "T": 1,
+      "ece": 0.006317753965179466,
+      "sampleSize": 4644
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 258,
+    "data": {
+      "fittedAtMatchIndex": 4662,
+      "T": 1,
+      "ece": 0.006510279724312669,
+      "sampleSize": 4662
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 259,
+    "data": {
+      "fittedAtMatchIndex": 4680,
+      "T": 1,
+      "ece": 0.0063054061070655105,
+      "sampleSize": 4680
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 260,
+    "data": {
+      "fittedAtMatchIndex": 4698,
+      "T": 1,
+      "ece": 0.006473802356002669,
+      "sampleSize": 4698
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 261,
+    "data": {
+      "fittedAtMatchIndex": 4716,
+      "T": 1,
+      "ece": 0.0064048793101179665,
+      "sampleSize": 4716
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 262,
+    "data": {
+      "fittedAtMatchIndex": 4734,
+      "T": 1,
+      "ece": 0.006162244378246059,
+      "sampleSize": 4734
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 263,
+    "data": {
+      "fittedAtMatchIndex": 4752,
+      "T": 1,
+      "ece": 0.006557266339746495,
+      "sampleSize": 4752
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 264,
+    "data": {
+      "fittedAtMatchIndex": 4770,
+      "T": 1,
+      "ece": 0.007017293889652174,
+      "sampleSize": 4770
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 265,
+    "data": {
+      "fittedAtMatchIndex": 4788,
+      "T": 1,
+      "ece": 0.006987106108959738,
+      "sampleSize": 4788
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 266,
+    "data": {
+      "fittedAtMatchIndex": 4806,
+      "T": 1,
+      "ece": 0.006887793729723676,
+      "sampleSize": 4806
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 267,
+    "data": {
+      "fittedAtMatchIndex": 4824,
+      "T": 1,
+      "ece": 0.007364311789335278,
+      "sampleSize": 4824
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 268,
+    "data": {
+      "fittedAtMatchIndex": 4842,
+      "T": 1,
+      "ece": 0.00706752350516424,
+      "sampleSize": 4842
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 269,
+    "data": {
+      "fittedAtMatchIndex": 4860,
+      "T": 1,
+      "ece": 0.007069879940089162,
+      "sampleSize": 4860
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 270,
+    "data": {
+      "fittedAtMatchIndex": 4878,
+      "T": 1,
+      "ece": 0.007367357665911325,
+      "sampleSize": 4878
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 271,
+    "data": {
+      "fittedAtMatchIndex": 4896,
+      "T": 1,
+      "ece": 0.00679053833049088,
+      "sampleSize": 4896
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 272,
+    "data": {
+      "fittedAtMatchIndex": 4914,
+      "T": 1,
+      "ece": 0.006558245171063335,
+      "sampleSize": 4914
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 273,
+    "data": {
+      "fittedAtMatchIndex": 4932,
+      "T": 1,
+      "ece": 0.006672479586257219,
+      "sampleSize": 4932
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 274,
+    "data": {
+      "fittedAtMatchIndex": 4950,
+      "T": 1,
+      "ece": 0.006668039187404688,
+      "sampleSize": 4950
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 275,
+    "data": {
+      "fittedAtMatchIndex": 4968,
+      "T": 1,
+      "ece": 0.006222131601102017,
+      "sampleSize": 4968
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 276,
+    "data": {
+      "fittedAtMatchIndex": 4986,
+      "T": 1,
+      "ece": 0.00633994430796911,
+      "sampleSize": 4986
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 277,
+    "data": {
+      "fittedAtMatchIndex": 5004,
+      "T": 1,
+      "ece": 0.006097030151464312,
+      "sampleSize": 5004
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 278,
+    "data": {
+      "fittedAtMatchIndex": 5022,
+      "T": 1,
+      "ece": 0.005743502132423876,
+      "sampleSize": 5022
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 279,
+    "data": {
+      "fittedAtMatchIndex": 5040,
+      "T": 1,
+      "ece": 0.00567010019291776,
+      "sampleSize": 5040
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 280,
+    "data": {
+      "fittedAtMatchIndex": 5058,
+      "T": 1,
+      "ece": 0.005802777457940853,
+      "sampleSize": 5058
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 281,
+    "data": {
+      "fittedAtMatchIndex": 5076,
+      "T": 1,
+      "ece": 0.005767061781695379,
+      "sampleSize": 5076
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 282,
+    "data": {
+      "fittedAtMatchIndex": 5094,
+      "T": 1,
+      "ece": 0.005851558839634749,
+      "sampleSize": 5094
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 283,
+    "data": {
+      "fittedAtMatchIndex": 5112,
+      "T": 1,
+      "ece": 0.005502160558901115,
+      "sampleSize": 5112
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 284,
+    "data": {
+      "fittedAtMatchIndex": 5130,
+      "T": 1,
+      "ece": 0.005696160070756505,
+      "sampleSize": 5130
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 285,
+    "data": {
+      "fittedAtMatchIndex": 5148,
+      "T": 1,
+      "ece": 0.005645188421604685,
+      "sampleSize": 5148
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 286,
+    "data": {
+      "fittedAtMatchIndex": 5166,
+      "T": 1,
+      "ece": 0.00596274356926493,
+      "sampleSize": 5166
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 287,
+    "data": {
+      "fittedAtMatchIndex": 5184,
+      "T": 1,
+      "ece": 0.0058692711254779975,
+      "sampleSize": 5184
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 288,
+    "data": {
+      "fittedAtMatchIndex": 5202,
+      "T": 1,
+      "ece": 0.005911044017939828,
+      "sampleSize": 5202
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 289,
+    "data": {
+      "fittedAtMatchIndex": 5220,
+      "T": 1,
+      "ece": 0.00616584665372255,
+      "sampleSize": 5220
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 290,
+    "data": {
+      "fittedAtMatchIndex": 5238,
+      "T": 1,
+      "ece": 0.006196268034291131,
+      "sampleSize": 5238
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 291,
+    "data": {
+      "fittedAtMatchIndex": 5256,
+      "T": 1,
+      "ece": 0.006336546557211652,
+      "sampleSize": 5256
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 292,
+    "data": {
+      "fittedAtMatchIndex": 5274,
+      "T": 1,
+      "ece": 0.006678588445586815,
+      "sampleSize": 5274
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 293,
+    "data": {
+      "fittedAtMatchIndex": 5292,
+      "T": 1,
+      "ece": 0.007015271103798293,
+      "sampleSize": 5292
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 294,
+    "data": {
+      "fittedAtMatchIndex": 5310,
+      "T": 1,
+      "ece": 0.006915047413928094,
+      "sampleSize": 5310
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 295,
+    "data": {
+      "fittedAtMatchIndex": 5328,
+      "T": 1,
+      "ece": 0.007444625698342253,
+      "sampleSize": 5328
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 296,
+    "data": {
+      "fittedAtMatchIndex": 5346,
+      "T": 1,
+      "ece": 0.007410381393607873,
+      "sampleSize": 5346
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 297,
+    "data": {
+      "fittedAtMatchIndex": 5364,
+      "T": 1,
+      "ece": 0.0075393604596142435,
+      "sampleSize": 5364
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 298,
+    "data": {
+      "fittedAtMatchIndex": 5382,
+      "T": 1,
+      "ece": 0.007304490595148779,
+      "sampleSize": 5382
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 299,
+    "data": {
+      "fittedAtMatchIndex": 5400,
+      "T": 1,
+      "ece": 0.007212224968295902,
+      "sampleSize": 5400
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 300,
+    "data": {
+      "fittedAtMatchIndex": 5418,
+      "T": 1,
+      "ece": 0.006953190713289493,
+      "sampleSize": 5418
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 301,
+    "data": {
+      "fittedAtMatchIndex": 5436,
+      "T": 1,
+      "ece": 0.007057003652247519,
+      "sampleSize": 5436
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 302,
+    "data": {
+      "fittedAtMatchIndex": 5454,
+      "T": 0.95,
+      "ece": 0.006488347444550995,
+      "sampleSize": 5454
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 303,
+    "data": {
+      "fittedAtMatchIndex": 5472,
+      "T": 0.95,
+      "ece": 0.006782731321681786,
+      "sampleSize": 5472
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 304,
+    "data": {
+      "fittedAtMatchIndex": 5490,
+      "T": 1,
+      "ece": 0.007353089149778379,
+      "sampleSize": 5490
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 305,
+    "data": {
+      "fittedAtMatchIndex": 5508,
+      "T": 0.95,
+      "ece": 0.006819509695755925,
+      "sampleSize": 5508
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 306,
+    "data": {
+      "fittedAtMatchIndex": 5526,
+      "T": 0.95,
+      "ece": 0.0071592646728796325,
+      "sampleSize": 5526
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 307,
+    "data": {
+      "fittedAtMatchIndex": 5544,
+      "T": 0.95,
+      "ece": 0.007109613964364873,
+      "sampleSize": 5544
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 308,
+    "data": {
+      "fittedAtMatchIndex": 5562,
+      "T": 0.95,
+      "ece": 0.007341646778072889,
+      "sampleSize": 5562
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 309,
+    "data": {
+      "fittedAtMatchIndex": 5580,
+      "T": 0.95,
+      "ece": 0.007411754245757369,
+      "sampleSize": 5580
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 310,
+    "data": {
+      "fittedAtMatchIndex": 5598,
+      "T": 0.95,
+      "ece": 0.007555891210897998,
+      "sampleSize": 5598
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 311,
+    "data": {
+      "fittedAtMatchIndex": 5616,
+      "T": 0.95,
+      "ece": 0.007305471838937636,
+      "sampleSize": 5616
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 312,
+    "data": {
+      "fittedAtMatchIndex": 5634,
+      "T": 0.95,
+      "ece": 0.007109445618475562,
+      "sampleSize": 5634
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 313,
+    "data": {
+      "fittedAtMatchIndex": 5652,
+      "T": 0.95,
+      "ece": 0.006876905978840079,
+      "sampleSize": 5652
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 314,
+    "data": {
+      "fittedAtMatchIndex": 5670,
+      "T": 0.95,
+      "ece": 0.006682208994337564,
+      "sampleSize": 5670
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 315,
+    "data": {
+      "fittedAtMatchIndex": 5688,
+      "T": 1,
+      "ece": 0.007169268249004825,
+      "sampleSize": 5688
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 316,
+    "data": {
+      "fittedAtMatchIndex": 5706,
+      "T": 1,
+      "ece": 0.007034200596305321,
+      "sampleSize": 5706
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 317,
+    "data": {
+      "fittedAtMatchIndex": 5724,
+      "T": 0.95,
+      "ece": 0.00647326484802352,
+      "sampleSize": 5724
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 318,
+    "data": {
+      "fittedAtMatchIndex": 5742,
+      "T": 0.95,
+      "ece": 0.006779263092813189,
+      "sampleSize": 5742
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 319,
+    "data": {
+      "fittedAtMatchIndex": 5760,
+      "T": 0.95,
+      "ece": 0.0068043917099854245,
+      "sampleSize": 5760
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 320,
+    "data": {
+      "fittedAtMatchIndex": 5778,
+      "T": 0.95,
+      "ece": 0.006683317887333779,
+      "sampleSize": 5778
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 321,
+    "data": {
+      "fittedAtMatchIndex": 5796,
+      "T": 0.95,
+      "ece": 0.006750393324344415,
+      "sampleSize": 5796
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 322,
+    "data": {
+      "fittedAtMatchIndex": 5814,
+      "T": 0.95,
+      "ece": 0.006653928314767338,
+      "sampleSize": 5814
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 323,
+    "data": {
+      "fittedAtMatchIndex": 5832,
+      "T": 0.95,
+      "ece": 0.006784433766357182,
+      "sampleSize": 5832
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 324,
+    "data": {
+      "fittedAtMatchIndex": 5850,
+      "T": 0.95,
+      "ece": 0.00658037494438538,
+      "sampleSize": 5850
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 325,
+    "data": {
+      "fittedAtMatchIndex": 5868,
+      "T": 0.95,
+      "ece": 0.006420468427671951,
+      "sampleSize": 5868
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 326,
+    "data": {
+      "fittedAtMatchIndex": 5886,
+      "T": 0.95,
+      "ece": 0.006498643519929294,
+      "sampleSize": 5886
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 327,
+    "data": {
+      "fittedAtMatchIndex": 5904,
+      "T": 0.95,
+      "ece": 0.00629245674150558,
+      "sampleSize": 5904
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 328,
+    "data": {
+      "fittedAtMatchIndex": 5922,
+      "T": 0.95,
+      "ece": 0.0062752145994513136,
+      "sampleSize": 5922
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 329,
+    "data": {
+      "fittedAtMatchIndex": 5940,
+      "T": 0.95,
+      "ece": 0.006453043708806197,
+      "sampleSize": 5940
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 330,
+    "data": {
+      "fittedAtMatchIndex": 5958,
+      "T": 0.95,
+      "ece": 0.006307697885839087,
+      "sampleSize": 5958
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 331,
+    "data": {
+      "fittedAtMatchIndex": 5976,
+      "T": 0.95,
+      "ece": 0.006326730418485995,
+      "sampleSize": 5976
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 332,
+    "data": {
+      "fittedAtMatchIndex": 5994,
+      "T": 0.95,
+      "ece": 0.0060882976684765375,
+      "sampleSize": 5994
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 333,
+    "data": {
+      "fittedAtMatchIndex": 6012,
+      "T": 0.95,
+      "ece": 0.006139839852241787,
+      "sampleSize": 6012
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 334,
+    "data": {
+      "fittedAtMatchIndex": 6030,
+      "T": 0.95,
+      "ece": 0.006462665581141007,
+      "sampleSize": 6030
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 335,
+    "data": {
+      "fittedAtMatchIndex": 6048,
+      "T": 0.95,
+      "ece": 0.006351003686410672,
+      "sampleSize": 6048
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 336,
+    "data": {
+      "fittedAtMatchIndex": 6066,
+      "T": 0.95,
+      "ece": 0.006381288925191667,
+      "sampleSize": 6066
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 337,
+    "data": {
+      "fittedAtMatchIndex": 6084,
+      "T": 0.95,
+      "ece": 0.006723471782473049,
+      "sampleSize": 6084
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 338,
+    "data": {
+      "fittedAtMatchIndex": 6102,
+      "T": 0.95,
+      "ece": 0.006529166437644873,
+      "sampleSize": 6102
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 339,
+    "data": {
+      "fittedAtMatchIndex": 6120,
+      "T": 0.95,
+      "ece": 0.006461776444126839,
+      "sampleSize": 6120
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 340,
+    "data": {
+      "fittedAtMatchIndex": 6138,
+      "T": 0.95,
+      "ece": 0.0062647989211952965,
+      "sampleSize": 6138
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 341,
+    "data": {
+      "fittedAtMatchIndex": 6156,
+      "T": 0.95,
+      "ece": 0.006487953493263393,
+      "sampleSize": 6156
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 342,
+    "data": {
+      "fittedAtMatchIndex": 6174,
+      "T": 0.95,
+      "ece": 0.006547855287897611,
+      "sampleSize": 6174
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 343,
+    "data": {
+      "fittedAtMatchIndex": 6192,
+      "T": 0.95,
+      "ece": 0.006209283249730646,
+      "sampleSize": 6192
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 344,
+    "data": {
+      "fittedAtMatchIndex": 6210,
+      "T": 0.95,
+      "ece": 0.006214520265187689,
+      "sampleSize": 6210
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 345,
+    "data": {
+      "fittedAtMatchIndex": 6228,
+      "T": 0.95,
+      "ece": 0.006165791771678853,
+      "sampleSize": 6228
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 346,
+    "data": {
+      "fittedAtMatchIndex": 6246,
+      "T": 0.95,
+      "ece": 0.006346861512672067,
+      "sampleSize": 6246
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 347,
+    "data": {
+      "fittedAtMatchIndex": 6264,
+      "T": 0.95,
+      "ece": 0.006471916276268169,
+      "sampleSize": 6264
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 348,
+    "data": {
+      "fittedAtMatchIndex": 6282,
+      "T": 0.95,
+      "ece": 0.0063632469818942165,
+      "sampleSize": 6282
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 349,
+    "data": {
+      "fittedAtMatchIndex": 6300,
+      "T": 0.95,
+      "ece": 0.0062224126983752015,
+      "sampleSize": 6300
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 350,
+    "data": {
+      "fittedAtMatchIndex": 6318,
+      "T": 0.95,
+      "ece": 0.006286562120657445,
+      "sampleSize": 6318
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 351,
+    "data": {
+      "fittedAtMatchIndex": 6336,
+      "T": 0.95,
+      "ece": 0.00606503936524181,
+      "sampleSize": 6336
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 352,
+    "data": {
+      "fittedAtMatchIndex": 6354,
+      "T": 0.95,
+      "ece": 0.0057525112060111,
+      "sampleSize": 6354
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 353,
+    "data": {
+      "fittedAtMatchIndex": 6372,
+      "T": 0.95,
+      "ece": 0.005762327983403933,
+      "sampleSize": 6372
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 354,
+    "data": {
+      "fittedAtMatchIndex": 6390,
+      "T": 0.95,
+      "ece": 0.00571493662489643,
+      "sampleSize": 6390
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 355,
+    "data": {
+      "fittedAtMatchIndex": 6408,
+      "T": 0.95,
+      "ece": 0.005702965982584861,
+      "sampleSize": 6408
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 356,
+    "data": {
+      "fittedAtMatchIndex": 6426,
+      "T": 0.95,
+      "ece": 0.005904514711703772,
+      "sampleSize": 6426
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 357,
+    "data": {
+      "fittedAtMatchIndex": 6444,
+      "T": 0.95,
+      "ece": 0.005725631816318008,
+      "sampleSize": 6444
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 358,
+    "data": {
+      "fittedAtMatchIndex": 6462,
+      "T": 0.95,
+      "ece": 0.005786307504605455,
+      "sampleSize": 6462
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 359,
+    "data": {
+      "fittedAtMatchIndex": 6480,
+      "T": 0.95,
+      "ece": 0.0058163688707354305,
+      "sampleSize": 6480
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 360,
+    "data": {
+      "fittedAtMatchIndex": 6498,
+      "T": 0.95,
+      "ece": 0.005473060446679092,
+      "sampleSize": 6498
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 361,
+    "data": {
+      "fittedAtMatchIndex": 6516,
+      "T": 0.95,
+      "ece": 0.005383135295900371,
+      "sampleSize": 6516
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 362,
+    "data": {
+      "fittedAtMatchIndex": 6534,
+      "T": 0.95,
+      "ece": 0.005292045764624044,
+      "sampleSize": 6534
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 363,
+    "data": {
+      "fittedAtMatchIndex": 6552,
+      "T": 0.95,
+      "ece": 0.005187723277053461,
+      "sampleSize": 6552
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 364,
+    "data": {
+      "fittedAtMatchIndex": 6570,
+      "T": 0.95,
+      "ece": 0.005023130759334079,
+      "sampleSize": 6570
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 365,
+    "data": {
+      "fittedAtMatchIndex": 6588,
+      "T": 0.95,
+      "ece": 0.004949900669120478,
+      "sampleSize": 6588
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 366,
+    "data": {
+      "fittedAtMatchIndex": 6606,
+      "T": 0.95,
+      "ece": 0.004650078306272306,
+      "sampleSize": 6606
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 367,
+    "data": {
+      "fittedAtMatchIndex": 6624,
+      "T": 0.95,
+      "ece": 0.0049129557838869875,
+      "sampleSize": 6624
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 368,
+    "data": {
+      "fittedAtMatchIndex": 6642,
+      "T": 0.95,
+      "ece": 0.004884860756626093,
+      "sampleSize": 6642
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 369,
+    "data": {
+      "fittedAtMatchIndex": 6660,
+      "T": 0.95,
+      "ece": 0.005008367137411856,
+      "sampleSize": 6660
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 370,
+    "data": {
+      "fittedAtMatchIndex": 6678,
+      "T": 0.95,
+      "ece": 0.0051915613488011806,
+      "sampleSize": 6678
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 371,
+    "data": {
+      "fittedAtMatchIndex": 6696,
+      "T": 0.95,
+      "ece": 0.005106419359363955,
+      "sampleSize": 6696
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 372,
+    "data": {
+      "fittedAtMatchIndex": 6714,
+      "T": 0.95,
+      "ece": 0.0048432742986905955,
+      "sampleSize": 6714
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 373,
+    "data": {
+      "fittedAtMatchIndex": 6732,
+      "T": 0.95,
+      "ece": 0.0047727214208416946,
+      "sampleSize": 6732
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 374,
+    "data": {
+      "fittedAtMatchIndex": 6750,
+      "T": 0.95,
+      "ece": 0.0048030147415848365,
+      "sampleSize": 6750
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 375,
+    "data": {
+      "fittedAtMatchIndex": 6768,
+      "T": 0.95,
+      "ece": 0.004877850786971369,
+      "sampleSize": 6768
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 376,
+    "data": {
+      "fittedAtMatchIndex": 6786,
+      "T": 0.95,
+      "ece": 0.004534050139977922,
+      "sampleSize": 6786
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 377,
+    "data": {
+      "fittedAtMatchIndex": 6804,
+      "T": 0.95,
+      "ece": 0.004706273185358334,
+      "sampleSize": 6804
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 378,
+    "data": {
+      "fittedAtMatchIndex": 6822,
+      "T": 0.95,
+      "ece": 0.004790669418425437,
+      "sampleSize": 6822
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 379,
+    "data": {
+      "fittedAtMatchIndex": 6840,
+      "T": 0.95,
+      "ece": 0.004913470981588303,
+      "sampleSize": 6840
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 380,
+    "data": {
+      "fittedAtMatchIndex": 6858,
+      "T": 0.95,
+      "ece": 0.004620585226996044,
+      "sampleSize": 6858
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 381,
+    "data": {
+      "fittedAtMatchIndex": 6876,
+      "T": 0.95,
+      "ece": 0.004511827183677812,
+      "sampleSize": 6876
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 382,
+    "data": {
+      "fittedAtMatchIndex": 6894,
+      "T": 0.95,
+      "ece": 0.0047070455329196485,
+      "sampleSize": 6894
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 383,
+    "data": {
+      "fittedAtMatchIndex": 6912,
+      "T": 0.95,
+      "ece": 0.004494765810917421,
+      "sampleSize": 6912
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 384,
+    "data": {
+      "fittedAtMatchIndex": 6930,
+      "T": 0.95,
+      "ece": 0.004397877651734941,
+      "sampleSize": 6930
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 385,
+    "data": {
+      "fittedAtMatchIndex": 6948,
+      "T": 0.95,
+      "ece": 0.004295282231122507,
+      "sampleSize": 6948
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 386,
+    "data": {
+      "fittedAtMatchIndex": 6966,
+      "T": 0.95,
+      "ece": 0.0042183818551434675,
+      "sampleSize": 6966
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 387,
+    "data": {
+      "fittedAtMatchIndex": 6984,
+      "T": 0.95,
+      "ece": 0.0038579204445719456,
+      "sampleSize": 6984
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 388,
+    "data": {
+      "fittedAtMatchIndex": 7002,
+      "T": 0.95,
+      "ece": 0.0036917212047386048,
+      "sampleSize": 7002
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 389,
+    "data": {
+      "fittedAtMatchIndex": 7020,
+      "T": 0.95,
+      "ece": 0.0037067285787187806,
+      "sampleSize": 7020
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 390,
+    "data": {
+      "fittedAtMatchIndex": 7038,
+      "T": 0.95,
+      "ece": 0.003923305575476345,
+      "sampleSize": 7038
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 391,
+    "data": {
+      "fittedAtMatchIndex": 7056,
+      "T": 0.95,
+      "ece": 0.003746355246617503,
+      "sampleSize": 7056
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 392,
+    "data": {
+      "fittedAtMatchIndex": 7074,
+      "T": 0.95,
+      "ece": 0.0037365971497273567,
+      "sampleSize": 7074
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 393,
+    "data": {
+      "fittedAtMatchIndex": 7092,
+      "T": 0.95,
+      "ece": 0.003878339287030049,
+      "sampleSize": 7092
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 394,
+    "data": {
+      "fittedAtMatchIndex": 7110,
+      "T": 0.95,
+      "ece": 0.0037813349465080177,
+      "sampleSize": 7110
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 395,
+    "data": {
+      "fittedAtMatchIndex": 7128,
+      "T": 0.95,
+      "ece": 0.0038836239042782574,
+      "sampleSize": 7128
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 396,
+    "data": {
+      "fittedAtMatchIndex": 7146,
+      "T": 0.95,
+      "ece": 0.00377885660670519,
+      "sampleSize": 7146
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 397,
+    "data": {
+      "fittedAtMatchIndex": 7164,
+      "T": 0.95,
+      "ece": 0.00382478840474552,
+      "sampleSize": 7164
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 398,
+    "data": {
+      "fittedAtMatchIndex": 7182,
+      "T": 0.95,
+      "ece": 0.003739346830557736,
+      "sampleSize": 7182
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 399,
+    "data": {
+      "fittedAtMatchIndex": 7200,
+      "T": 0.95,
+      "ece": 0.0036330499935652697,
+      "sampleSize": 7200
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 400,
+    "data": {
+      "fittedAtMatchIndex": 7218,
+      "T": 0.95,
+      "ece": 0.003592778592202515,
+      "sampleSize": 7218
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 401,
+    "data": {
+      "fittedAtMatchIndex": 7236,
+      "T": 0.95,
+      "ece": 0.003606225998505385,
+      "sampleSize": 7236
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 402,
+    "data": {
+      "fittedAtMatchIndex": 7254,
+      "T": 0.95,
+      "ece": 0.0036842818200866928,
+      "sampleSize": 7254
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 403,
+    "data": {
+      "fittedAtMatchIndex": 7272,
+      "T": 0.95,
+      "ece": 0.0039354719578307855,
+      "sampleSize": 7272
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 404,
+    "data": {
+      "fittedAtMatchIndex": 7290,
+      "T": 0.95,
+      "ece": 0.003800853850879382,
+      "sampleSize": 7290
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 405,
+    "data": {
+      "fittedAtMatchIndex": 7308,
+      "T": 0.95,
+      "ece": 0.004055294322332069,
+      "sampleSize": 7308
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 406,
+    "data": {
+      "fittedAtMatchIndex": 7326,
+      "T": 0.95,
+      "ece": 0.004050204070218529,
+      "sampleSize": 7326
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 407,
+    "data": {
+      "fittedAtMatchIndex": 7344,
+      "T": 0.95,
+      "ece": 0.003852810640945836,
+      "sampleSize": 7344
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 408,
+    "data": {
+      "fittedAtMatchIndex": 7362,
+      "T": 0.95,
+      "ece": 0.0038796985483508864,
+      "sampleSize": 7362
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 409,
+    "data": {
+      "fittedAtMatchIndex": 7380,
+      "T": 0.95,
+      "ece": 0.0035983280244832683,
+      "sampleSize": 7380
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 410,
+    "data": {
+      "fittedAtMatchIndex": 7398,
+      "T": 0.95,
+      "ece": 0.00365218862067575,
+      "sampleSize": 7398
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 411,
+    "data": {
+      "fittedAtMatchIndex": 7416,
+      "T": 0.95,
+      "ece": 0.0034397169297795548,
+      "sampleSize": 7416
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 412,
+    "data": {
+      "fittedAtMatchIndex": 7434,
+      "T": 0.95,
+      "ece": 0.0032010560954972493,
+      "sampleSize": 7434
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 413,
+    "data": {
+      "fittedAtMatchIndex": 7452,
+      "T": 0.95,
+      "ece": 0.0032713550147755893,
+      "sampleSize": 7452
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 414,
+    "data": {
+      "fittedAtMatchIndex": 7470,
+      "T": 0.95,
+      "ece": 0.003663330326680469,
+      "sampleSize": 7470
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 415,
+    "data": {
+      "fittedAtMatchIndex": 7488,
+      "T": 0.95,
+      "ece": 0.003741389695812609,
+      "sampleSize": 7488
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 416,
+    "data": {
+      "fittedAtMatchIndex": 7506,
+      "T": 0.95,
+      "ece": 0.0039414663497046335,
+      "sampleSize": 7506
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 417,
+    "data": {
+      "fittedAtMatchIndex": 7524,
+      "T": 0.95,
+      "ece": 0.0036962801047087353,
+      "sampleSize": 7524
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 418,
+    "data": {
+      "fittedAtMatchIndex": 7542,
+      "T": 0.95,
+      "ece": 0.0034925538954213063,
+      "sampleSize": 7542
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 419,
+    "data": {
+      "fittedAtMatchIndex": 7560,
+      "T": 0.95,
+      "ece": 0.0036923280299952124,
+      "sampleSize": 7560
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 420,
+    "data": {
+      "fittedAtMatchIndex": 7578,
+      "T": 0.95,
+      "ece": 0.003460741859288985,
+      "sampleSize": 7578
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 421,
+    "data": {
+      "fittedAtMatchIndex": 7596,
+      "T": 0.95,
+      "ece": 0.0033534542195578954,
+      "sampleSize": 7596
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 422,
+    "data": {
+      "fittedAtMatchIndex": 7614,
+      "T": 0.95,
+      "ece": 0.003327701287843247,
+      "sampleSize": 7614
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 423,
+    "data": {
+      "fittedAtMatchIndex": 7632,
+      "T": 0.95,
+      "ece": 0.003209485491451658,
+      "sampleSize": 7632
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 424,
+    "data": {
+      "fittedAtMatchIndex": 7650,
+      "T": 0.95,
+      "ece": 0.0035230521636686004,
+      "sampleSize": 7650
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 425,
+    "data": {
+      "fittedAtMatchIndex": 7668,
+      "T": 0.95,
+      "ece": 0.003515798146087035,
+      "sampleSize": 7668
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 426,
+    "data": {
+      "fittedAtMatchIndex": 7686,
+      "T": 0.95,
+      "ece": 0.0032970599831341277,
+      "sampleSize": 7686
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 427,
+    "data": {
+      "fittedAtMatchIndex": 7704,
+      "T": 0.95,
+      "ece": 0.0033591770512634736,
+      "sampleSize": 7704
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 428,
+    "data": {
+      "fittedAtMatchIndex": 7722,
+      "T": 0.95,
+      "ece": 0.0033585722311531246,
+      "sampleSize": 7722
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 429,
+    "data": {
+      "fittedAtMatchIndex": 7740,
+      "T": 0.95,
+      "ece": 0.003434706339049082,
+      "sampleSize": 7740
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 430,
+    "data": {
+      "fittedAtMatchIndex": 7758,
+      "T": 0.95,
+      "ece": 0.003808457473649319,
+      "sampleSize": 7758
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 431,
+    "data": {
+      "fittedAtMatchIndex": 7776,
+      "T": 0.95,
+      "ece": 0.003946096984741195,
+      "sampleSize": 7776
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 432,
+    "data": {
+      "fittedAtMatchIndex": 7794,
+      "T": 0.95,
+      "ece": 0.003826566561904286,
+      "sampleSize": 7794
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 433,
+    "data": {
+      "fittedAtMatchIndex": 7812,
+      "T": 0.95,
+      "ece": 0.003918636963737249,
+      "sampleSize": 7812
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 434,
+    "data": {
+      "fittedAtMatchIndex": 7830,
+      "T": 0.95,
+      "ece": 0.0040914811815833665,
+      "sampleSize": 7830
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 435,
+    "data": {
+      "fittedAtMatchIndex": 7848,
+      "T": 0.95,
+      "ece": 0.003939044772372877,
+      "sampleSize": 7848
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 436,
+    "data": {
+      "fittedAtMatchIndex": 7866,
+      "T": 0.95,
+      "ece": 0.003952312905131872,
+      "sampleSize": 7866
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 437,
+    "data": {
+      "fittedAtMatchIndex": 7884,
+      "T": 0.95,
+      "ece": 0.004230914971642914,
+      "sampleSize": 7884
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 438,
+    "data": {
+      "fittedAtMatchIndex": 7902,
+      "T": 0.95,
+      "ece": 0.004309847703659973,
+      "sampleSize": 7902
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 439,
+    "data": {
+      "fittedAtMatchIndex": 7920,
+      "T": 0.95,
+      "ece": 0.004217913711077882,
+      "sampleSize": 7920
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 440,
+    "data": {
+      "fittedAtMatchIndex": 7938,
+      "T": 0.95,
+      "ece": 0.004362571365777942,
+      "sampleSize": 7938
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 441,
+    "data": {
+      "fittedAtMatchIndex": 7956,
+      "T": 0.95,
+      "ece": 0.00429773882055546,
+      "sampleSize": 7956
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 442,
+    "data": {
+      "fittedAtMatchIndex": 7974,
+      "T": 0.95,
+      "ece": 0.004359045763451187,
+      "sampleSize": 7974
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 443,
+    "data": {
+      "fittedAtMatchIndex": 7992,
+      "T": 0.95,
+      "ece": 0.004683732459304865,
+      "sampleSize": 7992
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 444,
+    "data": {
+      "fittedAtMatchIndex": 8010,
+      "T": 0.95,
+      "ece": 0.004574037866653729,
+      "sampleSize": 8010
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 445,
+    "data": {
+      "fittedAtMatchIndex": 8028,
+      "T": 0.95,
+      "ece": 0.0042391838418499835,
+      "sampleSize": 8028
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 446,
+    "data": {
+      "fittedAtMatchIndex": 8046,
+      "T": 0.95,
+      "ece": 0.00427317697802281,
+      "sampleSize": 8046
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 447,
+    "data": {
+      "fittedAtMatchIndex": 8064,
+      "T": 0.95,
+      "ece": 0.0041743546401645515,
+      "sampleSize": 8064
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 448,
+    "data": {
+      "fittedAtMatchIndex": 8082,
+      "T": 0.95,
+      "ece": 0.0040878977478179404,
+      "sampleSize": 8082
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 449,
+    "data": {
+      "fittedAtMatchIndex": 8100,
+      "T": 0.95,
+      "ece": 0.00422765397643043,
+      "sampleSize": 8100
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 450,
+    "data": {
+      "fittedAtMatchIndex": 8118,
+      "T": 0.95,
+      "ece": 0.004250007588332422,
+      "sampleSize": 8118
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 451,
+    "data": {
+      "fittedAtMatchIndex": 8136,
+      "T": 0.95,
+      "ece": 0.004087652175377405,
+      "sampleSize": 8136
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 452,
+    "data": {
+      "fittedAtMatchIndex": 8154,
+      "T": 0.95,
+      "ece": 0.004294267104894759,
+      "sampleSize": 8154
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 453,
+    "data": {
+      "fittedAtMatchIndex": 8172,
+      "T": 0.95,
+      "ece": 0.004204574083584886,
+      "sampleSize": 8172
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 454,
+    "data": {
+      "fittedAtMatchIndex": 8190,
+      "T": 0.95,
+      "ece": 0.004318625550649462,
+      "sampleSize": 8190
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 455,
+    "data": {
+      "fittedAtMatchIndex": 8208,
+      "T": 0.95,
+      "ece": 0.004246811261429587,
+      "sampleSize": 8208
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 456,
+    "data": {
+      "fittedAtMatchIndex": 8226,
+      "T": 0.95,
+      "ece": 0.004135439330701212,
+      "sampleSize": 8226
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 457,
+    "data": {
+      "fittedAtMatchIndex": 8244,
+      "T": 0.95,
+      "ece": 0.004010779261302924,
+      "sampleSize": 8244
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 458,
+    "data": {
+      "fittedAtMatchIndex": 8262,
+      "T": 0.95,
+      "ece": 0.003951762859490809,
+      "sampleSize": 8262
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 459,
+    "data": {
+      "fittedAtMatchIndex": 8280,
+      "T": 0.95,
+      "ece": 0.003608765671457622,
+      "sampleSize": 8280
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 460,
+    "data": {
+      "fittedAtMatchIndex": 8298,
+      "T": 0.95,
+      "ece": 0.0034153614123983564,
+      "sampleSize": 8298
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 461,
+    "data": {
+      "fittedAtMatchIndex": 8316,
+      "T": 0.95,
+      "ece": 0.003365617215984525,
+      "sampleSize": 8316
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 462,
+    "data": {
+      "fittedAtMatchIndex": 8334,
+      "T": 0.95,
+      "ece": 0.0032583220510747773,
+      "sampleSize": 8334
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 463,
+    "data": {
+      "fittedAtMatchIndex": 8352,
+      "T": 0.95,
+      "ece": 0.002967482419632811,
+      "sampleSize": 8352
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 464,
+    "data": {
+      "fittedAtMatchIndex": 8370,
+      "T": 0.95,
+      "ece": 0.0029173662396219224,
+      "sampleSize": 8370
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 465,
+    "data": {
+      "fittedAtMatchIndex": 8388,
+      "T": 0.95,
+      "ece": 0.0029716041968272256,
+      "sampleSize": 8388
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 466,
+    "data": {
+      "fittedAtMatchIndex": 8406,
+      "T": 0.95,
+      "ece": 0.00293412470318075,
+      "sampleSize": 8406
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 467,
+    "data": {
+      "fittedAtMatchIndex": 8424,
+      "T": 0.95,
+      "ece": 0.0029862542130844566,
+      "sampleSize": 8424
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 468,
+    "data": {
+      "fittedAtMatchIndex": 8442,
+      "T": 0.95,
+      "ece": 0.0032648143381538023,
+      "sampleSize": 8442
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 469,
+    "data": {
+      "fittedAtMatchIndex": 8460,
+      "T": 0.95,
+      "ece": 0.003229720933408822,
+      "sampleSize": 8460
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 470,
+    "data": {
+      "fittedAtMatchIndex": 8478,
+      "T": 0.95,
+      "ece": 0.003254071449589316,
+      "sampleSize": 8478
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 471,
+    "data": {
+      "fittedAtMatchIndex": 8496,
+      "T": 0.95,
+      "ece": 0.0030969044512608734,
+      "sampleSize": 8496
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 472,
+    "data": {
+      "fittedAtMatchIndex": 8514,
+      "T": 0.95,
+      "ece": 0.003209376849947831,
+      "sampleSize": 8514
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 473,
+    "data": {
+      "fittedAtMatchIndex": 8532,
+      "T": 0.95,
+      "ece": 0.0031221759468409486,
+      "sampleSize": 8532
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 474,
+    "data": {
+      "fittedAtMatchIndex": 8550,
+      "T": 0.95,
+      "ece": 0.003315655933658164,
+      "sampleSize": 8550
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 475,
+    "data": {
+      "fittedAtMatchIndex": 8568,
+      "T": 0.95,
+      "ece": 0.0034308615615555402,
+      "sampleSize": 8568
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 476,
+    "data": {
+      "fittedAtMatchIndex": 8586,
+      "T": 0.95,
+      "ece": 0.0035327412412593188,
+      "sampleSize": 8586
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 477,
+    "data": {
+      "fittedAtMatchIndex": 8604,
+      "T": 0.95,
+      "ece": 0.0035893511071079186,
+      "sampleSize": 8604
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 478,
+    "data": {
+      "fittedAtMatchIndex": 8622,
+      "T": 0.95,
+      "ece": 0.003737878746832579,
+      "sampleSize": 8622
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 479,
+    "data": {
+      "fittedAtMatchIndex": 8640,
+      "T": 0.95,
+      "ece": 0.0036558867613365967,
+      "sampleSize": 8640
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 480,
+    "data": {
+      "fittedAtMatchIndex": 8658,
+      "T": 0.95,
+      "ece": 0.003699936978013969,
+      "sampleSize": 8658
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 481,
+    "data": {
+      "fittedAtMatchIndex": 8676,
+      "T": 0.95,
+      "ece": 0.0036470502508885714,
+      "sampleSize": 8676
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 482,
+    "data": {
+      "fittedAtMatchIndex": 8694,
+      "T": 0.95,
+      "ece": 0.003711777548855998,
+      "sampleSize": 8694
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 483,
+    "data": {
+      "fittedAtMatchIndex": 8712,
+      "T": 0.95,
+      "ece": 0.0035875738363264956,
+      "sampleSize": 8712
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 484,
+    "data": {
+      "fittedAtMatchIndex": 8730,
+      "T": 0.95,
+      "ece": 0.003517085785319001,
+      "sampleSize": 8730
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 485,
+    "data": {
+      "fittedAtMatchIndex": 8748,
+      "T": 0.95,
+      "ece": 0.003755101974093646,
+      "sampleSize": 8748
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 486,
+    "data": {
+      "fittedAtMatchIndex": 8766,
+      "T": 0.95,
+      "ece": 0.0038715255109089196,
+      "sampleSize": 8766
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 487,
+    "data": {
+      "fittedAtMatchIndex": 8784,
+      "T": 0.95,
+      "ece": 0.0037752927855095276,
+      "sampleSize": 8784
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 488,
+    "data": {
+      "fittedAtMatchIndex": 8802,
+      "T": 0.95,
+      "ece": 0.003834245871389564,
+      "sampleSize": 8802
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 489,
+    "data": {
+      "fittedAtMatchIndex": 8820,
+      "T": 0.95,
+      "ece": 0.0037105650932198636,
+      "sampleSize": 8820
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 490,
+    "data": {
+      "fittedAtMatchIndex": 8838,
+      "T": 0.95,
+      "ece": 0.00354006240315779,
+      "sampleSize": 8838
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 491,
+    "data": {
+      "fittedAtMatchIndex": 8856,
+      "T": 0.95,
+      "ece": 0.003858144092838475,
+      "sampleSize": 8856
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 492,
+    "data": {
+      "fittedAtMatchIndex": 8874,
+      "T": 0.95,
+      "ece": 0.0040614501348137065,
+      "sampleSize": 8874
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 493,
+    "data": {
+      "fittedAtMatchIndex": 8892,
+      "T": 0.95,
+      "ece": 0.004031707971039099,
+      "sampleSize": 8892
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 494,
+    "data": {
+      "fittedAtMatchIndex": 8910,
+      "T": 0.95,
+      "ece": 0.004161716756397145,
+      "sampleSize": 8910
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 495,
+    "data": {
+      "fittedAtMatchIndex": 8928,
+      "T": 0.95,
+      "ece": 0.004439248982141995,
+      "sampleSize": 8928
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 496,
+    "data": {
+      "fittedAtMatchIndex": 8946,
+      "T": 0.95,
+      "ece": 0.004326473288160051,
+      "sampleSize": 8946
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 497,
+    "data": {
+      "fittedAtMatchIndex": 8964,
+      "T": 0.95,
+      "ece": 0.0043570027062135724,
+      "sampleSize": 8964
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 498,
+    "data": {
+      "fittedAtMatchIndex": 8982,
+      "T": 0.95,
+      "ece": 0.0044416784263052265,
+      "sampleSize": 8982
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 499,
+    "data": {
+      "fittedAtMatchIndex": 9000,
+      "T": 0.95,
+      "ece": 0.00443682705053547,
+      "sampleSize": 9000
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 500,
+    "data": {
+      "fittedAtMatchIndex": 9018,
+      "T": 0.95,
+      "ece": 0.004472227618901081,
+      "sampleSize": 9018
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 501,
+    "data": {
+      "fittedAtMatchIndex": 9036,
+      "T": 0.95,
+      "ece": 0.004443135972064907,
+      "sampleSize": 9036
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 502,
+    "data": {
+      "fittedAtMatchIndex": 9054,
+      "T": 0.95,
+      "ece": 0.004583256107730741,
+      "sampleSize": 9054
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 503,
+    "data": {
+      "fittedAtMatchIndex": 9072,
+      "T": 0.95,
+      "ece": 0.004662199236058842,
+      "sampleSize": 9072
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 504,
+    "data": {
+      "fittedAtMatchIndex": 9090,
+      "T": 0.95,
+      "ece": 0.004707166254656017,
+      "sampleSize": 9090
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 505,
+    "data": {
+      "fittedAtMatchIndex": 9108,
+      "T": 0.95,
+      "ece": 0.004757713128262287,
+      "sampleSize": 9108
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 506,
+    "data": {
+      "fittedAtMatchIndex": 9126,
+      "T": 0.95,
+      "ece": 0.004654830730302883,
+      "sampleSize": 9126
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 507,
+    "data": {
+      "fittedAtMatchIndex": 9144,
+      "T": 0.95,
+      "ece": 0.0045846004984416355,
+      "sampleSize": 9144
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 508,
+    "data": {
+      "fittedAtMatchIndex": 9162,
+      "T": 0.95,
+      "ece": 0.004517292154295035,
+      "sampleSize": 9162
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 509,
+    "data": {
+      "fittedAtMatchIndex": 9180,
+      "T": 0.95,
+      "ece": 0.004480630813104464,
+      "sampleSize": 9180
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 510,
+    "data": {
+      "fittedAtMatchIndex": 9198,
+      "T": 0.95,
+      "ece": 0.004456652029760615,
+      "sampleSize": 9198
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 511,
+    "data": {
+      "fittedAtMatchIndex": 9216,
+      "T": 0.95,
+      "ece": 0.004625992031426421,
+      "sampleSize": 9216
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 512,
+    "data": {
+      "fittedAtMatchIndex": 9234,
+      "T": 0.95,
+      "ece": 0.004631862498919366,
+      "sampleSize": 9234
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 513,
+    "data": {
+      "fittedAtMatchIndex": 9252,
+      "T": 0.95,
+      "ece": 0.004716406450839487,
+      "sampleSize": 9252
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 514,
+    "data": {
+      "fittedAtMatchIndex": 9270,
+      "T": 0.95,
+      "ece": 0.004705774089804529,
+      "sampleSize": 9270
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 515,
+    "data": {
+      "fittedAtMatchIndex": 9288,
+      "T": 0.95,
+      "ece": 0.004822285835393289,
+      "sampleSize": 9288
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 516,
+    "data": {
+      "fittedAtMatchIndex": 9306,
+      "T": 0.95,
+      "ece": 0.00484538773875202,
+      "sampleSize": 9306
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 517,
+    "data": {
+      "fittedAtMatchIndex": 9324,
+      "T": 0.95,
+      "ece": 0.005064745897298481,
+      "sampleSize": 9324
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 518,
+    "data": {
+      "fittedAtMatchIndex": 9342,
+      "T": 0.95,
+      "ece": 0.005193720025657764,
+      "sampleSize": 9342
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 519,
+    "data": {
+      "fittedAtMatchIndex": 9360,
+      "T": 0.95,
+      "ece": 0.005196671931993472,
+      "sampleSize": 9360
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 520,
+    "data": {
+      "fittedAtMatchIndex": 9378,
+      "T": 0.95,
+      "ece": 0.0051943766135586255,
+      "sampleSize": 9378
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 521,
+    "data": {
+      "fittedAtMatchIndex": 9396,
+      "T": 0.95,
+      "ece": 0.005480217234333037,
+      "sampleSize": 9396
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 522,
+    "data": {
+      "fittedAtMatchIndex": 9414,
+      "T": 0.95,
+      "ece": 0.005461683882123793,
+      "sampleSize": 9414
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 523,
+    "data": {
+      "fittedAtMatchIndex": 9432,
+      "T": 0.95,
+      "ece": 0.005353796377324076,
+      "sampleSize": 9432
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 524,
+    "data": {
+      "fittedAtMatchIndex": 9450,
+      "T": 0.95,
+      "ece": 0.005433952951996255,
+      "sampleSize": 9450
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 525,
+    "data": {
+      "fittedAtMatchIndex": 9468,
+      "T": 0.95,
+      "ece": 0.005385534607511174,
+      "sampleSize": 9468
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 526,
+    "data": {
+      "fittedAtMatchIndex": 9486,
+      "T": 0.95,
+      "ece": 0.005475483695765408,
+      "sampleSize": 9486
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 527,
+    "data": {
+      "fittedAtMatchIndex": 9504,
+      "T": 0.95,
+      "ece": 0.005425305073259637,
+      "sampleSize": 9504
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 528,
+    "data": {
+      "fittedAtMatchIndex": 9522,
+      "T": 0.95,
+      "ece": 0.005360023080912696,
+      "sampleSize": 9522
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 529,
+    "data": {
+      "fittedAtMatchIndex": 9540,
+      "T": 0.95,
+      "ece": 0.005280010317738447,
+      "sampleSize": 9540
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 530,
+    "data": {
+      "fittedAtMatchIndex": 9558,
+      "T": 0.95,
+      "ece": 0.0053714556158095065,
+      "sampleSize": 9558
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 531,
+    "data": {
+      "fittedAtMatchIndex": 9576,
+      "T": 0.95,
+      "ece": 0.00512109609197987,
+      "sampleSize": 9576
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 532,
+    "data": {
+      "fittedAtMatchIndex": 9594,
+      "T": 0.95,
+      "ece": 0.0052500248794616605,
+      "sampleSize": 9594
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 533,
+    "data": {
+      "fittedAtMatchIndex": 9612,
+      "T": 0.95,
+      "ece": 0.005086633028832352,
+      "sampleSize": 9612
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 534,
+    "data": {
+      "fittedAtMatchIndex": 9630,
+      "T": 0.95,
+      "ece": 0.005216751741866849,
+      "sampleSize": 9630
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 535,
+    "data": {
+      "fittedAtMatchIndex": 9648,
+      "T": 0.95,
+      "ece": 0.005378614128383054,
+      "sampleSize": 9648
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 536,
+    "data": {
+      "fittedAtMatchIndex": 9666,
+      "T": 0.95,
+      "ece": 0.005436184135294866,
+      "sampleSize": 9666
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 537,
+    "data": {
+      "fittedAtMatchIndex": 9684,
+      "T": 0.95,
+      "ece": 0.0054832569528798095,
+      "sampleSize": 9684
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 538,
+    "data": {
+      "fittedAtMatchIndex": 9702,
+      "T": 0.95,
+      "ece": 0.005523495302799107,
+      "sampleSize": 9702
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 539,
+    "data": {
+      "fittedAtMatchIndex": 9720,
+      "T": 0.95,
+      "ece": 0.00558294674902298,
+      "sampleSize": 9720
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 540,
+    "data": {
+      "fittedAtMatchIndex": 9738,
+      "T": 0.95,
+      "ece": 0.005506822305405857,
+      "sampleSize": 9738
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 541,
+    "data": {
+      "fittedAtMatchIndex": 9756,
+      "T": 0.95,
+      "ece": 0.005489458952239081,
+      "sampleSize": 9756
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 542,
+    "data": {
+      "fittedAtMatchIndex": 9774,
+      "T": 0.95,
+      "ece": 0.00535396907501044,
+      "sampleSize": 9774
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 543,
+    "data": {
+      "fittedAtMatchIndex": 9792,
+      "T": 0.95,
+      "ece": 0.005332960217409668,
+      "sampleSize": 9792
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 544,
+    "data": {
+      "fittedAtMatchIndex": 9810,
+      "T": 0.95,
+      "ece": 0.005545088519491854,
+      "sampleSize": 9810
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 545,
+    "data": {
+      "fittedAtMatchIndex": 9828,
+      "T": 0.95,
+      "ece": 0.005454340780700827,
+      "sampleSize": 9828
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 546,
+    "data": {
+      "fittedAtMatchIndex": 9846,
+      "T": 0.95,
+      "ece": 0.005529885210654308,
+      "sampleSize": 9846
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 547,
+    "data": {
+      "fittedAtMatchIndex": 9864,
+      "T": 0.95,
+      "ece": 0.005505035617242948,
+      "sampleSize": 9864
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 548,
+    "data": {
+      "fittedAtMatchIndex": 9882,
+      "T": 0.95,
+      "ece": 0.005302207712644236,
+      "sampleSize": 9882
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 549,
+    "data": {
+      "fittedAtMatchIndex": 9900,
+      "T": 0.95,
+      "ece": 0.005216854717225496,
+      "sampleSize": 9900
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 550,
+    "data": {
+      "fittedAtMatchIndex": 9918,
+      "T": 0.95,
+      "ece": 0.005181341193821861,
+      "sampleSize": 9918
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 551,
+    "data": {
+      "fittedAtMatchIndex": 9936,
+      "T": 0.95,
+      "ece": 0.005121094222927164,
+      "sampleSize": 9936
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 552,
+    "data": {
+      "fittedAtMatchIndex": 9954,
+      "T": 0.95,
+      "ece": 0.005278850187630725,
+      "sampleSize": 9954
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 553,
+    "data": {
+      "fittedAtMatchIndex": 9972,
+      "T": 0.95,
+      "ece": 0.005199074631358591,
+      "sampleSize": 9972
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 554,
+    "data": {
+      "fittedAtMatchIndex": 9990,
+      "T": 0.95,
+      "ece": 0.0053120013028028394,
+      "sampleSize": 9990
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 555,
+    "data": {
+      "fittedAtMatchIndex": 10008,
+      "T": 0.95,
+      "ece": 0.005382054848509491,
+      "sampleSize": 10008
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 556,
+    "data": {
+      "fittedAtMatchIndex": 10026,
+      "T": 0.95,
+      "ece": 0.0053783479526566804,
+      "sampleSize": 10026
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 557,
+    "data": {
+      "fittedAtMatchIndex": 10044,
+      "T": 0.95,
+      "ece": 0.005558232239189352,
+      "sampleSize": 10044
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 558,
+    "data": {
+      "fittedAtMatchIndex": 10062,
+      "T": 0.95,
+      "ece": 0.005459771740642214,
+      "sampleSize": 10062
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 559,
+    "data": {
+      "fittedAtMatchIndex": 10080,
+      "T": 0.95,
+      "ece": 0.005331837734429529,
+      "sampleSize": 10080
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 560,
+    "data": {
+      "fittedAtMatchIndex": 10098,
+      "T": 0.95,
+      "ece": 0.005039891966056863,
+      "sampleSize": 10098
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 561,
+    "data": {
+      "fittedAtMatchIndex": 10116,
+      "T": 0.95,
+      "ece": 0.004974188310414389,
+      "sampleSize": 10116
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 562,
+    "data": {
+      "fittedAtMatchIndex": 10134,
+      "T": 0.95,
+      "ece": 0.004906915048666873,
+      "sampleSize": 10134
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 563,
+    "data": {
+      "fittedAtMatchIndex": 10152,
+      "T": 0.95,
+      "ece": 0.004889285567588254,
+      "sampleSize": 10152
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 564,
+    "data": {
+      "fittedAtMatchIndex": 10170,
+      "T": 0.95,
+      "ece": 0.004849550608633018,
+      "sampleSize": 10170
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 565,
+    "data": {
+      "fittedAtMatchIndex": 10188,
+      "T": 0.95,
+      "ece": 0.0049456859030320155,
+      "sampleSize": 10188
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 566,
+    "data": {
+      "fittedAtMatchIndex": 10206,
+      "T": 0.95,
+      "ece": 0.004957343691351375,
+      "sampleSize": 10206
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 567,
+    "data": {
+      "fittedAtMatchIndex": 10224,
+      "T": 0.95,
+      "ece": 0.004691260458861395,
+      "sampleSize": 10224
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 568,
+    "data": {
+      "fittedAtMatchIndex": 10242,
+      "T": 0.95,
+      "ece": 0.0045637638931225345,
+      "sampleSize": 10242
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 569,
+    "data": {
+      "fittedAtMatchIndex": 10260,
+      "T": 0.95,
+      "ece": 0.0044739344012491526,
+      "sampleSize": 10260
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 570,
+    "data": {
+      "fittedAtMatchIndex": 10278,
+      "T": 0.95,
+      "ece": 0.004399243531108504,
+      "sampleSize": 10278
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 571,
+    "data": {
+      "fittedAtMatchIndex": 10296,
+      "T": 0.95,
+      "ece": 0.004438676856325115,
+      "sampleSize": 10296
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 572,
+    "data": {
+      "fittedAtMatchIndex": 10314,
+      "T": 0.95,
+      "ece": 0.004570340049254037,
+      "sampleSize": 10314
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 573,
+    "data": {
+      "fittedAtMatchIndex": 10332,
+      "T": 0.95,
+      "ece": 0.004677929937553453,
+      "sampleSize": 10332
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 574,
+    "data": {
+      "fittedAtMatchIndex": 10350,
+      "T": 0.95,
+      "ece": 0.0048587167842680775,
+      "sampleSize": 10350
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 575,
+    "data": {
+      "fittedAtMatchIndex": 10368,
+      "T": 0.95,
+      "ece": 0.004694294643621672,
+      "sampleSize": 10368
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 576,
+    "data": {
+      "fittedAtMatchIndex": 10386,
+      "T": 0.95,
+      "ece": 0.004666621484062633,
+      "sampleSize": 10386
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 577,
+    "data": {
+      "fittedAtMatchIndex": 10404,
+      "T": 0.95,
+      "ece": 0.004736466752688893,
+      "sampleSize": 10404
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 578,
+    "data": {
+      "fittedAtMatchIndex": 10422,
+      "T": 0.95,
+      "ece": 0.004517007688566696,
+      "sampleSize": 10422
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 579,
+    "data": {
+      "fittedAtMatchIndex": 10440,
+      "T": 0.95,
+      "ece": 0.004421480645784821,
+      "sampleSize": 10440
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 580,
+    "data": {
+      "fittedAtMatchIndex": 10458,
+      "T": 0.95,
+      "ece": 0.004374004225449376,
+      "sampleSize": 10458
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 581,
+    "data": {
+      "fittedAtMatchIndex": 10476,
+      "T": 0.95,
+      "ece": 0.004190148421675545,
+      "sampleSize": 10476
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 582,
+    "data": {
+      "fittedAtMatchIndex": 10494,
+      "T": 0.95,
+      "ece": 0.004062680619921233,
+      "sampleSize": 10494
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 583,
+    "data": {
+      "fittedAtMatchIndex": 10512,
+      "T": 0.95,
+      "ece": 0.003871701751570767,
+      "sampleSize": 10512
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 584,
+    "data": {
+      "fittedAtMatchIndex": 10530,
+      "T": 0.95,
+      "ece": 0.003971492242061653,
+      "sampleSize": 10530
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 585,
+    "data": {
+      "fittedAtMatchIndex": 10548,
+      "T": 0.95,
+      "ece": 0.0041991563794114475,
+      "sampleSize": 10548
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 586,
+    "data": {
+      "fittedAtMatchIndex": 10566,
+      "T": 0.95,
+      "ece": 0.003956522280085811,
+      "sampleSize": 10566
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 587,
+    "data": {
+      "fittedAtMatchIndex": 10584,
+      "T": 0.95,
+      "ece": 0.003949911658901465,
+      "sampleSize": 10584
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 588,
+    "data": {
+      "fittedAtMatchIndex": 10602,
+      "T": 0.95,
+      "ece": 0.003994034787205625,
+      "sampleSize": 10602
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 589,
+    "data": {
+      "fittedAtMatchIndex": 10620,
+      "T": 0.95,
+      "ece": 0.004105464955180798,
+      "sampleSize": 10620
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 590,
+    "data": {
+      "fittedAtMatchIndex": 10638,
+      "T": 0.95,
+      "ece": 0.00411130614642712,
+      "sampleSize": 10638
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 591,
+    "data": {
+      "fittedAtMatchIndex": 10656,
+      "T": 0.95,
+      "ece": 0.004125934523167825,
+      "sampleSize": 10656
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 592,
+    "data": {
+      "fittedAtMatchIndex": 10674,
+      "T": 0.95,
+      "ece": 0.003995129937808771,
+      "sampleSize": 10674
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 593,
+    "data": {
+      "fittedAtMatchIndex": 10692,
+      "T": 0.95,
+      "ece": 0.0038130083919237986,
+      "sampleSize": 10692
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 594,
+    "data": {
+      "fittedAtMatchIndex": 10710,
+      "T": 0.95,
+      "ece": 0.0038810839908046376,
+      "sampleSize": 10710
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 595,
+    "data": {
+      "fittedAtMatchIndex": 10728,
+      "T": 0.95,
+      "ece": 0.003890541519887024,
+      "sampleSize": 10728
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 596,
+    "data": {
+      "fittedAtMatchIndex": 10746,
+      "T": 0.95,
+      "ece": 0.00397606002976322,
+      "sampleSize": 10746
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 597,
+    "data": {
+      "fittedAtMatchIndex": 10764,
+      "T": 0.95,
+      "ece": 0.004089274293982254,
+      "sampleSize": 10764
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 598,
+    "data": {
+      "fittedAtMatchIndex": 10782,
+      "T": 0.95,
+      "ece": 0.0040038849257405815,
+      "sampleSize": 10782
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 599,
+    "data": {
+      "fittedAtMatchIndex": 10800,
+      "T": 0.95,
+      "ece": 0.004078163873348169,
+      "sampleSize": 10800
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 600,
+    "data": {
+      "fittedAtMatchIndex": 10818,
+      "T": 0.95,
+      "ece": 0.004108940398025294,
+      "sampleSize": 10818
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 601,
+    "data": {
+      "fittedAtMatchIndex": 10836,
+      "T": 0.95,
+      "ece": 0.004214065471689744,
+      "sampleSize": 10836
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 602,
+    "data": {
+      "fittedAtMatchIndex": 10854,
+      "T": 0.95,
+      "ece": 0.004268457238158121,
+      "sampleSize": 10854
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 603,
+    "data": {
+      "fittedAtMatchIndex": 10872,
+      "T": 0.95,
+      "ece": 0.004333317834005418,
+      "sampleSize": 10872
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 604,
+    "data": {
+      "fittedAtMatchIndex": 10890,
+      "T": 0.95,
+      "ece": 0.00428168421726387,
+      "sampleSize": 10890
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 605,
+    "data": {
+      "fittedAtMatchIndex": 10908,
+      "T": 0.95,
+      "ece": 0.004231201585792506,
+      "sampleSize": 10908
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 606,
+    "data": {
+      "fittedAtMatchIndex": 10926,
+      "T": 0.95,
+      "ece": 0.004338556198630079,
+      "sampleSize": 10926
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 607,
+    "data": {
+      "fittedAtMatchIndex": 10944,
+      "T": 0.95,
+      "ece": 0.004457406254782062,
+      "sampleSize": 10944
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 608,
+    "data": {
+      "fittedAtMatchIndex": 10962,
+      "T": 0.95,
+      "ece": 0.004588817867458678,
+      "sampleSize": 10962
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 609,
+    "data": {
+      "fittedAtMatchIndex": 10980,
+      "T": 0.95,
+      "ece": 0.004551309070331259,
+      "sampleSize": 10980
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 610,
+    "data": {
+      "fittedAtMatchIndex": 10998,
+      "T": 0.95,
+      "ece": 0.004418644476510901,
+      "sampleSize": 10998
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 611,
+    "data": {
+      "fittedAtMatchIndex": 11016,
+      "T": 0.95,
+      "ece": 0.0043986982038621975,
+      "sampleSize": 11016
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 612,
+    "data": {
+      "fittedAtMatchIndex": 11034,
+      "T": 0.95,
+      "ece": 0.004491320542348546,
+      "sampleSize": 11034
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 613,
+    "data": {
+      "fittedAtMatchIndex": 11052,
+      "T": 0.95,
+      "ece": 0.004562413390250698,
+      "sampleSize": 11052
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 614,
+    "data": {
+      "fittedAtMatchIndex": 11070,
+      "T": 0.95,
+      "ece": 0.004478348055591998,
+      "sampleSize": 11070
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 615,
+    "data": {
+      "fittedAtMatchIndex": 11088,
+      "T": 0.95,
+      "ece": 0.0045576096554764915,
+      "sampleSize": 11088
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 616,
+    "data": {
+      "fittedAtMatchIndex": 11106,
+      "T": 0.95,
+      "ece": 0.004551812230059193,
+      "sampleSize": 11106
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 617,
+    "data": {
+      "fittedAtMatchIndex": 11124,
+      "T": 0.95,
+      "ece": 0.0044706276571853665,
+      "sampleSize": 11124
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 618,
+    "data": {
+      "fittedAtMatchIndex": 11142,
+      "T": 0.95,
+      "ece": 0.004487313863631772,
+      "sampleSize": 11142
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 619,
+    "data": {
+      "fittedAtMatchIndex": 11160,
+      "T": 0.95,
+      "ece": 0.004455243958498825,
+      "sampleSize": 11160
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 620,
+    "data": {
+      "fittedAtMatchIndex": 11178,
+      "T": 0.95,
+      "ece": 0.0046851248418804566,
+      "sampleSize": 11178
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 621,
+    "data": {
+      "fittedAtMatchIndex": 11196,
+      "T": 0.95,
+      "ece": 0.00478964628718102,
+      "sampleSize": 11196
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 622,
+    "data": {
+      "fittedAtMatchIndex": 11214,
+      "T": 0.95,
+      "ece": 0.004646692546893824,
+      "sampleSize": 11214
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 623,
+    "data": {
+      "fittedAtMatchIndex": 11232,
+      "T": 0.95,
+      "ece": 0.004601797471719407,
+      "sampleSize": 11232
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 624,
+    "data": {
+      "fittedAtMatchIndex": 11250,
+      "T": 0.95,
+      "ece": 0.004624523499920554,
+      "sampleSize": 11250
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 625,
+    "data": {
+      "fittedAtMatchIndex": 11268,
+      "T": 0.95,
+      "ece": 0.004582763177382446,
+      "sampleSize": 11268
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 626,
+    "data": {
+      "fittedAtMatchIndex": 11286,
+      "T": 0.95,
+      "ece": 0.004457068578515632,
+      "sampleSize": 11286
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 627,
+    "data": {
+      "fittedAtMatchIndex": 11304,
+      "T": 0.95,
+      "ece": 0.004450551381017306,
+      "sampleSize": 11304
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 628,
+    "data": {
+      "fittedAtMatchIndex": 11322,
+      "T": 0.95,
+      "ece": 0.004354722509458263,
+      "sampleSize": 11322
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 629,
+    "data": {
+      "fittedAtMatchIndex": 11340,
+      "T": 0.95,
+      "ece": 0.004372842785662988,
+      "sampleSize": 11340
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 630,
+    "data": {
+      "fittedAtMatchIndex": 11358,
+      "T": 0.95,
+      "ece": 0.004248930725787002,
+      "sampleSize": 11358
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 631,
+    "data": {
+      "fittedAtMatchIndex": 11376,
+      "T": 0.95,
+      "ece": 0.004363577203095521,
+      "sampleSize": 11376
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 632,
+    "data": {
+      "fittedAtMatchIndex": 11394,
+      "T": 0.95,
+      "ece": 0.004460686738590063,
+      "sampleSize": 11394
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 633,
+    "data": {
+      "fittedAtMatchIndex": 11412,
+      "T": 0.95,
+      "ece": 0.004364671141355995,
+      "sampleSize": 11412
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 634,
+    "data": {
+      "fittedAtMatchIndex": 11430,
+      "T": 0.95,
+      "ece": 0.0044281608445265975,
+      "sampleSize": 11430
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 635,
+    "data": {
+      "fittedAtMatchIndex": 11448,
+      "T": 0.95,
+      "ece": 0.004502884420593034,
+      "sampleSize": 11448
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 636,
+    "data": {
+      "fittedAtMatchIndex": 11466,
+      "T": 0.95,
+      "ece": 0.004482139593831098,
+      "sampleSize": 11466
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 637,
+    "data": {
+      "fittedAtMatchIndex": 11484,
+      "T": 0.95,
+      "ece": 0.004284633505514662,
+      "sampleSize": 11484
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 638,
+    "data": {
+      "fittedAtMatchIndex": 11502,
+      "T": 0.95,
+      "ece": 0.00438886564519565,
+      "sampleSize": 11502
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 639,
+    "data": {
+      "fittedAtMatchIndex": 11520,
+      "T": 0.95,
+      "ece": 0.004342384454613884,
+      "sampleSize": 11520
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 640,
+    "data": {
+      "fittedAtMatchIndex": 11538,
+      "T": 0.95,
+      "ece": 0.004380354182990141,
+      "sampleSize": 11538
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 641,
+    "data": {
+      "fittedAtMatchIndex": 11556,
+      "T": 0.95,
+      "ece": 0.004248644186529887,
+      "sampleSize": 11556
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 642,
+    "data": {
+      "fittedAtMatchIndex": 11574,
+      "T": 0.95,
+      "ece": 0.00411758939289552,
+      "sampleSize": 11574
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 643,
+    "data": {
+      "fittedAtMatchIndex": 11592,
+      "T": 0.95,
+      "ece": 0.0040522002860457745,
+      "sampleSize": 11592
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 644,
+    "data": {
+      "fittedAtMatchIndex": 11610,
+      "T": 0.95,
+      "ece": 0.004167826285079299,
+      "sampleSize": 11610
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 645,
+    "data": {
+      "fittedAtMatchIndex": 11628,
+      "T": 0.95,
+      "ece": 0.0040848066779185345,
+      "sampleSize": 11628
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 646,
+    "data": {
+      "fittedAtMatchIndex": 11646,
+      "T": 0.95,
+      "ece": 0.003982372198600076,
+      "sampleSize": 11646
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 647,
+    "data": {
+      "fittedAtMatchIndex": 11664,
+      "T": 0.95,
+      "ece": 0.0038772953622795534,
+      "sampleSize": 11664
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 648,
+    "data": {
+      "fittedAtMatchIndex": 11682,
+      "T": 0.95,
+      "ece": 0.003875648483618191,
+      "sampleSize": 11682
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 649,
+    "data": {
+      "fittedAtMatchIndex": 11700,
+      "T": 0.95,
+      "ece": 0.003902843513285599,
+      "sampleSize": 11700
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 650,
+    "data": {
+      "fittedAtMatchIndex": 11718,
+      "T": 0.95,
+      "ece": 0.0037498550368407846,
+      "sampleSize": 11718
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 651,
+    "data": {
+      "fittedAtMatchIndex": 11736,
+      "T": 1,
+      "ece": 0.005226406570625978,
+      "sampleSize": 11736
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 652,
+    "data": {
+      "fittedAtMatchIndex": 11754,
+      "T": 1,
+      "ece": 0.005022634512639898,
+      "sampleSize": 11754
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 653,
+    "data": {
+      "fittedAtMatchIndex": 11772,
+      "T": 1,
+      "ece": 0.005085059689464111,
+      "sampleSize": 11772
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 654,
+    "data": {
+      "fittedAtMatchIndex": 11790,
+      "T": 1,
+      "ece": 0.005022948246537057,
+      "sampleSize": 11790
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 655,
+    "data": {
+      "fittedAtMatchIndex": 11808,
+      "T": 1,
+      "ece": 0.005181731919180801,
+      "sampleSize": 11808
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 656,
+    "data": {
+      "fittedAtMatchIndex": 11826,
+      "T": 1,
+      "ece": 0.005302371870910834,
+      "sampleSize": 11826
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 657,
+    "data": {
+      "fittedAtMatchIndex": 11844,
+      "T": 1,
+      "ece": 0.005298990775434908,
+      "sampleSize": 11844
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 658,
+    "data": {
+      "fittedAtMatchIndex": 11862,
+      "T": 1,
+      "ece": 0.005110249716348464,
+      "sampleSize": 11862
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 659,
+    "data": {
+      "fittedAtMatchIndex": 11880,
+      "T": 1,
+      "ece": 0.005066811760020624,
+      "sampleSize": 11880
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 660,
+    "data": {
+      "fittedAtMatchIndex": 11898,
+      "T": 1,
+      "ece": 0.0049857898707154,
+      "sampleSize": 11898
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 661,
+    "data": {
+      "fittedAtMatchIndex": 11916,
+      "T": 1,
+      "ece": 0.004998992740578344,
+      "sampleSize": 11916
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 662,
+    "data": {
+      "fittedAtMatchIndex": 11934,
+      "T": 1,
+      "ece": 0.005084309477374593,
+      "sampleSize": 11934
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 663,
+    "data": {
+      "fittedAtMatchIndex": 11952,
+      "T": 1,
+      "ece": 0.004910677608789518,
+      "sampleSize": 11952
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 664,
+    "data": {
+      "fittedAtMatchIndex": 11970,
+      "T": 1,
+      "ece": 0.004814520925678477,
+      "sampleSize": 11970
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 665,
+    "data": {
+      "fittedAtMatchIndex": 11988,
+      "T": 1,
+      "ece": 0.004676698825541182,
+      "sampleSize": 11988
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 666,
+    "data": {
+      "fittedAtMatchIndex": 12006,
+      "T": 1,
+      "ece": 0.004927481484511019,
+      "sampleSize": 12006
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 667,
+    "data": {
+      "fittedAtMatchIndex": 12024,
+      "T": 1,
+      "ece": 0.004911165612937789,
+      "sampleSize": 12024
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 668,
+    "data": {
+      "fittedAtMatchIndex": 12042,
+      "T": 1,
+      "ece": 0.004957167235013087,
+      "sampleSize": 12042
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 669,
+    "data": {
+      "fittedAtMatchIndex": 12060,
+      "T": 1,
+      "ece": 0.005206274686967526,
+      "sampleSize": 12060
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 670,
+    "data": {
+      "fittedAtMatchIndex": 12078,
+      "T": 0.95,
+      "ece": 0.003509229382944266,
+      "sampleSize": 12078
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 671,
+    "data": {
+      "fittedAtMatchIndex": 12096,
+      "T": 1,
+      "ece": 0.005203730445737642,
+      "sampleSize": 12096
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 672,
+    "data": {
+      "fittedAtMatchIndex": 12114,
+      "T": 1,
+      "ece": 0.005156955069426645,
+      "sampleSize": 12114
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 673,
+    "data": {
+      "fittedAtMatchIndex": 12132,
+      "T": 0.95,
+      "ece": 0.0033359898004999187,
+      "sampleSize": 12132
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 674,
+    "data": {
+      "fittedAtMatchIndex": 12150,
+      "T": 0.95,
+      "ece": 0.003325100643888726,
+      "sampleSize": 12150
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 675,
+    "data": {
+      "fittedAtMatchIndex": 12168,
+      "T": 0.95,
+      "ece": 0.0034214768744370884,
+      "sampleSize": 12168
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 676,
+    "data": {
+      "fittedAtMatchIndex": 12186,
+      "T": 0.95,
+      "ece": 0.0036613323764249656,
+      "sampleSize": 12186
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 677,
+    "data": {
+      "fittedAtMatchIndex": 12204,
+      "T": 0.95,
+      "ece": 0.0036317153299671697,
+      "sampleSize": 12204
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 678,
+    "data": {
+      "fittedAtMatchIndex": 12222,
+      "T": 0.95,
+      "ece": 0.0035306631356613145,
+      "sampleSize": 12222
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 679,
+    "data": {
+      "fittedAtMatchIndex": 12240,
+      "T": 0.95,
+      "ece": 0.003328057465705293,
+      "sampleSize": 12240
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 680,
+    "data": {
+      "fittedAtMatchIndex": 12258,
+      "T": 0.95,
+      "ece": 0.0033017156604132495,
+      "sampleSize": 12258
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 681,
+    "data": {
+      "fittedAtMatchIndex": 12276,
+      "T": 0.95,
+      "ece": 0.003261048515654237,
+      "sampleSize": 12276
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 682,
+    "data": {
+      "fittedAtMatchIndex": 12294,
+      "T": 0.95,
+      "ece": 0.0032121472662806514,
+      "sampleSize": 12294
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 683,
+    "data": {
+      "fittedAtMatchIndex": 12312,
+      "T": 0.95,
+      "ece": 0.0031315165617175783,
+      "sampleSize": 12312
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 684,
+    "data": {
+      "fittedAtMatchIndex": 12330,
+      "T": 0.95,
+      "ece": 0.0029880530794690846,
+      "sampleSize": 12330
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 685,
+    "data": {
+      "fittedAtMatchIndex": 12348,
+      "T": 0.95,
+      "ece": 0.003013135900920831,
+      "sampleSize": 12348
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 686,
+    "data": {
+      "fittedAtMatchIndex": 12366,
+      "T": 0.95,
+      "ece": 0.0029793289475205076,
+      "sampleSize": 12366
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 687,
+    "data": {
+      "fittedAtMatchIndex": 12384,
+      "T": 0.95,
+      "ece": 0.003007971581521224,
+      "sampleSize": 12384
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 688,
+    "data": {
+      "fittedAtMatchIndex": 12402,
+      "T": 0.95,
+      "ece": 0.0028859059011231347,
+      "sampleSize": 12402
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 689,
+    "data": {
+      "fittedAtMatchIndex": 12420,
+      "T": 0.95,
+      "ece": 0.003268554197940506,
+      "sampleSize": 12420
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 690,
+    "data": {
+      "fittedAtMatchIndex": 12438,
+      "T": 0.95,
+      "ece": 0.0033229400656142358,
+      "sampleSize": 12438
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 691,
+    "data": {
+      "fittedAtMatchIndex": 12456,
+      "T": 0.95,
+      "ece": 0.00330925637673389,
+      "sampleSize": 12456
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 692,
+    "data": {
+      "fittedAtMatchIndex": 12474,
+      "T": 0.95,
+      "ece": 0.003234116293101713,
+      "sampleSize": 12474
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 693,
+    "data": {
+      "fittedAtMatchIndex": 12492,
+      "T": 0.95,
+      "ece": 0.003219495745871338,
+      "sampleSize": 12492
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 694,
+    "data": {
+      "fittedAtMatchIndex": 12510,
+      "T": 0.95,
+      "ece": 0.00313582286942442,
+      "sampleSize": 12510
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 695,
+    "data": {
+      "fittedAtMatchIndex": 12528,
+      "T": 0.95,
+      "ece": 0.003034337160555331,
+      "sampleSize": 12528
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 696,
+    "data": {
+      "fittedAtMatchIndex": 12546,
+      "T": 0.95,
+      "ece": 0.003003848006112427,
+      "sampleSize": 12546
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 697,
+    "data": {
+      "fittedAtMatchIndex": 12564,
+      "T": 0.95,
+      "ece": 0.002923522026460326,
+      "sampleSize": 12564
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 698,
+    "data": {
+      "fittedAtMatchIndex": 12582,
+      "T": 0.95,
+      "ece": 0.003072263659946469,
+      "sampleSize": 12582
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 699,
+    "data": {
+      "fittedAtMatchIndex": 12600,
+      "T": 0.95,
+      "ece": 0.0029734929537830173,
+      "sampleSize": 12600
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 700,
+    "data": {
+      "fittedAtMatchIndex": 12618,
+      "T": 0.95,
+      "ece": 0.0029896545994246727,
+      "sampleSize": 12618
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 701,
+    "data": {
+      "fittedAtMatchIndex": 12636,
+      "T": 0.95,
+      "ece": 0.0029761794999132616,
+      "sampleSize": 12636
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 702,
+    "data": {
+      "fittedAtMatchIndex": 12654,
+      "T": 0.95,
+      "ece": 0.002775450290141718,
+      "sampleSize": 12654
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 703,
+    "data": {
+      "fittedAtMatchIndex": 12672,
+      "T": 0.95,
+      "ece": 0.0027709589446892635,
+      "sampleSize": 12672
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 704,
+    "data": {
+      "fittedAtMatchIndex": 12690,
+      "T": 0.95,
+      "ece": 0.002753465315435254,
+      "sampleSize": 12690
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 705,
+    "data": {
+      "fittedAtMatchIndex": 12708,
+      "T": 0.95,
+      "ece": 0.0028700400748083543,
+      "sampleSize": 12708
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 706,
+    "data": {
+      "fittedAtMatchIndex": 12726,
+      "T": 0.95,
+      "ece": 0.002805509966458272,
+      "sampleSize": 12726
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 707,
+    "data": {
+      "fittedAtMatchIndex": 12744,
+      "T": 0.95,
+      "ece": 0.0029251266018246874,
+      "sampleSize": 12744
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 708,
+    "data": {
+      "fittedAtMatchIndex": 12762,
+      "T": 0.95,
+      "ece": 0.002890894495779388,
+      "sampleSize": 12762
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 709,
+    "data": {
+      "fittedAtMatchIndex": 12780,
+      "T": 0.95,
+      "ece": 0.002895335649302965,
+      "sampleSize": 12780
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 710,
+    "data": {
+      "fittedAtMatchIndex": 12798,
+      "T": 0.95,
+      "ece": 0.00288110680430846,
+      "sampleSize": 12798
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 711,
+    "data": {
+      "fittedAtMatchIndex": 12816,
+      "T": 0.95,
+      "ece": 0.0027236026788552145,
+      "sampleSize": 12816
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 712,
+    "data": {
+      "fittedAtMatchIndex": 12834,
+      "T": 0.95,
+      "ece": 0.00263759809824483,
+      "sampleSize": 12834
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 713,
+    "data": {
+      "fittedAtMatchIndex": 12852,
+      "T": 0.95,
+      "ece": 0.0027794660686918824,
+      "sampleSize": 12852
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 714,
+    "data": {
+      "fittedAtMatchIndex": 12870,
+      "T": 0.95,
+      "ece": 0.0027955402315533876,
+      "sampleSize": 12870
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 715,
+    "data": {
+      "fittedAtMatchIndex": 12888,
+      "T": 0.95,
+      "ece": 0.002927573954752202,
+      "sampleSize": 12888
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 716,
+    "data": {
+      "fittedAtMatchIndex": 12906,
+      "T": 0.95,
+      "ece": 0.0029332692875442164,
+      "sampleSize": 12906
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 717,
+    "data": {
+      "fittedAtMatchIndex": 12924,
+      "T": 0.95,
+      "ece": 0.0029359740564928183,
+      "sampleSize": 12924
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 718,
+    "data": {
+      "fittedAtMatchIndex": 12942,
+      "T": 0.95,
+      "ece": 0.003103305941300378,
+      "sampleSize": 12942
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 719,
+    "data": {
+      "fittedAtMatchIndex": 12960,
+      "T": 0.95,
+      "ece": 0.0030302876326233027,
+      "sampleSize": 12960
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 720,
+    "data": {
+      "fittedAtMatchIndex": 12978,
+      "T": 0.95,
+      "ece": 0.003111833015594343,
+      "sampleSize": 12978
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 721,
+    "data": {
+      "fittedAtMatchIndex": 12996,
+      "T": 0.95,
+      "ece": 0.0031730854678520093,
+      "sampleSize": 12996
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 722,
+    "data": {
+      "fittedAtMatchIndex": 13014,
+      "T": 0.95,
+      "ece": 0.003281000438477699,
+      "sampleSize": 13014
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 723,
+    "data": {
+      "fittedAtMatchIndex": 13032,
+      "T": 0.95,
+      "ece": 0.0033061165345368887,
+      "sampleSize": 13032
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 724,
+    "data": {
+      "fittedAtMatchIndex": 13050,
+      "T": 0.95,
+      "ece": 0.0035175679217269995,
+      "sampleSize": 13050
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 725,
+    "data": {
+      "fittedAtMatchIndex": 13068,
+      "T": 0.95,
+      "ece": 0.0036516676609462716,
+      "sampleSize": 13068
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 726,
+    "data": {
+      "fittedAtMatchIndex": 13086,
+      "T": 0.95,
+      "ece": 0.00367134084498829,
+      "sampleSize": 13086
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 727,
+    "data": {
+      "fittedAtMatchIndex": 13104,
+      "T": 0.95,
+      "ece": 0.0034976341287651,
+      "sampleSize": 13104
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 728,
+    "data": {
+      "fittedAtMatchIndex": 13122,
+      "T": 0.95,
+      "ece": 0.003311473908643818,
+      "sampleSize": 13122
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 729,
+    "data": {
+      "fittedAtMatchIndex": 13140,
+      "T": 0.95,
+      "ece": 0.003332565438861131,
+      "sampleSize": 13140
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 730,
+    "data": {
+      "fittedAtMatchIndex": 13158,
+      "T": 0.95,
+      "ece": 0.0032069661051580397,
+      "sampleSize": 13158
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 731,
+    "data": {
+      "fittedAtMatchIndex": 13176,
+      "T": 0.95,
+      "ece": 0.003227006653278685,
+      "sampleSize": 13176
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 732,
+    "data": {
+      "fittedAtMatchIndex": 13194,
+      "T": 0.95,
+      "ece": 0.0033111317752080372,
+      "sampleSize": 13194
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 733,
+    "data": {
+      "fittedAtMatchIndex": 13212,
+      "T": 0.95,
+      "ece": 0.0035668786279240685,
+      "sampleSize": 13212
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 734,
+    "data": {
+      "fittedAtMatchIndex": 13230,
+      "T": 0.95,
+      "ece": 0.0035682491571162544,
+      "sampleSize": 13230
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 735,
+    "data": {
+      "fittedAtMatchIndex": 13248,
+      "T": 0.95,
+      "ece": 0.0036896875694711175,
+      "sampleSize": 13248
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 736,
+    "data": {
+      "fittedAtMatchIndex": 13266,
+      "T": 0.95,
+      "ece": 0.003604831876185416,
+      "sampleSize": 13266
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 737,
+    "data": {
+      "fittedAtMatchIndex": 13284,
+      "T": 0.95,
+      "ece": 0.00365843925222451,
+      "sampleSize": 13284
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 738,
+    "data": {
+      "fittedAtMatchIndex": 13302,
+      "T": 0.95,
+      "ece": 0.0035566019770619313,
+      "sampleSize": 13302
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 739,
+    "data": {
+      "fittedAtMatchIndex": 13320,
+      "T": 0.95,
+      "ece": 0.0035423515802963344,
+      "sampleSize": 13320
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 740,
+    "data": {
+      "fittedAtMatchIndex": 13338,
+      "T": 0.95,
+      "ece": 0.0037191998057644225,
+      "sampleSize": 13338
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 741,
+    "data": {
+      "fittedAtMatchIndex": 13356,
+      "T": 0.95,
+      "ece": 0.0036069972690186375,
+      "sampleSize": 13356
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 742,
+    "data": {
+      "fittedAtMatchIndex": 13374,
+      "T": 0.95,
+      "ece": 0.00369649603966284,
+      "sampleSize": 13374
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 743,
+    "data": {
+      "fittedAtMatchIndex": 13392,
+      "T": 0.95,
+      "ece": 0.003800343021175522,
+      "sampleSize": 13392
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 744,
+    "data": {
+      "fittedAtMatchIndex": 13410,
+      "T": 0.95,
+      "ece": 0.003715022821371919,
+      "sampleSize": 13410
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 745,
+    "data": {
+      "fittedAtMatchIndex": 13428,
+      "T": 0.95,
+      "ece": 0.0038570052836019784,
+      "sampleSize": 13428
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 746,
+    "data": {
+      "fittedAtMatchIndex": 13446,
+      "T": 0.95,
+      "ece": 0.0038953864271303726,
+      "sampleSize": 13446
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 747,
+    "data": {
+      "fittedAtMatchIndex": 13464,
+      "T": 0.95,
+      "ece": 0.003883208433640519,
+      "sampleSize": 13464
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 748,
+    "data": {
+      "fittedAtMatchIndex": 13482,
+      "T": 0.95,
+      "ece": 0.003706682745387998,
+      "sampleSize": 13482
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 749,
+    "data": {
+      "fittedAtMatchIndex": 13500,
+      "T": 0.95,
+      "ece": 0.003661420329290849,
+      "sampleSize": 13500
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 750,
+    "data": {
+      "fittedAtMatchIndex": 13518,
+      "T": 0.95,
+      "ece": 0.003763339297959511,
+      "sampleSize": 13518
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 751,
+    "data": {
+      "fittedAtMatchIndex": 13536,
+      "T": 0.95,
+      "ece": 0.0037172164607217725,
+      "sampleSize": 13536
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 752,
+    "data": {
+      "fittedAtMatchIndex": 13554,
+      "T": 0.95,
+      "ece": 0.003705258113553976,
+      "sampleSize": 13554
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 753,
+    "data": {
+      "fittedAtMatchIndex": 13572,
+      "T": 0.95,
+      "ece": 0.0037943007280611916,
+      "sampleSize": 13572
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 754,
+    "data": {
+      "fittedAtMatchIndex": 13590,
+      "T": 0.95,
+      "ece": 0.0037886026470589605,
+      "sampleSize": 13590
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 755,
+    "data": {
+      "fittedAtMatchIndex": 13608,
+      "T": 0.95,
+      "ece": 0.0036872445509277844,
+      "sampleSize": 13608
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 756,
+    "data": {
+      "fittedAtMatchIndex": 13626,
+      "T": 0.95,
+      "ece": 0.0037263641400169713,
+      "sampleSize": 13626
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 757,
+    "data": {
+      "fittedAtMatchIndex": 13644,
+      "T": 0.95,
+      "ece": 0.0036771647999319225,
+      "sampleSize": 13644
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 758,
+    "data": {
+      "fittedAtMatchIndex": 13662,
+      "T": 0.95,
+      "ece": 0.003733936670062574,
+      "sampleSize": 13662
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 759,
+    "data": {
+      "fittedAtMatchIndex": 13680,
+      "T": 0.95,
+      "ece": 0.0035124660422705964,
+      "sampleSize": 13680
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 760,
+    "data": {
+      "fittedAtMatchIndex": 13698,
+      "T": 0.95,
+      "ece": 0.003348819104693219,
+      "sampleSize": 13698
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 761,
+    "data": {
+      "fittedAtMatchIndex": 13716,
+      "T": 0.95,
+      "ece": 0.0034142691455565136,
+      "sampleSize": 13716
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 762,
+    "data": {
+      "fittedAtMatchIndex": 13734,
+      "T": 0.95,
+      "ece": 0.0034590832046597414,
+      "sampleSize": 13734
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 763,
+    "data": {
+      "fittedAtMatchIndex": 13752,
+      "T": 0.95,
+      "ece": 0.0033190880221547177,
+      "sampleSize": 13752
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 764,
+    "data": {
+      "fittedAtMatchIndex": 13770,
+      "T": 0.95,
+      "ece": 0.0033224802657667207,
+      "sampleSize": 13770
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 765,
+    "data": {
+      "fittedAtMatchIndex": 13788,
+      "T": 0.95,
+      "ece": 0.003434588472756915,
+      "sampleSize": 13788
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 766,
+    "data": {
+      "fittedAtMatchIndex": 13806,
+      "T": 0.95,
+      "ece": 0.0034161763207521457,
+      "sampleSize": 13806
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 767,
+    "data": {
+      "fittedAtMatchIndex": 13824,
+      "T": 0.95,
+      "ece": 0.0033169212548525627,
+      "sampleSize": 13824
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 768,
+    "data": {
+      "fittedAtMatchIndex": 13842,
+      "T": 0.95,
+      "ece": 0.0033929504980176996,
+      "sampleSize": 13842
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 769,
+    "data": {
+      "fittedAtMatchIndex": 13860,
+      "T": 0.95,
+      "ece": 0.0033499511590023103,
+      "sampleSize": 13860
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 770,
+    "data": {
+      "fittedAtMatchIndex": 13878,
+      "T": 0.95,
+      "ece": 0.003437826501152515,
+      "sampleSize": 13878
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 771,
+    "data": {
+      "fittedAtMatchIndex": 13896,
+      "T": 0.95,
+      "ece": 0.003380493048194118,
+      "sampleSize": 13896
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 772,
+    "data": {
+      "fittedAtMatchIndex": 13914,
+      "T": 0.95,
+      "ece": 0.0035137898128271066,
+      "sampleSize": 13914
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 773,
+    "data": {
+      "fittedAtMatchIndex": 13932,
+      "T": 0.95,
+      "ece": 0.0034551072677283003,
+      "sampleSize": 13932
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 774,
+    "data": {
+      "fittedAtMatchIndex": 13950,
+      "T": 0.95,
+      "ece": 0.0033065602302565175,
+      "sampleSize": 13950
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 775,
+    "data": {
+      "fittedAtMatchIndex": 13968,
+      "T": 0.95,
+      "ece": 0.0032063315100760307,
+      "sampleSize": 13968
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 776,
+    "data": {
+      "fittedAtMatchIndex": 13986,
+      "T": 0.95,
+      "ece": 0.003150605075913518,
+      "sampleSize": 13986
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 777,
+    "data": {
+      "fittedAtMatchIndex": 14004,
+      "T": 0.95,
+      "ece": 0.003137918122603653,
+      "sampleSize": 14004
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 778,
+    "data": {
+      "fittedAtMatchIndex": 14022,
+      "T": 0.95,
+      "ece": 0.0030911976884304424,
+      "sampleSize": 14022
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 779,
+    "data": {
+      "fittedAtMatchIndex": 14040,
+      "T": 0.95,
+      "ece": 0.0030539585943361864,
+      "sampleSize": 14040
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 780,
+    "data": {
+      "fittedAtMatchIndex": 14058,
+      "T": 0.95,
+      "ece": 0.0030977362528507926,
+      "sampleSize": 14058
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 781,
+    "data": {
+      "fittedAtMatchIndex": 14076,
+      "T": 0.95,
+      "ece": 0.0030227030212935184,
+      "sampleSize": 14076
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 782,
+    "data": {
+      "fittedAtMatchIndex": 14094,
+      "T": 0.95,
+      "ece": 0.0031068610817934737,
+      "sampleSize": 14094
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 783,
+    "data": {
+      "fittedAtMatchIndex": 14112,
+      "T": 0.95,
+      "ece": 0.0030562534974928773,
+      "sampleSize": 14112
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 784,
+    "data": {
+      "fittedAtMatchIndex": 14130,
+      "T": 0.95,
+      "ece": 0.0029527745096639833,
+      "sampleSize": 14130
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 785,
+    "data": {
+      "fittedAtMatchIndex": 14148,
+      "T": 0.95,
+      "ece": 0.0028636727122349436,
+      "sampleSize": 14148
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 786,
+    "data": {
+      "fittedAtMatchIndex": 14166,
+      "T": 0.95,
+      "ece": 0.0028160246438150476,
+      "sampleSize": 14166
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 787,
+    "data": {
+      "fittedAtMatchIndex": 14184,
+      "T": 0.95,
+      "ece": 0.002881263898303468,
+      "sampleSize": 14184
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 788,
+    "data": {
+      "fittedAtMatchIndex": 14202,
+      "T": 0.95,
+      "ece": 0.00282413572973776,
+      "sampleSize": 14202
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 789,
+    "data": {
+      "fittedAtMatchIndex": 14220,
+      "T": 0.95,
+      "ece": 0.00260112892903388,
+      "sampleSize": 14220
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 790,
+    "data": {
+      "fittedAtMatchIndex": 14238,
+      "T": 0.95,
+      "ece": 0.002554413031245183,
+      "sampleSize": 14238
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 791,
+    "data": {
+      "fittedAtMatchIndex": 14256,
+      "T": 0.95,
+      "ece": 0.0026029686882362846,
+      "sampleSize": 14256
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 792,
+    "data": {
+      "fittedAtMatchIndex": 14274,
+      "T": 0.95,
+      "ece": 0.0025294831849866427,
+      "sampleSize": 14274
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 793,
+    "data": {
+      "fittedAtMatchIndex": 14292,
+      "T": 0.95,
+      "ece": 0.0023878185973172463,
+      "sampleSize": 14292
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 794,
+    "data": {
+      "fittedAtMatchIndex": 14310,
+      "T": 0.95,
+      "ece": 0.0022543094970917535,
+      "sampleSize": 14310
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 795,
+    "data": {
+      "fittedAtMatchIndex": 14328,
+      "T": 0.95,
+      "ece": 0.002331768614256425,
+      "sampleSize": 14328
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 796,
+    "data": {
+      "fittedAtMatchIndex": 14346,
+      "T": 0.95,
+      "ece": 0.002369942007192342,
+      "sampleSize": 14346
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 797,
+    "data": {
+      "fittedAtMatchIndex": 14364,
+      "T": 0.95,
+      "ece": 0.0023893173913032083,
+      "sampleSize": 14364
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 798,
+    "data": {
+      "fittedAtMatchIndex": 14382,
+      "T": 0.95,
+      "ece": 0.0023887744405629843,
+      "sampleSize": 14382
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 799,
+    "data": {
+      "fittedAtMatchIndex": 14400,
+      "T": 0.95,
+      "ece": 0.002440669442562948,
+      "sampleSize": 14400
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 800,
+    "data": {
+      "fittedAtMatchIndex": 14418,
+      "T": 0.95,
+      "ece": 0.0024170651953909646,
+      "sampleSize": 14418
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 801,
+    "data": {
+      "fittedAtMatchIndex": 14436,
+      "T": 0.95,
+      "ece": 0.0023469684082713903,
+      "sampleSize": 14436
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 802,
+    "data": {
+      "fittedAtMatchIndex": 14454,
+      "T": 0.95,
+      "ece": 0.0022315648079042293,
+      "sampleSize": 14454
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 803,
+    "data": {
+      "fittedAtMatchIndex": 14472,
+      "T": 0.95,
+      "ece": 0.0022448355726268124,
+      "sampleSize": 14472
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 804,
+    "data": {
+      "fittedAtMatchIndex": 14490,
+      "T": 0.95,
+      "ece": 0.00222739112548707,
+      "sampleSize": 14490
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 805,
+    "data": {
+      "fittedAtMatchIndex": 14508,
+      "T": 0.95,
+      "ece": 0.0021463008722077564,
+      "sampleSize": 14508
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 806,
+    "data": {
+      "fittedAtMatchIndex": 14526,
+      "T": 0.95,
+      "ece": 0.0020691024297200497,
+      "sampleSize": 14526
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 807,
+    "data": {
+      "fittedAtMatchIndex": 14544,
+      "T": 0.95,
+      "ece": 0.002162403098376992,
+      "sampleSize": 14544
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 808,
+    "data": {
+      "fittedAtMatchIndex": 14562,
+      "T": 0.95,
+      "ece": 0.0021927102477268283,
+      "sampleSize": 14562
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 809,
+    "data": {
+      "fittedAtMatchIndex": 14580,
+      "T": 0.95,
+      "ece": 0.0021761811046498974,
+      "sampleSize": 14580
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 810,
+    "data": {
+      "fittedAtMatchIndex": 14598,
+      "T": 0.95,
+      "ece": 0.002181141513531101,
+      "sampleSize": 14598
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 811,
+    "data": {
+      "fittedAtMatchIndex": 14616,
+      "T": 0.95,
+      "ece": 0.002151632681379781,
+      "sampleSize": 14616
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 812,
+    "data": {
+      "fittedAtMatchIndex": 14634,
+      "T": 0.95,
+      "ece": 0.002228356434786906,
+      "sampleSize": 14634
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 813,
+    "data": {
+      "fittedAtMatchIndex": 14652,
+      "T": 0.95,
+      "ece": 0.002288441167942492,
+      "sampleSize": 14652
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 814,
+    "data": {
+      "fittedAtMatchIndex": 14670,
+      "T": 0.95,
+      "ece": 0.0023316641358883763,
+      "sampleSize": 14670
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 815,
+    "data": {
+      "fittedAtMatchIndex": 14688,
+      "T": 0.95,
+      "ece": 0.0023110945268490514,
+      "sampleSize": 14688
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 816,
+    "data": {
+      "fittedAtMatchIndex": 14706,
+      "T": 0.95,
+      "ece": 0.002302940913118555,
+      "sampleSize": 14706
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 817,
+    "data": {
+      "fittedAtMatchIndex": 14724,
+      "T": 0.95,
+      "ece": 0.002356096203148853,
+      "sampleSize": 14724
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 818,
+    "data": {
+      "fittedAtMatchIndex": 14742,
+      "T": 0.95,
+      "ece": 0.0024002159450252267,
+      "sampleSize": 14742
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 819,
+    "data": {
+      "fittedAtMatchIndex": 14760,
+      "T": 0.95,
+      "ece": 0.0023805534059428185,
+      "sampleSize": 14760
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 820,
+    "data": {
+      "fittedAtMatchIndex": 14778,
+      "T": 0.95,
+      "ece": 0.0023116116737812134,
+      "sampleSize": 14778
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 821,
+    "data": {
+      "fittedAtMatchIndex": 14796,
+      "T": 0.95,
+      "ece": 0.002452758511226689,
+      "sampleSize": 14796
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 822,
+    "data": {
+      "fittedAtMatchIndex": 14814,
+      "T": 0.95,
+      "ece": 0.002487071543508672,
+      "sampleSize": 14814
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 823,
+    "data": {
+      "fittedAtMatchIndex": 14832,
+      "T": 0.95,
+      "ece": 0.0023910837854976587,
+      "sampleSize": 14832
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 824,
+    "data": {
+      "fittedAtMatchIndex": 14850,
+      "T": 0.95,
+      "ece": 0.002166597714644074,
+      "sampleSize": 14850
+    }
+  },
+  {
+    "league": "angol",
+    "source_index": 825,
+    "data": {
+      "fittedAtMatchIndex": 14868,
+      "T": 0.95,
+      "ece": 0.0021137787292077295,
+      "sampleSize": 14868
+    }
+  }
+]

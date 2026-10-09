@@ -1,0 +1,290 @@
+[
+  {
+    "league": "angol",
+    "original_name": "Aston Oroszlán",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "aston oroszlan"
+    ],
+    "weight": 2.7
+  },
+  {
+    "league": "angol",
+    "original_name": "Brentford",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "brentford"
+    ],
+    "weight": 4.8
+  },
+  {
+    "league": "angol",
+    "original_name": "Brighton",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "brighton"
+    ],
+    "weight": 3
+  },
+  {
+    "league": "angol",
+    "original_name": "Chelsea",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "chelsea"
+    ],
+    "weight": 7
+  },
+  {
+    "league": "angol",
+    "original_name": "Crystal Palace",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "crystal palace"
+    ],
+    "weight": 3.4
+  },
+  {
+    "league": "angol",
+    "original_name": "Everton",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "everton"
+    ],
+    "weight": 6.3
+  },
+  {
+    "league": "angol",
+    "original_name": "Fulham",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "fulham"
+    ],
+    "weight": 4.4
+  },
+  {
+    "league": "angol",
+    "original_name": "Liverpool",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "liverpool"
+    ],
+    "weight": 7.4
+  },
+  {
+    "league": "angol",
+    "original_name": "London Ágyúk",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "london agyuk"
+    ],
+    "weight": 6.4
+  },
+  {
+    "league": "angol",
+    "original_name": "Manchester Kék",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "manchester kek"
+    ],
+    "weight": 7.6
+  },
+  {
+    "league": "angol",
+    "original_name": "Newcastle",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "newcastle"
+    ],
+    "weight": 4.4
+  },
+  {
+    "league": "angol",
+    "original_name": "Nottingham",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "nottingham"
+    ],
+    "weight": 2.6
+  },
+  {
+    "league": "angol",
+    "original_name": "Tottenham",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "tottenham"
+    ],
+    "weight": 6.2
+  },
+  {
+    "league": "angol",
+    "original_name": "Vörös Ördögök",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "voros ordogok"
+    ],
+    "weight": 6.9
+  },
+  {
+    "league": "angol",
+    "original_name": "West Ham",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "west ham"
+    ],
+    "weight": 3
+  },
+  {
+    "league": "angol",
+    "original_name": "Wolverhampton",
+    "appearances": 1860,
+    "matching_alias_keys": [
+      "wolverhampton"
+    ],
+    "weight": 4
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Alaves",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "alaves"
+    ],
+    "weight": 3.5
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Barcelona",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "barcelona"
+    ],
+    "weight": 7.4
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Bilbao",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "bilbao"
+    ],
+    "weight": 7
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Elche",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "elche"
+    ],
+    "weight": 2.5
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Getafe",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "getafe"
+    ],
+    "weight": 4.4
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Girona",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "girona"
+    ],
+    "weight": 4.1
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Madrid Fehér",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "madrid feher"
+    ],
+    "weight": 7.6
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Madrid Piros",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "madrid piros"
+    ],
+    "weight": 7.1
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Mallorca",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "mallorca"
+    ],
+    "weight": 2.8
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Osasuna",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "osasuna"
+    ],
+    "weight": 3
+  },
+  {
+    "league": "spanyol",
+    "original_name": "San Sebastian",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "san sebastian"
+    ],
+    "weight": 6.1
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Sevilla Piros",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "sevilla piros"
+    ],
+    "weight": 5.1
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Sevilla Zöld",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "sevilla zold"
+    ],
+    "weight": 4.2
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Valencia",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "valencia"
+    ],
+    "weight": 6.3
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Vigo",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "vigo"
+    ],
+    "weight": 2.8
+  },
+  {
+    "league": "spanyol",
+    "original_name": "Villarreal",
+    "appearances": 1230,
+    "matching_alias_keys": [
+      "villarreal"
+    ],
+    "weight": 6.1
+  }
+]
